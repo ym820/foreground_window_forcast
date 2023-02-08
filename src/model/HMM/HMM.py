@@ -4,12 +4,31 @@ from collections import defaultdict
 class HMM:
     def __init__(self) -> None:
         self.transition_matrix = defaultdict(defaultdict)
+        self.counts_matrix = defaultdict(int)
     
     def get_transition_matrix(self):
         """
         Return the transition matrix
         """
         return self.transition_matrix
+
+    def set_counts_matrix(self, X, y):
+        """
+        Return the counts matrix
+        """
+        counts_matrix = defaultdict(int)
+        for train_exe in X:
+            counts_matrix[train_exe] += 1
+        for test_exe in y:
+            counts_matrix[test_exe] += 1
+        self.counts_matrix = counts_matrix
+        return
+    
+    def get_counts_matrix(self):
+        """
+        Return the counts matrix
+        """
+        return self.counts_matrix
 
     def get_counts(self, exe):
         """
@@ -34,6 +53,7 @@ class HMM:
         self.unique_exe = self.X.unique()
         self.n = len(self.unique_exe)
         self.dummy = pd.Series(data=[0.0] * self.n, index=self.unique_exe)
+        self.set_counts_matrix(X, y)
 
         for exe in self.unique_exe:
             counts = self.get_counts(exe)
