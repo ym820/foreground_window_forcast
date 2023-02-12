@@ -22,7 +22,7 @@ As for the primary objective for our project, this task is to forecast the amoun
 cd src/model/LSTM
 python3 run.py
 ```
-### Required arguments
+### Arguments
 
 | Parameter                 | Default       | Description   |	
 | :------------------------ |:-------------:| :-------------|
@@ -34,7 +34,7 @@ python3 run.py
 | -ex  --experiment 	        | 1           | The experiment number
 
 ### Notes
-After running, there will be a folder created at `outputs` and named as "LSTM_`experiment`". Then, the parameters, trained model, Keras training history, loss plot, and prediction plot
+After running, there will be a folder created at `outputs` and named as "LSTM_`experiment`". Then, the parameters, trained model, Keras training history, loss plot, and prediction plot will be stored in the folder.
 
 ## Task 2: Next-App Prediction with Hidden Markov Model (HMM)
 In this task, our goal is to predict the next application the user will use based on the previous usage data.
@@ -43,7 +43,7 @@ In this task, our goal is to predict the next application the user will use base
 cd src/model/HMM
 python3 run.py
 ```
-### Required arguments
+### Arguments
 
 | Parameter                 | Default       | Description   |	
 | :------------------------ |:-------------:| :-------------|
@@ -54,4 +54,4 @@ python3 run.py
 | -ex  --experiment 	        | 1           | The experiment number
 
 ### Notes
-After running, there will be a folder created at `outputs` and named as "HMM_`experiment`". Then, the parameters, trained model, Keras training history, loss plot, and prediction plot
+After running, there will be a folder created at `outputs` and named as "HMM_`experiment`". Then, the parameters, transition matrix, model accuracy, and visualization will be stored in the folder.
