@@ -15,7 +15,7 @@ Using pip3
   # Install the dependencies
   pip3 install -r requirements.txt
   ```
-## Task 1: App Duration Prediction: Long Short-Term Memory (LSTM)
+## Task 1: App Duration Prediction with Long Short-Term Memory (LSTM)
 As for the primary objective for our project, this task is to forecast the amount of time (in seconds) an individual will spend on a specific application within a specific hour. 
 ### Run
 ```
@@ -34,4 +34,24 @@ python3 run.py
 | -ex  --experiment 	        | 1           | The experiment number
 
 ### Notes
-After running, there will be a folder created at `experiments` and named as the parameter "experiment". Then, the parameters, trained model, Keras training history, loss plot, and prediction plot
+After running, there will be a folder created at `outputs` and named as "LSTM_`experiment`". Then, the parameters, trained model, Keras training history, loss plot, and prediction plot
+
+## Task 2: Next-App Prediction with Hidden Markov Model (HMM)
+In this task, our goal is to predict the next application the user will use based on the previous usage data.
+### Run
+```
+cd src/model/HMM
+python3 run.py
+```
+### Required arguments
+
+| Parameter                 | Default       | Description   |	
+| :------------------------ |:-------------:| :-------------|
+| -r --raw_path	       |	   `../../../data/raw`     |The relative path to raw datasets
+| -e --exe_path          | `../../../data/processed/exe.csv`           |The relative path to the pre-processed dataset
+| -ts --test_size 	       |	0.2	            |Test set size (percentage of entire dataset)
+| -t --top  		       | 1	           | Number of executables to predict for each data point
+| -ex  --experiment 	        | 1           | The experiment number
+
+### Notes
+After running, there will be a folder created at `outputs` and named as "HMM_`experiment`". Then, the parameters, trained model, Keras training history, loss plot, and prediction plot
