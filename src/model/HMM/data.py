@@ -3,13 +3,15 @@ import math
 import random
 import os
 
-def clean_data(raw_path):
+def clean_data(raw_path, file_path):
     """
     Concatenate raw dataframes with <s> token indicating the start of the collection and save the series of executables into dataframe
 
     Parameters:
     raw_path (str): path of raw dataframes
     """
+    if os.path.isfile(file_path):
+        return pd.read_csv(file_path)
     exes = []
     start = pd.Series(['<s>'])
     for i in range(1, 30):
@@ -20,8 +22,8 @@ def clean_data(raw_path):
         df = df[df["ID_INPUT"] == 3]
         exes.append(pd.concat([start, df.VALUE]))
     output_exe = pd.concat(exes).reset_index(drop=True)
-    output_exe.to_csv('data/processed/exe.csv')
-    # return output_exe
+    output_exe.to_csv(file_path, index=False)
+    return output_exe
 
 def get_dataset(exe_path):
     """

@@ -1,6 +1,0 @@
-{
-    "top": 1,
-    "test_size": 0.2,
-    "raw_path": "data/raw",
-    "exe_path": "data/processed/exe.csv"
-}

@@ -1,42 +1,9 @@
-import os
-import sys
-import argparse
 import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
-# os.chdir('..')
-sys.path.append("./src/model/HMM")
-from HMM import HMM
-from data import train_test_split, get_dataset
-# print(sys.path)
-sys.path.remove("./src/model/HMM")
-# print(sys.path)
-# from .src.model.HMM.HMM import HMM
-# from .src.model.HMM.data import train_test_split, get_dataset
 
-if __name__ == "__main__":
-    # Parse arguments
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--file_path", help="relative path to the data file to be visualized")
-    args = parser.parse_args()
-    if args.file_path:
-        exe_path = args.file_path
-    else:
-        exe_path = 'data/processed/exe.csv'
 
-    # Get the path to the data file
-    os.chdir('..')
-    os.chdir('..')
-    os.chdir('..')
-    curr_dir = os.getcwd()
-    path = os.path.join(curr_dir, exe_path)
-    # print(curr_dir, path)
-
-    # Load the data
-    X, y = get_dataset(exe_path)
-    X_train, y_train, X_test, y_test = train_test_split(X, y)
-    model = HMM()
-    model.fit(X_train, y_train)
+def visualize(model, dir_path):
 
     # Get the counts matrix from the model and sort it by the counts
     cts = model.get_counts_matrix()
@@ -74,7 +41,7 @@ if __name__ == "__main__":
     plt.xlabel('Prior app')
     plt.ylabel('Next app')
     plt.tight_layout()
-    plt.savefig('frequent_app_prob.png')
+    plt.savefig(f'{dir_path}/frequent_app_prob.png')
 
     # Repeat the process for the ten highest posterio probability
     for exe2, probs in t.items():
@@ -106,6 +73,6 @@ if __name__ == "__main__":
     plt.tight_layout()
 
     # Save the graphs in outputs
-    plt.savefig('highest_prob.png')
+    plt.savefig(f'{dir_path}/highest_prob.png')
     
     print('Done')

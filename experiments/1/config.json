@@ -1,1 +1,0 @@
-{"exe_name": "firefox.exe", "lookback": 3, "epochs": 100, "learning_rate": 0.001, "loss": "mse", "experiment": 1}

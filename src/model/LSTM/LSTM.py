@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 import json
-from data import *
+from data import clean_dataset, get_dataset
 from tensorflow import keras
 from keras.layers import LSTM, Dense, Dropout, TimeDistributed
 import plotly.graph_objects as go
@@ -21,7 +21,7 @@ class LSTM_1:
     def __init__(self, args) -> None:
         self.args = args
         experiment = args['experiment']
-        self.dir_path = f'../../../experiments/{experiment}'
+        self.dir_path = f'../../../outputs/LSTM_{experiment}'
         if not os.path.exists(self.dir_path):
             os.mkdir(self.dir_path)
         with open(f'{self.dir_path}/config.json', 'w') as file:
