@@ -1,0 +1,1021 @@
+MEASUREMENT_TIME,ID_INPUT,VALUE,PRIVATE_DATA
+2022-12-21 23:16:47.215,2,Loading Microsoft Teams,0
+2022-12-21 23:16:47.215,3,Teams.exe,0
+2022-12-21 23:16:47.215,4,Chrome_WidgetWin_1,0
+2022-12-21 23:16:47.215,5,\DISPLAY1,0
+2022-12-21 23:17:07.672,2,FolderView,0
+2022-12-21 23:17:07.672,3,explorer.exe,0
+2022-12-21 23:17:07.672,4,SysListView32,0
+2022-12-21 23:17:07.672,5,\DISPLAY1,0
+2022-12-21 23:17:28.717,2,Riot Client Main,0
+2022-12-21 23:17:28.717,3,RiotClientUx.exe,0
+2022-12-21 23:17:28.717,4,RCLIENT,0
+2022-12-21 23:17:28.717,5,\DISPLAY1,0
+2022-12-21 23:32:38.033,2,Type here to search,0
+2022-12-21 23:32:38.033,3,explorer.exe,0
+2022-12-21 23:32:38.033,4,Button,0
+2022-12-21 23:32:38.033,5,\DISPLAY1,0
+2022-12-21 23:32:38.744,2,Search,0
+2022-12-21 23:32:38.744,3,SearchApp.exe,0
+2022-12-21 23:32:38.744,4,Windows.UI.Core.CoreWindow,0
+2022-12-21 23:32:38.744,5,\DISPLAY1,0
+2022-12-21 23:35:28.747,2,Camera,0
+2022-12-21 23:35:28.747,3,ApplicationFrameHost.exe,0
+2022-12-21 23:35:28.747,4,ApplicationFrameWindow,0
+2022-12-21 23:35:28.747,5,\DISPLAY1,0
+2022-12-21 23:35:30.657,2,Camera,0
+2022-12-21 23:35:30.657,3,WindowsCamera.exe,0
+2022-12-21 23:35:30.657,4,Windows.UI.Core.CoreWindow,0
+2022-12-21 23:35:30.657,5,\DISPLAY1,0
+2022-12-21 23:35:38.747,2,Camera,0
+2022-12-21 23:35:38.747,3,ApplicationFrameHost.exe,0
+2022-12-21 23:35:38.747,4,ApplicationFrameWindow,0
+2022-12-21 23:35:38.747,5,\DISPLAY1,0
+2022-12-21 23:42:06.329,2,Camera,0
+2022-12-21 23:42:06.329,3,WindowsCamera.exe,0
+2022-12-21 23:42:06.329,4,Windows.UI.Core.CoreWindow,0
+2022-12-21 23:42:06.329,5,\DISPLAY1,0
+2022-12-21 23:42:08.760,2,Camera,0
+2022-12-21 23:42:08.760,3,ApplicationFrameHost.exe,0
+2022-12-21 23:42:08.760,4,ApplicationFrameWindow,0
+2022-12-21 23:42:08.760,5,\DISPLAY1,0
+2022-12-21 23:44:08.768,2,foreground_window - Microsoft Visual Studio,0
+2022-12-21 23:44:08.768,3,devenv.exe,0
+2022-12-21 23:44:08.768,4,HwndWrapper[DefaultDomain;;80ca68a0-cdcd-43bd-8921-7a0a57e31946],0
+2022-12-21 23:44:08.768,5,\DISPLAY1,0
+2022-12-21 23:44:10.600,2,Running applications,0
+2022-12-21 23:44:10.600,3,explorer.exe,0
+2022-12-21 23:44:10.600,4,MSTaskListWClass,0
+2022-12-21 23:44:10.600,5,\DISPLAY1,0
+2022-12-21 23:44:12.489,2,,0
+2022-12-21 23:44:12.489,3,ApplicationFrameHost.exe,0
+2022-12-21 23:44:12.489,4,ApplicationFrameTitleBarWindow,0
+2022-12-21 23:44:12.489,5,\DISPLAY1,0
+2022-12-21 23:44:13.409,2,foreground_window - Microsoft Visual Studio,0
+2022-12-21 23:44:13.409,3,devenv.exe,0
+2022-12-21 23:44:13.409,4,HwndWrapper[DefaultDomain;;80ca68a0-cdcd-43bd-8921-7a0a57e31946],0
+2022-12-21 23:44:13.409,5,\DISPLAY1,0
+2022-12-21 23:44:15.531,2,,0
+2022-12-21 23:44:15.531,3,explorer.exe,0
+2022-12-21 23:44:15.531,4,DirectUIHWND,0
+2022-12-21 23:44:15.531,5,\DISPLAY1,0
+2022-12-21 23:44:28.763,2,Visual Studio Code,0
+2022-12-21 23:44:28.763,3,Code.exe,0
+2022-12-21 23:44:28.763,4,Chrome_WidgetWin_1,0
+2022-12-21 23:44:28.763,5,\DISPLAY1,0
+2022-12-21 23:44:45.319,2,Yet another have a window message loop input,0
+2022-12-21 23:44:45.319,3,explorer.exe,0
+2022-12-21 23:44:45.319,4,ToolbarWindow32,0
+2022-12-21 23:44:45.319,5,\DISPLAY1,0
+2022-12-21 23:44:48.764,2,XLSDK - Adobe Acrobat Reader (64-bit),0
+2022-12-21 23:44:48.764,3,Acrobat.exe,0
+2022-12-21 23:44:48.764,4,AcrobatSDIWindow,0
+2022-12-21 23:44:48.764,5,\DISPLAY1,0
+2022-12-21 23:45:02.190,2,docs,0
+2022-12-21 23:45:02.190,3,explorer.exe,0
+2022-12-21 23:45:02.190,4,CabinetWClass,0
+2022-12-21 23:45:02.190,5,\DISPLAY1,0
+2022-12-21 23:45:03.687,2,AVPageView,0
+2022-12-21 23:45:03.687,3,Acrobat.exe,0
+2022-12-21 23:45:03.687,4,AVL_AVView,0
+2022-12-21 23:45:03.687,5,\DISPLAY1,0
+2022-12-21 23:50:00.009,2,foreground_window - Microsoft Visual Studio,0
+2022-12-21 23:50:00.009,3,devenv.exe,0
+2022-12-21 23:50:00.009,4,HwndWrapper[DefaultDomain;;80ca68a0-cdcd-43bd-8921-7a0a57e31946],0
+2022-12-21 23:50:00.009,5,\DISPLAY1,0
+2022-12-21 23:58:53.113,2,Running applications,0
+2022-12-21 23:58:53.113,3,explorer.exe,0
+2022-12-21 23:58:53.113,4,MSTaskListWClass,0
+2022-12-21 23:58:53.113,5,\DISPLAY1,0
+2022-12-21 23:58:54.766,2,Chrome Legacy Window,0
+2022-12-21 23:58:54.766,3,Discord.exe,0
+2022-12-21 23:58:54.766,4,Chrome_RenderWidgetHostHWND,0
+2022-12-21 23:58:54.766,5,\DISPLAY1,0
+2022-12-21 23:59:04.650,2,ARAM | League of Legends Wiki | Fandom — Mozilla Firefox,0
+2022-12-21 23:59:04.650,3,firefox.exe,0
+2022-12-21 23:59:04.650,4,MozillaWindowClass,0
+2022-12-21 23:59:04.650,5,\DISPLAY1,0
+2022-12-21 23:59:11.720,2,PropertyGridView,0
+2022-12-21 23:59:11.720,3,devenv.exe,0
+2022-12-21 23:59:11.720,4,WindowsForms10.Window.8.app.0.146d313_r44_ad1,0
+2022-12-21 23:59:11.720,5,\DISPLAY1,0
+2022-12-21 23:59:12.765,2,Roundabout (2008 Remaster) - YouTube — Mozilla Firefox,0
+2022-12-21 23:59:12.765,3,firefox.exe,0
+2022-12-21 23:59:12.765,4,MozillaWindowClass,0
+2022-12-21 23:59:12.765,5,\DISPLAY1,0
+2022-12-21 23:59:15.908,2,Running applications,0
+2022-12-21 23:59:15.908,3,explorer.exe,0
+2022-12-21 23:59:15.908,4,MSTaskListWClass,0
+2022-12-21 23:59:15.908,5,\DISPLAY1,0
+2022-12-21 23:59:18.797,2,Camera,0
+2022-12-21 23:59:18.797,3,ApplicationFrameHost.exe,0
+2022-12-21 23:59:18.797,4,ApplicationFrameWindow,0
+2022-12-21 23:59:18.797,5,\DISPLAY1,0
+2022-12-21 23:59:34.628,2,Chrome Legacy Window,0
+2022-12-21 23:59:34.628,3,Discord.exe,0
+2022-12-21 23:59:34.628,4,Chrome_RenderWidgetHostHWND,0
+2022-12-21 23:59:34.628,5,\DISPLAY1,0
+2022-12-21 23:59:40.547,2,(97) Roundabout (2008 Remaster) - YouTube — Mozilla Firefox,0
+2022-12-21 23:59:40.547,3,firefox.exe,0
+2022-12-21 23:59:40.547,4,MozillaWindowClass,0
+2022-12-21 23:59:40.547,5,\DISPLAY1,0
+2022-12-21 23:59:44.452,2,Chrome Legacy Window,0
+2022-12-21 23:59:44.452,3,Discord.exe,0
+2022-12-21 23:59:44.452,4,Chrome_RenderWidgetHostHWND,0
+2022-12-21 23:59:44.452,5,\DISPLAY1,0
+2022-12-21 23:59:47.661,2,linkedin premium - Google Search — Mozilla Firefox,0
+2022-12-21 23:59:47.661,3,firefox.exe,0
+2022-12-21 23:59:47.661,4,MozillaWindowClass,0
+2022-12-21 23:59:47.661,5,\DISPLAY1,0
+2022-12-21 23:59:48.895,2,Chrome Legacy Window,0
+2022-12-21 23:59:48.895,3,Discord.exe,0
+2022-12-21 23:59:48.895,4,Chrome_RenderWidgetHostHWND,0
+2022-12-21 23:59:48.895,5,\DISPLAY1,0
+2022-12-22 00:00:20.100,2,Welcome to LinkedIn Premium — Mozilla Firefox,0
+2022-12-22 00:00:20.100,3,firefox.exe,0
+2022-12-22 00:00:20.100,4,MozillaWindowClass,0
+2022-12-22 00:00:20.100,5,\DISPLAY1,0
+2022-12-22 00:00:34.855,2,Chrome Legacy Window,0
+2022-12-22 00:00:34.855,3,Discord.exe,0
+2022-12-22 00:00:34.855,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:00:34.855,5,\DISPLAY1,0
+2022-12-22 00:00:41.399,2,foreground_window - Microsoft Visual Studio,0
+2022-12-22 00:00:41.399,3,devenv.exe,0
+2022-12-22 00:00:41.399,4,HwndWrapper[DefaultDomain;;80ca68a0-cdcd-43bd-8921-7a0a57e31946],0
+2022-12-22 00:00:41.399,5,\DISPLAY1,0
+2022-12-22 00:00:43.256,2,AVPageView,0
+2022-12-22 00:00:43.256,3,Acrobat.exe,0
+2022-12-22 00:00:43.256,4,AVL_AVView,0
+2022-12-22 00:00:43.256,5,\DISPLAY1,0
+2022-12-22 00:00:50.649,2,foreground_window - Microsoft Visual Studio,0
+2022-12-22 00:00:50.649,3,devenv.exe,0
+2022-12-22 00:00:50.649,4,HwndWrapper[DefaultDomain;;80ca68a0-cdcd-43bd-8921-7a0a57e31946],0
+2022-12-22 00:00:50.649,5,\DISPLAY1,0
+2022-12-22 00:02:41.704,2,Chrome Legacy Window,0
+2022-12-22 00:02:41.704,3,Discord.exe,0
+2022-12-22 00:02:41.704,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:02:41.704,5,\DISPLAY1,0
+2022-12-22 00:02:45.779,2,Running applications,0
+2022-12-22 00:02:45.779,3,explorer.exe,0
+2022-12-22 00:02:45.779,4,MSTaskListWClass,0
+2022-12-22 00:02:45.779,5,\DISPLAY1,0
+2022-12-22 00:02:46.971,2,My Drive - Google Drive — Mozilla Firefox,0
+2022-12-22 00:02:46.971,3,firefox.exe,0
+2022-12-22 00:02:46.971,4,MozillaWindowClass,0
+2022-12-22 00:02:46.971,5,\DISPLAY1,0
+2022-12-22 00:02:49.184,2,AVPageView,0
+2022-12-22 00:02:49.184,3,Acrobat.exe,0
+2022-12-22 00:02:49.184,4,AVL_AVView,0
+2022-12-22 00:02:49.184,5,\DISPLAY1,0
+2022-12-22 00:02:50.225,2,foreground_window - Microsoft Visual Studio,0
+2022-12-22 00:02:50.225,3,devenv.exe,0
+2022-12-22 00:02:50.225,4,HwndWrapper[DefaultDomain;;80ca68a0-cdcd-43bd-8921-7a0a57e31946],0
+2022-12-22 00:02:50.225,5,\DISPLAY1,0
+2022-12-22 00:02:53.190,2,AVPageView,0
+2022-12-22 00:02:53.190,3,Acrobat.exe,0
+2022-12-22 00:02:53.190,4,AVL_AVView,0
+2022-12-22 00:02:53.190,5,\DISPLAY1,0
+2022-12-22 00:03:02.039,2,Running applications,0
+2022-12-22 00:03:02.039,3,explorer.exe,0
+2022-12-22 00:03:02.039,4,MSTaskListWClass,0
+2022-12-22 00:03:02.039,5,\DISPLAY1,0
+2022-12-22 00:03:08.806,2,Camera,0
+2022-12-22 00:03:08.806,3,ApplicationFrameHost.exe,0
+2022-12-22 00:03:08.806,4,ApplicationFrameWindow,0
+2022-12-22 00:03:08.806,5,\DISPLAY1,0
+2022-12-22 00:07:37.052,2,Running applications,0
+2022-12-22 00:07:37.052,3,explorer.exe,0
+2022-12-22 00:07:37.052,4,MSTaskListWClass,0
+2022-12-22 00:07:37.052,5,\DISPLAY1,0
+2022-12-22 00:07:50.456,2,Chrome Legacy Window,0
+2022-12-22 00:07:50.456,3,Code.exe,0
+2022-12-22 00:07:50.456,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:07:50.456,5,\DISPLAY1,0
+2022-12-22 00:07:51.356,2,,0
+2022-12-22 00:07:51.356,3,explorer.exe,0
+2022-12-22 00:07:51.356,4,DirectUIHWND,0
+2022-12-22 00:07:51.356,5,\DISPLAY1,0
+2022-12-22 00:07:55.073,2,Chrome Legacy Window,0
+2022-12-22 00:07:55.073,3,Code.exe,0
+2022-12-22 00:07:55.073,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:07:55.073,5,\DISPLAY1,0
+2022-12-22 00:08:58.819,2,Setup,0
+2022-12-22 00:08:58.819,3,CodeSetup-stable-e8a3071ea4344d9d48ef8a4df2c097372b0c5161.tmp,0
+2022-12-22 00:08:58.819,4,TApplication,0
+2022-12-22 00:08:58.819,5,\DISPLAY1,0
+2022-12-22 00:09:30.142,2,foreground_window - Microsoft Visual Studio,0
+2022-12-22 00:09:30.142,3,devenv.exe,0
+2022-12-22 00:09:30.142,4,HwndWrapper[DefaultDomain;;80ca68a0-cdcd-43bd-8921-7a0a57e31946],0
+2022-12-22 00:09:30.142,5,\DISPLAY1,0
+2022-12-22 00:10:45.751,2,Patch 12.23 notes — Mozilla Firefox,0
+2022-12-22 00:10:45.751,3,firefox.exe,0
+2022-12-22 00:10:45.751,4,MozillaWindowClass,0
+2022-12-22 00:10:45.751,5,\DISPLAY1,0
+2022-12-22 00:11:07.386,2,Type here to search,0
+2022-12-22 00:11:07.386,3,explorer.exe,0
+2022-12-22 00:11:07.386,4,Button,0
+2022-12-22 00:11:07.386,5,\DISPLAY1,0
+2022-12-22 00:11:08.822,2,Search,0
+2022-12-22 00:11:08.822,3,SearchApp.exe,0
+2022-12-22 00:11:08.822,4,Windows.UI.Core.CoreWindow,0
+2022-12-22 00:11:08.822,5,\DISPLAY1,0
+2022-12-22 00:11:12.199,2,Running applications,0
+2022-12-22 00:11:12.199,3,explorer.exe,0
+2022-12-22 00:11:12.199,4,MSTaskListWClass,0
+2022-12-22 00:11:12.199,5,\DISPLAY1,0
+2022-12-22 00:11:14.037,2,Sign in to your account - Work - Microsoft​ Edge,0
+2022-12-22 00:11:14.037,3,msedge.exe,0
+2022-12-22 00:11:14.037,4,Chrome_WidgetWin_1,0
+2022-12-22 00:11:14.037,5,\DISPLAY1,0
+2022-12-22 00:11:16.404,2,Camera,0
+2022-12-22 00:11:16.404,3,WindowsCamera.exe,0
+2022-12-22 00:11:16.404,4,Windows.UI.Core.CoreWindow,0
+2022-12-22 00:11:16.404,5,\DISPLAY1,0
+2022-12-22 00:11:17.723,2,Type here to search,0
+2022-12-22 00:11:17.723,3,explorer.exe,0
+2022-12-22 00:11:17.723,4,Button,0
+2022-12-22 00:11:17.723,5,\DISPLAY1,0
+2022-12-22 00:11:18.822,2,Search,0
+2022-12-22 00:11:18.822,3,SearchApp.exe,0
+2022-12-22 00:11:18.822,4,Windows.UI.Core.CoreWindow,0
+2022-12-22 00:11:18.822,5,\DISPLAY1,0
+2022-12-22 00:11:23.605,2,Audacity,0
+2022-12-22 00:11:23.605,3,audacity.exe,0
+2022-12-22 00:11:23.605,4,wxWindowNR,0
+2022-12-22 00:11:23.605,5,\DISPLAY1,0
+2022-12-22 00:11:36.918,2,(97) Eric周興哲《你不屬於我 You Don't Belong to Me》歌詞 lyric - YouTube — Mozilla Firefox,0
+2022-12-22 00:11:36.918,3,firefox.exe,0
+2022-12-22 00:11:36.918,4,MozillaWindowClass,0
+2022-12-22 00:11:36.918,5,\DISPLAY1,0
+2022-12-22 00:11:39.087,2,Record,0
+2022-12-22 00:11:39.087,3,audacity.exe,0
+2022-12-22 00:11:39.087,4,wxWindowNR,0
+2022-12-22 00:11:39.087,5,\DISPLAY1,0
+2022-12-22 00:11:48.823,2,(97) Eric周興哲《你不屬於我 You Don't Belong to Me》歌詞 lyric - YouTube — Mozilla Firefox,0
+2022-12-22 00:11:48.823,3,firefox.exe,0
+2022-12-22 00:11:48.823,4,MozillaWindowClass,0
+2022-12-22 00:11:48.823,5,\DISPLAY1,0
+2022-12-22 00:13:34.003,2,Track Panel,0
+2022-12-22 00:13:34.003,3,audacity.exe,0
+2022-12-22 00:13:34.003,4,wxWindowNR,0
+2022-12-22 00:13:34.003,5,\DISPLAY1,0
+2022-12-22 00:13:55.352,2,foreground_window - Microsoft Visual Studio,0
+2022-12-22 00:13:55.352,3,devenv.exe,0
+2022-12-22 00:13:55.352,4,HwndWrapper[DefaultDomain;;80ca68a0-cdcd-43bd-8921-7a0a57e31946],0
+2022-12-22 00:13:55.352,5,\DISPLAY1,0
+2022-12-22 00:16:22.722,2,(97) 你不属于 - YouTube — Mozilla Firefox,0
+2022-12-22 00:16:22.722,3,firefox.exe,0
+2022-12-22 00:16:22.722,4,MozillaWindowClass,0
+2022-12-22 00:16:22.722,5,\DISPLAY1,0
+2022-12-22 00:16:32.925,2,Running applications,0
+2022-12-22 00:16:32.925,3,explorer.exe,0
+2022-12-22 00:16:32.925,4,MSTaskListWClass,0
+2022-12-22 00:16:32.925,5,\DISPLAY1,0
+2022-12-22 00:16:38.835,2,Camera,0
+2022-12-22 00:16:38.835,3,ApplicationFrameHost.exe,0
+2022-12-22 00:16:38.835,4,ApplicationFrameWindow,0
+2022-12-22 00:16:38.835,5,\DISPLAY1,0
+2022-12-22 00:16:46.767,2,Edit,0
+2022-12-22 00:16:46.767,3,audacity.exe,0
+2022-12-22 00:16:46.767,4,wxWindowNR,0
+2022-12-22 00:16:46.767,5,\DISPLAY1,0
+2022-12-22 00:16:54.343,2,Chrome Legacy Window,0
+2022-12-22 00:16:54.343,3,Code.exe,0
+2022-12-22 00:16:54.343,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:16:54.343,5,\DISPLAY1,0
+2022-12-22 00:18:14.791,2,foreground_window - Microsoft Visual Studio,0
+2022-12-22 00:18:14.791,3,devenv.exe,0
+2022-12-22 00:18:14.791,4,HwndWrapper[DefaultDomain;;80ca68a0-cdcd-43bd-8921-7a0a57e31946],0
+2022-12-22 00:18:14.791,5,\DISPLAY1,0
+2022-12-22 00:19:00.340,2,Running applications,0
+2022-12-22 00:19:00.340,3,explorer.exe,0
+2022-12-22 00:19:00.340,4,MSTaskListWClass,0
+2022-12-22 00:19:00.340,5,\DISPLAY1,0
+2022-12-22 00:19:08.839,2,XLSDK - Adobe Acrobat Reader (64-bit),0
+2022-12-22 00:19:08.839,3,Acrobat.exe,0
+2022-12-22 00:19:08.839,4,AcrobatSDIWindow,0
+2022-12-22 00:19:08.839,5,\DISPLAY1,0
+2022-12-22 00:19:26.719,2,Type here to search,0
+2022-12-22 00:19:26.719,3,explorer.exe,0
+2022-12-22 00:19:26.719,4,Button,0
+2022-12-22 00:19:26.719,5,\DISPLAY1,0
+2022-12-22 00:19:49.561,2,Chrome Legacy Window,0
+2022-12-22 00:19:49.561,3,Code.exe,0
+2022-12-22 00:19:49.561,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:19:49.561,5,\DISPLAY1,0
+2022-12-22 00:19:50.465,2,Chrome Legacy Window,0
+2022-12-22 00:19:50.465,3,LeagueClientUx.exe,0
+2022-12-22 00:19:50.465,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:19:50.465,5,\DISPLAY1,0
+2022-12-22 00:20:04.600,2,Task View,0
+2022-12-22 00:20:04.600,3,explorer.exe,0
+2022-12-22 00:20:04.600,4,Windows.UI.Core.CoreWindow,0
+2022-12-22 00:20:04.600,5,\DISPLAY1,0
+2022-12-22 00:20:17.526,2,"What’s new with Firefox - More privacy, more protections. — Mozilla Firefox",0
+2022-12-22 00:20:17.526,3,firefox.exe,0
+2022-12-22 00:20:17.526,4,MozillaWindowClass,0
+2022-12-22 00:20:17.526,5,\DISPLAY1,0
+2022-12-22 00:20:47.196,2,Running applications,0
+2022-12-22 00:20:47.196,3,explorer.exe,0
+2022-12-22 00:20:47.196,4,MSTaskListWClass,0
+2022-12-22 00:20:47.196,5,\DISPLAY1,0
+2022-12-22 00:20:48.842,2,League of Legends,0
+2022-12-22 00:20:48.842,3,LeagueClientUx.exe,0
+2022-12-22 00:20:48.842,4,RCLIENT,0
+2022-12-22 00:20:48.842,5,\DISPLAY1,0
+2022-12-22 00:20:49.383,2,Running applications,0
+2022-12-22 00:20:49.383,3,explorer.exe,0
+2022-12-22 00:20:49.383,4,MSTaskListWClass,0
+2022-12-22 00:20:49.383,5,\DISPLAY1,0
+2022-12-22 00:20:58.843,2,Camera,0
+2022-12-22 00:20:58.843,3,ApplicationFrameHost.exe,0
+2022-12-22 00:20:58.843,4,ApplicationFrameWindow,0
+2022-12-22 00:20:58.843,5,\DISPLAY1,0
+2022-12-22 00:21:00.838,2,(97) YouTube — Mozilla Firefox,0
+2022-12-22 00:21:00.838,3,firefox.exe,0
+2022-12-22 00:21:00.838,4,MozillaWindowClass,0
+2022-12-22 00:21:00.838,5,\DISPLAY1,0
+2022-12-22 00:21:05.278,2,Chrome Legacy Window,0
+2022-12-22 00:21:05.278,3,LeagueClientUx.exe,0
+2022-12-22 00:21:05.278,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:21:05.278,5,\DISPLAY1,0
+2022-12-22 00:21:30.900,2,Running applications,0
+2022-12-22 00:21:30.900,3,explorer.exe,0
+2022-12-22 00:21:30.900,4,MSTaskListWClass,0
+2022-12-22 00:21:30.900,5,\DISPLAY1,0
+2022-12-22 00:21:38.845,2,League of Legends,0
+2022-12-22 00:21:38.845,3,LeagueClientUx.exe,0
+2022-12-22 00:21:38.845,4,RCLIENT,0
+2022-12-22 00:21:38.845,5,\DISPLAY1,0
+2022-12-22 00:21:39.078,2,(97) Eric周興哲《你不屬於我 You Don't Belong to Me》Official Music Video - Netflix「比悲傷更悲傷的故事」影集版片尾曲 - YouTube — Mozilla Firefox,0
+2022-12-22 00:21:39.078,3,firefox.exe,0
+2022-12-22 00:21:39.078,4,MozillaWindowClass,0
+2022-12-22 00:21:39.078,5,\DISPLAY1,0
+2022-12-22 00:21:42.271,2,Chrome Legacy Window,0
+2022-12-22 00:21:42.271,3,LeagueClientUx.exe,0
+2022-12-22 00:21:42.271,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:21:42.271,5,\DISPLAY1,0
+2022-12-22 00:21:43.756,2,U GG: The Best League of Legends Builds LoL Build Champion Probuilds LoL Runes Tier List Counters Guides — Mozilla Firefox,0
+2022-12-22 00:21:43.756,3,firefox.exe,0
+2022-12-22 00:21:43.756,4,MozillaWindowClass,0
+2022-12-22 00:21:43.756,5,\DISPLAY1,0
+2022-12-22 00:21:47.233,2,Chrome Legacy Window,0
+2022-12-22 00:21:47.233,3,LeagueClientUx.exe,0
+2022-12-22 00:21:47.233,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:21:47.233,5,\DISPLAY1,0
+2022-12-22 00:21:57.760,2,"Akshan Build for Mid with Highest Winrate - LoL Runes, Items — Mozilla Firefox",0
+2022-12-22 00:21:57.760,3,firefox.exe,0
+2022-12-22 00:21:57.760,4,MozillaWindowClass,0
+2022-12-22 00:21:57.760,5,\DISPLAY1,0
+2022-12-22 00:22:10.815,2,Chrome Legacy Window,0
+2022-12-22 00:22:10.815,3,LeagueClientUx.exe,0
+2022-12-22 00:22:10.815,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:22:10.815,5,\DISPLAY1,0
+2022-12-22 00:22:18.846,2,Akshan ARAM Build - U.GG Akshan Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 00:22:18.846,3,firefox.exe,0
+2022-12-22 00:22:18.846,4,MozillaWindowClass,0
+2022-12-22 00:22:18.846,5,\DISPLAY1,0
+2022-12-22 00:22:27.706,2,League of Legends (TM) Client,0
+2022-12-22 00:22:27.706,3,League of Legends.exe,0
+2022-12-22 00:22:27.706,4,RiotWindowClass,0
+2022-12-22 00:22:27.706,5,\DISPLAY1,0
+2022-12-22 00:22:29.667,2,Running applications,0
+2022-12-22 00:22:29.667,3,explorer.exe,0
+2022-12-22 00:22:29.667,4,MSTaskListWClass,0
+2022-12-22 00:22:29.667,5,\DISPLAY1,0
+2022-12-22 00:22:30.834,2,,0
+2022-12-22 00:22:30.834,3,ApplicationFrameHost.exe,0
+2022-12-22 00:22:30.834,4,ApplicationFrameTitleBarWindow,0
+2022-12-22 00:22:30.834,5,\DISPLAY1,0
+2022-12-22 00:22:37.552,2,League of Legends (TM) Client,0
+2022-12-22 00:22:37.552,3,League of Legends.exe,0
+2022-12-22 00:22:37.552,4,RiotWindowClass,0
+2022-12-22 00:22:37.552,5,\DISPLAY1,0
+2022-12-22 00:39:48.888,2,Camera,0
+2022-12-22 00:39:48.888,3,ApplicationFrameHost.exe,0
+2022-12-22 00:39:48.888,4,ApplicationFrameWindow,0
+2022-12-22 00:39:48.888,5,\DISPLAY1,0
+2022-12-22 00:40:13.241,2,Chrome Legacy Window,0
+2022-12-22 00:40:13.241,3,LeagueClientUx.exe,0
+2022-12-22 00:40:13.241,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:40:13.241,5,\DISPLAY1,0
+2022-12-22 00:41:08.737,2,"(97) iPad Pro M2: What Does ""Pro"" Even Mean? - YouTube — Mozilla Firefox",0
+2022-12-22 00:41:08.737,3,firefox.exe,0
+2022-12-22 00:41:08.737,4,MozillaWindowClass,0
+2022-12-22 00:41:08.737,5,\DISPLAY1,0
+2022-12-22 00:41:11.311,2,Chrome Legacy Window,0
+2022-12-22 00:41:11.311,3,LeagueClientUx.exe,0
+2022-12-22 00:41:11.311,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:41:11.311,5,\DISPLAY1,0
+2022-12-22 00:41:14.156,2,"Swain Build for Support with Highest Winrate - LoL Runes, Items — Mozilla Firefox",0
+2022-12-22 00:41:14.156,3,firefox.exe,0
+2022-12-22 00:41:14.156,4,MozillaWindowClass,0
+2022-12-22 00:41:14.156,5,\DISPLAY1,0
+2022-12-22 00:41:18.549,2,Chrome Legacy Window,0
+2022-12-22 00:41:18.549,3,LeagueClientUx.exe,0
+2022-12-22 00:41:18.549,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:41:18.549,5,\DISPLAY1,0
+2022-12-22 00:41:49.004,2,Swain ARAM Build - U.GG Swain Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 00:41:49.004,3,firefox.exe,0
+2022-12-22 00:41:49.004,4,MozillaWindowClass,0
+2022-12-22 00:41:49.004,5,\DISPLAY1,0
+2022-12-22 00:41:52.520,2,Chrome Legacy Window,0
+2022-12-22 00:41:52.520,3,LeagueClientUx.exe,0
+2022-12-22 00:41:52.520,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:41:52.520,5,\DISPLAY1,0
+2022-12-22 00:41:58.737,2,Swain ARAM Build - U.GG Swain Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 00:41:58.737,3,firefox.exe,0
+2022-12-22 00:41:58.737,4,MozillaWindowClass,0
+2022-12-22 00:41:58.737,5,\DISPLAY1,0
+2022-12-22 00:42:16.259,2,Chrome Legacy Window,0
+2022-12-22 00:42:16.259,3,LeagueClientUx.exe,0
+2022-12-22 00:42:16.259,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:42:16.259,5,\DISPLAY1,0
+2022-12-22 00:42:19.929,2,"(97) iPad Pro M2: What Does ""Pro"" Even Mean? - YouTube — Mozilla Firefox",0
+2022-12-22 00:42:19.929,3,firefox.exe,0
+2022-12-22 00:42:19.929,4,MozillaWindowClass,0
+2022-12-22 00:42:19.929,5,\DISPLAY1,0
+2022-12-22 00:42:20.737,2,Chrome Legacy Window,0
+2022-12-22 00:42:20.737,3,LeagueClientUx.exe,0
+2022-12-22 00:42:20.737,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:42:20.737,5,\DISPLAY1,0
+2022-12-22 00:42:42.036,2,(97) YouTube — Mozilla Firefox,0
+2022-12-22 00:42:42.036,3,firefox.exe,0
+2022-12-22 00:42:42.036,4,MozillaWindowClass,0
+2022-12-22 00:42:42.036,5,\DISPLAY1,0
+2022-12-22 00:42:53.829,2,Chrome Legacy Window,0
+2022-12-22 00:42:53.829,3,LeagueClientUx.exe,0
+2022-12-22 00:42:53.829,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:42:53.829,5,\DISPLAY1,0
+2022-12-22 00:44:10.961,2,Ziggs ARAM Build - U.GG Ziggs Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 00:44:10.961,3,firefox.exe,0
+2022-12-22 00:44:10.961,4,MozillaWindowClass,0
+2022-12-22 00:44:10.961,5,\DISPLAY1,0
+2022-12-22 00:44:49.168,2,Chrome Legacy Window,0
+2022-12-22 00:44:49.168,3,LeagueClientUx.exe,0
+2022-12-22 00:44:49.168,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:44:49.168,5,\DISPLAY1,0
+2022-12-22 00:44:52.210,2,Instagram — Mozilla Firefox,0
+2022-12-22 00:44:52.210,3,firefox.exe,0
+2022-12-22 00:44:52.210,4,MozillaWindowClass,0
+2022-12-22 00:44:52.210,5,\DISPLAY1,0
+2022-12-22 00:45:01.735,2,Chrome Legacy Window,0
+2022-12-22 00:45:01.735,3,LeagueClientUx.exe,0
+2022-12-22 00:45:01.735,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:45:01.735,5,\DISPLAY1,0
+2022-12-22 00:45:47.001,2,(97) ioniq 6 - YouTube — Mozilla Firefox,0
+2022-12-22 00:45:47.001,3,firefox.exe,0
+2022-12-22 00:45:47.001,4,MozillaWindowClass,0
+2022-12-22 00:45:47.001,5,\DISPLAY1,0
+2022-12-22 00:46:05.127,2,Chrome Legacy Window,0
+2022-12-22 00:46:05.127,3,LeagueClientUx.exe,0
+2022-12-22 00:46:05.127,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 00:46:05.127,5,\DISPLAY1,0
+2022-12-22 00:46:11.080,2,Malzahar ARAM Build - U.GG Malzahar Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 00:46:11.080,3,firefox.exe,0
+2022-12-22 00:46:11.080,4,MozillaWindowClass,0
+2022-12-22 00:46:11.080,5,\DISPLAY1,0
+2022-12-22 00:46:19.695,2,League of Legends (TM) Client,0
+2022-12-22 00:46:19.695,3,League of Legends.exe,0
+2022-12-22 00:46:19.695,4,RiotWindowClass,0
+2022-12-22 00:46:19.695,5,\DISPLAY1,0
+2022-12-22 00:46:24.760,2,(97) ioniq 6 - YouTube — Mozilla Firefox,0
+2022-12-22 00:46:24.760,3,firefox.exe,0
+2022-12-22 00:46:24.760,4,MozillaWindowClass,0
+2022-12-22 00:46:24.760,5,\DISPLAY1,0
+2022-12-22 00:46:39.461,2,Running applications,0
+2022-12-22 00:46:39.461,3,explorer.exe,0
+2022-12-22 00:46:39.461,4,MSTaskListWClass,0
+2022-12-22 00:46:39.461,5,\DISPLAY1,0
+2022-12-22 00:46:41.383,2,League of Legends (TM) Client,0
+2022-12-22 00:46:41.383,3,League of Legends.exe,0
+2022-12-22 00:46:41.383,4,RiotWindowClass,0
+2022-12-22 00:46:41.383,5,\DISPLAY1,0
+2022-12-22 00:47:34.694,2,(97) This... IS TRULY MINDBLOWING!! (Hyundai Ioniq 6 N - RN22e Prototype Review) - YouTube — Mozilla Firefox,0
+2022-12-22 00:47:34.694,3,firefox.exe,0
+2022-12-22 00:47:34.694,4,MozillaWindowClass,0
+2022-12-22 00:47:34.694,5,\DISPLAY1,0
+2022-12-22 00:47:35.914,2,League of Legends (TM) Client,0
+2022-12-22 00:47:35.914,3,League of Legends.exe,0
+2022-12-22 00:47:35.914,4,RiotWindowClass,0
+2022-12-22 00:47:35.914,5,\DISPLAY1,0
+2022-12-22 00:47:39.696,2,Malzahar ARAM Build - U.GG Malzahar Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 00:47:39.696,3,firefox.exe,0
+2022-12-22 00:47:39.696,4,MozillaWindowClass,0
+2022-12-22 00:47:39.696,5,\DISPLAY1,0
+2022-12-22 00:47:39.947,2,League of Legends (TM) Client,0
+2022-12-22 00:47:39.947,3,League of Legends.exe,0
+2022-12-22 00:47:39.947,4,RiotWindowClass,0
+2022-12-22 00:47:39.947,5,\DISPLAY1,0
+2022-12-22 00:53:08.256,2,(97) This... IS TRULY MINDBLOWING!! (Hyundai Ioniq 6 N - RN22e Prototype Review) - YouTube — Mozilla Firefox,0
+2022-12-22 00:53:08.256,3,firefox.exe,0
+2022-12-22 00:53:08.256,4,MozillaWindowClass,0
+2022-12-22 00:53:08.256,5,\DISPLAY1,0
+2022-12-22 00:53:10.216,2,League of Legends (TM) Client,0
+2022-12-22 00:53:10.216,3,League of Legends.exe,0
+2022-12-22 00:53:10.216,4,RiotWindowClass,0
+2022-12-22 00:53:10.216,5,\DISPLAY1,0
+2022-12-22 00:58:17.575,2,(97) The Hyundai IONIQ 5: I Get It Now! - YouTube — Mozilla Firefox,0
+2022-12-22 00:58:17.575,3,firefox.exe,0
+2022-12-22 00:58:17.575,4,MozillaWindowClass,0
+2022-12-22 00:58:17.575,5,\DISPLAY1,0
+2022-12-22 00:58:25.773,2,League of Legends (TM) Client,0
+2022-12-22 00:58:25.773,3,League of Legends.exe,0
+2022-12-22 00:58:25.773,4,RiotWindowClass,0
+2022-12-22 00:58:25.773,5,\DISPLAY1,0
+2022-12-22 01:02:08.943,2,League of Legends,0
+2022-12-22 01:02:08.943,3,LeagueClientUx.exe,0
+2022-12-22 01:02:08.943,4,RCLIENT,0
+2022-12-22 01:02:08.943,5,\DISPLAY1,0
+2022-12-22 01:04:44.836,2,Running applications,0
+2022-12-22 01:04:44.836,3,explorer.exe,0
+2022-12-22 01:04:44.836,4,MSTaskListWClass,0
+2022-12-22 01:04:44.836,5,\DISPLAY1,0
+2022-12-22 01:04:48.949,2,Camera,0
+2022-12-22 01:04:48.949,3,ApplicationFrameHost.exe,0
+2022-12-22 01:04:48.949,4,ApplicationFrameWindow,0
+2022-12-22 01:04:48.949,5,\DISPLAY1,0
+2022-12-22 01:04:50.658,2,Instagram — Mozilla Firefox,0
+2022-12-22 01:04:50.658,3,firefox.exe,0
+2022-12-22 01:04:50.658,4,MozillaWindowClass,0
+2022-12-22 01:04:50.658,5,\DISPLAY1,0
+2022-12-22 01:05:23.806,2,Chrome Legacy Window,0
+2022-12-22 01:05:23.806,3,LeagueClientUx.exe,0
+2022-12-22 01:05:23.806,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 01:05:23.806,5,\DISPLAY1,0
+2022-12-22 01:05:55.207,2,(97) YouTube — Mozilla Firefox,0
+2022-12-22 01:05:55.207,3,firefox.exe,0
+2022-12-22 01:05:55.207,4,MozillaWindowClass,0
+2022-12-22 01:05:55.207,5,\DISPLAY1,0
+2022-12-22 01:06:01.353,2,Chrome Legacy Window,0
+2022-12-22 01:06:01.353,3,LeagueClientUx.exe,0
+2022-12-22 01:06:01.353,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 01:06:01.353,5,\DISPLAY1,0
+2022-12-22 01:06:22.666,2,Darius ARAM Build - U.GG Darius Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 01:06:22.666,3,firefox.exe,0
+2022-12-22 01:06:22.666,4,MozillaWindowClass,0
+2022-12-22 01:06:22.666,5,\DISPLAY1,0
+2022-12-22 01:06:31.208,2,Running applications,0
+2022-12-22 01:06:31.208,3,explorer.exe,0
+2022-12-22 01:06:31.208,4,MSTaskListWClass,0
+2022-12-22 01:06:31.208,5,\DISPLAY1,0
+2022-12-22 01:06:33.568,2,@cybaek163 - Discord,0
+2022-12-22 01:06:33.568,3,Discord.exe,0
+2022-12-22 01:06:33.568,4,Chrome_WidgetWin_1,0
+2022-12-22 01:06:33.568,5,\DISPLAY1,0
+2022-12-22 01:06:35.794,2,Chrome Legacy Window,0
+2022-12-22 01:06:35.794,3,LeagueClientUx.exe,0
+2022-12-22 01:06:35.794,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 01:06:35.794,5,\DISPLAY1,0
+2022-12-22 01:06:36.256,2,(97) YouTube — Mozilla Firefox,0
+2022-12-22 01:06:36.256,3,firefox.exe,0
+2022-12-22 01:06:36.256,4,MozillaWindowClass,0
+2022-12-22 01:06:36.256,5,\DISPLAY1,0
+2022-12-22 01:06:45.975,2,League of Legends (TM) Client,0
+2022-12-22 01:06:45.975,3,League of Legends.exe,0
+2022-12-22 01:06:45.975,4,RiotWindowClass,0
+2022-12-22 01:06:45.975,5,\DISPLAY1,0
+2022-12-22 01:07:04.990,2,(97) do you speak chinese?! #shorts - YouTube — Mozilla Firefox,0
+2022-12-22 01:07:04.990,3,firefox.exe,0
+2022-12-22 01:07:04.990,4,MozillaWindowClass,0
+2022-12-22 01:07:04.990,5,\DISPLAY1,0
+2022-12-22 01:07:08.032,2,League of Legends (TM) Client,0
+2022-12-22 01:07:08.032,3,League of Legends.exe,0
+2022-12-22 01:07:08.032,4,RiotWindowClass,0
+2022-12-22 01:07:08.032,5,\DISPLAY1,0
+2022-12-22 01:25:58.998,2,Camera,0
+2022-12-22 01:25:58.998,3,ApplicationFrameHost.exe,0
+2022-12-22 01:25:58.998,4,ApplicationFrameWindow,0
+2022-12-22 01:25:58.998,5,\DISPLAY1,0
+2022-12-22 01:26:04.042,2,Chrome Legacy Window,0
+2022-12-22 01:26:04.042,3,LeagueClientUx.exe,0
+2022-12-22 01:26:04.042,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 01:26:04.042,5,\DISPLAY1,0
+2022-12-22 01:26:55.823,2,(97) 周杰伦Jay Chou精选歌曲列表48首 80后 90后回忆 抖音 流行 - YouTube — Mozilla Firefox,0
+2022-12-22 01:26:55.823,3,firefox.exe,0
+2022-12-22 01:26:55.823,4,MozillaWindowClass,0
+2022-12-22 01:26:55.823,5,\DISPLAY1,0
+2022-12-22 01:26:56.911,2,Chrome Legacy Window,0
+2022-12-22 01:26:56.911,3,LeagueClientUx.exe,0
+2022-12-22 01:26:56.911,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 01:26:56.911,5,\DISPLAY1,0
+2022-12-22 01:26:58.096,2,Darius ARAM Build - U.GG Darius Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 01:26:58.096,3,firefox.exe,0
+2022-12-22 01:26:58.096,4,MozillaWindowClass,0
+2022-12-22 01:26:58.096,5,\DISPLAY1,0
+2022-12-22 01:27:08.738,2,Chrome Legacy Window,0
+2022-12-22 01:27:08.738,3,LeagueClientUx.exe,0
+2022-12-22 01:27:08.738,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 01:27:08.738,5,\DISPLAY1,0
+2022-12-22 01:27:49.003,2,League of Legends (TM) Client,0
+2022-12-22 01:27:49.003,3,League of Legends.exe,0
+2022-12-22 01:27:49.003,4,RiotWindowClass,0
+2022-12-22 01:27:49.003,5,\DISPLAY1,0
+2022-12-22 01:27:55.805,2,Running applications,0
+2022-12-22 01:27:55.805,3,explorer.exe,0
+2022-12-22 01:27:55.805,4,MSTaskListWClass,0
+2022-12-22 01:27:55.805,5,\DISPLAY1,0
+2022-12-22 01:27:56.889,2,League of Legends (TM) Client,0
+2022-12-22 01:27:56.889,3,League of Legends.exe,0
+2022-12-22 01:27:56.889,4,RiotWindowClass,0
+2022-12-22 01:27:56.889,5,\DISPLAY1,0
+2022-12-22 01:33:35.682,2,Camera,0
+2022-12-22 01:33:35.682,3,WindowsCamera.exe,0
+2022-12-22 01:33:35.682,4,Windows.UI.Core.CoreWindow,0
+2022-12-22 01:33:35.682,5,\DISPLAY1,0
+2022-12-22 01:33:36.114,2,Kled ARAM Build - U.GG Kled Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 01:33:36.114,3,firefox.exe,0
+2022-12-22 01:33:36.114,4,MozillaWindowClass,0
+2022-12-22 01:33:36.114,5,\DISPLAY1,0
+2022-12-22 01:33:37.564,2,League of Legends (TM) Client,0
+2022-12-22 01:33:37.564,3,League of Legends.exe,0
+2022-12-22 01:33:37.564,4,RiotWindowClass,0
+2022-12-22 01:33:37.564,5,\DISPLAY1,0
+2022-12-22 01:34:21.251,2,Camera,0
+2022-12-22 01:34:21.251,3,WindowsCamera.exe,0
+2022-12-22 01:34:21.251,4,Windows.UI.Core.CoreWindow,0
+2022-12-22 01:34:21.251,5,\DISPLAY1,0
+2022-12-22 01:34:22.875,2,League of Legends (TM) Client,0
+2022-12-22 01:34:22.875,3,League of Legends.exe,0
+2022-12-22 01:34:22.875,4,RiotWindowClass,0
+2022-12-22 01:34:22.875,5,\DISPLAY1,0
+2022-12-22 01:46:39.046,2,Camera,0
+2022-12-22 01:46:39.046,3,ApplicationFrameHost.exe,0
+2022-12-22 01:46:39.046,4,ApplicationFrameWindow,0
+2022-12-22 01:46:39.046,5,\DISPLAY1,0
+2022-12-22 01:46:45.963,2,Chrome Legacy Window,0
+2022-12-22 01:46:45.963,3,LeagueClientUx.exe,0
+2022-12-22 01:46:45.963,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 01:46:45.963,5,\DISPLAY1,0
+2022-12-22 01:47:54.669,2,Kled ARAM Build - U.GG Kled Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 01:47:54.669,3,firefox.exe,0
+2022-12-22 01:47:54.669,4,MozillaWindowClass,0
+2022-12-22 01:47:54.669,5,\DISPLAY1,0
+2022-12-22 01:48:05.377,2,Chrome Legacy Window,0
+2022-12-22 01:48:05.377,3,LeagueClientUx.exe,0
+2022-12-22 01:48:05.377,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 01:48:05.377,5,\DISPLAY1,0
+2022-12-22 01:48:06.434,2,Singed ARAM Build - U.GG Singed Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 01:48:06.434,3,firefox.exe,0
+2022-12-22 01:48:06.434,4,MozillaWindowClass,0
+2022-12-22 01:48:06.434,5,\DISPLAY1,0
+2022-12-22 01:48:14.006,2,Chrome Legacy Window,0
+2022-12-22 01:48:14.006,3,LeagueClientUx.exe,0
+2022-12-22 01:48:14.006,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 01:48:14.006,5,\DISPLAY1,0
+2022-12-22 01:48:30.968,2,(97) YouTube — Mozilla Firefox,0
+2022-12-22 01:48:30.968,3,firefox.exe,0
+2022-12-22 01:48:30.968,4,MozillaWindowClass,0
+2022-12-22 01:48:30.968,5,\DISPLAY1,0
+2022-12-22 01:48:48.489,2,Chrome Legacy Window,0
+2022-12-22 01:48:48.489,3,LeagueClientUx.exe,0
+2022-12-22 01:48:48.489,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 01:48:48.489,5,\DISPLAY1,0
+2022-12-22 01:49:39.052,2,League of Legends (TM) Client,0
+2022-12-22 01:49:39.052,3,League of Legends.exe,0
+2022-12-22 01:49:39.052,4,RiotWindowClass,0
+2022-12-22 01:49:39.052,5,\DISPLAY1,0
+2022-12-22 01:49:41.112,2,Senna ARAM Build - U.GG Senna Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 01:49:41.112,3,firefox.exe,0
+2022-12-22 01:49:41.112,4,MozillaWindowClass,0
+2022-12-22 01:49:41.112,5,\DISPLAY1,0
+2022-12-22 01:49:42.670,2,Running applications,0
+2022-12-22 01:49:42.670,3,explorer.exe,0
+2022-12-22 01:49:42.670,4,MSTaskListWClass,0
+2022-12-22 01:49:42.670,5,\DISPLAY1,0
+2022-12-22 01:49:43.588,2,League of Legends (TM) Client,0
+2022-12-22 01:49:43.588,3,League of Legends.exe,0
+2022-12-22 01:49:43.588,4,RiotWindowClass,0
+2022-12-22 01:49:43.588,5,\DISPLAY1,0
+2022-12-22 01:50:06.882,2,(97) Joji - Die For You - YouTube — Mozilla Firefox,0
+2022-12-22 01:50:06.882,3,firefox.exe,0
+2022-12-22 01:50:06.882,4,MozillaWindowClass,0
+2022-12-22 01:50:06.882,5,\DISPLAY1,0
+2022-12-22 01:50:19.054,2,@cybaek163 - Discord,0
+2022-12-22 01:50:19.054,3,Discord.exe,0
+2022-12-22 01:50:19.054,4,Chrome_WidgetWin_1,0
+2022-12-22 01:50:19.054,5,\DISPLAY1,0
+2022-12-22 01:50:20.645,2,Running applications,0
+2022-12-22 01:50:20.645,3,explorer.exe,0
+2022-12-22 01:50:20.645,4,MSTaskListWClass,0
+2022-12-22 01:50:20.645,5,\DISPLAY1,0
+2022-12-22 01:50:22.318,2,League of Legends (TM) Client,0
+2022-12-22 01:50:22.318,3,League of Legends.exe,0
+2022-12-22 01:50:22.318,4,RiotWindowClass,0
+2022-12-22 01:50:22.318,5,\DISPLAY1,0
+2022-12-22 01:51:04.818,2,(97) YouTube — Mozilla Firefox,0
+2022-12-22 01:51:04.818,3,firefox.exe,0
+2022-12-22 01:51:04.818,4,MozillaWindowClass,0
+2022-12-22 01:51:04.818,5,\DISPLAY1,0
+2022-12-22 01:51:05.917,2,League of Legends (TM) Client,0
+2022-12-22 01:51:05.917,3,League of Legends.exe,0
+2022-12-22 01:51:05.917,4,RiotWindowClass,0
+2022-12-22 01:51:05.917,5,\DISPLAY1,0
+2022-12-22 02:01:17.048,2,(97) SNOWING IN O S A K A - YouTube — Mozilla Firefox,0
+2022-12-22 02:01:17.048,3,firefox.exe,0
+2022-12-22 02:01:17.048,4,MozillaWindowClass,0
+2022-12-22 02:01:17.048,5,\DISPLAY1,0
+2022-12-22 02:01:18.527,2,Running applications,0
+2022-12-22 02:01:18.527,3,explorer.exe,0
+2022-12-22 02:01:18.527,4,MSTaskListWClass,0
+2022-12-22 02:01:18.527,5,\DISPLAY1,0
+2022-12-22 02:01:19.079,2,League of Legends (TM) Client,0
+2022-12-22 02:01:19.079,3,League of Legends.exe,0
+2022-12-22 02:01:19.079,4,RiotWindowClass,0
+2022-12-22 02:01:19.079,5,\DISPLAY1,0
+2022-12-22 02:01:20.958,2,Running applications,0
+2022-12-22 02:01:20.958,3,explorer.exe,0
+2022-12-22 02:01:20.958,4,MSTaskListWClass,0
+2022-12-22 02:01:20.958,5,\DISPLAY1,0
+2022-12-22 02:01:21.274,2,League of Legends (TM) Client,0
+2022-12-22 02:01:21.274,3,League of Legends.exe,0
+2022-12-22 02:01:21.274,4,RiotWindowClass,0
+2022-12-22 02:01:21.274,5,\DISPLAY1,0
+2022-12-22 02:03:30.963,2,Senna ARAM Build - U.GG Senna Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:03:30.963,3,firefox.exe,0
+2022-12-22 02:03:30.963,4,MozillaWindowClass,0
+2022-12-22 02:03:30.963,5,\DISPLAY1,0
+2022-12-22 02:03:32.437,2,Running applications,0
+2022-12-22 02:03:32.437,3,explorer.exe,0
+2022-12-22 02:03:32.437,4,MSTaskListWClass,0
+2022-12-22 02:03:32.437,5,\DISPLAY1,0
+2022-12-22 02:03:34.613,2,League of Legends (TM) Client,0
+2022-12-22 02:03:34.613,3,League of Legends.exe,0
+2022-12-22 02:03:34.613,4,RiotWindowClass,0
+2022-12-22 02:03:34.613,5,\DISPLAY1,0
+2022-12-22 02:03:43.114,2,Senna ARAM Build - U.GG Senna Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:03:43.114,3,firefox.exe,0
+2022-12-22 02:03:43.114,4,MozillaWindowClass,0
+2022-12-22 02:03:43.114,5,\DISPLAY1,0
+2022-12-22 02:03:44.134,2,Running applications,0
+2022-12-22 02:03:44.134,3,explorer.exe,0
+2022-12-22 02:03:44.134,4,MSTaskListWClass,0
+2022-12-22 02:03:44.134,5,\DISPLAY1,0
+2022-12-22 02:03:44.956,2,League of Legends (TM) Client,0
+2022-12-22 02:03:44.956,3,League of Legends.exe,0
+2022-12-22 02:03:44.956,4,RiotWindowClass,0
+2022-12-22 02:03:44.956,5,\DISPLAY1,0
+2022-12-22 02:05:08.379,2,FolderView,0
+2022-12-22 02:05:08.379,3,explorer.exe,0
+2022-12-22 02:05:08.379,4,SysListView32,0
+2022-12-22 02:05:08.379,5,\DISPLAY1,0
+2022-12-22 02:05:08.867,2,League of Legends (TM) Client,0
+2022-12-22 02:05:08.867,3,League of Legends.exe,0
+2022-12-22 02:05:08.867,4,RiotWindowClass,0
+2022-12-22 02:05:08.867,5,\DISPLAY1,0
+2022-12-22 02:09:29.099,2,,0
+2022-12-22 02:09:29.099,3,explorer.exe,0
+2022-12-22 02:09:29.099,4,WorkerW,0
+2022-12-22 02:09:29.099,5,\DISPLAY1,0
+2022-12-22 02:09:32.145,2,Chrome Legacy Window,0
+2022-12-22 02:09:32.145,3,LeagueClientUx.exe,0
+2022-12-22 02:09:32.145,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:09:32.145,5,\DISPLAY1,0
+2022-12-22 02:09:58.008,2,Chrome Legacy Window,0
+2022-12-22 02:09:58.008,3,RiotClientUx.exe,0
+2022-12-22 02:09:58.008,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:09:58.008,5,\DISPLAY1,0
+2022-12-22 02:10:14.377,2,Chrome Legacy Window,0
+2022-12-22 02:10:14.377,3,LeagueClientUx.exe,0
+2022-12-22 02:10:14.377,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:10:14.377,5,\DISPLAY1,0
+2022-12-22 02:10:39.102,2,Riot Client Main,0
+2022-12-22 02:10:39.102,3,RiotClientUx.exe,0
+2022-12-22 02:10:39.102,4,RCLIENT,0
+2022-12-22 02:10:39.102,5,\DISPLAY1,0
+2022-12-22 02:12:44.139,2,Senna ARAM Build - U.GG Senna Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:12:44.139,3,firefox.exe,0
+2022-12-22 02:12:44.139,4,MozillaWindowClass,0
+2022-12-22 02:12:44.139,5,\DISPLAY1,0
+2022-12-22 02:12:49.340,2,Chrome Legacy Window,0
+2022-12-22 02:12:49.340,3,LeagueClientUx.exe,0
+2022-12-22 02:12:49.340,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:12:49.340,5,\DISPLAY1,0
+2022-12-22 02:13:00.186,2,FolderView,0
+2022-12-22 02:13:00.186,3,explorer.exe,0
+2022-12-22 02:13:00.186,4,SysListView32,0
+2022-12-22 02:13:00.186,5,\DISPLAY1,0
+2022-12-22 02:13:00.418,2,Chrome Legacy Window,0
+2022-12-22 02:13:00.418,3,LeagueClientUx.exe,0
+2022-12-22 02:13:00.418,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:13:00.418,5,\DISPLAY1,0
+2022-12-22 02:13:20.915,2,Running applications,0
+2022-12-22 02:13:20.915,3,explorer.exe,0
+2022-12-22 02:13:20.915,4,MSTaskListWClass,0
+2022-12-22 02:13:20.915,5,\DISPLAY1,0
+2022-12-22 02:13:26.876,2,Chrome Legacy Window,0
+2022-12-22 02:13:26.876,3,LeagueClientUx.exe,0
+2022-12-22 02:13:26.876,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:13:26.876,5,\DISPLAY1,0
+2022-12-22 02:13:47.311,2,(97) YouTube — Mozilla Firefox,0
+2022-12-22 02:13:47.311,3,firefox.exe,0
+2022-12-22 02:13:47.311,4,MozillaWindowClass,0
+2022-12-22 02:13:47.311,5,\DISPLAY1,0
+2022-12-22 02:13:56.431,2,Chrome Legacy Window,0
+2022-12-22 02:13:56.431,3,LeagueClientUx.exe,0
+2022-12-22 02:13:56.431,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:13:56.431,5,\DISPLAY1,0
+2022-12-22 02:13:57.124,2,Nautilus ARAM Build - U.GG Nautilus Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:13:57.124,3,firefox.exe,0
+2022-12-22 02:13:57.124,4,MozillaWindowClass,0
+2022-12-22 02:13:57.124,5,\DISPLAY1,0
+2022-12-22 02:14:02.477,2,Chrome Legacy Window,0
+2022-12-22 02:14:02.477,3,LeagueClientUx.exe,0
+2022-12-22 02:14:02.477,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:14:02.477,5,\DISPLAY1,0
+2022-12-22 02:14:05.765,2,Taric ARAM Build - U.GG Taric Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:14:05.765,3,firefox.exe,0
+2022-12-22 02:14:05.765,4,MozillaWindowClass,0
+2022-12-22 02:14:05.765,5,\DISPLAY1,0
+2022-12-22 02:14:13.607,2,Chrome Legacy Window,0
+2022-12-22 02:14:13.607,3,LeagueClientUx.exe,0
+2022-12-22 02:14:13.607,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:14:13.607,5,\DISPLAY1,0
+2022-12-22 02:14:16.081,2,"Nautilus Build for Support with Highest Winrate - LoL Runes, Items — Mozilla Firefox",0
+2022-12-22 02:14:16.081,3,firefox.exe,0
+2022-12-22 02:14:16.081,4,MozillaWindowClass,0
+2022-12-22 02:14:16.081,5,\DISPLAY1,0
+2022-12-22 02:14:17.095,2,Chrome Legacy Window,0
+2022-12-22 02:14:17.095,3,LeagueClientUx.exe,0
+2022-12-22 02:14:17.095,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:14:17.095,5,\DISPLAY1,0
+2022-12-22 02:14:39.112,2,Nautilus ARAM Build - U.GG Nautilus Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:14:39.112,3,firefox.exe,0
+2022-12-22 02:14:39.112,4,MozillaWindowClass,0
+2022-12-22 02:14:39.112,5,\DISPLAY1,0
+2022-12-22 02:14:45.153,2,League of Legends (TM) Client,0
+2022-12-22 02:14:45.153,3,League of Legends.exe,0
+2022-12-22 02:14:45.153,4,RiotWindowClass,0
+2022-12-22 02:14:45.153,5,\DISPLAY1,0
+2022-12-22 02:14:46.580,2,Running applications,0
+2022-12-22 02:14:46.580,3,explorer.exe,0
+2022-12-22 02:14:46.580,4,MSTaskListWClass,0
+2022-12-22 02:14:46.580,5,\DISPLAY1,0
+2022-12-22 02:14:48.330,2,Nautilus ARAM Build - U.GG Nautilus Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:14:48.330,3,firefox.exe,0
+2022-12-22 02:14:48.330,4,MozillaWindowClass,0
+2022-12-22 02:14:48.330,5,\DISPLAY1,0
+2022-12-22 02:14:59.273,2,League of Legends (TM) Client,0
+2022-12-22 02:14:59.273,3,League of Legends.exe,0
+2022-12-22 02:14:59.273,4,RiotWindowClass,0
+2022-12-22 02:14:59.273,5,\DISPLAY1,0
+2022-12-22 02:15:05.885,2,(97) YouTube — Mozilla Firefox,0
+2022-12-22 02:15:05.885,3,firefox.exe,0
+2022-12-22 02:15:05.885,4,MozillaWindowClass,0
+2022-12-22 02:15:05.885,5,\DISPLAY1,0
+2022-12-22 02:15:06.926,2,League of Legends (TM) Client,0
+2022-12-22 02:15:06.926,3,League of Legends.exe,0
+2022-12-22 02:15:06.926,4,RiotWindowClass,0
+2022-12-22 02:15:06.926,5,\DISPLAY1,0
+2022-12-22 02:15:09.113,2,(97) Alphabet With JoJo - YouTube — Mozilla Firefox,0
+2022-12-22 02:15:09.113,3,firefox.exe,0
+2022-12-22 02:15:09.113,4,MozillaWindowClass,0
+2022-12-22 02:15:09.113,5,\DISPLAY1,0
+2022-12-22 02:15:11.270,2,League of Legends (TM) Client,0
+2022-12-22 02:15:11.270,3,League of Legends.exe,0
+2022-12-22 02:15:11.270,4,RiotWindowClass,0
+2022-12-22 02:15:11.270,5,\DISPLAY1,0
+2022-12-22 02:15:16.506,2,Nautilus ARAM Build - U.GG Nautilus Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:15:16.506,3,firefox.exe,0
+2022-12-22 02:15:16.506,4,MozillaWindowClass,0
+2022-12-22 02:15:16.506,5,\DISPLAY1,0
+2022-12-22 02:15:16.972,2,League of Legends (TM) Client,0
+2022-12-22 02:15:16.972,3,League of Legends.exe,0
+2022-12-22 02:15:16.972,4,RiotWindowClass,0
+2022-12-22 02:15:16.972,5,\DISPLAY1,0
+2022-12-22 02:19:48.376,2,(97) BLOODY STREAM - YouTube — Mozilla Firefox,0
+2022-12-22 02:19:48.376,3,firefox.exe,0
+2022-12-22 02:19:48.376,4,MozillaWindowClass,0
+2022-12-22 02:19:48.376,5,\DISPLAY1,0
+2022-12-22 02:19:49.790,2,Running applications,0
+2022-12-22 02:19:49.790,3,explorer.exe,0
+2022-12-22 02:19:49.790,4,MSTaskListWClass,0
+2022-12-22 02:19:49.790,5,\DISPLAY1,0
+2022-12-22 02:19:50.063,2,Nautilus ARAM Build - U.GG Nautilus Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:19:50.063,3,firefox.exe,0
+2022-12-22 02:19:50.063,4,MozillaWindowClass,0
+2022-12-22 02:19:50.063,5,\DISPLAY1,0
+2022-12-22 02:19:50.724,2,League of Legends (TM) Client,0
+2022-12-22 02:19:50.724,3,League of Legends.exe,0
+2022-12-22 02:19:50.724,4,RiotWindowClass,0
+2022-12-22 02:19:50.724,5,\DISPLAY1,0
+2022-12-22 02:19:53.438,2,Running applications,0
+2022-12-22 02:19:53.438,3,explorer.exe,0
+2022-12-22 02:19:53.438,4,MSTaskListWClass,0
+2022-12-22 02:19:53.438,5,\DISPLAY1,0
+2022-12-22 02:19:53.828,2,League of Legends (TM) Client,0
+2022-12-22 02:19:53.828,3,League of Legends.exe,0
+2022-12-22 02:19:53.828,4,RiotWindowClass,0
+2022-12-22 02:19:53.828,5,\DISPLAY1,0
+2022-12-22 02:23:01.659,2,,0
+2022-12-22 02:23:01.659,3,ApplicationFrameHost.exe,0
+2022-12-22 02:23:01.659,4,ApplicationFrameTitleBarWindow,0
+2022-12-22 02:23:01.659,5,\DISPLAY1,0
+2022-12-22 02:23:03.154,2,Type here to search,0
+2022-12-22 02:23:03.154,3,explorer.exe,0
+2022-12-22 02:23:03.154,4,Button,0
+2022-12-22 02:23:03.154,5,\DISPLAY1,0
+2022-12-22 02:23:04.279,2,Search,0
+2022-12-22 02:23:04.279,3,SearchApp.exe,0
+2022-12-22 02:23:04.279,4,Windows.UI.Core.CoreWindow,0
+2022-12-22 02:23:04.279,5,\DISPLAY1,0
+2022-12-22 02:23:04.647,2,League of Legends (TM) Client,0
+2022-12-22 02:23:04.647,3,League of Legends.exe,0
+2022-12-22 02:23:04.647,4,RiotWindowClass,0
+2022-12-22 02:23:04.647,5,\DISPLAY1,0
+2022-12-22 02:24:37.773,2,Nautilus ARAM Build - U.GG Nautilus Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:24:37.773,3,firefox.exe,0
+2022-12-22 02:24:37.773,4,MozillaWindowClass,0
+2022-12-22 02:24:37.773,5,\DISPLAY1,0
+2022-12-22 02:24:39.137,2,Camera,0
+2022-12-22 02:24:39.137,3,ApplicationFrameHost.exe,0
+2022-12-22 02:24:39.137,4,ApplicationFrameWindow,0
+2022-12-22 02:24:39.137,5,\DISPLAY1,0
+2022-12-22 02:24:39.462,2,League of Legends (TM) Client,0
+2022-12-22 02:24:39.462,3,League of Legends.exe,0
+2022-12-22 02:24:39.462,4,RiotWindowClass,0
+2022-12-22 02:24:39.462,5,\DISPLAY1,0
+2022-12-22 02:31:18.323,2,Nautilus ARAM Build - U.GG Nautilus Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:31:18.323,3,firefox.exe,0
+2022-12-22 02:31:18.323,4,MozillaWindowClass,0
+2022-12-22 02:31:18.323,5,\DISPLAY1,0
+2022-12-22 02:31:20.003,2,League of Legends (TM) Client,0
+2022-12-22 02:31:20.003,3,League of Legends.exe,0
+2022-12-22 02:31:20.003,4,RiotWindowClass,0
+2022-12-22 02:31:20.003,5,\DISPLAY1,0
+2022-12-22 02:35:45.831,2,Chrome Legacy Window,0
+2022-12-22 02:35:45.831,3,LeagueClientUx.exe,0
+2022-12-22 02:35:45.831,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:35:45.831,5,\DISPLAY1,0
+2022-12-22 02:35:59.039,2,Nautilus ARAM Build - U.GG Nautilus Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:35:59.039,3,firefox.exe,0
+2022-12-22 02:35:59.039,4,MozillaWindowClass,0
+2022-12-22 02:35:59.039,5,\DISPLAY1,0
+2022-12-22 02:36:08.870,2,Chrome Legacy Window,0
+2022-12-22 02:36:08.870,3,LeagueClientUx.exe,0
+2022-12-22 02:36:08.870,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:36:08.870,5,\DISPLAY1,0
+2022-12-22 02:36:16.430,2,(98) YouTube — Mozilla Firefox,0
+2022-12-22 02:36:16.430,3,firefox.exe,0
+2022-12-22 02:36:16.430,4,MozillaWindowClass,0
+2022-12-22 02:36:16.430,5,\DISPLAY1,0
+2022-12-22 02:36:30.404,2,Chrome Legacy Window,0
+2022-12-22 02:36:30.404,3,LeagueClientUx.exe,0
+2022-12-22 02:36:30.404,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:36:30.404,5,\DISPLAY1,0
+2022-12-22 02:37:02.364,2,(98) YouTube — Mozilla Firefox,0
+2022-12-22 02:37:02.364,3,firefox.exe,0
+2022-12-22 02:37:02.364,4,MozillaWindowClass,0
+2022-12-22 02:37:02.364,5,\DISPLAY1,0
+2022-12-22 02:37:05.783,2,Chrome Legacy Window,0
+2022-12-22 02:37:05.783,3,LeagueClientUx.exe,0
+2022-12-22 02:37:05.783,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:37:05.783,5,\DISPLAY1,0
+2022-12-22 02:37:07.768,2,"Ornn Build for Top with Highest Winrate - LoL Runes, Items — Mozilla Firefox",0
+2022-12-22 02:37:07.768,3,firefox.exe,0
+2022-12-22 02:37:07.768,4,MozillaWindowClass,0
+2022-12-22 02:37:07.768,5,\DISPLAY1,0
+2022-12-22 02:37:13.137,2,Chrome Legacy Window,0
+2022-12-22 02:37:13.137,3,LeagueClientUx.exe,0
+2022-12-22 02:37:13.137,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:37:13.137,5,\DISPLAY1,0
+2022-12-22 02:37:49.170,2,Ornn ARAM Build - U.GG Ornn Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:37:49.170,3,firefox.exe,0
+2022-12-22 02:37:49.170,4,MozillaWindowClass,0
+2022-12-22 02:37:49.170,5,\DISPLAY1,0
+2022-12-22 02:37:59.170,2,League of Legends (TM) Client,0
+2022-12-22 02:37:59.170,3,League of Legends.exe,0
+2022-12-22 02:37:59.170,4,RiotWindowClass,0
+2022-12-22 02:37:59.170,5,\DISPLAY1,0
+2022-12-22 02:38:14.376,2,Ornn ARAM Build - U.GG Ornn Runes + Item Guide for ARAM — Mozilla Firefox,0
+2022-12-22 02:38:14.376,3,firefox.exe,0
+2022-12-22 02:38:14.376,4,MozillaWindowClass,0
+2022-12-22 02:38:14.376,5,\DISPLAY1,0
+2022-12-22 02:38:19.864,2,League of Legends (TM) Client,0
+2022-12-22 02:38:19.864,3,League of Legends.exe,0
+2022-12-22 02:38:19.864,4,RiotWindowClass,0
+2022-12-22 02:38:19.864,5,\DISPLAY1,0
+2022-12-22 02:38:25.908,2,(98) MAYDAY 五月天 [ 突然好想你 Suddenly missing you so bad ] Official Music Video - YouTube — Mozilla Firefox,0
+2022-12-22 02:38:25.908,3,firefox.exe,0
+2022-12-22 02:38:25.908,4,MozillaWindowClass,0
+2022-12-22 02:38:25.908,5,\DISPLAY1,0
+2022-12-22 02:38:26.869,2,League of Legends (TM) Client,0
+2022-12-22 02:38:26.869,3,League of Legends.exe,0
+2022-12-22 02:38:26.869,4,RiotWindowClass,0
+2022-12-22 02:38:26.869,5,\DISPLAY1,0
+2022-12-22 02:52:59.206,2,Camera,0
+2022-12-22 02:52:59.206,3,ApplicationFrameHost.exe,0
+2022-12-22 02:52:59.206,4,ApplicationFrameWindow,0
+2022-12-22 02:52:59.206,5,\DISPLAY1,0
+2022-12-22 02:53:21.156,2,Chrome Legacy Window,0
+2022-12-22 02:53:21.156,3,LeagueClientUx.exe,0
+2022-12-22 02:53:21.156,4,Chrome_RenderWidgetHostHWND,0
+2022-12-22 02:53:21.156,5,\DISPLAY1,0
+2022-12-22 02:53:35.243,2,Running applications,0
+2022-12-22 02:53:35.243,3,explorer.exe,0
+2022-12-22 02:53:35.243,4,MSTaskListWClass,0
+2022-12-22 02:53:35.243,5,\DISPLAY1,0
+2022-12-22 02:53:36.480,2,,0
+2022-12-22 02:53:36.480,3,cmd.exe,0
+2022-12-22 02:53:36.480,4,ConsoleWindowClass,0
+2022-12-22 02:53:36.480,5,\DISPLAY1,0
