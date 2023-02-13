@@ -15,7 +15,7 @@ parser.add_argument('-e', '--exe_path', default='../../../data/processed/exe.csv
 # Model Related
 parser.add_argument('-ts', '--test_size', default=0.2, type=int,
                     help='Test set size (percentage of entire dataset)')
-parser.add_argument('t', '--top', default=1, type=int,
+parser.add_argument('-t', '--top', default=1, type=int,
                     help='Number of executables to predict for each data point')
 parser.add_argument('-ex', '--experiment', default=1, type=int,
                     help='Experiment no.')
