@@ -1,0 +1,2169 @@
+MEASUREMENT_TIME	ID_INPUT	VALUE	PRIVATE_DATA
+2023-01-14 22:24:22.207	2	Chrome Legacy Window	0
+2023-01-14 22:24:22.207	3	RiotClientUx.exe	0
+2023-01-14 22:24:22.207	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:24:22.207	5	\DISPLAY1	0
+2023-01-14 22:24:31.723	2	Running applications	0
+2023-01-14 22:24:31.723	3	explorer.exe	0
+2023-01-14 22:24:31.723	4	MSTaskListWClass	0
+2023-01-14 22:24:31.723	5	\DISPLAY1	0
+2023-01-14 22:24:34.920	2	Public -- 2022-2023 (CCG DCA UCSD-HDSI Capstone) | Microsoft Teams	0
+2023-01-14 22:24:34.920	3	Teams.exe	0
+2023-01-14 22:24:34.920	4	Chrome_WidgetWin_1	0
+2023-01-14 22:24:34.920	5	\DISPLAY1	0
+2023-01-14 22:24:36.028	2	University of California, San Diego — Mozilla Firefox	0
+2023-01-14 22:24:36.028	3	firefox.exe	0
+2023-01-14 22:24:36.028	4	MozillaWindowClass	0
+2023-01-14 22:24:36.028	5	\DISPLAY1	0
+2023-01-14 22:24:48.283	2	Chrome Legacy Window	0
+2023-01-14 22:24:48.283	3	RiotClientUx.exe	0
+2023-01-14 22:24:48.283	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:24:48.283	5	\DISPLAY1	0
+2023-01-14 22:24:53.297	2	Log In | When I Work — Mozilla Firefox	0
+2023-01-14 22:24:53.297	3	firefox.exe	0
+2023-01-14 22:24:53.297	4	MozillaWindowClass	0
+2023-01-14 22:24:53.297	5	\DISPLAY1	0
+2023-01-14 22:25:13.793	2	Chrome Legacy Window	0
+2023-01-14 22:25:13.793	3	LeagueClientUx.exe	0
+2023-01-14 22:25:13.793	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:25:13.793	5	\DISPLAY1	0
+2023-01-14 22:25:25.613	2	When I Work :: Schedule, Track, Communicate — Mozilla Firefox	0
+2023-01-14 22:25:25.613	3	firefox.exe	0
+2023-01-14 22:25:25.613	4	MozillaWindowClass	0
+2023-01-14 22:25:25.613	5	\DISPLAY1	0
+2023-01-14 22:25:46.641	2	Chrome Legacy Window	0
+2023-01-14 22:25:46.641	3	LeagueClientUx.exe	0
+2023-01-14 22:25:46.641	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:25:46.641	5	\DISPLAY1	0
+2023-01-14 22:25:54.484	2	SINGLE SIGN-ON — Mozilla Firefox	0
+2023-01-14 22:25:54.484	3	firefox.exe	0
+2023-01-14 22:25:54.484	4	MozillaWindowClass	0
+2023-01-14 22:25:54.484	5	\DISPLAY1	0
+2023-01-14 22:30:14.715	2	Chrome Legacy Window	0
+2023-01-14 22:30:14.715	3	LeagueClientUx.exe	0
+2023-01-14 22:30:14.715	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:30:14.715	5	\DISPLAY1	0
+2023-01-14 22:31:33.890	2	(49) YouTube — Mozilla Firefox	0
+2023-01-14 22:31:33.890	3	firefox.exe	0
+2023-01-14 22:31:33.890	4	MozillaWindowClass	0
+2023-01-14 22:31:33.890	5	\DISPLAY1	0
+2023-01-14 22:31:44.279	2	Chrome Legacy Window	0
+2023-01-14 22:31:44.279	3	LeagueClientUx.exe	0
+2023-01-14 22:31:44.279	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:31:44.279	5	\DISPLAY1	0
+2023-01-14 22:32:13.168	2	(49) YouTube — Mozilla Firefox	0
+2023-01-14 22:32:13.168	3	firefox.exe	0
+2023-01-14 22:32:13.168	4	MozillaWindowClass	0
+2023-01-14 22:32:13.168	5	\DISPLAY1	0
+2023-01-14 22:32:22.911	2	Chrome Legacy Window	0
+2023-01-14 22:32:22.911	3	LeagueClientUx.exe	0
+2023-01-14 22:32:22.911	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:32:22.911	5	\DISPLAY1	0
+2023-01-14 22:32:25.117	2	Miss Fortune ARAM Build - U.GG Miss Fortune Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-14 22:32:25.117	3	firefox.exe	0
+2023-01-14 22:32:25.117	4	MozillaWindowClass	0
+2023-01-14 22:32:25.117	5	\DISPLAY1	0
+2023-01-14 22:32:31.846	2	Chrome Legacy Window	0
+2023-01-14 22:32:31.846	3	LeagueClientUx.exe	0
+2023-01-14 22:32:31.846	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:32:31.846	5	\DISPLAY1	0
+2023-01-14 22:32:34.048	2	Miss Fortune ARAM Build - U.GG Miss Fortune Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-14 22:32:34.048	3	firefox.exe	0
+2023-01-14 22:32:34.048	4	MozillaWindowClass	0
+2023-01-14 22:32:34.048	5	\DISPLAY1	0
+2023-01-14 22:33:23.205	2	Public -- 2022-2023 (CCG DCA UCSD-HDSI Capstone) | Microsoft Teams	0
+2023-01-14 22:33:23.205	3	Teams.exe	0
+2023-01-14 22:33:23.205	4	Chrome_WidgetWin_1	0
+2023-01-14 22:33:23.205	5	\DISPLAY1	0
+2023-01-14 22:33:33.205	2	(49) MASSIVE $21,000 Tesla Price Cut Is Here | Fans Are Furious - YouTube — Mozilla Firefox	0
+2023-01-14 22:33:33.205	3	firefox.exe	0
+2023-01-14 22:33:33.205	4	MozillaWindowClass	0
+2023-01-14 22:33:33.205	5	\DISPLAY1	0
+2023-01-14 22:35:03.210	2	League of Legends (TM) Client	0
+2023-01-14 22:35:03.210	3	League of Legends.exe	0
+2023-01-14 22:35:03.210	4	RiotWindowClass	0
+2023-01-14 22:35:03.210	5	\DISPLAY1	0
+2023-01-14 22:35:23.211	2	(49) MASSIVE $21,000 Tesla Price Cut Is Here | Fans Are Furious - YouTube — Mozilla Firefox	0
+2023-01-14 22:35:23.211	3	firefox.exe	0
+2023-01-14 22:35:23.211	4	MozillaWindowClass	0
+2023-01-14 22:35:23.211	5	\DISPLAY1	0
+2023-01-14 22:36:23.214	2	League of Legends (TM) Client	0
+2023-01-14 22:36:23.214	3	League of Legends.exe	0
+2023-01-14 22:36:23.214	4	RiotWindowClass	0
+2023-01-14 22:36:23.214	5	\DISPLAY1	0
+2023-01-14 22:36:33.214	2	(49) MASSIVE $21,000 Tesla Price Cut Is Here | Fans Are Furious - YouTube — Mozilla Firefox	0
+2023-01-14 22:36:33.214	3	firefox.exe	0
+2023-01-14 22:36:33.214	4	MozillaWindowClass	0
+2023-01-14 22:36:33.214	5	\DISPLAY1	0
+2023-01-14 22:36:52.131	2	League of Legends (TM) Client	0
+2023-01-14 22:36:52.131	3	League of Legends.exe	0
+2023-01-14 22:36:52.131	4	RiotWindowClass	0
+2023-01-14 22:36:52.131	5	\DISPLAY1	0
+2023-01-14 22:54:53.261	2	(49) 30 Tesla Tips and Tricks for 2023 | New Update Edition - YouTube — Mozilla Firefox	0
+2023-01-14 22:54:53.261	3	firefox.exe	0
+2023-01-14 22:54:53.261	4	MozillaWindowClass	0
+2023-01-14 22:54:53.261	5	\DISPLAY1	0
+2023-01-14 22:55:05.307	2	Chrome Legacy Window	0
+2023-01-14 22:55:05.307	3	LeagueClientUx.exe	0
+2023-01-14 22:55:05.307	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:55:05.307	5	\DISPLAY1	0
+2023-01-14 22:55:07.867	2	(49) 30 Tesla Tips and Tricks for 2023 | New Update Edition - YouTube — Mozilla Firefox	0
+2023-01-14 22:55:07.867	3	firefox.exe	0
+2023-01-14 22:55:07.867	4	MozillaWindowClass	0
+2023-01-14 22:55:07.867	5	\DISPLAY1	0
+2023-01-14 22:55:08.772	2	Chrome Legacy Window	0
+2023-01-14 22:55:08.772	3	LeagueClientUx.exe	0
+2023-01-14 22:55:08.772	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:55:08.772	5	\DISPLAY1	0
+2023-01-14 22:55:23.262	2	(49) YouTube — Mozilla Firefox	0
+2023-01-14 22:55:23.262	3	firefox.exe	0
+2023-01-14 22:55:23.262	4	MozillaWindowClass	0
+2023-01-14 22:55:23.262	5	\DISPLAY1	0
+2023-01-14 22:56:51.338	2	Chrome Legacy Window	0
+2023-01-14 22:56:51.338	3	LeagueClientUx.exe	0
+2023-01-14 22:56:51.338	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:56:51.338	5	\DISPLAY1	0
+2023-01-14 22:56:53.432	2	When I Work :: Schedule, Track, Communicate — Mozilla Firefox	0
+2023-01-14 22:56:53.432	3	firefox.exe	0
+2023-01-14 22:56:53.432	4	MozillaWindowClass	0
+2023-01-14 22:56:53.432	5	\DISPLAY1	0
+2023-01-14 22:57:14.173	2	Chrome Legacy Window	0
+2023-01-14 22:57:14.173	3	LeagueClientUx.exe	0
+2023-01-14 22:57:14.173	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 22:57:14.173	5	\DISPLAY1	0
+2023-01-14 22:57:59.055	2	When I Work :: Schedule, Track, Communicate — Mozilla Firefox	0
+2023-01-14 22:57:59.055	3	firefox.exe	0
+2023-01-14 22:57:59.055	4	MozillaWindowClass	0
+2023-01-14 22:57:59.055	5	\DISPLAY1	0
+2023-01-14 22:58:23.270	2		0
+2023-01-14 22:58:23.270	3	explorer.exe	0
+2023-01-14 22:58:23.270	4	ForegroundStaging	0
+2023-01-14 22:58:23.270	5	\DISPLAY1	0
+2023-01-14 22:58:33.271	2	(49) What It’s Like To Deliver For Amazon In New Rivian Vans - YouTube — Mozilla Firefox	0
+2023-01-14 22:58:33.271	3	firefox.exe	0
+2023-01-14 22:58:33.271	4	MozillaWindowClass	0
+2023-01-14 22:58:33.271	5	\DISPLAY1	0
+2023-01-14 22:58:41.144	2	League of Legends (TM) Client	0
+2023-01-14 22:58:41.144	3	League of Legends.exe	0
+2023-01-14 22:58:41.144	4	RiotWindowClass	0
+2023-01-14 22:58:41.144	5	\DISPLAY1	0
+2023-01-14 22:58:43.271	2	(49) What It’s Like To Deliver For Amazon In New Rivian Vans - YouTube — Mozilla Firefox	0
+2023-01-14 22:58:43.271	3	firefox.exe	0
+2023-01-14 22:58:43.271	4	MozillaWindowClass	0
+2023-01-14 22:58:43.271	5	\DISPLAY1	0
+2023-01-14 22:59:49.234	2	League of Legends (TM) Client	0
+2023-01-14 22:59:49.234	3	League of Legends.exe	0
+2023-01-14 22:59:49.234	4	RiotWindowClass	0
+2023-01-14 22:59:49.234	5	\DISPLAY1	0
+2023-01-14 23:14:33.308	2	League of Legends	0
+2023-01-14 23:14:33.308	3	LeagueClientUx.exe	0
+2023-01-14 23:14:33.308	4	RCLIENT	0
+2023-01-14 23:14:33.308	5	\DISPLAY1	0
+2023-01-14 23:15:00.236	2	(49) What It’s Like To Deliver For Amazon In New Rivian Vans - YouTube — Mozilla Firefox	0
+2023-01-14 23:15:00.236	3	firefox.exe	0
+2023-01-14 23:15:00.236	4	MozillaWindowClass	0
+2023-01-14 23:15:00.236	5	\DISPLAY1	0
+2023-01-14 23:15:01.055	2	Chrome Legacy Window	0
+2023-01-14 23:15:01.055	3	LeagueClientUx.exe	0
+2023-01-14 23:15:01.055	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 23:15:01.055	5	\DISPLAY1	0
+2023-01-14 23:15:17.604	2	(49) What It’s Like To Deliver For Amazon In New Rivian Vans - YouTube — Mozilla Firefox	0
+2023-01-14 23:15:17.604	3	firefox.exe	0
+2023-01-14 23:15:17.604	4	MozillaWindowClass	0
+2023-01-14 23:15:17.604	5	\DISPLAY1	0
+2023-01-14 23:15:48.971	2	Chrome Legacy Window	0
+2023-01-14 23:15:48.971	3	LeagueClientUx.exe	0
+2023-01-14 23:15:48.971	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 23:15:48.971	5	\DISPLAY1	0
+2023-01-14 23:17:03.314	2	(49) YouTube — Mozilla Firefox	0
+2023-01-14 23:17:03.314	3	firefox.exe	0
+2023-01-14 23:17:03.314	4	MozillaWindowClass	0
+2023-01-14 23:17:03.314	5	\DISPLAY1	0
+2023-01-14 23:17:13.314	2	League of Legends (TM) Client	0
+2023-01-14 23:17:13.314	3	League of Legends.exe	0
+2023-01-14 23:17:13.314	4	RiotWindowClass	0
+2023-01-14 23:17:13.314	5	\DISPLAY1	0
+2023-01-14 23:17:57.326	2	(49) YouTube — Mozilla Firefox	0
+2023-01-14 23:17:57.326	3	firefox.exe	0
+2023-01-14 23:17:57.326	4	MozillaWindowClass	0
+2023-01-14 23:17:57.326	5	\DISPLAY1	0
+2023-01-14 23:17:58.235	2	League of Legends (TM) Client	0
+2023-01-14 23:17:58.235	3	League of Legends.exe	0
+2023-01-14 23:17:58.235	4	RiotWindowClass	0
+2023-01-14 23:17:58.235	5	\DISPLAY1	0
+2023-01-14 23:38:33.366	2	(49) JJ LIN New Songs 2022 - 2022新歌 jj lin林俊杰最好的歌 - 這首歌的最佳專輯林俊杰 2022 Best Songs Of JJ Lin - YouTube — Mozilla Firefox	0
+2023-01-14 23:38:33.366	3	firefox.exe	0
+2023-01-14 23:38:33.366	4	MozillaWindowClass	0
+2023-01-14 23:38:33.366	5	\DISPLAY1	0
+2023-01-14 23:39:17.455	2	Chrome Legacy Window	0
+2023-01-14 23:39:17.455	3	LeagueClientUx.exe	0
+2023-01-14 23:39:17.455	4	Chrome_RenderWidgetHostHWND	0
+2023-01-14 23:39:17.455	5	\DISPLAY1	0
+2023-01-14 23:42:18.377	2	Start	0
+2023-01-14 23:42:18.377	3	explorer.exe	0
+2023-01-14 23:42:18.377	4	Start	0
+2023-01-14 23:42:18.377	5	\DISPLAY1	0
+2023-01-14 23:42:18.883	2	Start	0
+2023-01-14 23:42:18.883	3	StartMenuExperienceHost.exe	0
+2023-01-14 23:42:18.883	4	Windows.UI.Core.CoreWindow	0
+2023-01-14 23:42:18.883	5	\DISPLAY1	0
+2023-01-14 23:42:20.933	2	(49) JJ LIN New Songs 2022 - 2022新歌 jj lin林俊杰最好的歌 - 這首歌的最佳專輯林俊杰 2022 Best Songs Of JJ Lin - YouTube — Mozilla Firefox	0
+2023-01-14 23:42:20.933	3	firefox.exe	0
+2023-01-14 23:42:20.933	4	MozillaWindowClass	0
+2023-01-14 23:42:20.933	5	\DISPLAY1	0
+2023-01-15 00:00:05.915	2	Chrome Legacy Window	0
+2023-01-15 00:00:05.915	3	LeagueClientUx.exe	0
+2023-01-15 00:00:05.915	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 00:00:05.915	5	\DISPLAY1	0
+2023-01-15 00:01:35.377	2	(49) JJ LIN New Songs 2022 - 2022新歌 jj lin林俊杰最好的歌 - 這首歌的最佳專輯林俊杰 2022 Best Songs Of JJ Lin - YouTube — Mozilla Firefox	0
+2023-01-15 00:01:35.377	3	firefox.exe	0
+2023-01-15 00:01:35.377	4	MozillaWindowClass	0
+2023-01-15 00:01:35.377	5	\DISPLAY1	0
+2023-01-15 00:01:36.501	2	Chrome Legacy Window	0
+2023-01-15 00:01:36.501	3	LeagueClientUx.exe	0
+2023-01-15 00:01:36.501	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 00:01:36.501	5	\DISPLAY1	0
+2023-01-15 00:01:40.049	2	(49) JJ LIN New Songs 2022 - 2022新歌 jj lin林俊杰最好的歌 - 這首歌的最佳專輯林俊杰 2022 Best Songs Of JJ Lin - YouTube — Mozilla Firefox	0
+2023-01-15 00:01:40.049	3	firefox.exe	0
+2023-01-15 00:01:40.049	4	MozillaWindowClass	0
+2023-01-15 00:01:40.049	5	\DISPLAY1	0
+2023-01-15 00:42:38.016	2	Search highlights icon opens search home window	0
+2023-01-15 00:42:38.016	3	explorer.exe	0
+2023-01-15 00:42:38.016	4	DynamicContent1	0
+2023-01-15 00:42:38.016	5	\DISPLAY1	0
+2023-01-15 00:42:43.502	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 00:42:43.502	3	ApplicationFrameHost.exe	0
+2023-01-15 00:42:43.502	4	ApplicationFrameWindow	0
+2023-01-15 00:42:43.502	5	\DISPLAY1	0
+2023-01-15 00:42:44.193	2	OneNote for Windows 10	0
+2023-01-15 00:42:44.193	3	onenoteim.exe	0
+2023-01-15 00:42:44.193	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 00:42:44.193	5	\DISPLAY1	0
+2023-01-15 00:42:47.117	2	Running applications	0
+2023-01-15 00:42:47.117	3	explorer.exe	0
+2023-01-15 00:42:47.117	4	MSTaskListWClass	0
+2023-01-15 00:42:47.117	5	\DISPLAY1	0
+2023-01-15 00:42:48.472	2	Media Gallery — Mozilla Firefox	0
+2023-01-15 00:42:48.472	3	firefox.exe	0
+2023-01-15 00:42:48.472	4	MozillaWindowClass	0
+2023-01-15 00:42:48.472	5	\DISPLAY1	0
+2023-01-15 00:42:50.340	2	Running applications	0
+2023-01-15 00:42:50.340	3	explorer.exe	0
+2023-01-15 00:42:50.340	4	MSTaskListWClass	0
+2023-01-15 00:42:50.340	5	\DISPLAY1	0
+2023-01-15 00:42:53.503	2		0
+2023-01-15 00:42:53.503	3	cmd.exe	0
+2023-01-15 00:42:53.503	4	ConsoleWindowClass	0
+2023-01-15 00:42:53.503	5	\DISPLAY1	0
+2023-01-15 00:42:56.148	2	Media Gallery — Mozilla Firefox	0
+2023-01-15 00:42:56.148	3	firefox.exe	0
+2023-01-15 00:42:56.148	4	MozillaWindowClass	0
+2023-01-15 00:42:56.148	5	\DISPLAY1	0
+2023-01-15 00:43:13.320	2	OneNote for Windows 10	0
+2023-01-15 00:43:13.320	3	onenoteim.exe	0
+2023-01-15 00:43:13.320	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 00:43:13.320	5	\DISPLAY1	0
+2023-01-15 00:43:13.503	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 00:43:13.503	3	ApplicationFrameHost.exe	0
+2023-01-15 00:43:13.503	4	ApplicationFrameWindow	0
+2023-01-15 00:43:13.503	5	\DISPLAY1	0
+2023-01-15 00:43:20.400	2	MGT 180 - B00 - Business Finance - Engelberg [WI23] — Mozilla Firefox	0
+2023-01-15 00:43:20.400	3	firefox.exe	0
+2023-01-15 00:43:20.400	4	MozillaWindowClass	0
+2023-01-15 00:43:20.400	5	\DISPLAY1	0
+2023-01-15 00:44:13.506	2	Search	0
+2023-01-15 00:44:13.506	3	SearchApp.exe	0
+2023-01-15 00:44:13.506	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 00:44:13.506	5	\DISPLAY1	0
+2023-01-15 00:44:17.872	2		0
+2023-01-15 00:44:17.872	3	EXCEL.EXE	0
+2023-01-15 00:44:17.872	4	NetUIHWND	0
+2023-01-15 00:44:17.872	5	\DISPLAY1	0
+2023-01-15 00:44:41.424	2	Picture-in-Picture	0
+2023-01-15 00:44:41.424	3	firefox.exe	0
+2023-01-15 00:44:41.424	4	MozillaDialogClass	0
+2023-01-15 00:44:41.424	5	\DISPLAY1	0
+2023-01-15 00:44:55.647	2	Book1	0
+2023-01-15 00:44:55.647	3	EXCEL.EXE	0
+2023-01-15 00:44:55.647	4	EXCEL7	0
+2023-01-15 00:44:55.647	5	\DISPLAY1	0
+2023-01-15 00:45:08.302	2	Picture-in-Picture	0
+2023-01-15 00:45:08.302	3	firefox.exe	0
+2023-01-15 00:45:08.302	4	MozillaDialogClass	0
+2023-01-15 00:45:08.302	5	\DISPLAY1	0
+2023-01-15 00:45:11.243	2	Book1	0
+2023-01-15 00:45:11.243	3	EXCEL.EXE	0
+2023-01-15 00:45:11.243	4	EXCEL7	0
+2023-01-15 00:45:11.243	5	\DISPLAY1	0
+2023-01-15 00:45:42.635	2	Picture-in-Picture	0
+2023-01-15 00:45:42.635	3	firefox.exe	0
+2023-01-15 00:45:42.635	4	MozillaDialogClass	0
+2023-01-15 00:45:42.635	5	\DISPLAY1	0
+2023-01-15 00:51:01.068	2	OneNote for Windows 10	0
+2023-01-15 00:51:01.068	3	onenoteim.exe	0
+2023-01-15 00:51:01.068	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 00:51:01.068	5	\DISPLAY1	0
+2023-01-15 00:51:03.520	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 00:51:03.520	3	ApplicationFrameHost.exe	0
+2023-01-15 00:51:03.520	4	ApplicationFrameWindow	0
+2023-01-15 00:51:03.520	5	\DISPLAY1	0
+2023-01-15 00:53:46.763	2	Picture-in-Picture	0
+2023-01-15 00:53:46.763	3	firefox.exe	0
+2023-01-15 00:53:46.763	4	MozillaDialogClass	0
+2023-01-15 00:53:46.763	5	\DISPLAY1	0
+2023-01-15 00:55:13.624	2	Running applications	0
+2023-01-15 00:55:13.624	3	explorer.exe	0
+2023-01-15 00:55:13.624	4	MSTaskListWClass	0
+2023-01-15 00:55:13.624	5	\DISPLAY1	0
+2023-01-15 00:55:16.223	2	Book1	0
+2023-01-15 00:55:16.223	3	EXCEL.EXE	0
+2023-01-15 00:55:16.223	4	EXCEL7	0
+2023-01-15 00:55:16.223	5	\DISPLAY1	0
+2023-01-15 00:56:51.952	2	Picture-in-Picture	0
+2023-01-15 00:56:51.952	3	firefox.exe	0
+2023-01-15 00:56:51.952	4	MozillaDialogClass	0
+2023-01-15 00:56:51.952	5	\DISPLAY1	0
+2023-01-15 01:07:21.164	2	OneNote for Windows 10	0
+2023-01-15 01:07:21.164	3	onenoteim.exe	0
+2023-01-15 01:07:21.164	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:07:21.164	5	\DISPLAY1	0
+2023-01-15 01:07:23.558	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 01:07:23.558	3	ApplicationFrameHost.exe	0
+2023-01-15 01:07:23.558	4	ApplicationFrameWindow	0
+2023-01-15 01:07:23.558	5	\DISPLAY1	0
+2023-01-15 01:07:29.758	2	Screen Snipping	0
+2023-01-15 01:07:29.758	3	ScreenClippingHost.exe	0
+2023-01-15 01:07:29.758	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:07:29.758	5	\DISPLAY1	0
+2023-01-15 01:07:38.506	2	Picture-in-Picture	0
+2023-01-15 01:07:38.506	3	firefox.exe	0
+2023-01-15 01:07:38.506	4	MozillaDialogClass	0
+2023-01-15 01:07:38.506	5	\DISPLAY1	0
+2023-01-15 01:07:53.948	2	Running applications	0
+2023-01-15 01:07:53.948	3	explorer.exe	0
+2023-01-15 01:07:53.948	4	MSTaskListWClass	0
+2023-01-15 01:07:53.948	5	\DISPLAY1	0
+2023-01-15 01:07:55.032	2	Book1	0
+2023-01-15 01:07:55.032	3	EXCEL.EXE	0
+2023-01-15 01:07:55.032	4	EXCEL7	0
+2023-01-15 01:07:55.032	5	\DISPLAY1	0
+2023-01-15 01:08:35.988	2	Picture-in-Picture	0
+2023-01-15 01:08:35.988	3	firefox.exe	0
+2023-01-15 01:08:35.988	4	MozillaDialogClass	0
+2023-01-15 01:08:35.988	5	\DISPLAY1	0
+2023-01-15 01:09:12.254	2	Book1	0
+2023-01-15 01:09:12.254	3	EXCEL.EXE	0
+2023-01-15 01:09:12.254	4	EXCEL7	0
+2023-01-15 01:09:12.254	5	\DISPLAY1	0
+2023-01-15 01:09:47.224	2	Picture-in-Picture	0
+2023-01-15 01:09:47.224	3	firefox.exe	0
+2023-01-15 01:09:47.224	4	MozillaDialogClass	0
+2023-01-15 01:09:47.224	5	\DISPLAY1	0
+2023-01-15 01:10:35.143	2	OneNote for Windows 10	0
+2023-01-15 01:10:35.143	3	onenoteim.exe	0
+2023-01-15 01:10:35.143	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:10:35.143	5	\DISPLAY1	0
+2023-01-15 01:10:37.967	2	Media Gallery — Mozilla Firefox	0
+2023-01-15 01:10:37.967	3	firefox.exe	0
+2023-01-15 01:10:37.967	4	MozillaWindowClass	0
+2023-01-15 01:10:37.967	5	\DISPLAY1	0
+2023-01-15 01:10:41.029	2	OneNote for Windows 10	0
+2023-01-15 01:10:41.029	3	onenoteim.exe	0
+2023-01-15 01:10:41.029	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:10:41.029	5	\DISPLAY1	0
+2023-01-15 01:10:43.562	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 01:10:43.562	3	ApplicationFrameHost.exe	0
+2023-01-15 01:10:43.562	4	ApplicationFrameWindow	0
+2023-01-15 01:10:43.562	5	\DISPLAY1	0
+2023-01-15 01:10:54.157	2	MGT 180 - B00 - Business Finance - Engelberg [WI23] — Mozilla Firefox	0
+2023-01-15 01:10:54.157	3	firefox.exe	0
+2023-01-15 01:10:54.157	4	MozillaWindowClass	0
+2023-01-15 01:10:54.157	5	\DISPLAY1	0
+2023-01-15 01:11:40.095	2	Running applications	0
+2023-01-15 01:11:40.095	3	explorer.exe	0
+2023-01-15 01:11:40.095	4	MSTaskListWClass	0
+2023-01-15 01:11:40.095	5	\DISPLAY1	0
+2023-01-15 01:11:43.565	2	Book1 - Excel	0
+2023-01-15 01:11:43.565	3	EXCEL.EXE	0
+2023-01-15 01:11:43.565	4	XLMAIN	0
+2023-01-15 01:11:43.565	5	\DISPLAY1	0
+2023-01-15 01:11:45.370	2	Picture-in-Picture	0
+2023-01-15 01:11:45.370	3	firefox.exe	0
+2023-01-15 01:11:45.370	4	MozillaDialogClass	0
+2023-01-15 01:11:45.370	5	\DISPLAY1	0
+2023-01-15 01:12:04.383	2	OneNote for Windows 10	0
+2023-01-15 01:12:04.383	3	onenoteim.exe	0
+2023-01-15 01:12:04.383	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:12:04.383	5	\DISPLAY1	0
+2023-01-15 01:12:13.566	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 01:12:13.566	3	ApplicationFrameHost.exe	0
+2023-01-15 01:12:13.566	4	ApplicationFrameWindow	0
+2023-01-15 01:12:13.566	5	\DISPLAY1	0
+2023-01-15 01:13:05.467	2	Picture-in-Picture	0
+2023-01-15 01:13:05.467	3	firefox.exe	0
+2023-01-15 01:13:05.467	4	MozillaDialogClass	0
+2023-01-15 01:13:05.467	5	\DISPLAY1	0
+2023-01-15 01:15:47.398	2	OneNote for Windows 10	0
+2023-01-15 01:15:47.398	3	onenoteim.exe	0
+2023-01-15 01:15:47.398	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:15:47.398	5	\DISPLAY1	0
+2023-01-15 01:15:53.572	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 01:15:53.572	3	ApplicationFrameHost.exe	0
+2023-01-15 01:15:53.572	4	ApplicationFrameWindow	0
+2023-01-15 01:15:53.572	5	\DISPLAY1	0
+2023-01-15 01:16:53.573	2	Picture-in-Picture	0
+2023-01-15 01:16:53.573	3	firefox.exe	0
+2023-01-15 01:16:53.573	4	MozillaDialogClass	0
+2023-01-15 01:16:53.573	5	\DISPLAY1	0
+2023-01-15 01:17:01.930	2	Running applications	0
+2023-01-15 01:17:01.930	3	explorer.exe	0
+2023-01-15 01:17:01.930	4	MSTaskListWClass	0
+2023-01-15 01:17:01.930	5	\DISPLAY1	0
+2023-01-15 01:17:03.573	2	Book1 - Excel	0
+2023-01-15 01:17:03.573	3	EXCEL.EXE	0
+2023-01-15 01:17:03.573	4	XLMAIN	0
+2023-01-15 01:17:03.573	5	\DISPLAY1	0
+2023-01-15 01:17:15.658	2	Picture-in-Picture	0
+2023-01-15 01:17:15.658	3	firefox.exe	0
+2023-01-15 01:17:15.658	4	MozillaDialogClass	0
+2023-01-15 01:17:15.658	5	\DISPLAY1	0
+2023-01-15 01:19:03.578	2	Book1 - Excel	0
+2023-01-15 01:19:03.578	3	EXCEL.EXE	0
+2023-01-15 01:19:03.578	4	XLMAIN	0
+2023-01-15 01:19:03.578	5	\DISPLAY1	0
+2023-01-15 01:19:13.579	2	Media Gallery — Mozilla Firefox	0
+2023-01-15 01:19:13.579	3	firefox.exe	0
+2023-01-15 01:19:13.579	4	MozillaWindowClass	0
+2023-01-15 01:19:13.579	5	\DISPLAY1	0
+2023-01-15 01:20:05.522	2	OneNote for Windows 10	0
+2023-01-15 01:20:05.522	3	onenoteim.exe	0
+2023-01-15 01:20:05.522	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:20:05.522	5	\DISPLAY1	0
+2023-01-15 01:20:13.581	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 01:20:13.581	3	ApplicationFrameHost.exe	0
+2023-01-15 01:20:13.581	4	ApplicationFrameWindow	0
+2023-01-15 01:20:13.581	5	\DISPLAY1	0
+2023-01-15 01:20:29.047	2	Media Gallery — Mozilla Firefox	0
+2023-01-15 01:20:29.047	3	firefox.exe	0
+2023-01-15 01:20:29.047	4	MozillaWindowClass	0
+2023-01-15 01:20:29.047	5	\DISPLAY1	0
+2023-01-15 01:20:30.744	2	OneNote for Windows 10	0
+2023-01-15 01:20:30.744	3	onenoteim.exe	0
+2023-01-15 01:20:30.744	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:20:30.744	5	\DISPLAY1	0
+2023-01-15 01:20:33.582	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 01:20:33.582	3	ApplicationFrameHost.exe	0
+2023-01-15 01:20:33.582	4	ApplicationFrameWindow	0
+2023-01-15 01:20:33.582	5	\DISPLAY1	0
+2023-01-15 01:22:01.493	2	Media Gallery — Mozilla Firefox	0
+2023-01-15 01:22:01.493	3	firefox.exe	0
+2023-01-15 01:22:01.493	4	MozillaWindowClass	0
+2023-01-15 01:22:01.493	5	\DISPLAY1	0
+2023-01-15 01:23:08.091	2	OneNote for Windows 10	0
+2023-01-15 01:23:08.091	3	onenoteim.exe	0
+2023-01-15 01:23:08.091	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:23:08.091	5	\DISPLAY1	0
+2023-01-15 01:23:13.588	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 01:23:13.588	3	ApplicationFrameHost.exe	0
+2023-01-15 01:23:13.588	4	ApplicationFrameWindow	0
+2023-01-15 01:23:13.588	5	\DISPLAY1	0
+2023-01-15 01:24:03.101	2	Media Gallery — Mozilla Firefox	0
+2023-01-15 01:24:03.101	3	firefox.exe	0
+2023-01-15 01:24:03.101	4	MozillaWindowClass	0
+2023-01-15 01:24:03.101	5	\DISPLAY1	0
+2023-01-15 01:24:04.937	2	Screen Snipping	0
+2023-01-15 01:24:04.937	3	ScreenClippingHost.exe	0
+2023-01-15 01:24:04.937	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:24:04.937	5	\DISPLAY1	0
+2023-01-15 01:24:07.370	2	OneNote for Windows 10	0
+2023-01-15 01:24:07.370	3	onenoteim.exe	0
+2023-01-15 01:24:07.370	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:24:07.370	5	\DISPLAY1	0
+2023-01-15 01:24:08.146	2	Media Gallery — Mozilla Firefox	0
+2023-01-15 01:24:08.146	3	firefox.exe	0
+2023-01-15 01:24:08.146	4	MozillaWindowClass	0
+2023-01-15 01:24:08.146	5	\DISPLAY1	0
+2023-01-15 01:29:22.716	2		0
+2023-01-15 01:29:22.716	3	explorer.exe	0
+2023-01-15 01:29:22.716	4	TaskListThumbnailWnd	0
+2023-01-15 01:29:22.716	5	\DISPLAY1	0
+2023-01-15 01:29:23.088	2	Media Gallery — Mozilla Firefox	0
+2023-01-15 01:29:23.088	3	firefox.exe	0
+2023-01-15 01:29:23.088	4	MozillaWindowClass	0
+2023-01-15 01:29:23.088	5	\DISPLAY1	0
+2023-01-15 01:29:24.097	2	Book1	0
+2023-01-15 01:29:24.097	3	EXCEL.EXE	0
+2023-01-15 01:29:24.097	4	EXCEL7	0
+2023-01-15 01:29:24.097	5	\DISPLAY1	0
+2023-01-15 01:31:43.308	2	Media Gallery — Mozilla Firefox	0
+2023-01-15 01:31:43.308	3	firefox.exe	0
+2023-01-15 01:31:43.308	4	MozillaWindowClass	0
+2023-01-15 01:31:43.308	5	\DISPLAY1	0
+2023-01-15 01:33:03.609	2	Riot Client Main	0
+2023-01-15 01:33:03.609	3	RiotClientUx.exe	0
+2023-01-15 01:33:03.609	4	RCLIENT	0
+2023-01-15 01:33:03.609	5	\DISPLAY1	0
+2023-01-15 01:33:10.241	2	(49) YouTube — Mozilla Firefox	0
+2023-01-15 01:33:10.241	3	firefox.exe	0
+2023-01-15 01:33:10.241	4	MozillaWindowClass	0
+2023-01-15 01:33:10.241	5	\DISPLAY1	0
+2023-01-15 01:33:26.363	2	Running applications	0
+2023-01-15 01:33:26.363	3	explorer.exe	0
+2023-01-15 01:33:26.363	4	MSTaskListWClass	0
+2023-01-15 01:33:26.363	5	\DISPLAY1	0
+2023-01-15 01:33:28.005	2	Chrome Legacy Window	0
+2023-01-15 01:33:28.005	3	LeagueClientUx.exe	0
+2023-01-15 01:33:28.005	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 01:33:28.005	5	\DISPLAY1	0
+2023-01-15 01:34:06.244	2	(49) T1 vs DRX - Game 5 | Grand Finals LoL Worlds 2022 | DRX vs T1 - G5 full game - YouTube — Mozilla Firefox	0
+2023-01-15 01:34:06.244	3	firefox.exe	0
+2023-01-15 01:34:06.244	4	MozillaWindowClass	0
+2023-01-15 01:34:06.244	5	\DISPLAY1	0
+2023-01-15 01:34:07.357	2	Chrome Legacy Window	0
+2023-01-15 01:34:07.357	3	LeagueClientUx.exe	0
+2023-01-15 01:34:07.357	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 01:34:07.357	5	\DISPLAY1	0
+2023-01-15 01:34:19.853	2	(49) T1 vs DRX - Game 5 | Grand Finals LoL Worlds 2022 | DRX vs T1 - G5 full game - YouTube — Mozilla Firefox	0
+2023-01-15 01:34:19.853	3	firefox.exe	0
+2023-01-15 01:34:19.853	4	MozillaWindowClass	0
+2023-01-15 01:34:19.853	5	\DISPLAY1	0
+2023-01-15 01:35:23.616	2	Task Switching	0
+2023-01-15 01:35:23.616	3	explorer.exe	0
+2023-01-15 01:35:23.616	4	MultitaskingViewFrame	0
+2023-01-15 01:35:23.616	5	\DISPLAY1	0
+2023-01-15 01:35:33.616	2	(49) T1 vs DRX - Game 5 | Grand Finals LoL Worlds 2022 | DRX vs T1 - G5 full game - YouTube — Mozilla Firefox	0
+2023-01-15 01:35:33.616	3	firefox.exe	0
+2023-01-15 01:35:33.616	4	MozillaWindowClass	0
+2023-01-15 01:35:33.616	5	\DISPLAY1	0
+2023-01-15 01:36:00.927	2	League of Legends (TM) Client	0
+2023-01-15 01:36:00.927	3	League of Legends.exe	0
+2023-01-15 01:36:00.927	4	RiotWindowClass	0
+2023-01-15 01:36:00.927	5	\DISPLAY1	0
+2023-01-15 01:36:38.722	2	(49) T1 vs DRX - Game 5 | Grand Finals LoL Worlds 2022 | DRX vs T1 - G5 full game - YouTube — Mozilla Firefox	0
+2023-01-15 01:36:38.722	3	firefox.exe	0
+2023-01-15 01:36:38.722	4	MozillaWindowClass	0
+2023-01-15 01:36:38.722	5	\DISPLAY1	0
+2023-01-15 01:36:41.125	2	League of Legends (TM) Client	0
+2023-01-15 01:36:41.125	3	League of Legends.exe	0
+2023-01-15 01:36:41.125	4	RiotWindowClass	0
+2023-01-15 01:36:41.125	5	\DISPLAY1	0
+2023-01-15 01:50:05.213	2	(49) JJ LIN New Songs 2022 - 2022新歌 jj lin林俊杰最好的歌 - 這首歌的最佳專輯林俊杰 2022 Best Songs Of JJ Lin - YouTube — Mozilla Firefox	0
+2023-01-15 01:50:05.213	3	firefox.exe	0
+2023-01-15 01:50:05.213	4	MozillaWindowClass	0
+2023-01-15 01:50:05.213	5	\DISPLAY1	0
+2023-01-15 01:50:08.151	2	Chrome Legacy Window	0
+2023-01-15 01:50:08.151	3	LeagueClientUx.exe	0
+2023-01-15 01:50:08.151	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 01:50:08.151	5	\DISPLAY1	0
+2023-01-15 01:50:58.697	2	(49) JJ LIN New Songs 2022 - 2022新歌 jj lin林俊杰最好的歌 - 這首歌的最佳專輯林俊杰 2022 Best Songs Of JJ Lin - YouTube — Mozilla Firefox	0
+2023-01-15 01:50:58.697	3	firefox.exe	0
+2023-01-15 01:50:58.697	4	MozillaWindowClass	0
+2023-01-15 01:50:58.697	5	\DISPLAY1	0
+2023-01-15 01:51:18.963	2	OneNote for Windows 10	0
+2023-01-15 01:51:18.963	3	onenoteim.exe	0
+2023-01-15 01:51:18.963	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 01:51:18.963	5	\DISPLAY1	0
+2023-01-15 01:51:25.216	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 01:51:25.216	3	ApplicationFrameHost.exe	0
+2023-01-15 01:51:25.216	4	ApplicationFrameWindow	0
+2023-01-15 01:51:25.216	5	\DISPLAY1	0
+2023-01-15 01:51:34.344	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 01:51:34.344	3	firefox.exe	0
+2023-01-15 01:51:34.344	4	MozillaWindowClass	0
+2023-01-15 01:51:34.344	5	\DISPLAY1	0
+2023-01-15 02:51:47.098	2	Running applications	0
+2023-01-15 02:51:47.098	3	explorer.exe	0
+2023-01-15 02:51:47.098	4	MSTaskListWClass	0
+2023-01-15 02:51:47.098	5	\DISPLAY1	0
+2023-01-15 02:51:48.352	2		0
+2023-01-15 02:51:48.352	3	EXCEL.EXE	0
+2023-01-15 02:51:48.352	4	NetUIHWND	0
+2023-01-15 02:51:48.352	5	\DISPLAY1	0
+2023-01-15 02:51:52.467	2	Running applications	0
+2023-01-15 02:51:52.467	3	explorer.exe	0
+2023-01-15 02:51:52.467	4	MSTaskListWClass	0
+2023-01-15 02:51:52.467	5	\DISPLAY1	0
+2023-01-15 02:51:55.355	2	League of Legends	0
+2023-01-15 02:51:55.355	3	LeagueClientUx.exe	0
+2023-01-15 02:51:55.355	4	RCLIENT	0
+2023-01-15 02:51:55.355	5	\DISPLAY1	0
+2023-01-15 02:51:59.311	2	Chrome Legacy Window	0
+2023-01-15 02:51:59.311	3	RiotClientUx.exe	0
+2023-01-15 02:51:59.311	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 02:51:59.311	5	\DISPLAY1	0
+2023-01-15 02:52:05.356	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:52:05.356	3	firefox.exe	0
+2023-01-15 02:52:05.356	4	MozillaWindowClass	0
+2023-01-15 02:52:05.356	5	\DISPLAY1	0
+2023-01-15 02:52:05.450	2	Chrome Legacy Window	0
+2023-01-15 02:52:05.450	3	RiotClientUx.exe	0
+2023-01-15 02:52:05.450	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 02:52:05.450	5	\DISPLAY1	0
+2023-01-15 02:52:14.418	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:52:14.418	3	firefox.exe	0
+2023-01-15 02:52:14.418	4	MozillaWindowClass	0
+2023-01-15 02:52:14.418	5	\DISPLAY1	0
+2023-01-15 02:52:22.606	2	Running applications	0
+2023-01-15 02:52:22.606	3	explorer.exe	0
+2023-01-15 02:52:22.606	4	MSTaskListWClass	0
+2023-01-15 02:52:22.606	5	\DISPLAY1	0
+2023-01-15 02:52:23.312	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:52:23.312	3	firefox.exe	0
+2023-01-15 02:52:23.312	4	MozillaWindowClass	0
+2023-01-15 02:52:23.312	5	\DISPLAY1	0
+2023-01-15 02:52:23.976	2	OneNote for Windows 10	0
+2023-01-15 02:52:23.976	3	onenoteim.exe	0
+2023-01-15 02:52:23.976	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 02:52:23.976	5	\DISPLAY1	0
+2023-01-15 02:52:25.356	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 02:52:25.356	3	ApplicationFrameHost.exe	0
+2023-01-15 02:52:25.356	4	ApplicationFrameWindow	0
+2023-01-15 02:52:25.356	5	\DISPLAY1	0
+2023-01-15 02:52:27.426	2	OneNote for Windows 10	0
+2023-01-15 02:52:27.426	3	onenoteim.exe	0
+2023-01-15 02:52:27.426	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 02:52:27.426	5	\DISPLAY1	0
+2023-01-15 02:52:35.357	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 02:52:35.357	3	ApplicationFrameHost.exe	0
+2023-01-15 02:52:35.357	4	ApplicationFrameWindow	0
+2023-01-15 02:52:35.357	5	\DISPLAY1	0
+2023-01-15 02:52:38.519	2	OneNote for Windows 10	0
+2023-01-15 02:52:38.519	3	onenoteim.exe	0
+2023-01-15 02:52:38.519	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 02:52:38.519	5	\DISPLAY1	0
+2023-01-15 02:52:42.887	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:52:42.887	3	firefox.exe	0
+2023-01-15 02:52:42.887	4	MozillaWindowClass	0
+2023-01-15 02:52:42.887	5	\DISPLAY1	0
+2023-01-15 02:52:46.698	2	OneNote for Windows 10	0
+2023-01-15 02:52:46.698	3	onenoteim.exe	0
+2023-01-15 02:52:46.698	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 02:52:46.698	5	\DISPLAY1	0
+2023-01-15 02:52:55.357	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 02:52:55.357	3	ApplicationFrameHost.exe	0
+2023-01-15 02:52:55.357	4	ApplicationFrameWindow	0
+2023-01-15 02:52:55.357	5	\DISPLAY1	0
+2023-01-15 02:53:05.262	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:53:05.262	3	firefox.exe	0
+2023-01-15 02:53:05.262	4	MozillaWindowClass	0
+2023-01-15 02:53:05.262	5	\DISPLAY1	0
+2023-01-15 02:53:13.067	2	Running applications	0
+2023-01-15 02:53:13.067	3	explorer.exe	0
+2023-01-15 02:53:13.067	4	MSTaskListWClass	0
+2023-01-15 02:53:13.067	5	\DISPLAY1	0
+2023-01-15 02:53:15.079	2	Chrome Legacy Window	0
+2023-01-15 02:53:15.079	3	LeagueClientUx.exe	0
+2023-01-15 02:53:15.079	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 02:53:15.079	5	\DISPLAY1	0
+2023-01-15 02:53:38.310	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:53:38.310	3	firefox.exe	0
+2023-01-15 02:53:38.310	4	MozillaWindowClass	0
+2023-01-15 02:53:38.310	5	\DISPLAY1	0
+2023-01-15 02:54:26.940	2	Chrome Legacy Window	0
+2023-01-15 02:54:26.940	3	LeagueClientUx.exe	0
+2023-01-15 02:54:26.940	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 02:54:26.940	5	\DISPLAY1	0
+2023-01-15 02:54:31.947	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:54:31.947	3	firefox.exe	0
+2023-01-15 02:54:31.947	4	MozillaWindowClass	0
+2023-01-15 02:54:31.947	5	\DISPLAY1	0
+2023-01-15 02:55:26.391	2	Chrome Legacy Window	0
+2023-01-15 02:55:26.391	3	LeagueClientUx.exe	0
+2023-01-15 02:55:26.391	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 02:55:26.391	5	\DISPLAY1	0
+2023-01-15 02:55:51.110	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:55:51.110	3	firefox.exe	0
+2023-01-15 02:55:51.110	4	MozillaWindowClass	0
+2023-01-15 02:55:51.110	5	\DISPLAY1	0
+2023-01-15 02:56:03.566	2	Chrome Legacy Window	0
+2023-01-15 02:56:03.566	3	LeagueClientUx.exe	0
+2023-01-15 02:56:03.566	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 02:56:03.566	5	\DISPLAY1	0
+2023-01-15 02:56:12.462	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:56:12.462	3	firefox.exe	0
+2023-01-15 02:56:12.462	4	MozillaWindowClass	0
+2023-01-15 02:56:12.462	5	\DISPLAY1	0
+2023-01-15 02:56:18.172	2	Chrome Legacy Window	0
+2023-01-15 02:56:18.172	3	LeagueClientUx.exe	0
+2023-01-15 02:56:18.172	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 02:56:18.172	5	\DISPLAY1	0
+2023-01-15 02:56:21.143	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:56:21.143	3	firefox.exe	0
+2023-01-15 02:56:21.143	4	MozillaWindowClass	0
+2023-01-15 02:56:21.143	5	\DISPLAY1	0
+2023-01-15 02:56:22.152	2	Chrome Legacy Window	0
+2023-01-15 02:56:22.152	3	LeagueClientUx.exe	0
+2023-01-15 02:56:22.152	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 02:56:22.152	5	\DISPLAY1	0
+2023-01-15 02:57:36.259	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:57:36.259	3	firefox.exe	0
+2023-01-15 02:57:36.259	4	MozillaWindowClass	0
+2023-01-15 02:57:36.259	5	\DISPLAY1	0
+2023-01-15 02:57:44.811	2	Chrome Legacy Window	0
+2023-01-15 02:57:44.811	3	LeagueClientUx.exe	0
+2023-01-15 02:57:44.811	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 02:57:44.811	5	\DISPLAY1	0
+2023-01-15 02:58:03.331	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 02:58:03.331	3	firefox.exe	0
+2023-01-15 02:58:03.331	4	MozillaWindowClass	0
+2023-01-15 02:58:03.331	5	\DISPLAY1	0
+2023-01-15 02:58:06.800	2	OneNote for Windows 10	0
+2023-01-15 02:58:06.800	3	onenoteim.exe	0
+2023-01-15 02:58:06.800	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 02:58:06.800	5	\DISPLAY1	0
+2023-01-15 02:58:15.369	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 02:58:15.369	3	ApplicationFrameHost.exe	0
+2023-01-15 02:58:15.369	4	ApplicationFrameWindow	0
+2023-01-15 02:58:15.369	5	\DISPLAY1	0
+2023-01-15 02:59:55.421	2	Running applications	0
+2023-01-15 02:59:55.421	3	explorer.exe	0
+2023-01-15 02:59:55.421	4	MSTaskListWClass	0
+2023-01-15 02:59:55.421	5	\DISPLAY1	0
+2023-01-15 02:59:59.595	2	Chrome Legacy Window	0
+2023-01-15 02:59:59.595	3	LeagueClientUx.exe	0
+2023-01-15 02:59:59.595	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 02:59:59.595	5	\DISPLAY1	0
+2023-01-15 03:01:48.457	2	Running applications	0
+2023-01-15 03:01:48.457	3	explorer.exe	0
+2023-01-15 03:01:48.457	4	MSTaskListWClass	0
+2023-01-15 03:01:48.457	5	\DISPLAY1	0
+2023-01-15 03:01:49.983	2	Friends - Discord	0
+2023-01-15 03:01:49.983	3	Discord.exe	0
+2023-01-15 03:01:49.983	4	Chrome_WidgetWin_1	0
+2023-01-15 03:01:49.983	5	\DISPLAY1	0
+2023-01-15 03:02:07.802	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:02:07.802	3	firefox.exe	0
+2023-01-15 03:02:07.802	4	MozillaWindowClass	0
+2023-01-15 03:02:07.802	5	\DISPLAY1	0
+2023-01-15 03:02:21.784	2	OneNote for Windows 10	0
+2023-01-15 03:02:21.784	3	onenoteim.exe	0
+2023-01-15 03:02:21.784	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 03:02:21.784	5	\DISPLAY1	0
+2023-01-15 03:02:25.379	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 03:02:25.379	3	ApplicationFrameHost.exe	0
+2023-01-15 03:02:25.379	4	ApplicationFrameWindow	0
+2023-01-15 03:02:25.379	5	\DISPLAY1	0
+2023-01-15 03:02:39.334	2	Running applications	0
+2023-01-15 03:02:39.334	3	explorer.exe	0
+2023-01-15 03:02:39.334	4	MSTaskListWClass	0
+2023-01-15 03:02:39.334	5	\DISPLAY1	0
+2023-01-15 03:02:40.517	2	Chrome Legacy Window	0
+2023-01-15 03:02:40.517	3	LeagueClientUx.exe	0
+2023-01-15 03:02:40.517	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:02:40.517	5	\DISPLAY1	0
+2023-01-15 03:02:55.611	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:02:55.611	3	firefox.exe	0
+2023-01-15 03:02:55.611	4	MozillaWindowClass	0
+2023-01-15 03:02:55.611	5	\DISPLAY1	0
+2023-01-15 03:02:56.620	2	OneNote for Windows 10	0
+2023-01-15 03:02:56.620	3	onenoteim.exe	0
+2023-01-15 03:02:56.620	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 03:02:56.620	5	\DISPLAY1	0
+2023-01-15 03:03:05.381	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 03:03:05.381	3	ApplicationFrameHost.exe	0
+2023-01-15 03:03:05.381	4	ApplicationFrameWindow	0
+2023-01-15 03:03:05.381	5	\DISPLAY1	0
+2023-01-15 03:03:05.682	2	OneNote for Windows 10	0
+2023-01-15 03:03:05.682	3	onenoteim.exe	0
+2023-01-15 03:03:05.682	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 03:03:05.682	5	\DISPLAY1	0
+2023-01-15 03:03:11.543	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:03:11.543	3	firefox.exe	0
+2023-01-15 03:03:11.543	4	MozillaWindowClass	0
+2023-01-15 03:03:11.543	5	\DISPLAY1	0
+2023-01-15 03:03:17.688	2	Running applications	0
+2023-01-15 03:03:17.688	3	explorer.exe	0
+2023-01-15 03:03:17.688	4	MSTaskListWClass	0
+2023-01-15 03:03:17.688	5	\DISPLAY1	0
+2023-01-15 03:03:19.853	2	Chrome Legacy Window	0
+2023-01-15 03:03:19.853	3	LeagueClientUx.exe	0
+2023-01-15 03:03:19.853	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:03:19.853	5	\DISPLAY1	0
+2023-01-15 03:03:41.756	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:03:41.756	3	firefox.exe	0
+2023-01-15 03:03:41.756	4	MozillaWindowClass	0
+2023-01-15 03:03:41.756	5	\DISPLAY1	0
+2023-01-15 03:04:12.374	2	Chrome Legacy Window	0
+2023-01-15 03:04:12.374	3	LeagueClientUx.exe	0
+2023-01-15 03:04:12.374	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:04:12.374	5	\DISPLAY1	0
+2023-01-15 03:04:16.169	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:04:16.169	3	firefox.exe	0
+2023-01-15 03:04:16.169	4	MozillaWindowClass	0
+2023-01-15 03:04:16.169	5	\DISPLAY1	0
+2023-01-15 03:04:20.605	2	Chrome Legacy Window	0
+2023-01-15 03:04:20.605	3	LeagueClientUx.exe	0
+2023-01-15 03:04:20.605	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:04:20.605	5	\DISPLAY1	0
+2023-01-15 03:04:21.845	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:04:21.845	3	firefox.exe	0
+2023-01-15 03:04:21.845	4	MozillaWindowClass	0
+2023-01-15 03:04:21.845	5	\DISPLAY1	0
+2023-01-15 03:04:26.580	2	Chrome Legacy Window	0
+2023-01-15 03:04:26.580	3	LeagueClientUx.exe	0
+2023-01-15 03:04:26.580	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:04:26.580	5	\DISPLAY1	0
+2023-01-15 03:04:27.866	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:04:27.866	3	firefox.exe	0
+2023-01-15 03:04:27.866	4	MozillaWindowClass	0
+2023-01-15 03:04:27.866	5	\DISPLAY1	0
+2023-01-15 03:04:30.608	2	Chrome Legacy Window	0
+2023-01-15 03:04:30.608	3	LeagueClientUx.exe	0
+2023-01-15 03:04:30.608	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:04:30.608	5	\DISPLAY1	0
+2023-01-15 03:04:58.609	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:04:58.609	3	firefox.exe	0
+2023-01-15 03:04:58.609	4	MozillaWindowClass	0
+2023-01-15 03:04:58.609	5	\DISPLAY1	0
+2023-01-15 03:04:59.440	2	Chrome Legacy Window	0
+2023-01-15 03:04:59.440	3	LeagueClientUx.exe	0
+2023-01-15 03:04:59.440	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:04:59.440	5	\DISPLAY1	0
+2023-01-15 03:04:59.708	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:04:59.708	3	firefox.exe	0
+2023-01-15 03:04:59.708	4	MozillaWindowClass	0
+2023-01-15 03:04:59.708	5	\DISPLAY1	0
+2023-01-15 03:05:25.678	2	Chrome Legacy Window	0
+2023-01-15 03:05:25.678	3	LeagueClientUx.exe	0
+2023-01-15 03:05:25.678	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:05:25.678	5	\DISPLAY1	0
+2023-01-15 03:05:31.003	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:05:31.003	3	firefox.exe	0
+2023-01-15 03:05:31.003	4	MozillaWindowClass	0
+2023-01-15 03:05:31.003	5	\DISPLAY1	0
+2023-01-15 03:05:39.697	2	Chrome Legacy Window	0
+2023-01-15 03:05:39.697	3	LeagueClientUx.exe	0
+2023-01-15 03:05:39.697	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:05:39.697	5	\DISPLAY1	0
+2023-01-15 03:05:41.273	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:05:41.273	3	firefox.exe	0
+2023-01-15 03:05:41.273	4	MozillaWindowClass	0
+2023-01-15 03:05:41.273	5	\DISPLAY1	0
+2023-01-15 03:05:43.415	2	Chrome Legacy Window	0
+2023-01-15 03:05:43.415	3	LeagueClientUx.exe	0
+2023-01-15 03:05:43.415	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:05:43.415	5	\DISPLAY1	0
+2023-01-15 03:05:45.890	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:05:45.890	3	firefox.exe	0
+2023-01-15 03:05:45.890	4	MozillaWindowClass	0
+2023-01-15 03:05:45.890	5	\DISPLAY1	0
+2023-01-15 03:06:11.785	2	Chrome Legacy Window	0
+2023-01-15 03:06:11.785	3	LeagueClientUx.exe	0
+2023-01-15 03:06:11.785	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:06:11.785	5	\DISPLAY1	0
+2023-01-15 03:06:30.132	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:06:30.132	3	firefox.exe	0
+2023-01-15 03:06:30.132	4	MozillaWindowClass	0
+2023-01-15 03:06:30.132	5	\DISPLAY1	0
+2023-01-15 03:06:31.760	2	Chrome Legacy Window	0
+2023-01-15 03:06:31.760	3	LeagueClientUx.exe	0
+2023-01-15 03:06:31.760	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:06:31.760	5	\DISPLAY1	0
+2023-01-15 03:07:02.058	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:07:02.058	3	firefox.exe	0
+2023-01-15 03:07:02.058	4	MozillaWindowClass	0
+2023-01-15 03:07:02.058	5	\DISPLAY1	0
+2023-01-15 03:08:50.922	2	Chrome Legacy Window	0
+2023-01-15 03:08:50.922	3	LeagueClientUx.exe	0
+2023-01-15 03:08:50.922	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:08:50.922	5	\DISPLAY1	0
+2023-01-15 03:09:29.024	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:09:29.024	3	firefox.exe	0
+2023-01-15 03:09:29.024	4	MozillaWindowClass	0
+2023-01-15 03:09:29.024	5	\DISPLAY1	0
+2023-01-15 03:09:41.913	2	Chrome Legacy Window	0
+2023-01-15 03:09:41.913	3	LeagueClientUx.exe	0
+2023-01-15 03:09:41.913	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:09:41.913	5	\DISPLAY1	0
+2023-01-15 03:09:43.450	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:09:43.450	3	firefox.exe	0
+2023-01-15 03:09:43.450	4	MozillaWindowClass	0
+2023-01-15 03:09:43.450	5	\DISPLAY1	0
+2023-01-15 03:09:48.744	2	Chrome Legacy Window	0
+2023-01-15 03:09:48.744	3	LeagueClientUx.exe	0
+2023-01-15 03:09:48.744	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:09:48.744	5	\DISPLAY1	0
+2023-01-15 03:10:09.715	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:10:09.715	3	firefox.exe	0
+2023-01-15 03:10:09.715	4	MozillaWindowClass	0
+2023-01-15 03:10:09.715	5	\DISPLAY1	0
+2023-01-15 03:10:16.849	2	Chrome Legacy Window	0
+2023-01-15 03:10:16.849	3	LeagueClientUx.exe	0
+2023-01-15 03:10:16.849	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:10:16.849	5	\DISPLAY1	0
+2023-01-15 03:10:25.567	2	Kalista ARAM Build - U.GG Kalista Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 03:10:25.567	3	firefox.exe	0
+2023-01-15 03:10:25.567	4	MozillaWindowClass	0
+2023-01-15 03:10:25.567	5	\DISPLAY1	0
+2023-01-15 03:11:47.084	2	Running applications	0
+2023-01-15 03:11:47.084	3	explorer.exe	0
+2023-01-15 03:11:47.084	4	MSTaskListWClass	0
+2023-01-15 03:11:47.084	5	\DISPLAY1	0
+2023-01-15 03:11:53.195	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:11:53.195	3	firefox.exe	0
+2023-01-15 03:11:53.195	4	MozillaWindowClass	0
+2023-01-15 03:11:53.195	5	\DISPLAY1	0
+2023-01-15 03:11:58.407	2	League of Legends (TM) Client	0
+2023-01-15 03:11:58.407	3	League of Legends.exe	0
+2023-01-15 03:11:58.407	4	RiotWindowClass	0
+2023-01-15 03:11:58.407	5	\DISPLAY1	0
+2023-01-15 03:19:45.416	2	(49) JJ LIN New Songs 2022 - 2022新歌 jj lin林俊杰最好的歌 - 這首歌的最佳專輯林俊杰 2022 Best Songs Of JJ Lin - YouTube — Mozilla Firefox	0
+2023-01-15 03:19:45.416	3	firefox.exe	0
+2023-01-15 03:19:45.416	4	MozillaWindowClass	0
+2023-01-15 03:19:45.416	5	\DISPLAY1	0
+2023-01-15 03:19:48.219	2	League of Legends (TM) Client	0
+2023-01-15 03:19:48.219	3	League of Legends.exe	0
+2023-01-15 03:19:48.219	4	RiotWindowClass	0
+2023-01-15 03:19:48.219	5	\DISPLAY1	0
+2023-01-15 03:30:05.439	2	Kalista ARAM Build - U.GG Kalista Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 03:30:05.439	3	firefox.exe	0
+2023-01-15 03:30:05.439	4	MozillaWindowClass	0
+2023-01-15 03:30:05.439	5	\DISPLAY1	0
+2023-01-15 03:30:12.862	2	Chrome Legacy Window	0
+2023-01-15 03:30:12.862	3	LeagueClientUx.exe	0
+2023-01-15 03:30:12.862	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:30:12.862	5	\DISPLAY1	0
+2023-01-15 03:32:10.810	2	(49) JJ LIN New Songs 2022 - 2022新歌 jj lin林俊杰最好的歌 - 這首歌的最佳專輯林俊杰 2022 Best Songs Of JJ Lin - YouTube — Mozilla Firefox	0
+2023-01-15 03:32:10.810	3	firefox.exe	0
+2023-01-15 03:32:10.810	4	MozillaWindowClass	0
+2023-01-15 03:32:10.810	5	\DISPLAY1	0
+2023-01-15 03:37:57.714	2	Chrome Legacy Window	0
+2023-01-15 03:37:57.714	3	LeagueClientUx.exe	0
+2023-01-15 03:37:57.714	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:37:57.714	5	\DISPLAY1	0
+2023-01-15 03:38:01.179	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:38:01.179	3	firefox.exe	0
+2023-01-15 03:38:01.179	4	MozillaWindowClass	0
+2023-01-15 03:38:01.179	5	\DISPLAY1	0
+2023-01-15 03:38:04.367	2	Chrome Legacy Window	0
+2023-01-15 03:38:04.367	3	LeagueClientUx.exe	0
+2023-01-15 03:38:04.367	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:38:04.367	5	\DISPLAY1	0
+2023-01-15 03:38:05.017	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:38:05.017	3	firefox.exe	0
+2023-01-15 03:38:05.017	4	MozillaWindowClass	0
+2023-01-15 03:38:05.017	5	\DISPLAY1	0
+2023-01-15 03:38:07.310	2	Chrome Legacy Window	0
+2023-01-15 03:38:07.310	3	LeagueClientUx.exe	0
+2023-01-15 03:38:07.310	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:38:07.310	5	\DISPLAY1	0
+2023-01-15 03:38:17.273	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:38:17.273	3	firefox.exe	0
+2023-01-15 03:38:17.273	4	MozillaWindowClass	0
+2023-01-15 03:38:17.273	5	\DISPLAY1	0
+2023-01-15 03:41:41.228	2	OneNote for Windows 10	0
+2023-01-15 03:41:41.228	3	onenoteim.exe	0
+2023-01-15 03:41:41.228	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 03:41:41.228	5	\DISPLAY1	0
+2023-01-15 03:41:45.465	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 03:41:45.465	3	ApplicationFrameHost.exe	0
+2023-01-15 03:41:45.465	4	ApplicationFrameWindow	0
+2023-01-15 03:41:45.465	5	\DISPLAY1	0
+2023-01-15 03:41:58.402	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:41:58.402	3	firefox.exe	0
+2023-01-15 03:41:58.402	4	MozillaWindowClass	0
+2023-01-15 03:41:58.402	5	\DISPLAY1	0
+2023-01-15 03:49:27.644	2	Running applications	0
+2023-01-15 03:49:27.644	3	explorer.exe	0
+2023-01-15 03:49:27.644	4	MSTaskListWClass	0
+2023-01-15 03:49:27.644	5	\DISPLAY1	0
+2023-01-15 03:49:29.995	2	Chrome Legacy Window	0
+2023-01-15 03:49:29.995	3	LeagueClientUx.exe	0
+2023-01-15 03:49:29.995	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 03:49:29.995	5	\DISPLAY1	0
+2023-01-15 03:49:59.438	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:49:59.438	3	firefox.exe	0
+2023-01-15 03:49:59.438	4	MozillaWindowClass	0
+2023-01-15 03:49:59.438	5	\DISPLAY1	0
+2023-01-15 03:55:32.579	2	Running applications	0
+2023-01-15 03:55:32.579	3	explorer.exe	0
+2023-01-15 03:55:32.579	4	MSTaskListWClass	0
+2023-01-15 03:55:32.579	5	\DISPLAY1	0
+2023-01-15 03:55:35.496	2	League of Legends	0
+2023-01-15 03:55:35.496	3	LeagueClientUx.exe	0
+2023-01-15 03:55:35.496	4	RCLIENT	0
+2023-01-15 03:55:35.496	5	\DISPLAY1	0
+2023-01-15 03:55:56.029	2	Dr Pepper - Summoner Stats - League of Legends — Mozilla Firefox	0
+2023-01-15 03:55:56.029	3	firefox.exe	0
+2023-01-15 03:55:56.029	4	MozillaWindowClass	0
+2023-01-15 03:55:56.029	5	\DISPLAY1	0
+2023-01-15 03:57:48.915	2	Running applications	0
+2023-01-15 03:57:48.915	3	explorer.exe	0
+2023-01-15 03:57:48.915	4	MSTaskListWClass	0
+2023-01-15 03:57:48.915	5	\DISPLAY1	0
+2023-01-15 03:57:55.502	2	Dk Pepper - Summoner's Champion Information - League of Legends — Mozilla Firefox	0
+2023-01-15 03:57:55.502	3	firefox.exe	0
+2023-01-15 03:57:55.502	4	MozillaWindowClass	0
+2023-01-15 03:57:55.502	5	\DISPLAY1	0
+2023-01-15 03:57:56.423	2	Running applications	0
+2023-01-15 03:57:56.423	3	explorer.exe	0
+2023-01-15 03:57:56.423	4	MSTaskListWClass	0
+2023-01-15 03:57:56.423	5	\DISPLAY1	0
+2023-01-15 03:58:05.503	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 03:58:05.503	3	ApplicationFrameHost.exe	0
+2023-01-15 03:58:05.503	4	ApplicationFrameWindow	0
+2023-01-15 03:58:05.503	5	\DISPLAY1	0
+2023-01-15 03:58:22.565	2	OneNote for Windows 10	0
+2023-01-15 03:58:22.565	3	onenoteim.exe	0
+2023-01-15 03:58:22.565	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 03:58:22.565	5	\DISPLAY1	0
+2023-01-15 03:58:25.504	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 03:58:25.504	3	ApplicationFrameHost.exe	0
+2023-01-15 03:58:25.504	4	ApplicationFrameWindow	0
+2023-01-15 03:58:25.504	5	\DISPLAY1	0
+2023-01-15 03:58:45.506	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 03:58:45.506	3	firefox.exe	0
+2023-01-15 03:58:45.506	4	MozillaWindowClass	0
+2023-01-15 03:58:45.506	5	\DISPLAY1	0
+2023-01-15 04:00:04.394	2	OneNote for Windows 10	0
+2023-01-15 04:00:04.394	3	onenoteim.exe	0
+2023-01-15 04:00:04.394	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:00:04.394	5	\DISPLAY1	0
+2023-01-15 04:00:05.509	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 04:00:05.509	3	ApplicationFrameHost.exe	0
+2023-01-15 04:00:05.509	4	ApplicationFrameWindow	0
+2023-01-15 04:00:05.509	5	\DISPLAY1	0
+2023-01-15 04:00:35.510	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:00:35.510	3	firefox.exe	0
+2023-01-15 04:00:35.510	4	MozillaWindowClass	0
+2023-01-15 04:00:35.510	5	\DISPLAY1	0
+2023-01-15 04:01:20.338	2	OneNote for Windows 10	0
+2023-01-15 04:01:20.338	3	onenoteim.exe	0
+2023-01-15 04:01:20.338	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:01:20.338	5	\DISPLAY1	0
+2023-01-15 04:01:25.512	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 04:01:25.512	3	ApplicationFrameHost.exe	0
+2023-01-15 04:01:25.512	4	ApplicationFrameWindow	0
+2023-01-15 04:01:25.512	5	\DISPLAY1	0
+2023-01-15 04:02:02.348	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:02:02.348	3	firefox.exe	0
+2023-01-15 04:02:02.348	4	MozillaWindowClass	0
+2023-01-15 04:02:02.348	5	\DISPLAY1	0
+2023-01-15 04:02:04.893	2	Screen Snipping	0
+2023-01-15 04:02:04.893	3	ScreenClippingHost.exe	0
+2023-01-15 04:02:04.893	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:02:04.893	5	\DISPLAY1	0
+2023-01-15 04:02:07.046	2	OneNote for Windows 10	0
+2023-01-15 04:02:07.046	3	onenoteim.exe	0
+2023-01-15 04:02:07.046	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:02:07.046	5	\DISPLAY1	0
+2023-01-15 04:02:09.694	2	Screen Snipping	0
+2023-01-15 04:02:09.694	3	ScreenClippingHost.exe	0
+2023-01-15 04:02:09.694	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:02:09.694	5	\DISPLAY1	0
+2023-01-15 04:02:15.514	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 04:02:15.514	3	ApplicationFrameHost.exe	0
+2023-01-15 04:02:15.514	4	ApplicationFrameWindow	0
+2023-01-15 04:02:15.514	5	\DISPLAY1	0
+2023-01-15 04:02:16.801	2	Screen Snipping	0
+2023-01-15 04:02:16.801	3	ScreenClippingHost.exe	0
+2023-01-15 04:02:16.801	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:02:16.801	5	\DISPLAY1	0
+2023-01-15 04:02:25.515	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 04:02:25.515	3	ApplicationFrameHost.exe	0
+2023-01-15 04:02:25.515	4	ApplicationFrameWindow	0
+2023-01-15 04:02:25.515	5	\DISPLAY1	0
+2023-01-15 04:02:27.674	2	Screen Snipping	0
+2023-01-15 04:02:27.674	3	ScreenClippingHost.exe	0
+2023-01-15 04:02:27.674	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:02:27.674	5	\DISPLAY1	0
+2023-01-15 04:02:34.677	2	slides.pdf — Mozilla Firefox	0
+2023-01-15 04:02:34.677	3	firefox.exe	0
+2023-01-15 04:02:34.677	4	MozillaWindowClass	0
+2023-01-15 04:02:34.677	5	\DISPLAY1	0
+2023-01-15 04:02:36.665	2	Screen Snipping	0
+2023-01-15 04:02:36.665	3	ScreenClippingHost.exe	0
+2023-01-15 04:02:36.665	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:02:36.665	5	\DISPLAY1	0
+2023-01-15 04:02:39.457	2	OneNote for Windows 10	0
+2023-01-15 04:02:39.457	3	onenoteim.exe	0
+2023-01-15 04:02:39.457	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:02:39.457	5	\DISPLAY1	0
+2023-01-15 04:02:40.615	2	slides.pdf — Mozilla Firefox	0
+2023-01-15 04:02:40.615	3	firefox.exe	0
+2023-01-15 04:02:40.615	4	MozillaWindowClass	0
+2023-01-15 04:02:40.615	5	\DISPLAY1	0
+2023-01-15 04:04:46.818	2	Start	0
+2023-01-15 04:04:46.818	3	explorer.exe	0
+2023-01-15 04:04:46.818	4	Start	0
+2023-01-15 04:04:46.818	5	\DISPLAY1	0
+2023-01-15 04:04:48.282	2	When I Work :: Schedule, Track, Communicate — Mozilla Firefox	0
+2023-01-15 04:04:48.282	3	firefox.exe	0
+2023-01-15 04:04:48.282	4	MozillaWindowClass	0
+2023-01-15 04:04:48.282	5	\DISPLAY1	0
+2023-01-15 04:04:48.824	2	Start	0
+2023-01-15 04:04:48.824	3	explorer.exe	0
+2023-01-15 04:04:48.824	4	Start	0
+2023-01-15 04:04:48.824	5	\DISPLAY1	0
+2023-01-15 04:04:50.173	2	When I Work :: Schedule, Track, Communicate — Mozilla Firefox	0
+2023-01-15 04:04:50.173	3	firefox.exe	0
+2023-01-15 04:04:50.173	4	MozillaWindowClass	0
+2023-01-15 04:04:50.173	5	\DISPLAY1	0
+2023-01-15 04:04:51.138	2	Running applications	0
+2023-01-15 04:04:51.138	3	explorer.exe	0
+2023-01-15 04:04:51.138	4	MSTaskListWClass	0
+2023-01-15 04:04:51.138	5	\DISPLAY1	0
+2023-01-15 04:04:51.660	2		0
+2023-01-15 04:04:51.660	3	cmd.exe	0
+2023-01-15 04:04:51.660	4	ConsoleWindowClass	0
+2023-01-15 04:04:51.660	5	\DISPLAY1	0
+2023-01-15 04:21:37.915	2	When I Work :: Schedule, Track, Communicate — Mozilla Firefox	0
+2023-01-15 04:21:37.915	3	firefox.exe	0
+2023-01-15 04:21:37.915	4	MozillaWindowClass	0
+2023-01-15 04:21:37.915	5	\DISPLAY1	0
+2023-01-15 04:23:47.029	2	Running applications	0
+2023-01-15 04:23:47.029	3	explorer.exe	0
+2023-01-15 04:23:47.029	4	MSTaskListWClass	0
+2023-01-15 04:23:47.029	5	\DISPLAY1	0
+2023-01-15 04:23:49.520	2	OneNote for Windows 10	0
+2023-01-15 04:23:49.520	3	onenoteim.exe	0
+2023-01-15 04:23:49.520	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:23:49.520	5	\DISPLAY1	0
+2023-01-15 04:23:53.596	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:23:53.596	3	firefox.exe	0
+2023-01-15 04:23:53.596	4	MozillaWindowClass	0
+2023-01-15 04:23:53.596	5	\DISPLAY1	0
+2023-01-15 04:24:45.636	2	Running applications	0
+2023-01-15 04:24:45.636	3	explorer.exe	0
+2023-01-15 04:24:45.636	4	MSTaskListWClass	0
+2023-01-15 04:24:45.636	5	\DISPLAY1	0
+2023-01-15 04:24:55.563	2	League of Legends	0
+2023-01-15 04:24:55.563	3	LeagueClientUx.exe	0
+2023-01-15 04:24:55.563	4	RCLIENT	0
+2023-01-15 04:24:55.563	5	\DISPLAY1	0
+2023-01-15 04:26:37.167	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:26:37.167	3	firefox.exe	0
+2023-01-15 04:26:37.167	4	MozillaWindowClass	0
+2023-01-15 04:26:37.167	5	\DISPLAY1	0
+2023-01-15 04:27:06.466	2	OneNote for Windows 10	0
+2023-01-15 04:27:06.466	3	onenoteim.exe	0
+2023-01-15 04:27:06.466	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:27:06.466	5	\DISPLAY1	0
+2023-01-15 04:27:11.041	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:27:11.041	3	firefox.exe	0
+2023-01-15 04:27:11.041	4	MozillaWindowClass	0
+2023-01-15 04:27:11.041	5	\DISPLAY1	0
+2023-01-15 04:27:12.067	2	OneNote for Windows 10	0
+2023-01-15 04:27:12.067	3	onenoteim.exe	0
+2023-01-15 04:27:12.067	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:27:12.067	5	\DISPLAY1	0
+2023-01-15 04:27:15.567	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 04:27:15.567	3	ApplicationFrameHost.exe	0
+2023-01-15 04:27:15.567	4	ApplicationFrameWindow	0
+2023-01-15 04:27:15.567	5	\DISPLAY1	0
+2023-01-15 04:27:25.421	2	OneNote for Windows 10	0
+2023-01-15 04:27:25.421	3	onenoteim.exe	0
+2023-01-15 04:27:25.421	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:27:25.421	5	\DISPLAY1	0
+2023-01-15 04:27:25.568	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 04:27:25.568	3	ApplicationFrameHost.exe	0
+2023-01-15 04:27:25.568	4	ApplicationFrameWindow	0
+2023-01-15 04:27:25.568	5	\DISPLAY1	0
+2023-01-15 04:27:41.090	2	OneNote for Windows 10	0
+2023-01-15 04:27:41.090	3	onenoteim.exe	0
+2023-01-15 04:27:41.090	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:27:41.090	5	\DISPLAY1	0
+2023-01-15 04:27:41.418	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:27:41.418	3	firefox.exe	0
+2023-01-15 04:27:41.418	4	MozillaWindowClass	0
+2023-01-15 04:27:41.418	5	\DISPLAY1	0
+2023-01-15 04:28:32.509	2	Running applications	0
+2023-01-15 04:28:32.509	3	explorer.exe	0
+2023-01-15 04:28:32.509	4	MSTaskListWClass	0
+2023-01-15 04:28:32.509	5	\DISPLAY1	0
+2023-01-15 04:28:33.805	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:28:33.805	3	firefox.exe	0
+2023-01-15 04:28:33.805	4	MozillaWindowClass	0
+2023-01-15 04:28:33.805	5	\DISPLAY1	0
+2023-01-15 04:28:34.404	2	OneNote for Windows 10	0
+2023-01-15 04:28:34.404	3	onenoteim.exe	0
+2023-01-15 04:28:34.404	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:28:34.404	5	\DISPLAY1	0
+2023-01-15 04:28:35.569	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 04:28:35.569	3	ApplicationFrameHost.exe	0
+2023-01-15 04:28:35.569	4	ApplicationFrameWindow	0
+2023-01-15 04:28:35.569	5	\DISPLAY1	0
+2023-01-15 04:28:46.537	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:28:46.537	3	firefox.exe	0
+2023-01-15 04:28:46.537	4	MozillaWindowClass	0
+2023-01-15 04:28:46.537	5	\DISPLAY1	0
+2023-01-15 04:29:06.414	2	OneNote for Windows 10	0
+2023-01-15 04:29:06.414	3	onenoteim.exe	0
+2023-01-15 04:29:06.414	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 04:29:06.414	5	\DISPLAY1	0
+2023-01-15 04:29:15.572	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 04:29:15.572	3	ApplicationFrameHost.exe	0
+2023-01-15 04:29:15.572	4	ApplicationFrameWindow	0
+2023-01-15 04:29:15.572	5	\DISPLAY1	0
+2023-01-15 04:29:25.557	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:29:25.557	3	firefox.exe	0
+2023-01-15 04:29:25.557	4	MozillaWindowClass	0
+2023-01-15 04:29:25.557	5	\DISPLAY1	0
+2023-01-15 04:29:32.791	2	Running applications	0
+2023-01-15 04:29:32.791	3	explorer.exe	0
+2023-01-15 04:29:32.791	4	MSTaskListWClass	0
+2023-01-15 04:29:32.791	5	\DISPLAY1	0
+2023-01-15 04:29:35.572	2	League of Legends	0
+2023-01-15 04:29:35.572	3	LeagueClientUx.exe	0
+2023-01-15 04:29:35.572	4	RCLIENT	0
+2023-01-15 04:29:35.572	5	\DISPLAY1	0
+2023-01-15 04:32:05.579	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:32:05.579	3	firefox.exe	0
+2023-01-15 04:32:05.579	4	MozillaWindowClass	0
+2023-01-15 04:32:05.579	5	\DISPLAY1	0
+2023-01-15 04:32:44.511	2	Chrome Legacy Window	0
+2023-01-15 04:32:44.511	3	LeagueClientUx.exe	0
+2023-01-15 04:32:44.511	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 04:32:44.511	5	\DISPLAY1	0
+2023-01-15 04:33:24.231	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:33:24.231	3	firefox.exe	0
+2023-01-15 04:33:24.231	4	MozillaWindowClass	0
+2023-01-15 04:33:24.231	5	\DISPLAY1	0
+2023-01-15 04:33:41.423	2	Chrome Legacy Window	0
+2023-01-15 04:33:41.423	3	LeagueClientUx.exe	0
+2023-01-15 04:33:41.423	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 04:33:41.423	5	\DISPLAY1	0
+2023-01-15 04:34:21.471	2	Teemo ARAM Build - U.GG Teemo Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 04:34:21.471	3	firefox.exe	0
+2023-01-15 04:34:21.471	4	MozillaWindowClass	0
+2023-01-15 04:34:21.471	5	\DISPLAY1	0
+2023-01-15 04:35:09.272	2	Running applications	0
+2023-01-15 04:35:09.272	3	explorer.exe	0
+2023-01-15 04:35:09.272	4	MSTaskListWClass	0
+2023-01-15 04:35:09.272	5	\DISPLAY1	0
+2023-01-15 04:35:16.093	2	(49) Indonesia’s $33BN New Capital City - YouTube — Mozilla Firefox	0
+2023-01-15 04:35:16.093	3	firefox.exe	0
+2023-01-15 04:35:16.093	4	MozillaWindowClass	0
+2023-01-15 04:35:16.093	5	\DISPLAY1	0
+2023-01-15 04:35:20.609	2	Running applications	0
+2023-01-15 04:35:20.609	3	explorer.exe	0
+2023-01-15 04:35:20.609	4	MSTaskListWClass	0
+2023-01-15 04:35:20.609	5	\DISPLAY1	0
+2023-01-15 04:35:21.413	2	League of Legends (TM) Client	0
+2023-01-15 04:35:21.413	3	League of Legends.exe	0
+2023-01-15 04:35:21.413	4	RiotWindowClass	0
+2023-01-15 04:35:21.413	5	\DISPLAY1	0
+2023-01-15 04:35:28.143	2	(49) Indonesia’s $33BN New Capital City - YouTube — Mozilla Firefox	0
+2023-01-15 04:35:28.143	3	firefox.exe	0
+2023-01-15 04:35:28.143	4	MozillaWindowClass	0
+2023-01-15 04:35:28.143	5	\DISPLAY1	0
+2023-01-15 04:35:29.382	2	Running applications	0
+2023-01-15 04:35:29.382	3	explorer.exe	0
+2023-01-15 04:35:29.382	4	MSTaskListWClass	0
+2023-01-15 04:35:29.382	5	\DISPLAY1	0
+2023-01-15 04:35:32.076	2	League of Legends (TM) Client	0
+2023-01-15 04:35:32.076	3	League of Legends.exe	0
+2023-01-15 04:35:32.076	4	RiotWindowClass	0
+2023-01-15 04:35:32.076	5	\DISPLAY1	0
+2023-01-15 04:59:16.157	2	Teemo ARAM Build - U.GG Teemo Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 04:59:16.157	3	firefox.exe	0
+2023-01-15 04:59:16.157	4	MozillaWindowClass	0
+2023-01-15 04:59:16.157	5	\DISPLAY1	0
+2023-01-15 04:59:16.718	2	Chrome Legacy Window	0
+2023-01-15 04:59:16.718	3	LeagueClientUx.exe	0
+2023-01-15 04:59:16.718	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 04:59:16.718	5	\DISPLAY1	0
+2023-01-15 04:59:19.297	2	Teemo ARAM Build - U.GG Teemo Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 04:59:19.297	3	firefox.exe	0
+2023-01-15 04:59:19.297	4	MozillaWindowClass	0
+2023-01-15 04:59:19.297	5	\DISPLAY1	0
+2023-01-15 04:59:20.411	2	Chrome Legacy Window	0
+2023-01-15 04:59:20.411	3	LeagueClientUx.exe	0
+2023-01-15 04:59:20.411	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 04:59:20.411	5	\DISPLAY1	0
+2023-01-15 04:59:22.368	2	(49) Why 95% of Australia is Empty - YouTube — Mozilla Firefox	0
+2023-01-15 04:59:22.368	3	firefox.exe	0
+2023-01-15 04:59:22.368	4	MozillaWindowClass	0
+2023-01-15 04:59:22.368	5	\DISPLAY1	0
+2023-01-15 04:59:36.735	2	Chrome Legacy Window	0
+2023-01-15 04:59:36.735	3	LeagueClientUx.exe	0
+2023-01-15 04:59:36.735	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 04:59:36.735	5	\DISPLAY1	0
+2023-01-15 04:59:51.723	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 04:59:51.723	3	firefox.exe	0
+2023-01-15 04:59:51.723	4	MozillaWindowClass	0
+2023-01-15 04:59:51.723	5	\DISPLAY1	0
+2023-01-15 04:59:53.517	2	Chrome Legacy Window	0
+2023-01-15 04:59:53.517	3	LeagueClientUx.exe	0
+2023-01-15 04:59:53.517	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 04:59:53.517	5	\DISPLAY1	0
+2023-01-15 05:00:01.468	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:00:01.468	3	firefox.exe	0
+2023-01-15 05:00:01.468	4	MozillaWindowClass	0
+2023-01-15 05:00:01.468	5	\DISPLAY1	0
+2023-01-15 05:00:02.745	2	Chrome Legacy Window	0
+2023-01-15 05:00:02.745	3	LeagueClientUx.exe	0
+2023-01-15 05:00:02.745	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:00:02.745	5	\DISPLAY1	0
+2023-01-15 05:00:22.701	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:00:22.701	3	firefox.exe	0
+2023-01-15 05:00:22.701	4	MozillaWindowClass	0
+2023-01-15 05:00:22.701	5	\DISPLAY1	0
+2023-01-15 05:00:42.542	2	Chrome Legacy Window	0
+2023-01-15 05:00:42.542	3	LeagueClientUx.exe	0
+2023-01-15 05:00:42.542	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:00:42.542	5	\DISPLAY1	0
+2023-01-15 05:00:47.141	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:00:47.141	3	firefox.exe	0
+2023-01-15 05:00:47.141	4	MozillaWindowClass	0
+2023-01-15 05:00:47.141	5	\DISPLAY1	0
+2023-01-15 05:00:48.365	2	Chrome Legacy Window	0
+2023-01-15 05:00:48.365	3	LeagueClientUx.exe	0
+2023-01-15 05:00:48.365	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:00:48.365	5	\DISPLAY1	0
+2023-01-15 05:01:07.621	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:01:07.621	3	firefox.exe	0
+2023-01-15 05:01:07.621	4	MozillaWindowClass	0
+2023-01-15 05:01:07.621	5	\DISPLAY1	0
+2023-01-15 05:01:17.227	2	Chrome Legacy Window	0
+2023-01-15 05:01:17.227	3	LeagueClientUx.exe	0
+2023-01-15 05:01:17.227	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:01:17.227	5	\DISPLAY1	0
+2023-01-15 05:01:22.569	2	Senna ARAM Build - U.GG Senna Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 05:01:22.569	3	firefox.exe	0
+2023-01-15 05:01:22.569	4	MozillaWindowClass	0
+2023-01-15 05:01:22.569	5	\DISPLAY1	0
+2023-01-15 05:01:27.848	2	Chrome Legacy Window	0
+2023-01-15 05:01:27.848	3	LeagueClientUx.exe	0
+2023-01-15 05:01:27.848	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:01:27.848	5	\DISPLAY1	0
+2023-01-15 05:01:31.475	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:01:31.475	3	firefox.exe	0
+2023-01-15 05:01:31.475	4	MozillaWindowClass	0
+2023-01-15 05:01:31.475	5	\DISPLAY1	0
+2023-01-15 05:01:32.623	2	Chrome Legacy Window	0
+2023-01-15 05:01:32.623	3	LeagueClientUx.exe	0
+2023-01-15 05:01:32.623	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:01:32.623	5	\DISPLAY1	0
+2023-01-15 05:01:48.111	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:01:48.111	3	firefox.exe	0
+2023-01-15 05:01:48.111	4	MozillaWindowClass	0
+2023-01-15 05:01:48.111	5	\DISPLAY1	0
+2023-01-15 05:01:59.831	2	Chrome Legacy Window	0
+2023-01-15 05:01:59.831	3	LeagueClientUx.exe	0
+2023-01-15 05:01:59.831	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:01:59.831	5	\DISPLAY1	0
+2023-01-15 05:02:14.450	2	Akshan ARAM Build - U.GG Akshan Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 05:02:14.450	3	firefox.exe	0
+2023-01-15 05:02:14.450	4	MozillaWindowClass	0
+2023-01-15 05:02:14.450	5	\DISPLAY1	0
+2023-01-15 05:02:24.458	2	Chrome Legacy Window	0
+2023-01-15 05:02:24.458	3	LeagueClientUx.exe	0
+2023-01-15 05:02:24.458	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:02:24.458	5	\DISPLAY1	0
+2023-01-15 05:02:32.545	2	Akshan ARAM Build - U.GG Akshan Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 05:02:32.545	3	firefox.exe	0
+2023-01-15 05:02:32.545	4	MozillaWindowClass	0
+2023-01-15 05:02:32.545	5	\DISPLAY1	0
+2023-01-15 05:02:44.162	2	OneNote for Windows 10	0
+2023-01-15 05:02:44.162	3	onenoteim.exe	0
+2023-01-15 05:02:44.162	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:02:44.162	5	\DISPLAY1	0
+2023-01-15 05:02:46.164	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 05:02:46.164	3	ApplicationFrameHost.exe	0
+2023-01-15 05:02:46.164	4	ApplicationFrameWindow	0
+2023-01-15 05:02:46.164	5	\DISPLAY1	0
+2023-01-15 05:02:50.117	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:02:50.117	3	firefox.exe	0
+2023-01-15 05:02:50.117	4	MozillaWindowClass	0
+2023-01-15 05:02:50.117	5	\DISPLAY1	0
+2023-01-15 05:03:17.303	2	League of Legends (TM) Client	0
+2023-01-15 05:03:17.303	3	League of Legends.exe	0
+2023-01-15 05:03:17.303	4	RiotWindowClass	0
+2023-01-15 05:03:17.303	5	\DISPLAY1	0
+2023-01-15 05:11:16.183	2	(49) [80分鐘串燒系列 80 Minutes NonStop] 那些年我們聽過的歌 (2001-2010華語流行歌曲) 陳奕迅 林俊傑 周杰倫 S.H.E 張韶涵 楊丞琳 孫燕姿 潘瑋柏 大嘴巴 戴佩妮 - YouTube — Mozilla Firefox	0
+2023-01-15 05:11:16.183	3	firefox.exe	0
+2023-01-15 05:11:16.183	4	MozillaWindowClass	0
+2023-01-15 05:11:16.183	5	\DISPLAY1	0
+2023-01-15 05:11:18.034	2	Chrome Legacy Window	0
+2023-01-15 05:11:18.034	3	LeagueClientUx.exe	0
+2023-01-15 05:11:18.034	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:11:18.034	5	\DISPLAY1	0
+2023-01-15 05:11:46.852	2	(49) [80分鐘串燒系列 80 Minutes NonStop] 那些年我們聽過的歌 (2001-2010華語流行歌曲) 陳奕迅 林俊傑 周杰倫 S.H.E 張韶涵 楊丞琳 孫燕姿 潘瑋柏 大嘴巴 戴佩妮 - YouTube — Mozilla Firefox	0
+2023-01-15 05:11:46.852	3	firefox.exe	0
+2023-01-15 05:11:46.852	4	MozillaWindowClass	0
+2023-01-15 05:11:46.852	5	\DISPLAY1	0
+2023-01-15 05:11:49.174	2	Chrome Legacy Window	0
+2023-01-15 05:11:49.174	3	LeagueClientUx.exe	0
+2023-01-15 05:11:49.174	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:11:49.174	5	\DISPLAY1	0
+2023-01-15 05:13:49.361	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:13:49.361	3	firefox.exe	0
+2023-01-15 05:13:49.361	4	MozillaWindowClass	0
+2023-01-15 05:13:49.361	5	\DISPLAY1	0
+2023-01-15 05:14:11.843	2	OneNote for Windows 10	0
+2023-01-15 05:14:11.843	3	onenoteim.exe	0
+2023-01-15 05:14:11.843	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:14:11.843	5	\DISPLAY1	0
+2023-01-15 05:14:14.525	2	slides.pdf — Mozilla Firefox	0
+2023-01-15 05:14:14.525	3	firefox.exe	0
+2023-01-15 05:14:14.525	4	MozillaWindowClass	0
+2023-01-15 05:14:14.525	5	\DISPLAY1	0
+2023-01-15 05:14:16.192	2	Screen Snipping	0
+2023-01-15 05:14:16.192	3	ScreenClippingHost.exe	0
+2023-01-15 05:14:16.192	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:14:16.192	5	\DISPLAY1	0
+2023-01-15 05:14:18.647	2	OneNote for Windows 10	0
+2023-01-15 05:14:18.647	3	onenoteim.exe	0
+2023-01-15 05:14:18.647	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:14:18.647	5	\DISPLAY1	0
+2023-01-15 05:14:26.192	2	Screen Snipping	0
+2023-01-15 05:14:26.192	3	ScreenClippingHost.exe	0
+2023-01-15 05:14:26.192	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:14:26.192	5	\DISPLAY1	0
+2023-01-15 05:14:36.193	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 05:14:36.193	3	ApplicationFrameHost.exe	0
+2023-01-15 05:14:36.193	4	ApplicationFrameWindow	0
+2023-01-15 05:14:36.193	5	\DISPLAY1	0
+2023-01-15 05:14:36.623	2	Screen Snipping	0
+2023-01-15 05:14:36.623	3	ScreenClippingHost.exe	0
+2023-01-15 05:14:36.623	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:14:36.623	5	\DISPLAY1	0
+2023-01-15 05:14:40.100	2	slides.pdf — Mozilla Firefox	0
+2023-01-15 05:14:40.100	3	firefox.exe	0
+2023-01-15 05:14:40.100	4	MozillaWindowClass	0
+2023-01-15 05:14:40.100	5	\DISPLAY1	0
+2023-01-15 05:17:35.608	2	Screen Snipping	0
+2023-01-15 05:17:35.608	3	ScreenClippingHost.exe	0
+2023-01-15 05:17:35.608	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:17:35.608	5	\DISPLAY1	0
+2023-01-15 05:17:38.264	2	OneNote for Windows 10	0
+2023-01-15 05:17:38.264	3	onenoteim.exe	0
+2023-01-15 05:17:38.264	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:17:38.264	5	\DISPLAY1	0
+2023-01-15 05:17:42.046	2	Screen Snipping	0
+2023-01-15 05:17:42.046	3	ScreenClippingHost.exe	0
+2023-01-15 05:17:42.046	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:17:42.046	5	\DISPLAY1	0
+2023-01-15 05:17:46.201	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 05:17:46.201	3	ApplicationFrameHost.exe	0
+2023-01-15 05:17:46.201	4	ApplicationFrameWindow	0
+2023-01-15 05:17:46.201	5	\DISPLAY1	0
+2023-01-15 05:17:46.454	2	slides.pdf — Mozilla Firefox	0
+2023-01-15 05:17:46.454	3	firefox.exe	0
+2023-01-15 05:17:46.454	4	MozillaWindowClass	0
+2023-01-15 05:17:46.454	5	\DISPLAY1	0
+2023-01-15 05:19:55.043	2	Running applications	0
+2023-01-15 05:19:55.043	3	explorer.exe	0
+2023-01-15 05:19:55.043	4	MSTaskListWClass	0
+2023-01-15 05:19:55.043	5	\DISPLAY1	0
+2023-01-15 05:19:55.538	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:19:55.538	3	firefox.exe	0
+2023-01-15 05:19:55.538	4	MozillaWindowClass	0
+2023-01-15 05:19:55.538	5	\DISPLAY1	0
+2023-01-15 05:20:09.621	2	wechat update	0
+2023-01-15 05:20:09.621	3	WeChatUpdate.exe	0
+2023-01-15 05:20:09.621	4	WechatUpdateWnd	0
+2023-01-15 05:20:09.621	5	\DISPLAY1	0
+2023-01-15 05:20:16.207	2	微信	0
+2023-01-15 05:20:16.207	3	WeChat.exe	0
+2023-01-15 05:20:16.207	4	WeChatLoginWndForPC	0
+2023-01-15 05:20:16.207	5	\DISPLAY1	0
+2023-01-15 05:20:48.719	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:20:48.719	3	firefox.exe	0
+2023-01-15 05:20:48.719	4	MozillaWindowClass	0
+2023-01-15 05:20:48.719	5	\DISPLAY1	0
+2023-01-15 05:20:49.422	2	WeChat	0
+2023-01-15 05:20:49.422	3	WeChat.exe	0
+2023-01-15 05:20:49.422	4	WeChatMainWndForPC	0
+2023-01-15 05:20:49.422	5	\DISPLAY1	0
+2023-01-15 05:21:31.739	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:21:31.739	3	firefox.exe	0
+2023-01-15 05:21:31.739	4	MozillaWindowClass	0
+2023-01-15 05:21:31.739	5	\DISPLAY1	0
+2023-01-15 05:23:41.681	2	Screen Snipping	0
+2023-01-15 05:23:41.681	3	ScreenClippingHost.exe	0
+2023-01-15 05:23:41.681	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:23:41.681	5	\DISPLAY1	0
+2023-01-15 05:23:44.580	2	OneNote for Windows 10	0
+2023-01-15 05:23:44.580	3	onenoteim.exe	0
+2023-01-15 05:23:44.580	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:23:44.580	5	\DISPLAY1	0
+2023-01-15 05:23:46.216	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 05:23:46.216	3	ApplicationFrameHost.exe	0
+2023-01-15 05:23:46.216	4	ApplicationFrameWindow	0
+2023-01-15 05:23:46.216	5	\DISPLAY1	0
+2023-01-15 05:24:44.371	2	Screen Snipping	0
+2023-01-15 05:24:44.371	3	ScreenClippingHost.exe	0
+2023-01-15 05:24:44.371	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:24:44.371	5	\DISPLAY1	0
+2023-01-15 05:24:46.218	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 05:24:46.218	3	ApplicationFrameHost.exe	0
+2023-01-15 05:24:46.218	4	ApplicationFrameWindow	0
+2023-01-15 05:24:46.218	5	\DISPLAY1	0
+2023-01-15 05:24:49.634	2	Screen Snipping	0
+2023-01-15 05:24:49.634	3	ScreenClippingHost.exe	0
+2023-01-15 05:24:49.634	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:24:49.634	5	\DISPLAY1	0
+2023-01-15 05:24:56.218	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 05:24:56.218	3	ApplicationFrameHost.exe	0
+2023-01-15 05:24:56.218	4	ApplicationFrameWindow	0
+2023-01-15 05:24:56.218	5	\DISPLAY1	0
+2023-01-15 05:24:58.129	2	Screen Snipping	0
+2023-01-15 05:24:58.129	3	ScreenClippingHost.exe	0
+2023-01-15 05:24:58.129	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:24:58.129	5	\DISPLAY1	0
+2023-01-15 05:25:26.220	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 05:25:26.220	3	ApplicationFrameHost.exe	0
+2023-01-15 05:25:26.220	4	ApplicationFrameWindow	0
+2023-01-15 05:25:26.220	5	\DISPLAY1	0
+2023-01-15 05:25:28.297	2	slides.pdf — Mozilla Firefox	0
+2023-01-15 05:25:28.297	3	firefox.exe	0
+2023-01-15 05:25:28.297	4	MozillaWindowClass	0
+2023-01-15 05:25:28.297	5	\DISPLAY1	0
+2023-01-15 05:25:50.111	2	Running applications	0
+2023-01-15 05:25:50.111	3	explorer.exe	0
+2023-01-15 05:25:50.111	4	MSTaskListWClass	0
+2023-01-15 05:25:50.111	5	\DISPLAY1	0
+2023-01-15 05:25:51.796	2	Public -- 2022-2023 (CCG DCA UCSD-HDSI Capstone) | Microsoft Teams	0
+2023-01-15 05:25:51.796	3	Teams.exe	0
+2023-01-15 05:25:51.796	4	Chrome_WidgetWin_1	0
+2023-01-15 05:25:51.796	5	\DISPLAY1	0
+2023-01-15 05:25:52.923	2	Work or school account	0
+2023-01-15 05:25:52.923	3	Microsoft.AAD.BrokerPlugin.exe	0
+2023-01-15 05:25:52.923	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:25:52.923	5	\DISPLAY1	0
+2023-01-15 05:25:56.221	2		0
+2023-01-15 05:25:56.221	3	explorer.exe	0
+2023-01-15 05:25:56.221	4	ApplicationFrameWindow	0
+2023-01-15 05:25:56.221	5	\DISPLAY1	0
+2023-01-15 05:25:58.346	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:25:58.346	3	firefox.exe	0
+2023-01-15 05:25:58.346	4	MozillaWindowClass	0
+2023-01-15 05:25:58.346	5	\DISPLAY1	0
+2023-01-15 05:26:00.648	2	Running applications	0
+2023-01-15 05:26:00.648	3	explorer.exe	0
+2023-01-15 05:26:00.648	4	MSTaskListWClass	0
+2023-01-15 05:26:00.648	5	\DISPLAY1	0
+2023-01-15 05:26:02.643	2	WeChat	0
+2023-01-15 05:26:02.643	3	WeChat.exe	0
+2023-01-15 05:26:02.643	4	WeChatMainWndForPC	0
+2023-01-15 05:26:02.643	5	\DISPLAY1	0
+2023-01-15 05:27:10.471	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:27:10.471	3	firefox.exe	0
+2023-01-15 05:27:10.471	4	MozillaWindowClass	0
+2023-01-15 05:27:10.471	5	\DISPLAY1	0
+2023-01-15 05:28:07.766	2	WeChat	0
+2023-01-15 05:28:07.766	3	WeChat.exe	0
+2023-01-15 05:28:07.766	4	WeChatMainWndForPC	0
+2023-01-15 05:28:07.766	5	\DISPLAY1	0
+2023-01-15 05:28:16.225	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:28:16.225	3	firefox.exe	0
+2023-01-15 05:28:16.225	4	MozillaWindowClass	0
+2023-01-15 05:28:16.225	5	\DISPLAY1	0
+2023-01-15 05:28:22.469	2	OneNote for Windows 10	0
+2023-01-15 05:28:22.469	3	onenoteim.exe	0
+2023-01-15 05:28:22.469	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:28:22.469	5	\DISPLAY1	0
+2023-01-15 05:28:26.226	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 05:28:26.226	3	ApplicationFrameHost.exe	0
+2023-01-15 05:28:26.226	4	ApplicationFrameWindow	0
+2023-01-15 05:28:26.226	5	\DISPLAY1	0
+2023-01-15 05:28:31.494	2	Running applications	0
+2023-01-15 05:28:31.494	3	explorer.exe	0
+2023-01-15 05:28:31.494	4	MSTaskListWClass	0
+2023-01-15 05:28:31.494	5	\DISPLAY1	0
+2023-01-15 05:28:32.518	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:28:32.518	3	firefox.exe	0
+2023-01-15 05:28:32.518	4	MozillaWindowClass	0
+2023-01-15 05:28:32.518	5	\DISPLAY1	0
+2023-01-15 05:29:12.510	2	Running applications	0
+2023-01-15 05:29:12.510	3	explorer.exe	0
+2023-01-15 05:29:12.510	4	MSTaskListWClass	0
+2023-01-15 05:29:12.510	5	\DISPLAY1	0
+2023-01-15 05:29:16.228	2	League of Legends	0
+2023-01-15 05:29:16.228	3	LeagueClientUx.exe	0
+2023-01-15 05:29:16.228	4	RCLIENT	0
+2023-01-15 05:29:16.228	5	\DISPLAY1	0
+2023-01-15 05:29:33.377	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:29:33.377	3	firefox.exe	0
+2023-01-15 05:29:33.377	4	MozillaWindowClass	0
+2023-01-15 05:29:33.377	5	\DISPLAY1	0
+2023-01-15 05:30:56.221	2	Running applications	0
+2023-01-15 05:30:56.221	3	explorer.exe	0
+2023-01-15 05:30:56.221	4	MSTaskListWClass	0
+2023-01-15 05:30:56.221	5	\DISPLAY1	0
+2023-01-15 05:31:01.531	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:31:01.531	3	firefox.exe	0
+2023-01-15 05:31:01.531	4	MozillaWindowClass	0
+2023-01-15 05:31:01.531	5	\DISPLAY1	0
+2023-01-15 05:31:06.608	2	WeChat	0
+2023-01-15 05:31:06.608	3	WeChat.exe	0
+2023-01-15 05:31:06.608	4	WeChatMainWndForPC	0
+2023-01-15 05:31:06.608	5	\DISPLAY1	0
+2023-01-15 05:31:13.321	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:31:13.321	3	firefox.exe	0
+2023-01-15 05:31:13.321	4	MozillaWindowClass	0
+2023-01-15 05:31:13.321	5	\DISPLAY1	0
+2023-01-15 05:31:27.815	2	WeChat	0
+2023-01-15 05:31:27.815	3	WeChat.exe	0
+2023-01-15 05:31:27.815	4	WeChatMainWndForPC	0
+2023-01-15 05:31:27.815	5	\DISPLAY1	0
+2023-01-15 05:31:49.214	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:31:49.214	3	firefox.exe	0
+2023-01-15 05:31:49.214	4	MozillaWindowClass	0
+2023-01-15 05:31:49.214	5	\DISPLAY1	0
+2023-01-15 05:32:06.264	2	WeChat	0
+2023-01-15 05:32:06.264	3	WeChat.exe	0
+2023-01-15 05:32:06.264	4	WeChatMainWndForPC	0
+2023-01-15 05:32:06.264	5	\DISPLAY1	0
+2023-01-15 05:32:08.173	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:32:08.173	3	firefox.exe	0
+2023-01-15 05:32:08.173	4	MozillaWindowClass	0
+2023-01-15 05:32:08.173	5	\DISPLAY1	0
+2023-01-15 05:32:21.594	2	WeChat	0
+2023-01-15 05:32:21.594	3	WeChat.exe	0
+2023-01-15 05:32:21.594	4	WeChatMainWndForPC	0
+2023-01-15 05:32:21.594	5	\DISPLAY1	0
+2023-01-15 05:32:24.584	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:32:24.584	3	firefox.exe	0
+2023-01-15 05:32:24.584	4	MozillaWindowClass	0
+2023-01-15 05:32:24.584	5	\DISPLAY1	0
+2023-01-15 05:34:43.445	2	WeChat	0
+2023-01-15 05:34:43.445	3	WeChat.exe	0
+2023-01-15 05:34:43.445	4	WeChatMainWndForPC	0
+2023-01-15 05:34:43.445	5	\DISPLAY1	0
+2023-01-15 05:34:45.617	2	Chrome Legacy Window	0
+2023-01-15 05:34:45.617	3	LeagueClientUx.exe	0
+2023-01-15 05:34:45.617	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:34:45.617	5	\DISPLAY1	0
+2023-01-15 05:34:51.721	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:34:51.721	3	firefox.exe	0
+2023-01-15 05:34:51.721	4	MozillaWindowClass	0
+2023-01-15 05:34:51.721	5	\DISPLAY1	0
+2023-01-15 05:35:35.758	2	OneNote for Windows 10	0
+2023-01-15 05:35:35.758	3	onenoteim.exe	0
+2023-01-15 05:35:35.758	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 05:35:35.758	5	\DISPLAY1	0
+2023-01-15 05:35:36.242	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 05:35:36.242	3	ApplicationFrameHost.exe	0
+2023-01-15 05:35:36.242	4	ApplicationFrameWindow	0
+2023-01-15 05:35:36.242	5	\DISPLAY1	0
+2023-01-15 05:35:37.180	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:35:37.180	3	firefox.exe	0
+2023-01-15 05:35:37.180	4	MozillaWindowClass	0
+2023-01-15 05:35:37.180	5	\DISPLAY1	0
+2023-01-15 05:37:04.461	2	Running applications	0
+2023-01-15 05:37:04.461	3	explorer.exe	0
+2023-01-15 05:37:04.461	4	MSTaskListWClass	0
+2023-01-15 05:37:04.461	5	\DISPLAY1	0
+2023-01-15 05:37:05.332	2	Chrome Legacy Window	0
+2023-01-15 05:37:05.332	3	LeagueClientUx.exe	0
+2023-01-15 05:37:05.332	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:37:05.332	5	\DISPLAY1	0
+2023-01-15 05:37:08.002	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:37:08.002	3	firefox.exe	0
+2023-01-15 05:37:08.002	4	MozillaWindowClass	0
+2023-01-15 05:37:08.002	5	\DISPLAY1	0
+2023-01-15 05:37:12.739	2	Chrome Legacy Window	0
+2023-01-15 05:37:12.739	3	LeagueClientUx.exe	0
+2023-01-15 05:37:12.739	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:37:12.739	5	\DISPLAY1	0
+2023-01-15 05:37:13.003	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:37:13.003	3	firefox.exe	0
+2023-01-15 05:37:13.003	4	MozillaWindowClass	0
+2023-01-15 05:37:13.003	5	\DISPLAY1	0
+2023-01-15 05:37:17.990	2	Chrome Legacy Window	0
+2023-01-15 05:37:17.990	3	LeagueClientUx.exe	0
+2023-01-15 05:37:17.990	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:37:17.990	5	\DISPLAY1	0
+2023-01-15 05:38:02.146	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:38:02.146	3	firefox.exe	0
+2023-01-15 05:38:02.146	4	MozillaWindowClass	0
+2023-01-15 05:38:02.146	5	\DISPLAY1	0
+2023-01-15 05:38:12.104	2	Chrome Legacy Window	0
+2023-01-15 05:38:12.104	3	LeagueClientUx.exe	0
+2023-01-15 05:38:12.104	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:38:12.104	5	\DISPLAY1	0
+2023-01-15 05:38:24.862	2	Corki ARAM Build - U.GG Corki Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 05:38:24.862	3	firefox.exe	0
+2023-01-15 05:38:24.862	4	MozillaWindowClass	0
+2023-01-15 05:38:24.862	5	\DISPLAY1	0
+2023-01-15 05:38:36.249	2	Task Switching	0
+2023-01-15 05:38:36.249	3	explorer.exe	0
+2023-01-15 05:38:36.249	4	MultitaskingViewFrame	0
+2023-01-15 05:38:36.249	5	\DISPLAY1	0
+2023-01-15 05:38:40.205	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:38:40.205	3	firefox.exe	0
+2023-01-15 05:38:40.205	4	MozillaWindowClass	0
+2023-01-15 05:38:40.205	5	\DISPLAY1	0
+2023-01-15 05:39:03.755	2	League of Legends (TM) Client	0
+2023-01-15 05:39:03.755	3	League of Legends.exe	0
+2023-01-15 05:39:03.755	4	RiotWindowClass	0
+2023-01-15 05:39:03.755	5	\DISPLAY1	0
+2023-01-15 05:39:06.251	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:39:06.251	3	firefox.exe	0
+2023-01-15 05:39:06.251	4	MozillaWindowClass	0
+2023-01-15 05:39:06.251	5	\DISPLAY1	0
+2023-01-15 05:39:12.906	2	League of Legends (TM) Client	0
+2023-01-15 05:39:12.906	3	League of Legends.exe	0
+2023-01-15 05:39:12.906	4	RiotWindowClass	0
+2023-01-15 05:39:12.906	5	\DISPLAY1	0
+2023-01-15 05:52:43.928	2	(49) [80分鐘串燒系列 80 Minutes NonStop] 那些年我們聽過的歌 (2001-2010華語流行歌曲) 陳奕迅 林俊傑 周杰倫 S.H.E 張韶涵 楊丞琳 孫燕姿 潘瑋柏 大嘴巴 戴佩妮 - YouTube — Mozilla Firefox	0
+2023-01-15 05:52:43.928	3	firefox.exe	0
+2023-01-15 05:52:43.928	4	MozillaWindowClass	0
+2023-01-15 05:52:43.928	5	\DISPLAY1	0
+2023-01-15 05:52:46.280	2	League of Legends (TM) Client	0
+2023-01-15 05:52:46.280	3	League of Legends.exe	0
+2023-01-15 05:52:46.280	4	RiotWindowClass	0
+2023-01-15 05:52:46.280	5	\DISPLAY1	0
+2023-01-15 05:54:42.851	2	Chrome Legacy Window	0
+2023-01-15 05:54:42.851	3	LeagueClientUx.exe	0
+2023-01-15 05:54:42.851	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:54:42.851	5	\DISPLAY1	0
+2023-01-15 05:54:46.465	2	Corki ARAM Build - U.GG Corki Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 05:54:46.465	3	firefox.exe	0
+2023-01-15 05:54:46.465	4	MozillaWindowClass	0
+2023-01-15 05:54:46.465	5	\DISPLAY1	0
+2023-01-15 05:54:47.636	2	Chrome Legacy Window	0
+2023-01-15 05:54:47.636	3	LeagueClientUx.exe	0
+2023-01-15 05:54:47.636	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:54:47.636	5	\DISPLAY1	0
+2023-01-15 05:54:51.484	2	U GG: The Best League of Legends Builds LoL Build Champion Probuilds LoL Runes Tier List Counters Guides — Mozilla Firefox	0
+2023-01-15 05:54:51.484	3	firefox.exe	0
+2023-01-15 05:54:51.484	4	MozillaWindowClass	0
+2023-01-15 05:54:51.484	5	\DISPLAY1	0
+2023-01-15 05:55:06.093	2	Chrome Legacy Window	0
+2023-01-15 05:55:06.093	3	LeagueClientUx.exe	0
+2023-01-15 05:55:06.093	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:55:06.093	5	\DISPLAY1	0
+2023-01-15 05:55:09.680	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:55:09.680	3	firefox.exe	0
+2023-01-15 05:55:09.680	4	MozillaWindowClass	0
+2023-01-15 05:55:09.680	5	\DISPLAY1	0
+2023-01-15 05:55:15.889	2	Chrome Legacy Window	0
+2023-01-15 05:55:15.889	3	LeagueClientUx.exe	0
+2023-01-15 05:55:15.889	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:55:15.889	5	\DISPLAY1	0
+2023-01-15 05:55:17.064	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:55:17.064	3	firefox.exe	0
+2023-01-15 05:55:17.064	4	MozillaWindowClass	0
+2023-01-15 05:55:17.064	5	\DISPLAY1	0
+2023-01-15 05:55:17.984	2	Chrome Legacy Window	0
+2023-01-15 05:55:17.984	3	LeagueClientUx.exe	0
+2023-01-15 05:55:17.984	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:55:17.984	5	\DISPLAY1	0
+2023-01-15 05:55:30.106	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:55:30.106	3	firefox.exe	0
+2023-01-15 05:55:30.106	4	MozillaWindowClass	0
+2023-01-15 05:55:30.106	5	\DISPLAY1	0
+2023-01-15 05:55:31.504	2	Chrome Legacy Window	0
+2023-01-15 05:55:31.504	3	LeagueClientUx.exe	0
+2023-01-15 05:55:31.504	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:55:31.504	5	\DISPLAY1	0
+2023-01-15 05:55:33.408	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:55:33.408	3	firefox.exe	0
+2023-01-15 05:55:33.408	4	MozillaWindowClass	0
+2023-01-15 05:55:33.408	5	\DISPLAY1	0
+2023-01-15 05:56:03.368	2	Chrome Legacy Window	0
+2023-01-15 05:56:03.368	3	LeagueClientUx.exe	0
+2023-01-15 05:56:03.368	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:56:03.368	5	\DISPLAY1	0
+2023-01-15 05:56:04.164	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:56:04.164	3	firefox.exe	0
+2023-01-15 05:56:04.164	4	MozillaWindowClass	0
+2023-01-15 05:56:04.164	5	\DISPLAY1	0
+2023-01-15 05:56:07.232	2	Chrome Legacy Window	0
+2023-01-15 05:56:07.232	3	LeagueClientUx.exe	0
+2023-01-15 05:56:07.232	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:56:07.232	5	\DISPLAY1	0
+2023-01-15 05:56:07.524	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:56:07.524	3	firefox.exe	0
+2023-01-15 05:56:07.524	4	MozillaWindowClass	0
+2023-01-15 05:56:07.524	5	\DISPLAY1	0
+2023-01-15 05:56:08.097	2	Chrome Legacy Window	0
+2023-01-15 05:56:08.097	3	LeagueClientUx.exe	0
+2023-01-15 05:56:08.097	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:56:08.097	5	\DISPLAY1	0
+2023-01-15 05:56:32.654	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:56:32.654	3	firefox.exe	0
+2023-01-15 05:56:32.654	4	MozillaWindowClass	0
+2023-01-15 05:56:32.654	5	\DISPLAY1	0
+2023-01-15 05:56:33.544	2	Chrome Legacy Window	0
+2023-01-15 05:56:33.544	3	LeagueClientUx.exe	0
+2023-01-15 05:56:33.544	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:56:33.544	5	\DISPLAY1	0
+2023-01-15 05:56:39.802	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:56:39.802	3	firefox.exe	0
+2023-01-15 05:56:39.802	4	MozillaWindowClass	0
+2023-01-15 05:56:39.802	5	\DISPLAY1	0
+2023-01-15 05:56:40.723	2	Chrome Legacy Window	0
+2023-01-15 05:56:40.723	3	LeagueClientUx.exe	0
+2023-01-15 05:56:40.723	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 05:56:40.723	5	\DISPLAY1	0
+2023-01-15 05:56:44.562	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:56:44.562	3	firefox.exe	0
+2023-01-15 05:56:44.562	4	MozillaWindowClass	0
+2023-01-15 05:56:44.562	5	\DISPLAY1	0
+2023-01-15 05:56:59.625	2	Running applications	0
+2023-01-15 05:56:59.625	3	explorer.exe	0
+2023-01-15 05:56:59.625	4	MSTaskListWClass	0
+2023-01-15 05:56:59.625	5	\DISPLAY1	0
+2023-01-15 05:57:02.623	2	WeChat	0
+2023-01-15 05:57:02.623	3	WeChat.exe	0
+2023-01-15 05:57:02.623	4	WeChatMainWndForPC	0
+2023-01-15 05:57:02.623	5	\DISPLAY1	0
+2023-01-15 05:57:06.292	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 05:57:06.292	3	firefox.exe	0
+2023-01-15 05:57:06.292	4	MozillaWindowClass	0
+2023-01-15 05:57:06.292	5	\DISPLAY1	0
+2023-01-15 05:57:34.432	2	League of Legends (TM) Client	0
+2023-01-15 05:57:34.432	3	League of Legends.exe	0
+2023-01-15 05:57:34.432	4	RiotWindowClass	0
+2023-01-15 05:57:34.432	5	\DISPLAY1	0
+2023-01-15 06:15:20.336	2	(49) [80分鐘串燒系列 80 Minutes NonStop] 那些年我們聽過的歌 (2001-2010華語流行歌曲) 陳奕迅 林俊傑 周杰倫 S.H.E 張韶涵 楊丞琳 孫燕姿 潘瑋柏 大嘴巴 戴佩妮 - YouTube — Mozilla Firefox	0
+2023-01-15 06:15:20.336	3	firefox.exe	0
+2023-01-15 06:15:20.336	4	MozillaWindowClass	0
+2023-01-15 06:15:20.336	5	\DISPLAY1	0
+2023-01-15 06:15:22.455	2	Chrome Legacy Window	0
+2023-01-15 06:15:22.455	3	LeagueClientUx.exe	0
+2023-01-15 06:15:22.455	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:15:22.455	5	\DISPLAY1	0
+2023-01-15 06:15:30.008	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:15:30.008	3	firefox.exe	0
+2023-01-15 06:15:30.008	4	MozillaWindowClass	0
+2023-01-15 06:15:30.008	5	\DISPLAY1	0
+2023-01-15 06:15:33.783	2	Chrome Legacy Window	0
+2023-01-15 06:15:33.783	3	LeagueClientUx.exe	0
+2023-01-15 06:15:33.783	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:15:33.783	5	\DISPLAY1	0
+2023-01-15 06:17:08.702	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:17:08.702	3	firefox.exe	0
+2023-01-15 06:17:08.702	4	MozillaWindowClass	0
+2023-01-15 06:17:08.702	5	\DISPLAY1	0
+2023-01-15 06:18:13.826	2	Chrome Legacy Window	0
+2023-01-15 06:18:13.826	3	LeagueClientUx.exe	0
+2023-01-15 06:18:13.826	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:18:13.826	5	\DISPLAY1	0
+2023-01-15 06:18:15.211	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:18:15.211	3	firefox.exe	0
+2023-01-15 06:18:15.211	4	MozillaWindowClass	0
+2023-01-15 06:18:15.211	5	\DISPLAY1	0
+2023-01-15 06:18:17.552	2	Chrome Legacy Window	0
+2023-01-15 06:18:17.552	3	LeagueClientUx.exe	0
+2023-01-15 06:18:17.552	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:18:17.552	5	\DISPLAY1	0
+2023-01-15 06:18:23.914	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:18:23.914	3	firefox.exe	0
+2023-01-15 06:18:23.914	4	MozillaWindowClass	0
+2023-01-15 06:18:23.914	5	\DISPLAY1	0
+2023-01-15 06:18:25.150	2	Chrome Legacy Window	0
+2023-01-15 06:18:25.150	3	LeagueClientUx.exe	0
+2023-01-15 06:18:25.150	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:18:25.150	5	\DISPLAY1	0
+2023-01-15 06:18:40.848	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:18:40.848	3	firefox.exe	0
+2023-01-15 06:18:40.848	4	MozillaWindowClass	0
+2023-01-15 06:18:40.848	5	\DISPLAY1	0
+2023-01-15 06:18:42.606	2	Chrome Legacy Window	0
+2023-01-15 06:18:42.606	3	LeagueClientUx.exe	0
+2023-01-15 06:18:42.606	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:18:42.606	5	\DISPLAY1	0
+2023-01-15 06:18:44.143	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:18:44.143	3	firefox.exe	0
+2023-01-15 06:18:44.143	4	MozillaWindowClass	0
+2023-01-15 06:18:44.143	5	\DISPLAY1	0
+2023-01-15 06:19:01.855	2	Chrome Legacy Window	0
+2023-01-15 06:19:01.855	3	LeagueClientUx.exe	0
+2023-01-15 06:19:01.855	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:19:01.855	5	\DISPLAY1	0
+2023-01-15 06:19:22.852	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:19:22.852	3	firefox.exe	0
+2023-01-15 06:19:22.852	4	MozillaWindowClass	0
+2023-01-15 06:19:22.852	5	\DISPLAY1	0
+2023-01-15 06:19:23.615	2	Chrome Legacy Window	0
+2023-01-15 06:19:23.615	3	LeagueClientUx.exe	0
+2023-01-15 06:19:23.615	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:19:23.615	5	\DISPLAY1	0
+2023-01-15 06:19:59.505	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:19:59.505	3	firefox.exe	0
+2023-01-15 06:19:59.505	4	MozillaWindowClass	0
+2023-01-15 06:19:59.505	5	\DISPLAY1	0
+2023-01-15 06:20:21.874	2	Chrome Legacy Window	0
+2023-01-15 06:20:21.874	3	LeagueClientUx.exe	0
+2023-01-15 06:20:21.874	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:20:21.874	5	\DISPLAY1	0
+2023-01-15 06:20:32.961	2	Vel'Koz ARAM Build - U.GG Vel'Koz Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 06:20:32.961	3	firefox.exe	0
+2023-01-15 06:20:32.961	4	MozillaWindowClass	0
+2023-01-15 06:20:32.961	5	\DISPLAY1	0
+2023-01-15 06:20:55.077	2	Running applications	0
+2023-01-15 06:20:55.077	3	explorer.exe	0
+2023-01-15 06:20:55.077	4	MSTaskListWClass	0
+2023-01-15 06:20:55.077	5	\DISPLAY1	0
+2023-01-15 06:20:56.348	2	League of Legends (TM) Client	0
+2023-01-15 06:20:56.348	3	League of Legends.exe	0
+2023-01-15 06:20:56.348	4	RiotWindowClass	0
+2023-01-15 06:20:56.348	5	\DISPLAY1	0
+2023-01-15 06:40:26.396	2		0
+2023-01-15 06:40:26.396	3	explorer.exe	0
+2023-01-15 06:40:26.396	4	Shell_TrayWnd	0
+2023-01-15 06:40:26.396	5	\DISPLAY1	0
+2023-01-15 06:40:33.166	2	Chrome Legacy Window	0
+2023-01-15 06:40:33.166	3	LeagueClientUx.exe	0
+2023-01-15 06:40:33.166	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:40:33.166	5	\DISPLAY1	0
+2023-01-15 06:40:53.413	2	(49) [80分鐘串燒系列 80 Minutes NonStop] 那些年我們聽過的歌 (2001-2010華語流行歌曲) 陳奕迅 林俊傑 周杰倫 S.H.E 張韶涵 楊丞琳 孫燕姿 潘瑋柏 大嘴巴 戴佩妮 - YouTube — Mozilla Firefox	0
+2023-01-15 06:40:53.413	3	firefox.exe	0
+2023-01-15 06:40:53.413	4	MozillaWindowClass	0
+2023-01-15 06:40:53.413	5	\DISPLAY1	0
+2023-01-15 06:40:56.481	2	Chrome Legacy Window	0
+2023-01-15 06:40:56.481	3	LeagueClientUx.exe	0
+2023-01-15 06:40:56.481	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:40:56.481	5	\DISPLAY1	0
+2023-01-15 06:40:58.144	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:40:58.144	3	firefox.exe	0
+2023-01-15 06:40:58.144	4	MozillaWindowClass	0
+2023-01-15 06:40:58.144	5	\DISPLAY1	0
+2023-01-15 06:41:52.242	2	Running applications	0
+2023-01-15 06:41:52.242	3	explorer.exe	0
+2023-01-15 06:41:52.242	4	MSTaskListWClass	0
+2023-01-15 06:41:52.242	5	\DISPLAY1	0
+2023-01-15 06:41:52.977	2	Select 	0
+2023-01-15 06:41:52.977	3	cmd.exe	0
+2023-01-15 06:41:52.977	4	ConsoleWindowClass	0
+2023-01-15 06:41:52.977	5	\DISPLAY1	0
+2023-01-15 06:42:01.807	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:42:01.807	3	firefox.exe	0
+2023-01-15 06:42:01.807	4	MozillaWindowClass	0
+2023-01-15 06:42:01.807	5	\DISPLAY1	0
+2023-01-15 06:50:36.422	2	League of Legends	0
+2023-01-15 06:50:36.422	3	LeagueClientUx.exe	0
+2023-01-15 06:50:36.422	4	RCLIENT	0
+2023-01-15 06:50:36.422	5	\DISPLAY1	0
+2023-01-15 06:50:46.422	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:50:46.422	3	firefox.exe	0
+2023-01-15 06:50:46.422	4	MozillaWindowClass	0
+2023-01-15 06:50:46.422	5	\DISPLAY1	0
+2023-01-15 06:54:57.478	2	Running applications	0
+2023-01-15 06:54:57.478	3	explorer.exe	0
+2023-01-15 06:54:57.478	4	MSTaskListWClass	0
+2023-01-15 06:54:57.478	5	\DISPLAY1	0
+2023-01-15 06:54:58.958	2	OneNote for Windows 10	0
+2023-01-15 06:54:58.958	3	onenoteim.exe	0
+2023-01-15 06:54:58.958	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:54:58.958	5	\DISPLAY1	0
+2023-01-15 06:55:06.433	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 06:55:06.433	3	ApplicationFrameHost.exe	0
+2023-01-15 06:55:06.433	4	ApplicationFrameWindow	0
+2023-01-15 06:55:06.433	5	\DISPLAY1	0
+2023-01-15 06:55:09.296	2	OneNote for Windows 10	0
+2023-01-15 06:55:09.296	3	onenoteim.exe	0
+2023-01-15 06:55:09.296	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:55:09.296	5	\DISPLAY1	0
+2023-01-15 06:55:10.193	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:55:10.193	3	firefox.exe	0
+2023-01-15 06:55:10.193	4	MozillaWindowClass	0
+2023-01-15 06:55:10.193	5	\DISPLAY1	0
+2023-01-15 06:55:26.383	2	Screen Snipping	0
+2023-01-15 06:55:26.383	3	ScreenClippingHost.exe	0
+2023-01-15 06:55:26.383	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:55:26.383	5	\DISPLAY1	0
+2023-01-15 06:55:29.967	2	OneNote for Windows 10	0
+2023-01-15 06:55:29.967	3	onenoteim.exe	0
+2023-01-15 06:55:29.967	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:55:29.967	5	\DISPLAY1	0
+2023-01-15 06:55:34.715	2	Screen Snipping	0
+2023-01-15 06:55:34.715	3	ScreenClippingHost.exe	0
+2023-01-15 06:55:34.715	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:55:34.715	5	\DISPLAY1	0
+2023-01-15 06:55:46.435	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 06:55:46.435	3	ApplicationFrameHost.exe	0
+2023-01-15 06:55:46.435	4	ApplicationFrameWindow	0
+2023-01-15 06:55:46.435	5	\DISPLAY1	0
+2023-01-15 06:55:48.260	2	slides.pdf — Mozilla Firefox	0
+2023-01-15 06:55:48.260	3	firefox.exe	0
+2023-01-15 06:55:48.260	4	MozillaWindowClass	0
+2023-01-15 06:55:48.260	5	\DISPLAY1	0
+2023-01-15 06:55:52.326	2	OneNote for Windows 10	0
+2023-01-15 06:55:52.326	3	onenoteim.exe	0
+2023-01-15 06:55:52.326	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:55:52.326	5	\DISPLAY1	0
+2023-01-15 06:55:56.435	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 06:55:56.435	3	ApplicationFrameHost.exe	0
+2023-01-15 06:55:56.435	4	ApplicationFrameWindow	0
+2023-01-15 06:55:56.435	5	\DISPLAY1	0
+2023-01-15 06:55:58.286	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:55:58.286	3	firefox.exe	0
+2023-01-15 06:55:58.286	4	MozillaWindowClass	0
+2023-01-15 06:55:58.286	5	\DISPLAY1	0
+2023-01-15 06:56:14.782	2	Screen Snipping	0
+2023-01-15 06:56:14.782	3	ScreenClippingHost.exe	0
+2023-01-15 06:56:14.782	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:56:14.782	5	\DISPLAY1	0
+2023-01-15 06:56:19.745	2	OneNote for Windows 10	0
+2023-01-15 06:56:19.745	3	onenoteim.exe	0
+2023-01-15 06:56:19.745	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:56:19.745	5	\DISPLAY1	0
+2023-01-15 06:56:20.625	2		0
+2023-01-15 06:56:20.625	3	explorer.exe	0
+2023-01-15 06:56:20.625	4	TrayShowDesktopButtonWClass	0
+2023-01-15 06:56:20.625	5	\DISPLAY1	0
+2023-01-15 06:56:26.250	2	Settings	0
+2023-01-15 06:56:26.250	3	SystemSettings.exe	0
+2023-01-15 06:56:26.250	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:56:26.250	5	\DISPLAY1	0
+2023-01-15 06:56:26.436	2	Settings	0
+2023-01-15 06:56:26.436	3	ApplicationFrameHost.exe	0
+2023-01-15 06:56:26.436	4	ApplicationFrameWindow	0
+2023-01-15 06:56:26.436	5	\DISPLAY1	0
+2023-01-15 06:56:29.879	2		0
+2023-01-15 06:56:29.879	3	explorer.exe	0
+2023-01-15 06:56:29.879	4	ApplicationFrameTitleBarWindow	0
+2023-01-15 06:56:29.879	5	\DISPLAY1	0
+2023-01-15 06:56:33.788	2	Jump List for Microsoft Teams	0
+2023-01-15 06:56:33.788	3	ShellExperienceHost.exe	0
+2023-01-15 06:56:33.788	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:56:33.788	5	\DISPLAY1	0
+2023-01-15 06:56:36.117	2		0
+2023-01-15 06:56:36.117	3	explorer.exe	0
+2023-01-15 06:56:36.117	4	Button	0
+2023-01-15 06:56:36.117	5	\DISPLAY1	0
+2023-01-15 06:56:38.114	2	WeChat	0
+2023-01-15 06:56:38.114	3	WeChat.exe	0
+2023-01-15 06:56:38.114	4	TrayNotifyWnd	0
+2023-01-15 06:56:38.114	5	\DISPLAY1	0
+2023-01-15 06:56:39.550	2	Overflow Notification Area	0
+2023-01-15 06:56:39.550	3	explorer.exe	0
+2023-01-15 06:56:39.550	4	ToolbarWindow32	0
+2023-01-15 06:56:39.550	5	\DISPLAY1	0
+2023-01-15 06:56:40.047	2		0
+2023-01-15 06:56:40.047	3	Teams.exe	0
+2023-01-15 06:56:40.047	4	Chrome_WidgetWin_2	0
+2023-01-15 06:56:40.047	5	\DISPLAY1	0
+2023-01-15 06:56:41.005	2	Overflow Notification Area	0
+2023-01-15 06:56:41.005	3	explorer.exe	0
+2023-01-15 06:56:41.005	4	ToolbarWindow32	0
+2023-01-15 06:56:41.005	5	\DISPLAY1	0
+2023-01-15 06:56:42.479	2	WeChat	0
+2023-01-15 06:56:42.479	3	WeChat.exe	0
+2023-01-15 06:56:42.479	4	WeChatMainWndForPC	0
+2023-01-15 06:56:42.479	5	\DISPLAY1	0
+2023-01-15 06:56:42.996	2	FolderView	0
+2023-01-15 06:56:42.996	3	explorer.exe	0
+2023-01-15 06:56:42.996	4	SysListView32	0
+2023-01-15 06:56:42.996	5	\DISPLAY1	0
+2023-01-15 06:56:46.438	2	slides.pdf — Mozilla Firefox	0
+2023-01-15 06:56:46.438	3	firefox.exe	0
+2023-01-15 06:56:46.438	4	MozillaWindowClass	0
+2023-01-15 06:56:46.438	5	\DISPLAY1	0
+2023-01-15 06:56:58.383	2	Chrome Legacy Window	0
+2023-01-15 06:56:58.383	3	LeagueClientUx.exe	0
+2023-01-15 06:56:58.383	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:56:58.383	5	\DISPLAY1	0
+2023-01-15 06:57:04.371	2	DSC 140A - Probabilistic Modeling and ML - LE [A00] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-01-15 06:57:04.371	3	firefox.exe	0
+2023-01-15 06:57:04.371	4	MozillaWindowClass	0
+2023-01-15 06:57:04.371	5	\DISPLAY1	0
+2023-01-15 06:57:24.612	2	Screen Snipping	0
+2023-01-15 06:57:24.612	3	ScreenClippingHost.exe	0
+2023-01-15 06:57:24.612	4	Windows.UI.Core.CoreWindow	0
+2023-01-15 06:57:24.612	5	\DISPLAY1	0
+2023-01-15 06:57:26.277	2	Running applications	0
+2023-01-15 06:57:26.277	3	explorer.exe	0
+2023-01-15 06:57:26.277	4	MSTaskListWClass	0
+2023-01-15 06:57:26.277	5	\DISPLAY1	0
+2023-01-15 06:57:26.438	2	Alan @ UC San Diego ‎- OneNote for Windows 10	0
+2023-01-15 06:57:26.438	3	ApplicationFrameHost.exe	0
+2023-01-15 06:57:26.438	4	ApplicationFrameWindow	0
+2023-01-15 06:57:26.438	5	\DISPLAY1	0
+2023-01-15 06:57:35.429	2	slides.pdf — Mozilla Firefox	0
+2023-01-15 06:57:35.429	3	firefox.exe	0
+2023-01-15 06:57:35.429	4	MozillaWindowClass	0
+2023-01-15 06:57:35.429	5	\DISPLAY1	0
+2023-01-15 06:59:10.647	2	Running applications	0
+2023-01-15 06:59:10.647	3	explorer.exe	0
+2023-01-15 06:59:10.647	4	MSTaskListWClass	0
+2023-01-15 06:59:10.647	5	\DISPLAY1	0
+2023-01-15 06:59:13.872	2	Chrome Legacy Window	0
+2023-01-15 06:59:13.872	3	LeagueClientUx.exe	0
+2023-01-15 06:59:13.872	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 06:59:13.872	5	\DISPLAY1	0
+2023-01-15 06:59:16.440	2	DSC 140A — Mozilla Firefox	0
+2023-01-15 06:59:16.440	3	firefox.exe	0
+2023-01-15 06:59:16.440	4	MozillaWindowClass	0
+2023-01-15 06:59:16.440	5	\DISPLAY1	0
+2023-01-15 06:59:28.055	2	League of Legends (TM) Client	0
+2023-01-15 06:59:28.055	3	League of Legends.exe	0
+2023-01-15 06:59:28.055	4	RiotWindowClass	0
+2023-01-15 06:59:28.055	5	\DISPLAY1	0
+2023-01-15 07:07:46.462	2	DSC 180B Dashboard | Gradescope — Mozilla Firefox	0
+2023-01-15 07:07:46.462	3	firefox.exe	0
+2023-01-15 07:07:46.462	4	MozillaWindowClass	0
+2023-01-15 07:07:46.462	5	\DISPLAY1	0
+2023-01-15 07:07:48.419	2	Chrome Legacy Window	0
+2023-01-15 07:07:48.419	3	LeagueClientUx.exe	0
+2023-01-15 07:07:48.419	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 07:07:48.419	5	\DISPLAY1	0
+2023-01-15 07:10:06.962	2	DSC 180B Dashboard | Gradescope — Mozilla Firefox	0
+2023-01-15 07:10:06.962	3	firefox.exe	0
+2023-01-15 07:10:06.962	4	MozillaWindowClass	0
+2023-01-15 07:10:06.962	5	\DISPLAY1	0
+2023-01-15 07:10:08.211	2	Chrome Legacy Window	0
+2023-01-15 07:10:08.211	3	LeagueClientUx.exe	0
+2023-01-15 07:10:08.211	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 07:10:08.211	5	\DISPLAY1	0
+2023-01-15 07:10:15.075	2	Vel'Koz ARAM Build - U.GG Vel'Koz Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 07:10:15.075	3	firefox.exe	0
+2023-01-15 07:10:15.075	4	MozillaWindowClass	0
+2023-01-15 07:10:15.075	5	\DISPLAY1	0
+2023-01-15 07:10:16.806	2	Chrome Legacy Window	0
+2023-01-15 07:10:16.806	3	LeagueClientUx.exe	0
+2023-01-15 07:10:16.806	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 07:10:16.806	5	\DISPLAY1	0
+2023-01-15 07:10:18.293	2	Xayah Build with Highest Winrate - LoL Runes, Items, and Skill Order — Mozilla Firefox	0
+2023-01-15 07:10:18.293	3	firefox.exe	0
+2023-01-15 07:10:18.293	4	MozillaWindowClass	0
+2023-01-15 07:10:18.293	5	\DISPLAY1	0
+2023-01-15 07:10:23.376	2	Chrome Legacy Window	0
+2023-01-15 07:10:23.376	3	LeagueClientUx.exe	0
+2023-01-15 07:10:23.376	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 07:10:23.376	5	\DISPLAY1	0
+2023-01-15 07:10:40.432	2	Xayah Build with Highest Winrate - LoL Runes, Items, and Skill Order — Mozilla Firefox	0
+2023-01-15 07:10:40.432	3	firefox.exe	0
+2023-01-15 07:10:40.432	4	MozillaWindowClass	0
+2023-01-15 07:10:40.432	5	\DISPLAY1	0
+2023-01-15 07:10:46.223	2	Chrome Legacy Window	0
+2023-01-15 07:10:46.223	3	LeagueClientUx.exe	0
+2023-01-15 07:10:46.223	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 07:10:46.223	5	\DISPLAY1	0
+2023-01-15 07:11:04.781	2	Twitch ARAM Build - U.GG Twitch Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-15 07:11:04.781	3	firefox.exe	0
+2023-01-15 07:11:04.781	4	MozillaWindowClass	0
+2023-01-15 07:11:04.781	5	\DISPLAY1	0
+2023-01-15 07:11:12.461	2	Chrome Legacy Window	0
+2023-01-15 07:11:12.461	3	LeagueClientUx.exe	0
+2023-01-15 07:11:12.461	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 07:11:12.461	5	\DISPLAY1	0
+2023-01-15 07:11:28.958	2	AP Twitch ARAM Build - U.GG AP Twitch Runes + Item Guide ARAM — Mozilla Firefox	0
+2023-01-15 07:11:28.958	3	firefox.exe	0
+2023-01-15 07:11:28.958	4	MozillaWindowClass	0
+2023-01-15 07:11:28.958	5	\DISPLAY1	0
+2023-01-15 07:12:00.829	2	League of Legends (TM) Client	0
+2023-01-15 07:12:00.829	3	League of Legends.exe	0
+2023-01-15 07:12:00.829	4	RiotWindowClass	0
+2023-01-15 07:12:00.829	5	\DISPLAY1	0
+2023-01-15 07:17:22.642	2	(49) BLACKPINK - ‘Typa Girl’ (Official Audio) - YouTube — Mozilla Firefox	0
+2023-01-15 07:17:22.642	3	firefox.exe	0
+2023-01-15 07:17:22.642	4	MozillaWindowClass	0
+2023-01-15 07:17:22.642	5	\DISPLAY1	0
+2023-01-15 07:17:28.353	2	League of Legends (TM) Client	0
+2023-01-15 07:17:28.353	3	League of Legends.exe	0
+2023-01-15 07:17:28.353	4	RiotWindowClass	0
+2023-01-15 07:17:28.353	5	\DISPLAY1	0
+2023-01-15 07:34:26.529	2	Twitch Build with Highest Winrate - LoL Runes, Items, and Skill Order — Mozilla Firefox	0
+2023-01-15 07:34:26.529	3	firefox.exe	0
+2023-01-15 07:34:26.529	4	MozillaWindowClass	0
+2023-01-15 07:34:26.529	5	\DISPLAY1	0
+2023-01-15 07:34:29.131	2	Chrome Legacy Window	0
+2023-01-15 07:34:29.131	3	LeagueClientUx.exe	0
+2023-01-15 07:34:29.131	4	Chrome_RenderWidgetHostHWND	0
+2023-01-15 07:34:29.131	5	\DISPLAY1	0
+2023-01-15 07:36:27.988	2	Running applications	0
+2023-01-15 07:36:27.988	3	explorer.exe	0
+2023-01-15 07:36:27.988	4	MSTaskListWClass	0
+2023-01-15 07:36:27.988	5	\DISPLAY1	0
+2023-01-15 07:36:29.016	2		0
+2023-01-15 07:36:29.016	3	cmd.exe	0
+2023-01-15 07:36:29.016	4	ConsoleWindowClass	0
+2023-01-15 07:36:29.016	5	\DISPLAY1	0

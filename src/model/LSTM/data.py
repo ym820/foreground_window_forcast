@@ -16,10 +16,10 @@ def get_input_output_folder(default_path = True):
         os.chdir("../../")
     return input_folder, output_folder
 
-def export_db_as_csv(dir):
+def export_dbs_as_csv(dir):
     input_folder, output_folder = get_input_output_folder()
     for db in os.listdir(input_folder):
-        new_name = db.strip(".db") + ".csv"
+        new_name = db.split("-")[1].strip("0.db") + ".csv"
         try:
             input_file_path = os.path.join(input_folder, db)
             conn=sql.connect(input_file_path)
@@ -54,6 +54,8 @@ def combine_dataset(raw_path, file_path = "dataset.csv"):
     # start = pd.Series(['<s>'])
     _, output_folder = get_input_output_folder()
     for csv in os.listdir(output_folder):
+        if ".csv" not in csv:
+            continue
         curr_file_path = os.path.join(output_folder, csv)
         df = pd.read_csv(curr_file_path)
         temp = df[df['ID_INPUT'] == 3][['MEASUREMENT_TIME', 'VALUE']].reset_index(drop=True)
