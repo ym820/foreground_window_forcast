@@ -1,0 +1,833 @@
+MEASUREMENT_TIME	ID_INPUT	VALUE	PRIVATE_DATA
+2023-02-02 02:28:16.336	2	Microsoft Teams	0
+2023-02-02 02:28:16.336	3	Teams.exe	0
+2023-02-02 02:28:16.336	4	Chrome_WidgetWin_1	0
+2023-02-02 02:28:16.336	5	\DISPLAY1	0
+2023-02-02 02:28:25.865	2	Running applications	0
+2023-02-02 02:28:25.865	3	explorer.exe	0
+2023-02-02 02:28:25.865	4	MSTaskListWClass	0
+2023-02-02 02:28:25.865	5	\DISPLAY1	0
+2023-02-02 02:28:27.838	2	https://discord.com/channels/@me - Discord	0
+2023-02-02 02:28:27.838	3	Discord.exe	0
+2023-02-02 02:28:27.838	4	Chrome_WidgetWin_1	0
+2023-02-02 02:28:27.838	5	\DISPLAY1	0
+2023-02-02 02:28:42.927	2	k4zhao - Account Lookup - ACMS Help Desk — Mozilla Firefox	0
+2023-02-02 02:28:42.927	3	firefox.exe	0
+2023-02-02 02:28:42.927	4	MozillaWindowClass	0
+2023-02-02 02:28:42.927	5	\DISPLAY1	0
+2023-02-02 02:29:18.640	2	Running applications	0
+2023-02-02 02:29:18.640	3	explorer.exe	0
+2023-02-02 02:29:18.640	4	MSTaskListWClass	0
+2023-02-02 02:29:18.640	5	\DISPLAY1	0
+2023-02-02 02:29:27.841	2	Search	0
+2023-02-02 02:29:27.841	3	SearchApp.exe	0
+2023-02-02 02:29:27.841	4	Windows.UI.Core.CoreWindow	0
+2023-02-02 02:29:27.841	5	\DISPLAY1	0
+2023-02-02 02:29:37.842	2	UCSD: My Tritonlink — Mozilla Firefox	0
+2023-02-02 02:29:37.842	3	firefox.exe	0
+2023-02-02 02:29:37.842	4	MozillaWindowClass	0
+2023-02-02 02:29:37.842	5	\DISPLAY1	0
+2023-02-02 02:29:42.653	2	Chrome Legacy Window	0
+2023-02-02 02:29:42.653	3	RiotClientUx.exe	0
+2023-02-02 02:29:42.653	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 02:29:42.653	5	\DISPLAY1	0
+2023-02-02 02:29:57.842	2	UCSD: My Tritonlink — Mozilla Firefox	0
+2023-02-02 02:29:57.842	3	firefox.exe	0
+2023-02-02 02:29:57.842	4	MozillaWindowClass	0
+2023-02-02 02:29:57.842	5	\DISPLAY1	0
+2023-02-02 02:30:00.271	2	Running applications	0
+2023-02-02 02:30:00.271	3	explorer.exe	0
+2023-02-02 02:30:00.271	4	MSTaskListWClass	0
+2023-02-02 02:30:00.271	5	\DISPLAY1	0
+2023-02-02 02:30:03.334	2	Netflix — Mozilla Firefox	0
+2023-02-02 02:30:03.334	3	firefox.exe	0
+2023-02-02 02:30:03.334	4	MozillaWindowClass	0
+2023-02-02 02:30:03.334	5	\DISPLAY1	0
+2023-02-02 02:30:08.634	2	Running applications	0
+2023-02-02 02:30:08.634	3	explorer.exe	0
+2023-02-02 02:30:08.634	4	MSTaskListWClass	0
+2023-02-02 02:30:08.634	5	\DISPLAY1	0
+2023-02-02 02:30:09.709	2	Chrome Legacy Window	0
+2023-02-02 02:30:09.709	3	LeagueClientUx.exe	0
+2023-02-02 02:30:09.709	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 02:30:09.709	5	\DISPLAY1	0
+2023-02-02 02:31:07.221	2	UCSD: My Tritonlink — Mozilla Firefox	0
+2023-02-02 02:31:07.221	3	firefox.exe	0
+2023-02-02 02:31:07.221	4	MozillaWindowClass	0
+2023-02-02 02:31:07.221	5	\DISPLAY1	0
+2023-02-02 02:31:21.708	2	Running applications	0
+2023-02-02 02:31:21.708	3	explorer.exe	0
+2023-02-02 02:31:21.708	4	MSTaskListWClass	0
+2023-02-02 02:31:21.708	5	\DISPLAY1	0
+2023-02-02 02:31:22.784	2	Chrome Legacy Window	0
+2023-02-02 02:31:22.784	3	LeagueClientUx.exe	0
+2023-02-02 02:31:22.784	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 02:31:22.784	5	\DISPLAY1	0
+2023-02-02 02:31:57.841	2	Netflix — Mozilla Firefox	0
+2023-02-02 02:31:57.841	3	firefox.exe	0
+2023-02-02 02:31:57.841	4	MozillaWindowClass	0
+2023-02-02 02:31:57.841	5	\DISPLAY1	0
+2023-02-02 02:32:07.848	2	Task Switching	0
+2023-02-02 02:32:07.848	3	explorer.exe	0
+2023-02-02 02:32:07.848	4	MultitaskingViewFrame	0
+2023-02-02 02:32:07.848	5	\DISPLAY1	0
+2023-02-02 02:32:17.848	2	Netflix — Mozilla Firefox	0
+2023-02-02 02:32:17.848	3	firefox.exe	0
+2023-02-02 02:32:17.848	4	MozillaWindowClass	0
+2023-02-02 02:32:17.848	5	\DISPLAY1	0
+2023-02-02 02:32:49.059	2	Running applications	0
+2023-02-02 02:32:49.059	3	explorer.exe	0
+2023-02-02 02:32:49.059	4	MSTaskListWClass	0
+2023-02-02 02:32:49.059	5	\DISPLAY1	0
+2023-02-02 02:32:57.850	2	Kayle ARAM Build - U.GG Kayle Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-02-02 02:32:57.850	3	firefox.exe	0
+2023-02-02 02:32:57.850	4	MozillaWindowClass	0
+2023-02-02 02:32:57.850	5	\DISPLAY1	0
+2023-02-02 02:33:07.354	2	League of Legends (TM) Client	0
+2023-02-02 02:33:07.355	3	League of Legends.exe	0
+2023-02-02 02:33:07.355	4	RiotWindowClass	0
+2023-02-02 02:33:07.355	5	\DISPLAY1	0
+2023-02-02 02:33:11.199	2	Netflix — Mozilla Firefox	0
+2023-02-02 02:33:11.199	3	firefox.exe	0
+2023-02-02 02:33:11.199	4	MozillaWindowClass	0
+2023-02-02 02:33:11.199	5	\DISPLAY1	0
+2023-02-02 02:33:16.513	2	League of Legends (TM) Client	0
+2023-02-02 02:33:16.513	3	League of Legends.exe	0
+2023-02-02 02:33:16.513	4	RiotWindowClass	0
+2023-02-02 02:33:16.513	5	\DISPLAY1	0
+2023-02-02 02:33:18.952	2	How to Beat FARM CHALLENGE in Survivor.io (Mega Challenge Guide) - YouTube — Mozilla Firefox	0
+2023-02-02 02:33:18.952	3	firefox.exe	0
+2023-02-02 02:33:18.952	4	MozillaWindowClass	0
+2023-02-02 02:33:18.952	5	\DISPLAY1	0
+2023-02-02 02:33:21.120	2	League of Legends (TM) Client	0
+2023-02-02 02:33:21.120	3	League of Legends.exe	0
+2023-02-02 02:33:21.120	4	RiotWindowClass	0
+2023-02-02 02:33:21.120	5	\DISPLAY1	0
+2023-02-02 02:33:26.358	2	(14) YouTube — Mozilla Firefox	0
+2023-02-02 02:33:26.358	3	firefox.exe	0
+2023-02-02 02:33:26.358	4	MozillaWindowClass	0
+2023-02-02 02:33:26.358	5	\DISPLAY1	0
+2023-02-02 02:33:27.852	2	League of Legends (TM) Client	0
+2023-02-02 02:33:27.852	3	League of Legends.exe	0
+2023-02-02 02:33:27.852	4	RiotWindowClass	0
+2023-02-02 02:33:27.852	5	\DISPLAY1	0
+2023-02-02 02:33:29.691	2	(14) 林俊傑 JJ Lin 2022 - 林俊傑30首精選歌曲 JJ Lin - 的最佳歌曲 音乐播放列表林俊杰JJ Lin - Best Songs Of 林俊傑 JJ Lin|输了你赢了世界又如何 - YouTube — Mozilla Firefox	0
+2023-02-02 02:33:29.691	3	firefox.exe	0
+2023-02-02 02:33:29.691	4	MozillaWindowClass	0
+2023-02-02 02:33:29.691	5	\DISPLAY1	0
+2023-02-02 02:33:37.733	2	League of Legends (TM) Client	0
+2023-02-02 02:33:37.733	3	League of Legends.exe	0
+2023-02-02 02:33:37.733	4	RiotWindowClass	0
+2023-02-02 02:33:37.733	5	\DISPLAY1	0
+2023-02-02 02:37:15.151	2	(14) 林俊傑 JJ Lin 2022 - 林俊傑30首精選歌曲 JJ Lin - 的最佳歌曲 音乐播放列表林俊杰JJ Lin - Best Songs Of 林俊傑 JJ Lin|输了你赢了世界又如何 - YouTube — Mozilla Firefox	0
+2023-02-02 02:37:15.151	3	firefox.exe	0
+2023-02-02 02:37:15.151	4	MozillaWindowClass	0
+2023-02-02 02:37:15.151	5	\DISPLAY1	0
+2023-02-02 02:37:16.216	2	League of Legends (TM) Client	0
+2023-02-02 02:37:16.216	3	League of Legends.exe	0
+2023-02-02 02:37:16.216	4	RiotWindowClass	0
+2023-02-02 02:37:16.216	5	\DISPLAY1	0
+2023-02-02 02:38:07.863	2	Search	0
+2023-02-02 02:38:07.863	3	SearchApp.exe	0
+2023-02-02 02:38:07.863	4	Windows.UI.Core.CoreWindow	0
+2023-02-02 02:38:07.863	5	\DISPLAY1	0
+2023-02-02 02:38:08.912	2	Running applications	0
+2023-02-02 02:38:08.912	3	explorer.exe	0
+2023-02-02 02:38:08.912	4	MSTaskListWClass	0
+2023-02-02 02:38:08.912	5	\DISPLAY1	0
+2023-02-02 02:38:09.505	2	League of Legends (TM) Client	0
+2023-02-02 02:38:09.505	3	League of Legends.exe	0
+2023-02-02 02:38:09.505	4	RiotWindowClass	0
+2023-02-02 02:38:09.505	5	\DISPLAY1	0
+2023-02-02 02:42:42.422	2	Netflix — Mozilla Firefox	0
+2023-02-02 02:42:42.422	3	firefox.exe	0
+2023-02-02 02:42:42.422	4	MozillaWindowClass	0
+2023-02-02 02:42:42.422	5	\DISPLAY1	0
+2023-02-02 02:42:46.358	2	Running applications	0
+2023-02-02 02:42:46.358	3	explorer.exe	0
+2023-02-02 02:42:46.358	4	MSTaskListWClass	0
+2023-02-02 02:42:46.358	5	\DISPLAY1	0
+2023-02-02 02:42:47.509	2	League of Legends (TM) Client	0
+2023-02-02 02:42:47.509	3	League of Legends.exe	0
+2023-02-02 02:42:47.509	4	RiotWindowClass	0
+2023-02-02 02:42:47.509	5	\DISPLAY1	0
+2023-02-02 02:42:50.194	2	Running applications	0
+2023-02-02 02:42:50.194	3	explorer.exe	0
+2023-02-02 02:42:50.194	4	MSTaskListWClass	0
+2023-02-02 02:42:50.194	5	\DISPLAY1	0
+2023-02-02 02:42:50.913	2	Chrome Legacy Window	0
+2023-02-02 02:42:50.913	3	LeagueClientUx.exe	0
+2023-02-02 02:42:50.913	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 02:42:50.913	5	\DISPLAY1	0
+2023-02-02 02:44:47.865	2	(14) 林俊傑 JJ Lin 2022 - 林俊傑30首精選歌曲 JJ Lin - 的最佳歌曲 音乐播放列表林俊杰JJ Lin - Best Songs Of 林俊傑 JJ Lin|输了你赢了世界又如何 - YouTube — Mozilla Firefox	0
+2023-02-02 02:44:47.865	3	firefox.exe	0
+2023-02-02 02:44:47.865	4	MozillaWindowClass	0
+2023-02-02 02:44:47.865	5	\DISPLAY1	0
+2023-02-02 02:44:54.538	2	Running applications	0
+2023-02-02 02:44:54.538	3	explorer.exe	0
+2023-02-02 02:44:54.538	4	MSTaskListWClass	0
+2023-02-02 02:44:54.538	5	\DISPLAY1	0
+2023-02-02 02:44:56.129	2	Chrome Legacy Window	0
+2023-02-02 02:44:56.129	3	LeagueClientUx.exe	0
+2023-02-02 02:44:56.129	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 02:44:56.129	5	\DISPLAY1	0
+2023-02-02 02:45:47.883	2	Jhin ARAM Build - U.GG Jhin Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-02-02 02:45:47.883	3	firefox.exe	0
+2023-02-02 02:45:47.883	4	MozillaWindowClass	0
+2023-02-02 02:45:47.883	5	\DISPLAY1	0
+2023-02-02 02:45:57.883	2	League of Legends (TM) Client	0
+2023-02-02 02:45:57.883	3	League of Legends.exe	0
+2023-02-02 02:45:57.883	4	RiotWindowClass	0
+2023-02-02 02:45:57.883	5	\DISPLAY1	0
+2023-02-02 02:46:34.630	2	Running applications	0
+2023-02-02 02:46:34.630	3	explorer.exe	0
+2023-02-02 02:46:34.630	4	MSTaskListWClass	0
+2023-02-02 02:46:34.630	5	\DISPLAY1	0
+2023-02-02 02:46:35.491	2	League of Legends (TM) Client	0
+2023-02-02 02:46:35.491	3	League of Legends.exe	0
+2023-02-02 02:46:35.491	4	RiotWindowClass	0
+2023-02-02 02:46:35.491	5	\DISPLAY1	0
+2023-02-02 02:47:41.462	2	Netflix — Mozilla Firefox	0
+2023-02-02 02:47:41.462	3	firefox.exe	0
+2023-02-02 02:47:41.462	4	MozillaWindowClass	0
+2023-02-02 02:47:41.462	5	\DISPLAY1	0
+2023-02-02 02:47:43.713	2	Running applications	0
+2023-02-02 02:47:43.713	3	explorer.exe	0
+2023-02-02 02:47:43.713	4	MSTaskListWClass	0
+2023-02-02 02:47:43.713	5	\DISPLAY1	0
+2023-02-02 02:47:44.516	2	League of Legends (TM) Client	0
+2023-02-02 02:47:44.516	3	League of Legends.exe	0
+2023-02-02 02:47:44.516	4	RiotWindowClass	0
+2023-02-02 02:47:44.516	5	\DISPLAY1	0
+2023-02-02 02:57:20.415	2	(14) 林俊傑 JJ Lin 2022 - 林俊傑30首精選歌曲 JJ Lin - 的最佳歌曲 音乐播放列表林俊杰JJ Lin - Best Songs Of 林俊傑 JJ Lin|输了你赢了世界又如何 - YouTube — Mozilla Firefox	0
+2023-02-02 02:57:20.415	3	firefox.exe	0
+2023-02-02 02:57:20.415	4	MozillaWindowClass	0
+2023-02-02 02:57:20.415	5	\DISPLAY1	0
+2023-02-02 02:57:23.958	2	Running applications	0
+2023-02-02 02:57:23.958	3	explorer.exe	0
+2023-02-02 02:57:23.958	4	MSTaskListWClass	0
+2023-02-02 02:57:23.958	5	\DISPLAY1	0
+2023-02-02 02:57:24.351	2	League of Legends (TM) Client	0
+2023-02-02 02:57:24.351	3	League of Legends.exe	0
+2023-02-02 02:57:24.351	4	RiotWindowClass	0
+2023-02-02 02:57:24.351	5	\DISPLAY1	0
+2023-02-02 03:00:27.918	2		0
+2023-02-02 03:00:27.918	3	explorer.exe	0
+2023-02-02 03:00:27.918	4	Shell_TrayWnd	0
+2023-02-02 03:00:27.918	5	\DISPLAY1	0
+2023-02-02 03:00:33.175	2	Chrome Legacy Window	0
+2023-02-02 03:00:33.175	3	LeagueClientUx.exe	0
+2023-02-02 03:00:33.175	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:00:33.175	5	\DISPLAY1	0
+2023-02-02 03:00:46.988	2	Jhin ARAM Build - U.GG Jhin Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-02-02 03:00:46.988	3	firefox.exe	0
+2023-02-02 03:00:46.988	4	MozillaWindowClass	0
+2023-02-02 03:00:46.988	5	\DISPLAY1	0
+2023-02-02 03:00:56.208	2	Running applications	0
+2023-02-02 03:00:56.208	3	explorer.exe	0
+2023-02-02 03:00:56.208	4	MSTaskListWClass	0
+2023-02-02 03:00:56.208	5	\DISPLAY1	0
+2023-02-02 03:00:57.403	2	(14) YouTube — Mozilla Firefox	0
+2023-02-02 03:00:57.403	3	firefox.exe	0
+2023-02-02 03:00:57.403	4	MozillaWindowClass	0
+2023-02-02 03:00:57.403	5	\DISPLAY1	0
+2023-02-02 03:01:38.368	2	Chrome Legacy Window	0
+2023-02-02 03:01:38.368	3	LeagueClientUx.exe	0
+2023-02-02 03:01:38.368	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:01:38.368	5	\DISPLAY1	0
+2023-02-02 03:02:11.089	2	(14) YouTube — Mozilla Firefox	0
+2023-02-02 03:02:11.089	3	firefox.exe	0
+2023-02-02 03:02:11.089	4	MozillaWindowClass	0
+2023-02-02 03:02:11.089	5	\DISPLAY1	0
+2023-02-02 03:02:20.951	2	Chrome Legacy Window	0
+2023-02-02 03:02:20.951	3	LeagueClientUx.exe	0
+2023-02-02 03:02:20.951	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:02:20.951	5	\DISPLAY1	0
+2023-02-02 03:02:28.192	2	(14) Hanni flirting on stage😳 #뉴진스 #하니 #newjeans - YouTube — Mozilla Firefox	0
+2023-02-02 03:02:28.192	3	firefox.exe	0
+2023-02-02 03:02:28.192	4	MozillaWindowClass	0
+2023-02-02 03:02:28.192	5	\DISPLAY1	0
+2023-02-02 03:02:36.938	2	Chrome Legacy Window	0
+2023-02-02 03:02:36.938	3	LeagueClientUx.exe	0
+2023-02-02 03:02:36.938	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:02:36.938	5	\DISPLAY1	0
+2023-02-02 03:03:04.782	2	(14) YouTube — Mozilla Firefox	0
+2023-02-02 03:03:04.782	3	firefox.exe	0
+2023-02-02 03:03:04.782	4	MozillaWindowClass	0
+2023-02-02 03:03:04.782	5	\DISPLAY1	0
+2023-02-02 03:03:14.648	2	Chrome Legacy Window	0
+2023-02-02 03:03:14.648	3	LeagueClientUx.exe	0
+2023-02-02 03:03:14.648	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:03:14.648	5	\DISPLAY1	0
+2023-02-02 03:03:25.375	2	Kindred Build with Highest Winrate - LoL Runes, Items, and Skill Order — Mozilla Firefox	0
+2023-02-02 03:03:25.375	3	firefox.exe	0
+2023-02-02 03:03:25.375	4	MozillaWindowClass	0
+2023-02-02 03:03:25.375	5	\DISPLAY1	0
+2023-02-02 03:03:30.526	2	Chrome Legacy Window	0
+2023-02-02 03:03:30.526	3	LeagueClientUx.exe	0
+2023-02-02 03:03:30.526	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:03:30.526	5	\DISPLAY1	0
+2023-02-02 03:03:34.683	2	Netflix — Mozilla Firefox	0
+2023-02-02 03:03:34.683	3	firefox.exe	0
+2023-02-02 03:03:34.683	4	MozillaWindowClass	0
+2023-02-02 03:03:34.683	5	\DISPLAY1	0
+2023-02-02 03:04:11.839	2	Running applications	0
+2023-02-02 03:04:11.839	3	explorer.exe	0
+2023-02-02 03:04:11.839	4	MSTaskListWClass	0
+2023-02-02 03:04:11.839	5	\DISPLAY1	0
+2023-02-02 03:04:12.472	2	League of Legends (TM) Client	0
+2023-02-02 03:04:12.472	3	League of Legends.exe	0
+2023-02-02 03:04:12.472	4	RiotWindowClass	0
+2023-02-02 03:04:12.472	5	\DISPLAY1	0
+2023-02-02 03:04:17.927	2	(14) NewJeans (뉴진스) - omg (cover by xylens) - YouTube — Mozilla Firefox	0
+2023-02-02 03:04:17.927	3	firefox.exe	0
+2023-02-02 03:04:17.927	4	MozillaWindowClass	0
+2023-02-02 03:04:17.927	5	\DISPLAY1	0
+2023-02-02 03:04:20.042	2	League of Legends (TM) Client	0
+2023-02-02 03:04:20.042	3	League of Legends.exe	0
+2023-02-02 03:04:20.042	4	RiotWindowClass	0
+2023-02-02 03:04:20.042	5	\DISPLAY1	0
+2023-02-02 03:04:27.185	2	Graves ARAM Build - U.GG Graves Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-02-02 03:04:27.185	3	firefox.exe	0
+2023-02-02 03:04:27.185	4	MozillaWindowClass	0
+2023-02-02 03:04:27.185	5	\DISPLAY1	0
+2023-02-02 03:04:37.928	2	League of Legends (TM) Client	0
+2023-02-02 03:04:37.928	3	League of Legends.exe	0
+2023-02-02 03:04:37.928	4	RiotWindowClass	0
+2023-02-02 03:04:37.928	5	\DISPLAY1	0
+2023-02-02 03:14:40.377	2	(14) The Dumbest Laptop DELL Ever Made - YouTube — Mozilla Firefox	0
+2023-02-02 03:14:40.377	3	firefox.exe	0
+2023-02-02 03:14:40.377	4	MozillaWindowClass	0
+2023-02-02 03:14:40.377	5	\DISPLAY1	0
+2023-02-02 03:14:41.728	2	League of Legends (TM) Client	0
+2023-02-02 03:14:41.728	3	League of Legends.exe	0
+2023-02-02 03:14:41.728	4	RiotWindowClass	0
+2023-02-02 03:14:41.728	5	\DISPLAY1	0
+2023-02-02 03:15:47.953	2	(14) YouTube — Mozilla Firefox	0
+2023-02-02 03:15:47.953	3	firefox.exe	0
+2023-02-02 03:15:47.953	4	MozillaWindowClass	0
+2023-02-02 03:15:47.953	5	\DISPLAY1	0
+2023-02-02 03:15:49.300	2	League of Legends (TM) Client	0
+2023-02-02 03:15:49.300	3	League of Legends.exe	0
+2023-02-02 03:15:49.300	4	RiotWindowClass	0
+2023-02-02 03:15:49.300	5	\DISPLAY1	0
+2023-02-02 03:15:57.016	2	(14) 梁靜茹 Fish Leong【寧夏 Quiet Summer】Official Music Video - YouTube — Mozilla Firefox	0
+2023-02-02 03:15:57.016	3	firefox.exe	0
+2023-02-02 03:15:57.016	4	MozillaWindowClass	0
+2023-02-02 03:15:57.016	5	\DISPLAY1	0
+2023-02-02 03:15:57.953	2		0
+2023-02-02 03:15:57.953	3	explorer.exe	0
+2023-02-02 03:15:57.953	4	ForegroundStaging	0
+2023-02-02 03:15:57.953	5	\DISPLAY1	0
+2023-02-02 03:15:58.863	2	League of Legends (TM) Client	0
+2023-02-02 03:15:58.863	3	League of Legends.exe	0
+2023-02-02 03:15:58.863	4	RiotWindowClass	0
+2023-02-02 03:15:58.863	5	\DISPLAY1	0
+2023-02-02 03:17:31.598	2	(14) 梁靜茹 Fish Leong【寧夏 Quiet Summer】Official Music Video - YouTube — Mozilla Firefox	0
+2023-02-02 03:17:31.598	3	firefox.exe	0
+2023-02-02 03:17:31.598	4	MozillaWindowClass	0
+2023-02-02 03:17:31.598	5	\DISPLAY1	0
+2023-02-02 03:17:34.384	2	League of Legends (TM) Client	0
+2023-02-02 03:17:34.384	3	League of Legends.exe	0
+2023-02-02 03:17:34.384	4	RiotWindowClass	0
+2023-02-02 03:17:34.384	5	\DISPLAY1	0
+2023-02-02 03:28:17.983	2	(14) 林俊杰《雪落下的声音》 JJ不愧是行走的CD！《梦想的声音3》EP2 20181102 | 纯享 ZJSTV - YouTube — Mozilla Firefox	0
+2023-02-02 03:28:17.983	3	firefox.exe	0
+2023-02-02 03:28:17.983	4	MozillaWindowClass	0
+2023-02-02 03:28:17.983	5	\DISPLAY1	0
+2023-02-02 03:28:19.306	2	League of Legends (TM) Client	0
+2023-02-02 03:28:19.306	3	League of Legends.exe	0
+2023-02-02 03:28:19.306	4	RiotWindowClass	0
+2023-02-02 03:28:19.306	5	\DISPLAY1	0
+2023-02-02 03:29:33.640	2	Graves ARAM Build - U.GG Graves Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-02-02 03:29:33.640	3	firefox.exe	0
+2023-02-02 03:29:33.640	4	MozillaWindowClass	0
+2023-02-02 03:29:33.640	5	\DISPLAY1	0
+2023-02-02 03:29:34.970	2	Running applications	0
+2023-02-02 03:29:34.970	3	explorer.exe	0
+2023-02-02 03:29:34.970	4	MSTaskListWClass	0
+2023-02-02 03:29:34.970	5	\DISPLAY1	0
+2023-02-02 03:29:37.988	2	League of Legends	0
+2023-02-02 03:29:37.988	3	LeagueClientUx.exe	0
+2023-02-02 03:29:37.988	4	RCLIENT	0
+2023-02-02 03:29:37.988	5	\DISPLAY1	0
+2023-02-02 03:31:39.682	2	(14) 林俊杰《雪落下的声音》 JJ不愧是行走的CD！《梦想的声音3》EP2 20181102 | 纯享 ZJSTV - YouTube — Mozilla Firefox	0
+2023-02-02 03:31:39.682	3	firefox.exe	0
+2023-02-02 03:31:39.682	4	MozillaWindowClass	0
+2023-02-02 03:31:39.682	5	\DISPLAY1	0
+2023-02-02 03:31:40.396	2	Chrome Legacy Window	0
+2023-02-02 03:31:40.396	3	LeagueClientUx.exe	0
+2023-02-02 03:31:40.396	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:31:40.396	5	\DISPLAY1	0
+2023-02-02 03:32:45.300	2	(14) 林俊杰《雪落下的声音》 JJ不愧是行走的CD！《梦想的声音3》EP2 20181102 | 纯享 ZJSTV - YouTube — Mozilla Firefox	0
+2023-02-02 03:32:45.300	3	firefox.exe	0
+2023-02-02 03:32:45.300	4	MozillaWindowClass	0
+2023-02-02 03:32:45.300	5	\DISPLAY1	0
+2023-02-02 03:33:54.666	2	Running applications	0
+2023-02-02 03:33:54.666	3	explorer.exe	0
+2023-02-02 03:33:54.666	4	MSTaskListWClass	0
+2023-02-02 03:33:54.666	5	\DISPLAY1	0
+2023-02-02 03:33:56.559	2	Chrome Legacy Window	0
+2023-02-02 03:33:56.559	3	LeagueClientUx.exe	0
+2023-02-02 03:33:56.559	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:33:56.559	5	\DISPLAY1	0
+2023-02-02 03:33:58.537	2	Netflix — Mozilla Firefox	0
+2023-02-02 03:33:58.537	3	firefox.exe	0
+2023-02-02 03:33:58.537	4	MozillaWindowClass	0
+2023-02-02 03:33:58.537	5	\DISPLAY1	0
+2023-02-02 03:34:34.406	2	Running applications	0
+2023-02-02 03:34:34.406	3	explorer.exe	0
+2023-02-02 03:34:34.406	4	MSTaskListWClass	0
+2023-02-02 03:34:34.406	5	\DISPLAY1	0
+2023-02-02 03:34:35.358	2	Chrome Legacy Window	0
+2023-02-02 03:34:35.358	3	LeagueClientUx.exe	0
+2023-02-02 03:34:35.358	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:34:35.358	5	\DISPLAY1	0
+2023-02-02 03:34:48.590	2	Straightening & Styling Iron - SinglePass Ceramic - White | T3 — Mozilla Firefox	0
+2023-02-02 03:34:48.590	3	firefox.exe	0
+2023-02-02 03:34:48.590	4	MozillaWindowClass	0
+2023-02-02 03:34:48.590	5	\DISPLAY1	0
+2023-02-02 03:35:16.195	2	Running applications	0
+2023-02-02 03:35:16.195	3	explorer.exe	0
+2023-02-02 03:35:16.195	4	MSTaskListWClass	0
+2023-02-02 03:35:16.195	5	\DISPLAY1	0
+2023-02-02 03:35:17.656	2	Chrome Legacy Window	0
+2023-02-02 03:35:17.656	3	LeagueClientUx.exe	0
+2023-02-02 03:35:17.656	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:35:17.656	5	\DISPLAY1	0
+2023-02-02 03:35:20.981	2	(14) T3 SINGLEPASS CERAMIC FLAT IRON: Detailed Review and Demo | Thick & Frizzy Hair | Christina Joann - YouTube — Mozilla Firefox	0
+2023-02-02 03:35:20.981	3	firefox.exe	0
+2023-02-02 03:35:20.981	4	MozillaWindowClass	0
+2023-02-02 03:35:20.981	5	\DISPLAY1	0
+2023-02-02 03:35:22.737	2	Chrome Legacy Window	0
+2023-02-02 03:35:22.737	3	LeagueClientUx.exe	0
+2023-02-02 03:35:22.737	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:35:22.737	5	\DISPLAY1	0
+2023-02-02 03:37:07.210	2	(14) T3 SINGLEPASS CERAMIC FLAT IRON: Detailed Review and Demo | Thick & Frizzy Hair | Christina Joann - YouTube — Mozilla Firefox	0
+2023-02-02 03:37:07.210	3	firefox.exe	0
+2023-02-02 03:37:07.210	4	MozillaWindowClass	0
+2023-02-02 03:37:07.210	5	\DISPLAY1	0
+2023-02-02 03:37:12.687	2	Chrome Legacy Window	0
+2023-02-02 03:37:12.687	3	LeagueClientUx.exe	0
+2023-02-02 03:37:12.687	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:37:12.687	5	\DISPLAY1	0
+2023-02-02 03:37:18.367	2	Jhin ARAM Build - U.GG Jhin Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-02-02 03:37:18.367	3	firefox.exe	0
+2023-02-02 03:37:18.367	4	MozillaWindowClass	0
+2023-02-02 03:37:18.367	5	\DISPLAY1	0
+2023-02-02 03:37:58.010	2	Task Switching	0
+2023-02-02 03:37:58.010	3	explorer.exe	0
+2023-02-02 03:37:58.010	4	MultitaskingViewFrame	0
+2023-02-02 03:37:58.010	5	\DISPLAY1	0
+2023-02-02 03:38:08.010	2	(14) T3 SINGLEPASS CERAMIC FLAT IRON: Detailed Review and Demo | Thick & Frizzy Hair | Christina Joann - YouTube — Mozilla Firefox	0
+2023-02-02 03:38:08.010	3	firefox.exe	0
+2023-02-02 03:38:08.010	4	MozillaWindowClass	0
+2023-02-02 03:38:08.010	5	\DISPLAY1	0
+2023-02-02 03:39:01.719	2	League of Legends (TM) Client	0
+2023-02-02 03:39:01.719	3	League of Legends.exe	0
+2023-02-02 03:39:01.719	4	RiotWindowClass	0
+2023-02-02 03:39:01.719	5	\DISPLAY1	0
+2023-02-02 03:48:28.034	2	(14) keshi - xoxosos (Audio) - YouTube — Mozilla Firefox	0
+2023-02-02 03:48:28.034	3	firefox.exe	0
+2023-02-02 03:48:28.034	4	MozillaWindowClass	0
+2023-02-02 03:48:28.034	5	\DISPLAY1	0
+2023-02-02 03:48:37.954	2	Chrome Legacy Window	0
+2023-02-02 03:48:37.954	3	LeagueClientUx.exe	0
+2023-02-02 03:48:37.954	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:48:37.954	5	\DISPLAY1	0
+2023-02-02 03:48:39.475	2	(14) keshi - xoxosos (Audio) - YouTube — Mozilla Firefox	0
+2023-02-02 03:48:39.475	3	firefox.exe	0
+2023-02-02 03:48:39.475	4	MozillaWindowClass	0
+2023-02-02 03:48:39.475	5	\DISPLAY1	0
+2023-02-02 03:48:41.510	2	Chrome Legacy Window	0
+2023-02-02 03:48:41.510	3	LeagueClientUx.exe	0
+2023-02-02 03:48:41.510	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:48:41.510	5	\DISPLAY1	0
+2023-02-02 03:49:37.324	2	Running applications	0
+2023-02-02 03:49:37.324	3	explorer.exe	0
+2023-02-02 03:49:37.324	4	MSTaskListWClass	0
+2023-02-02 03:49:37.324	5	\DISPLAY1	0
+2023-02-02 03:49:38.037	2	League of Legends	0
+2023-02-02 03:49:38.037	3	LeagueClientUx.exe	0
+2023-02-02 03:49:38.037	4	RCLIENT	0
+2023-02-02 03:49:38.037	5	\DISPLAY1	0
+2023-02-02 03:50:10.417	2	(14) T3 SINGLEPASS CERAMIC FLAT IRON: Detailed Review and Demo | Thick & Frizzy Hair | Christina Joann - YouTube — Mozilla Firefox	0
+2023-02-02 03:50:10.417	3	firefox.exe	0
+2023-02-02 03:50:10.417	4	MozillaWindowClass	0
+2023-02-02 03:50:10.417	5	\DISPLAY1	0
+2023-02-02 03:50:19.850	2	Chrome Legacy Window	0
+2023-02-02 03:50:19.850	3	LeagueClientUx.exe	0
+2023-02-02 03:50:19.850	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:50:19.850	5	\DISPLAY1	0
+2023-02-02 03:50:20.909	2	hair protectant - Google Search — Mozilla Firefox	0
+2023-02-02 03:50:20.909	3	firefox.exe	0
+2023-02-02 03:50:20.909	4	MozillaWindowClass	0
+2023-02-02 03:50:20.909	5	\DISPLAY1	0
+2023-02-02 03:50:28.665	2	Chrome Legacy Window	0
+2023-02-02 03:50:28.665	3	LeagueClientUx.exe	0
+2023-02-02 03:50:28.665	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:50:28.665	5	\DISPLAY1	0
+2023-02-02 03:50:47.877	2	(14) T3 SINGLEPASS CERAMIC FLAT IRON: Detailed Review and Demo | Thick & Frizzy Hair | Christina Joann - YouTube — Mozilla Firefox	0
+2023-02-02 03:50:47.877	3	firefox.exe	0
+2023-02-02 03:50:47.877	4	MozillaWindowClass	0
+2023-02-02 03:50:47.877	5	\DISPLAY1	0
+2023-02-02 03:50:52.718	2	Chrome Legacy Window	0
+2023-02-02 03:50:52.718	3	LeagueClientUx.exe	0
+2023-02-02 03:50:52.718	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 03:50:52.718	5	\DISPLAY1	0
+2023-02-02 03:51:09.659	2	Kog'Maw ARAM Build - U.GG Kog'Maw Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-02-02 03:51:09.659	3	firefox.exe	0
+2023-02-02 03:51:09.659	4	MozillaWindowClass	0
+2023-02-02 03:51:09.659	5	\DISPLAY1	0
+2023-02-02 03:52:06.479	2	Running applications	0
+2023-02-02 03:52:06.479	3	explorer.exe	0
+2023-02-02 03:52:06.479	4	MSTaskListWClass	0
+2023-02-02 03:52:06.479	5	\DISPLAY1	0
+2023-02-02 03:52:08.042	2	(14) 梁靜茹-情歌 MV(字幕清晰版) - YouTube — Mozilla Firefox	0
+2023-02-02 03:52:08.042	3	firefox.exe	0
+2023-02-02 03:52:08.042	4	MozillaWindowClass	0
+2023-02-02 03:52:08.042	5	\DISPLAY1	0
+2023-02-02 03:52:09.600	2	League of Legends (TM) Client	0
+2023-02-02 03:52:09.600	3	League of Legends.exe	0
+2023-02-02 03:52:09.600	4	RiotWindowClass	0
+2023-02-02 03:52:09.600	5	\DISPLAY1	0
+2023-02-02 03:53:40.414	2	(14) 梁靜茹-情歌 MV(字幕清晰版) - YouTube — Mozilla Firefox	0
+2023-02-02 03:53:40.414	3	firefox.exe	0
+2023-02-02 03:53:40.414	4	MozillaWindowClass	0
+2023-02-02 03:53:40.414	5	\DISPLAY1	0
+2023-02-02 03:53:41.247	2	League of Legends (TM) Client	0
+2023-02-02 03:53:41.247	3	League of Legends.exe	0
+2023-02-02 03:53:41.247	4	RiotWindowClass	0
+2023-02-02 03:53:41.247	5	\DISPLAY1	0
+2023-02-02 04:17:08.102	2	Kog'Maw ARAM Build - U.GG Kog'Maw Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-02-02 04:17:08.102	3	firefox.exe	0
+2023-02-02 04:17:08.102	4	MozillaWindowClass	0
+2023-02-02 04:17:08.102	5	\DISPLAY1	0
+2023-02-02 04:17:10.618	2	Chrome Legacy Window	0
+2023-02-02 04:17:10.618	3	LeagueClientUx.exe	0
+2023-02-02 04:17:10.618	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 04:17:10.618	5	\DISPLAY1	0
+2023-02-02 04:18:13.976	2	Kog'Maw ARAM Build - U.GG Kog'Maw Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-02-02 04:18:13.976	3	firefox.exe	0
+2023-02-02 04:18:13.976	4	MozillaWindowClass	0
+2023-02-02 04:18:13.976	5	\DISPLAY1	0
+2023-02-02 04:19:15.493	2	Chrome Legacy Window	0
+2023-02-02 04:19:15.493	3	LeagueClientUx.exe	0
+2023-02-02 04:19:15.493	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 04:19:15.493	5	\DISPLAY1	0
+2023-02-02 04:19:17.386	2	(14) Survivor.io - What Skills did I Use fro CHAPTER 20? - YouTube — Mozilla Firefox	0
+2023-02-02 04:19:17.386	3	firefox.exe	0
+2023-02-02 04:19:17.386	4	MozillaWindowClass	0
+2023-02-02 04:19:17.386	5	\DISPLAY1	0
+2023-02-02 04:19:18.468	2	Chrome Legacy Window	0
+2023-02-02 04:19:18.468	3	LeagueClientUx.exe	0
+2023-02-02 04:19:18.468	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 04:19:18.468	5	\DISPLAY1	0
+2023-02-02 04:19:18.957	2	(14) Survivor.io - What Skills did I Use fro CHAPTER 20? - YouTube — Mozilla Firefox	0
+2023-02-02 04:19:18.957	3	firefox.exe	0
+2023-02-02 04:19:18.957	4	MozillaWindowClass	0
+2023-02-02 04:19:18.957	5	\DISPLAY1	0
+2023-02-02 05:05:11.292	2	Chrome Legacy Window	0
+2023-02-02 05:05:11.292	3	LeagueClientUx.exe	0
+2023-02-02 05:05:11.292	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 05:05:11.292	5	\DISPLAY1	0
+2023-02-02 05:05:51.253	2	homework.pdf — Mozilla Firefox	0
+2023-02-02 05:05:51.253	3	firefox.exe	0
+2023-02-02 05:05:51.253	4	MozillaWindowClass	0
+2023-02-02 05:05:51.253	5	\DISPLAY1	0
+2023-02-02 05:09:02.143	2	Chrome Legacy Window	0
+2023-02-02 05:09:02.143	3	LeagueClientUx.exe	0
+2023-02-02 05:09:02.143	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 05:09:02.143	5	\DISPLAY1	0
+2023-02-02 05:09:14.298	2	Campuswire — Mozilla Firefox	0
+2023-02-02 05:09:14.298	3	firefox.exe	0
+2023-02-02 05:09:14.298	4	MozillaWindowClass	0
+2023-02-02 05:09:14.298	5	\DISPLAY1	0
+2023-02-02 05:23:35.395	2	Running applications	0
+2023-02-02 05:23:35.395	3	explorer.exe	0
+2023-02-02 05:23:35.395	4	MSTaskListWClass	0
+2023-02-02 05:23:35.395	5	\DISPLAY1	0
+2023-02-02 05:23:37.668	2	Friends - Discord	0
+2023-02-02 05:23:37.668	3	Discord.exe	0
+2023-02-02 05:23:37.668	4	Chrome_WidgetWin_1	0
+2023-02-02 05:23:37.668	5	\DISPLAY1	0
+2023-02-02 05:23:45.817	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:23:45.817	3	firefox.exe	0
+2023-02-02 05:23:45.817	4	MozillaWindowClass	0
+2023-02-02 05:23:45.817	5	\DISPLAY1	0
+2023-02-02 05:23:50.234	2	@khun - Discord	0
+2023-02-02 05:23:50.234	3	Discord.exe	0
+2023-02-02 05:23:50.234	4	Chrome_WidgetWin_1	0
+2023-02-02 05:23:50.234	5	\DISPLAY1	0
+2023-02-02 05:24:09.220	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:24:09.220	3	firefox.exe	0
+2023-02-02 05:24:09.220	4	MozillaWindowClass	0
+2023-02-02 05:24:09.220	5	\DISPLAY1	0
+2023-02-02 05:24:41.412	2	#announcements | ITS Service Desk - Discord	0
+2023-02-02 05:24:41.412	3	Discord.exe	0
+2023-02-02 05:24:41.412	4	Chrome_WidgetWin_1	0
+2023-02-02 05:24:41.412	5	\DISPLAY1	0
+2023-02-02 05:25:03.349	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:25:03.349	3	firefox.exe	0
+2023-02-02 05:25:03.349	4	MozillaWindowClass	0
+2023-02-02 05:25:03.349	5	\DISPLAY1	0
+2023-02-02 05:25:28.462	2	Running applications	0
+2023-02-02 05:25:28.462	3	explorer.exe	0
+2023-02-02 05:25:28.462	4	MSTaskListWClass	0
+2023-02-02 05:25:28.462	5	\DISPLAY1	0
+2023-02-02 05:25:29.899	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:25:29.899	3	firefox.exe	0
+2023-02-02 05:25:29.899	4	MozillaWindowClass	0
+2023-02-02 05:25:29.899	5	\DISPLAY1	0
+2023-02-02 05:25:31.142	2	Chrome Legacy Window	0
+2023-02-02 05:25:31.142	3	Teams.exe	0
+2023-02-02 05:25:31.142	4	Chrome_RenderWidgetHostHWND	0
+2023-02-02 05:25:31.142	5	\DISPLAY1	0
+2023-02-02 05:25:33.800	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:25:33.800	3	firefox.exe	0
+2023-02-02 05:25:33.800	4	MozillaWindowClass	0
+2023-02-02 05:25:33.800	5	\DISPLAY1	0
+2023-02-02 05:25:36.544	2	Running applications	0
+2023-02-02 05:25:36.544	3	explorer.exe	0
+2023-02-02 05:25:36.544	4	MSTaskListWClass	0
+2023-02-02 05:25:36.544	5	\DISPLAY1	0
+2023-02-02 05:25:37.589	2	#coverage-requests | ITS Service Desk - Discord	0
+2023-02-02 05:25:37.589	3	Discord.exe	0
+2023-02-02 05:25:37.589	4	Chrome_WidgetWin_1	0
+2023-02-02 05:25:37.589	5	\DISPLAY1	0
+2023-02-02 05:26:44.514	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:26:44.514	3	firefox.exe	0
+2023-02-02 05:26:44.514	4	MozillaWindowClass	0
+2023-02-02 05:26:44.514	5	\DISPLAY1	0
+2023-02-02 05:27:18.712	2	@Stev - Discord	0
+2023-02-02 05:27:18.712	3	Discord.exe	0
+2023-02-02 05:27:18.712	4	Chrome_WidgetWin_1	0
+2023-02-02 05:27:18.712	5	\DISPLAY1	0
+2023-02-02 05:27:48.975	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:27:48.975	3	firefox.exe	0
+2023-02-02 05:27:48.975	4	MozillaWindowClass	0
+2023-02-02 05:27:48.975	5	\DISPLAY1	0
+2023-02-02 05:29:12.711	2	@Stev - Discord	0
+2023-02-02 05:29:12.711	3	Discord.exe	0
+2023-02-02 05:29:12.711	4	Chrome_WidgetWin_1	0
+2023-02-02 05:29:12.711	5	\DISPLAY1	0
+2023-02-02 05:29:41.231	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:29:41.231	3	firefox.exe	0
+2023-02-02 05:29:41.231	4	MozillaWindowClass	0
+2023-02-02 05:29:41.231	5	\DISPLAY1	0
+2023-02-02 05:29:54.912	2	System Clock, 9:29 PM, ‎2/‎1/‎2023	0
+2023-02-02 05:29:54.912	3	explorer.exe	0
+2023-02-02 05:29:54.912	4	TrayClockWClass	0
+2023-02-02 05:29:54.912	5	\DISPLAY1	0
+2023-02-02 05:29:58.265	2	Date and Time Information	0
+2023-02-02 05:29:58.265	3	ShellExperienceHost.exe	0
+2023-02-02 05:29:58.265	4	Windows.UI.Core.CoreWindow	0
+2023-02-02 05:29:58.265	5	\DISPLAY1	0
+2023-02-02 05:29:59.641	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:29:59.641	3	firefox.exe	0
+2023-02-02 05:29:59.641	4	MozillaWindowClass	0
+2023-02-02 05:29:59.641	5	\DISPLAY1	0
+2023-02-02 05:39:12.961	2	Running applications	0
+2023-02-02 05:39:12.961	3	explorer.exe	0
+2023-02-02 05:39:12.961	4	MSTaskListWClass	0
+2023-02-02 05:39:12.961	5	\DISPLAY1	0
+2023-02-02 05:39:14.030	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:39:14.030	3	firefox.exe	0
+2023-02-02 05:39:14.030	4	MozillaWindowClass	0
+2023-02-02 05:39:14.030	5	\DISPLAY1	0
+2023-02-02 05:39:15.456	2	@Stev - Discord	0
+2023-02-02 05:39:15.456	3	Discord.exe	0
+2023-02-02 05:39:15.456	4	Chrome_WidgetWin_1	0
+2023-02-02 05:39:15.456	5	\DISPLAY1	0
+2023-02-02 05:39:31.387	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:39:31.387	3	firefox.exe	0
+2023-02-02 05:39:31.387	4	MozillaWindowClass	0
+2023-02-02 05:39:31.387	5	\DISPLAY1	0
+2023-02-02 05:39:36.157	2	@Stev - Discord	0
+2023-02-02 05:39:36.157	3	Discord.exe	0
+2023-02-02 05:39:36.157	4	Chrome_WidgetWin_1	0
+2023-02-02 05:39:36.157	5	\DISPLAY1	0
+2023-02-02 05:39:41.514	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:39:41.514	3	firefox.exe	0
+2023-02-02 05:39:41.514	4	MozillaWindowClass	0
+2023-02-02 05:39:41.514	5	\DISPLAY1	0
+2023-02-02 05:41:26.094	2	@min.ari - Discord	0
+2023-02-02 05:41:26.094	3	Discord.exe	0
+2023-02-02 05:41:26.094	4	Chrome_WidgetWin_1	0
+2023-02-02 05:41:26.094	5	\DISPLAY1	0
+2023-02-02 05:41:28.286	2	(14) NEW GIFT CODE: FREE Gems, Energy, & More! - February Code | Survivor.io - YouTube — Mozilla Firefox	0
+2023-02-02 05:41:28.286	3	firefox.exe	0
+2023-02-02 05:41:28.286	4	MozillaWindowClass	0
+2023-02-02 05:41:28.286	5	\DISPLAY1	0
+2023-02-02 05:41:34.835	2	#rules | Survivor.io - Discord	0
+2023-02-02 05:41:34.835	3	Discord.exe	0
+2023-02-02 05:41:34.835	4	Chrome_WidgetWin_1	0
+2023-02-02 05:41:34.835	5	\DISPLAY1	0
+2023-02-02 05:41:36.784	2	(14) NEW GIFT CODE: FREE Gems, Energy, & More! - February Code | Survivor.io - YouTube — Mozilla Firefox	0
+2023-02-02 05:41:36.784	3	firefox.exe	0
+2023-02-02 05:41:36.784	4	MozillaWindowClass	0
+2023-02-02 05:41:36.784	5	\DISPLAY1	0
+2023-02-02 05:41:37.632	2	#rules | Survivor.io - Discord	0
+2023-02-02 05:41:37.632	3	Discord.exe	0
+2023-02-02 05:41:37.632	4	Chrome_WidgetWin_1	0
+2023-02-02 05:41:37.632	5	\DISPLAY1	0
+2023-02-02 05:42:04.666	2	(14) NEW GIFT CODE: FREE Gems, Energy, & More! - February Code | Survivor.io - YouTube — Mozilla Firefox	0
+2023-02-02 05:42:04.666	3	firefox.exe	0
+2023-02-02 05:42:04.666	4	MozillaWindowClass	0
+2023-02-02 05:42:04.666	5	\DISPLAY1	0
+2023-02-02 05:45:47.705	2	Running applications	0
+2023-02-02 05:45:47.705	3	explorer.exe	0
+2023-02-02 05:45:47.705	4	MSTaskListWClass	0
+2023-02-02 05:45:47.705	5	\DISPLAY1	0
+2023-02-02 05:45:48.294	2	#redeem-gift-code | Survivor.io - Discord	0
+2023-02-02 05:45:48.294	3	Discord.exe	0
+2023-02-02 05:45:48.294	4	Chrome_WidgetWin_1	0
+2023-02-02 05:45:48.294	5	\DISPLAY1	0
+2023-02-02 05:45:51.996	2	When I Work :: Schedule, Track, Communicate — Mozilla Firefox	0
+2023-02-02 05:45:51.996	3	firefox.exe	0
+2023-02-02 05:45:51.996	4	MozillaWindowClass	0
+2023-02-02 05:45:51.996	5	\DISPLAY1	0
+2023-02-02 05:46:02.749	2	@min.ari - Discord	0
+2023-02-02 05:46:02.749	3	Discord.exe	0
+2023-02-02 05:46:02.749	4	Chrome_WidgetWin_1	0
+2023-02-02 05:46:02.749	5	\DISPLAY1	0
+2023-02-02 05:46:03.568	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:46:03.568	3	firefox.exe	0
+2023-02-02 05:46:03.568	4	MozillaWindowClass	0
+2023-02-02 05:46:03.568	5	\DISPLAY1	0
+2023-02-02 05:46:07.384	2	@bradley - Discord	0
+2023-02-02 05:46:07.384	3	Discord.exe	0
+2023-02-02 05:46:07.384	4	Chrome_WidgetWin_1	0
+2023-02-02 05:46:07.384	5	\DISPLAY1	0
+2023-02-02 05:46:14.129	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:46:14.129	3	firefox.exe	0
+2023-02-02 05:46:14.129	4	MozillaWindowClass	0
+2023-02-02 05:46:14.129	5	\DISPLAY1	0
+2023-02-02 05:46:15.964	2	@bradley - Discord	0
+2023-02-02 05:46:15.964	3	Discord.exe	0
+2023-02-02 05:46:15.964	4	Chrome_WidgetWin_1	0
+2023-02-02 05:46:15.964	5	\DISPLAY1	0
+2023-02-02 05:46:30.526	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:46:30.526	3	firefox.exe	0
+2023-02-02 05:46:30.526	4	MozillaWindowClass	0
+2023-02-02 05:46:30.526	5	\DISPLAY1	0
+2023-02-02 05:46:42.687	2	System Clock, 9:46 PM, ‎2/‎1/‎2023	0
+2023-02-02 05:46:42.687	3	explorer.exe	0
+2023-02-02 05:46:42.687	4	TrayClockWClass	0
+2023-02-02 05:46:42.687	5	\DISPLAY1	0
+2023-02-02 05:46:44.364	2	@bradley - Discord	0
+2023-02-02 05:46:44.364	3	Discord.exe	0
+2023-02-02 05:46:44.364	4	Chrome_WidgetWin_1	0
+2023-02-02 05:46:44.364	5	\DISPLAY1	0
+2023-02-02 05:47:00.234	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:47:00.234	3	firefox.exe	0
+2023-02-02 05:47:00.234	4	MozillaWindowClass	0
+2023-02-02 05:47:00.234	5	\DISPLAY1	0
+2023-02-02 05:47:10.129	2	@bradley - Discord	0
+2023-02-02 05:47:10.129	3	Discord.exe	0
+2023-02-02 05:47:10.129	4	Chrome_WidgetWin_1	0
+2023-02-02 05:47:10.129	5	\DISPLAY1	0
+2023-02-02 05:47:30.097	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:47:30.097	3	firefox.exe	0
+2023-02-02 05:47:30.097	4	MozillaWindowClass	0
+2023-02-02 05:47:30.097	5	\DISPLAY1	0
+2023-02-02 05:48:57.681	2	@bradley - Discord	0
+2023-02-02 05:48:57.681	3	Discord.exe	0
+2023-02-02 05:48:57.681	4	Chrome_WidgetWin_1	0
+2023-02-02 05:48:57.681	5	\DISPLAY1	0
+2023-02-02 05:49:02.636	2	When I Work :: Schedule, Track, Communicate — Mozilla Firefox	0
+2023-02-02 05:49:02.636	3	firefox.exe	0
+2023-02-02 05:49:02.636	4	MozillaWindowClass	0
+2023-02-02 05:49:02.636	5	\DISPLAY1	0
+2023-02-02 05:49:44.971	2	Running applications	0
+2023-02-02 05:49:44.971	3	explorer.exe	0
+2023-02-02 05:49:44.971	4	MSTaskListWClass	0
+2023-02-02 05:49:44.971	5	\DISPLAY1	0
+2023-02-02 05:49:46.498	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:49:46.498	3	firefox.exe	0
+2023-02-02 05:49:46.498	4	MozillaWindowClass	0
+2023-02-02 05:49:46.498	5	\DISPLAY1	0
+2023-02-02 05:54:30.964	2	OpenAI presentation to UCSD IT - Discord	0
+2023-02-02 05:54:30.964	3	Discord.exe	0
+2023-02-02 05:54:30.964	4	Chrome_WidgetWin_1	0
+2023-02-02 05:54:30.964	5	\DISPLAY1	0
+2023-02-02 05:54:38.763	2	New chat — Mozilla Firefox	0
+2023-02-02 05:54:38.763	3	firefox.exe	0
+2023-02-02 05:54:38.763	4	MozillaWindowClass	0
+2023-02-02 05:54:38.763	5	\DISPLAY1	0
+2023-02-02 05:55:47.152	2	@min.ari - Discord	0
+2023-02-02 05:55:47.152	3	Discord.exe	0
+2023-02-02 05:55:47.152	4	Chrome_WidgetWin_1	0
+2023-02-02 05:55:47.152	5	\DISPLAY1	0
+2023-02-02 05:55:49.751	2	Dot Product in Matrix Multiplication — Mozilla Firefox	0
+2023-02-02 05:55:49.751	3	firefox.exe	0
+2023-02-02 05:55:49.751	4	MozillaWindowClass	0
+2023-02-02 05:55:49.751	5	\DISPLAY1	0
+2023-02-02 05:57:41.108	2	OpenAI presentation to UCSD IT - Discord	0
+2023-02-02 05:57:41.108	3	Discord.exe	0
+2023-02-02 05:57:41.108	4	Chrome_WidgetWin_1	0
+2023-02-02 05:57:41.108	5	\DISPLAY1	0
+2023-02-02 05:58:05.400	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 05:58:05.400	3	firefox.exe	0
+2023-02-02 05:58:05.400	4	MozillaWindowClass	0
+2023-02-02 05:58:05.400	5	\DISPLAY1	0
+2023-02-02 06:03:20.512	2	@min.ari - Discord	0
+2023-02-02 06:03:20.512	3	Discord.exe	0
+2023-02-02 06:03:20.512	4	Chrome_WidgetWin_1	0
+2023-02-02 06:03:20.512	5	\DISPLAY1	0
+2023-02-02 06:03:30.816	2	DSC 140A - Probabilistic Modeling and ML - DI [A01] - Course Podcasts - UC San Diego — Mozilla Firefox	0
+2023-02-02 06:03:30.816	3	firefox.exe	0
+2023-02-02 06:03:30.816	4	MozillaWindowClass	0
+2023-02-02 06:03:30.816	5	\DISPLAY1	0
+2023-02-02 06:05:56.802	2	Running applications	0
+2023-02-02 06:05:56.802	3	explorer.exe	0
+2023-02-02 06:05:56.802	4	MSTaskListWClass	0
+2023-02-02 06:05:56.802	5	\DISPLAY1	0
+2023-02-02 06:05:58.332	2	Netflix — Mozilla Firefox	0
+2023-02-02 06:05:58.332	3	firefox.exe	0
+2023-02-02 06:05:58.332	4	MozillaWindowClass	0
+2023-02-02 06:05:58.332	5	\DISPLAY1	0
+2023-02-02 06:28:16.027	2	Running applications	0
+2023-02-02 06:28:16.027	3	explorer.exe	0
+2023-02-02 06:28:16.027	4	MSTaskListWClass	0
+2023-02-02 06:28:16.027	5	\DISPLAY1	0
+2023-02-02 06:28:18.379	2	OpenAI presentation to UCSD IT - Discord	0
+2023-02-02 06:28:18.379	3	Discord.exe	0
+2023-02-02 06:28:18.379	4	Chrome_WidgetWin_1	0
+2023-02-02 06:28:18.379	5	\DISPLAY1	0
+2023-02-02 06:28:28.154	2	AI Presentation - Google Slides — Mozilla Firefox	0
+2023-02-02 06:28:28.154	3	firefox.exe	0
+2023-02-02 06:28:28.154	4	MozillaWindowClass	0
+2023-02-02 06:28:28.154	5	\DISPLAY1	0
+2023-02-02 06:28:34.302	2	OpenAI presentation to UCSD IT - Discord	0
+2023-02-02 06:28:34.302	3	Discord.exe	0
+2023-02-02 06:28:34.302	4	Chrome_WidgetWin_1	0
+2023-02-02 06:28:34.302	5	\DISPLAY1	0
+2023-02-02 06:28:51.922	2	AI Presentation - Google Slides — Mozilla Firefox	0
+2023-02-02 06:28:51.922	3	firefox.exe	0
+2023-02-02 06:28:51.922	4	MozillaWindowClass	0
+2023-02-02 06:28:51.922	5	\DISPLAY1	0
+2023-02-02 06:29:23.336	2	OpenAI presentation to UCSD IT - Discord	0
+2023-02-02 06:29:23.336	3	Discord.exe	0
+2023-02-02 06:29:23.336	4	Chrome_WidgetWin_1	0
+2023-02-02 06:29:23.336	5	\DISPLAY1	0
+2023-02-02 06:29:28.888	2	My Drive - Google Drive — Mozilla Firefox	0
+2023-02-02 06:29:28.888	3	firefox.exe	0
+2023-02-02 06:29:28.888	4	MozillaWindowClass	0
+2023-02-02 06:29:28.888	5	\DISPLAY1	0
+2023-02-02 06:31:33.426	2	OpenAI presentation to UCSD IT - Discord	0
+2023-02-02 06:31:33.426	3	Discord.exe	0
+2023-02-02 06:31:33.426	4	Chrome_WidgetWin_1	0
+2023-02-02 06:31:33.426	5	\DISPLAY1	0
+2023-02-02 06:32:12.726	2	Proving Composition of Convex Functions Convex — Mozilla Firefox	0
+2023-02-02 06:32:12.726	3	firefox.exe	0
+2023-02-02 06:32:12.726	4	MozillaWindowClass	0
+2023-02-02 06:32:12.726	5	\DISPLAY1	0
+2023-02-02 06:36:03.529	2	Running applications	0
+2023-02-02 06:36:03.529	3	explorer.exe	0
+2023-02-02 06:36:03.529	4	MSTaskListWClass	0
+2023-02-02 06:36:03.529	5	\DISPLAY1	0
+2023-02-02 06:36:05.158	2		0
+2023-02-02 06:36:05.158	3	cmd.exe	0
+2023-02-02 06:36:05.158	4	ConsoleWindowClass	0
+2023-02-02 06:36:05.158	5	\DISPLAY1	0
