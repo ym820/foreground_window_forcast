@@ -1,0 +1,485 @@
+MEASUREMENT_TIME	ID_INPUT	VALUE	PRIVATE_DATA
+2023-01-09 18:53:18.238	2	Running applications	0
+2023-01-09 18:53:19.362	3	firefox.exe	0
+2023-01-09 18:53:19.362	4	MozillaWindowClass	0
+2023-01-09 18:53:19.362	5	\DISPLAY1	0
+2023-01-09 18:53:21.269	2	Type here to search	0
+2023-01-09 18:53:21.269	3	explorer.exe	0
+2023-01-09 18:53:21.269	4	Button	0
+2023-01-09 18:53:21.269	5	\DISPLAY1	0
+2023-01-09 18:53:30.864	2	General (Service Desk) | Microsoft Teams	0
+2023-01-09 18:53:30.864	3	Teams.exe	0
+2023-01-09 18:53:30.864	4	Chrome_WidgetWin_1	0
+2023-01-09 18:53:30.864	5	\DISPLAY1	0
+2023-01-09 18:53:40.864	2	Riot Client Main	0
+2023-01-09 18:53:40.864	3	RiotClientUx.exe	0
+2023-01-09 18:53:40.864	4	RCLIENT	0
+2023-01-09 18:53:40.864	5	\DISPLAY1	0
+2023-01-09 18:54:00.865	2		0
+2023-01-09 18:54:00.865	3	LeagueClient.exe	0
+2023-01-09 18:54:00.865	4	SplashScreenClassName	0
+2023-01-09 18:54:00.865	5	\DISPLAY1	0
+2023-01-09 18:54:10.866	2	League of Legends	0
+2023-01-09 18:54:10.866	3	LeagueClientUx.exe	0
+2023-01-09 18:54:10.866	4	RCLIENT	0
+2023-01-09 18:54:10.866	5	\DISPLAY1	0
+2023-01-09 18:54:45.896	2	Netflix — Mozilla Firefox	0
+2023-01-09 18:54:45.896	3	firefox.exe	0
+2023-01-09 18:54:45.896	4	MozillaWindowClass	0
+2023-01-09 18:54:45.896	5	\DISPLAY1	0
+2023-01-09 18:54:56.066	2	Chrome Legacy Window	0
+2023-01-09 18:54:56.066	3	LeagueClientUx.exe	0
+2023-01-09 18:54:56.066	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 18:54:56.066	5	\DISPLAY1	0
+2023-01-09 18:54:57.932	2	Netflix — Mozilla Firefox	0
+2023-01-09 18:54:57.932	3	firefox.exe	0
+2023-01-09 18:54:57.932	4	MozillaWindowClass	0
+2023-01-09 18:54:57.932	5	\DISPLAY1	0
+2023-01-09 18:55:04.870	2	Chrome Legacy Window	0
+2023-01-09 18:55:04.870	3	LeagueClientUx.exe	0
+2023-01-09 18:55:04.870	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 18:55:04.870	5	\DISPLAY1	0
+2023-01-09 18:55:14.071	2	Netflix — Mozilla Firefox	0
+2023-01-09 18:55:14.071	3	firefox.exe	0
+2023-01-09 18:55:14.071	4	MozillaWindowClass	0
+2023-01-09 18:55:14.071	5	\DISPLAY1	0
+2023-01-09 18:55:15.935	2	Chrome Legacy Window	0
+2023-01-09 18:55:15.935	3	LeagueClientUx.exe	0
+2023-01-09 18:55:15.935	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 18:55:15.935	5	\DISPLAY1	0
+2023-01-09 18:55:17.220	2	Netflix — Mozilla Firefox	0
+2023-01-09 18:55:17.220	3	firefox.exe	0
+2023-01-09 18:55:17.220	4	MozillaWindowClass	0
+2023-01-09 18:55:17.220	5	\DISPLAY1	0
+2023-01-09 18:55:25.337	2	Chrome Legacy Window	0
+2023-01-09 18:55:25.337	3	LeagueClientUx.exe	0
+2023-01-09 18:55:25.337	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 18:55:25.337	5	\DISPLAY1	0
+2023-01-09 18:55:43.612	2	Sion ARAM Build - U.GG Sion Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 18:55:43.612	3	firefox.exe	0
+2023-01-09 18:55:43.612	4	MozillaWindowClass	0
+2023-01-09 18:55:43.612	5	\DISPLAY1	0
+2023-01-09 18:55:47.039	2	Chrome Legacy Window	0
+2023-01-09 18:55:47.039	3	LeagueClientUx.exe	0
+2023-01-09 18:55:47.039	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 18:55:47.039	5	\DISPLAY1	0
+2023-01-09 18:56:03.449	2	Netflix — Mozilla Firefox	0
+2023-01-09 18:56:03.449	3	firefox.exe	0
+2023-01-09 18:56:03.449	4	MozillaWindowClass	0
+2023-01-09 18:56:03.449	5	\DISPLAY1	0
+2023-01-09 18:56:20.872	2	General (Service Desk) | Microsoft Teams	0
+2023-01-09 18:56:20.872	3	Teams.exe	0
+2023-01-09 18:56:20.872	4	Chrome_WidgetWin_1	0
+2023-01-09 18:56:20.872	5	\DISPLAY1	0
+2023-01-09 18:56:30.872	2	Netflix — Mozilla Firefox	0
+2023-01-09 18:56:30.872	3	firefox.exe	0
+2023-01-09 18:56:30.872	4	MozillaWindowClass	0
+2023-01-09 18:56:30.872	5	\DISPLAY1	0
+2023-01-09 18:56:47.528	2	Running applications	0
+2023-01-09 18:56:47.528	3	explorer.exe	0
+2023-01-09 18:56:47.528	4	MSTaskListWClass	0
+2023-01-09 18:56:47.528	5	\DISPLAY1	0
+2023-01-09 18:56:48.076	2	League of Legends (TM) Client	0
+2023-01-09 18:56:48.076	3	League of Legends.exe	0
+2023-01-09 18:56:48.076	4	RiotWindowClass	0
+2023-01-09 18:56:48.076	5	\DISPLAY1	0
+2023-01-09 18:56:54.869	2	Running applications	0
+2023-01-09 18:56:54.869	3	explorer.exe	0
+2023-01-09 18:56:54.869	4	MSTaskListWClass	0
+2023-01-09 18:56:54.869	5	\DISPLAY1	0
+2023-01-09 18:56:57.848	2	League of Legends (TM) Client	0
+2023-01-09 18:56:57.848	3	League of Legends.exe	0
+2023-01-09 18:56:57.848	4	RiotWindowClass	0
+2023-01-09 18:56:57.848	5	\DISPLAY1	0
+2023-01-09 19:00:14.343	2	Chrome Legacy Window	0
+2023-01-09 19:00:14.343	3	Spotify.exe	0
+2023-01-09 19:00:14.343	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:00:14.343	5	\DISPLAY1	0
+2023-01-09 19:00:17.729	2	League of Legends (TM) Client	0
+2023-01-09 19:00:17.729	3	League of Legends.exe	0
+2023-01-09 19:00:17.729	4	RiotWindowClass	0
+2023-01-09 19:00:17.729	5	\DISPLAY1	0
+2023-01-09 19:13:56.824	2	Chrome Legacy Window	0
+2023-01-09 19:13:56.824	3	LeagueClientUx.exe	0
+2023-01-09 19:13:56.824	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:13:56.824	5	\DISPLAY1	0
+2023-01-09 19:14:32.027	2	(36) YouTube — Mozilla Firefox	0
+2023-01-09 19:14:32.027	3	firefox.exe	0
+2023-01-09 19:14:32.027	4	MozillaWindowClass	0
+2023-01-09 19:14:32.027	5	\DISPLAY1	0
+2023-01-09 19:15:16.114	2	Chrome Legacy Window	0
+2023-01-09 19:15:16.114	3	LeagueClientUx.exe	0
+2023-01-09 19:15:16.114	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:15:16.114	5	\DISPLAY1	0
+2023-01-09 19:16:09.190	2	Chrome Legacy Window	0
+2023-01-09 19:16:09.190	3	RiotClientUx.exe	0
+2023-01-09 19:16:09.190	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:16:09.190	5	\DISPLAY1	0
+2023-01-09 19:16:22.547	2	N-ACETYL CYSTEINE (NAC): Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews — Mozilla Firefox	0
+2023-01-09 19:16:22.547	3	firefox.exe	0
+2023-01-09 19:16:22.547	4	MozillaWindowClass	0
+2023-01-09 19:16:22.547	5	\DISPLAY1	0
+2023-01-09 19:16:33.036	2	Chrome Legacy Window	0
+2023-01-09 19:16:33.036	3	RiotClientUx.exe	0
+2023-01-09 19:16:33.036	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:16:33.036	5	\DISPLAY1	0
+2023-01-09 19:16:42.547	2	N-ACETYL CYSTEINE (NAC): Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews — Mozilla Firefox	0
+2023-01-09 19:16:42.547	3	firefox.exe	0
+2023-01-09 19:16:42.547	4	MozillaWindowClass	0
+2023-01-09 19:16:42.547	5	\DISPLAY1	0
+2023-01-09 19:16:49.500	2	Chrome Legacy Window	0
+2023-01-09 19:16:49.500	3	LeagueClientUx.exe	0
+2023-01-09 19:16:49.500	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:16:49.500	5	\DISPLAY1	0
+2023-01-09 19:16:50.907	2	N-ACETYL CYSTEINE (NAC): Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews — Mozilla Firefox	0
+2023-01-09 19:16:50.907	3	firefox.exe	0
+2023-01-09 19:16:50.907	4	MozillaWindowClass	0
+2023-01-09 19:16:50.907	5	\DISPLAY1	0
+2023-01-09 19:16:51.694	2	Chrome Legacy Window	0
+2023-01-09 19:16:51.694	3	LeagueClientUx.exe	0
+2023-01-09 19:16:51.694	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:16:51.694	5	\DISPLAY1	0
+2023-01-09 19:17:52.269	2	N-ACETYL CYSTEINE (NAC): Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews — Mozilla Firefox	0
+2023-01-09 19:17:52.269	3	firefox.exe	0
+2023-01-09 19:17:52.269	4	MozillaWindowClass	0
+2023-01-09 19:17:52.269	5	\DISPLAY1	0
+2023-01-09 19:18:41.704	2	Chrome Legacy Window	0
+2023-01-09 19:18:41.704	3	LeagueClientUx.exe	0
+2023-01-09 19:18:41.704	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:18:41.704	5	\DISPLAY1	0
+2023-01-09 19:19:24.950	2	Amazon.com: NOW Supplements, NAC (N-Acetyl-Cysteine) 1,000 mg, Free Radical Protection*, 120 Tablets : Everything Else — Mozilla Firefox	0
+2023-01-09 19:19:24.950	3	firefox.exe	0
+2023-01-09 19:19:24.950	4	MozillaWindowClass	0
+2023-01-09 19:19:24.950	5	\DISPLAY1	0
+2023-01-09 19:19:37.765	2	Chrome Legacy Window	0
+2023-01-09 19:19:37.765	3	LeagueClientUx.exe	0
+2023-01-09 19:19:37.765	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:19:37.765	5	\DISPLAY1	0
+2023-01-09 19:19:38.280	2	Varus ARAM Build - U.GG Varus Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 19:19:38.280	3	firefox.exe	0
+2023-01-09 19:19:38.280	4	MozillaWindowClass	0
+2023-01-09 19:19:38.280	5	\DISPLAY1	0
+2023-01-09 19:19:47.426	2	Chrome Legacy Window	0
+2023-01-09 19:19:47.426	3	LeagueClientUx.exe	0
+2023-01-09 19:19:47.426	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:19:47.426	5	\DISPLAY1	0
+2023-01-09 19:21:24.695	2	Urgot ARAM Build - U.GG Urgot Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 19:21:24.695	3	firefox.exe	0
+2023-01-09 19:21:24.695	4	MozillaWindowClass	0
+2023-01-09 19:21:24.695	5	\DISPLAY1	0
+2023-01-09 19:21:29.371	2	Chrome Legacy Window	0
+2023-01-09 19:21:29.371	3	LeagueClientUx.exe	0
+2023-01-09 19:21:29.371	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:21:29.371	5	\DISPLAY1	0
+2023-01-09 19:21:34.701	2	Renekton Build for Top with Highest Winrate - LoL Runes, Items — Mozilla Firefox	0
+2023-01-09 19:21:34.701	3	firefox.exe	0
+2023-01-09 19:21:34.701	4	MozillaWindowClass	0
+2023-01-09 19:21:34.701	5	\DISPLAY1	0
+2023-01-09 19:21:38.137	2	Chrome Legacy Window	0
+2023-01-09 19:21:38.137	3	LeagueClientUx.exe	0
+2023-01-09 19:21:38.137	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:21:38.137	5	\DISPLAY1	0
+2023-01-09 19:21:42.453	2	Akshan Build for Mid with Highest Winrate - LoL Runes, Items — Mozilla Firefox	0
+2023-01-09 19:21:42.453	3	firefox.exe	0
+2023-01-09 19:21:42.453	4	MozillaWindowClass	0
+2023-01-09 19:21:42.453	5	\DISPLAY1	0
+2023-01-09 19:21:44.308	2	Chrome Legacy Window	0
+2023-01-09 19:21:44.308	3	LeagueClientUx.exe	0
+2023-01-09 19:21:44.308	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:21:44.308	5	\DISPLAY1	0
+2023-01-09 19:22:20.878	2	Akshan ARAM Build - U.GG Akshan Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 19:22:20.878	3	firefox.exe	0
+2023-01-09 19:22:20.878	4	MozillaWindowClass	0
+2023-01-09 19:22:20.878	5	\DISPLAY1	0
+2023-01-09 19:22:22.825	2	Running applications	0
+2023-01-09 19:22:22.825	3	explorer.exe	0
+2023-01-09 19:22:22.825	4	MSTaskListWClass	0
+2023-01-09 19:22:22.825	5	\DISPLAY1	0
+2023-01-09 19:22:24.239	2	Chrome Legacy Window	0
+2023-01-09 19:22:24.239	3	Spotify.exe	0
+2023-01-09 19:22:24.239	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:22:24.239	5	\DISPLAY1	0
+2023-01-09 19:22:24.741	2	Chrome Legacy Window	0
+2023-01-09 19:22:24.741	3	LeagueClientUx.exe	0
+2023-01-09 19:22:24.741	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:22:24.741	5	\DISPLAY1	0
+2023-01-09 19:22:27.063	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 19:22:27.063	3	firefox.exe	0
+2023-01-09 19:22:27.063	4	MozillaWindowClass	0
+2023-01-09 19:22:27.063	5	\DISPLAY1	0
+2023-01-09 19:22:30.142	2	Chrome Legacy Window	0
+2023-01-09 19:22:30.142	3	LeagueClientUx.exe	0
+2023-01-09 19:22:30.142	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:22:30.142	5	\DISPLAY1	0
+2023-01-09 19:22:52.056	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 19:22:52.056	3	firefox.exe	0
+2023-01-09 19:22:52.056	4	MozillaWindowClass	0
+2023-01-09 19:22:52.056	5	\DISPLAY1	0
+2023-01-09 19:23:00.270	2	Chrome Legacy Window	0
+2023-01-09 19:23:00.270	3	LeagueClientUx.exe	0
+2023-01-09 19:23:00.270	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:23:00.270	5	\DISPLAY1	0
+2023-01-09 19:23:42.562	2	League of Legends (TM) Client	0
+2023-01-09 19:23:42.562	3	League of Legends.exe	0
+2023-01-09 19:23:42.562	4	RiotWindowClass	0
+2023-01-09 19:23:42.562	5	\DISPLAY1	0
+2023-01-09 19:24:25.157	2	Kog'Maw ARAM Build - U.GG Kog'Maw Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 19:24:25.157	3	firefox.exe	0
+2023-01-09 19:24:25.157	4	MozillaWindowClass	0
+2023-01-09 19:24:25.157	5	\DISPLAY1	0
+2023-01-09 19:24:27.024	2	League of Legends (TM) Client	0
+2023-01-09 19:24:27.024	3	League of Legends.exe	0
+2023-01-09 19:24:27.024	4	RiotWindowClass	0
+2023-01-09 19:24:27.024	5	\DISPLAY1	0
+2023-01-09 19:26:01.075	2	(36) What Can We Expect From Airbus In 2023? - YouTube — Mozilla Firefox	0
+2023-01-09 19:26:01.075	3	firefox.exe	0
+2023-01-09 19:26:01.075	4	MozillaWindowClass	0
+2023-01-09 19:26:01.075	5	\DISPLAY1	0
+2023-01-09 19:26:02.567	2		0
+2023-01-09 19:26:02.567	3	explorer.exe	0
+2023-01-09 19:26:02.567	4	ForegroundStaging	0
+2023-01-09 19:26:02.567	5	\DISPLAY1	0
+2023-01-09 19:26:03.112	2	League of Legends (TM) Client	0
+2023-01-09 19:26:03.112	3	League of Legends.exe	0
+2023-01-09 19:26:03.112	4	RiotWindowClass	0
+2023-01-09 19:26:03.112	5	\DISPLAY1	0
+2023-01-09 19:28:54.347	2	(37) What Can We Expect From Airbus In 2023? - YouTube — Mozilla Firefox	0
+2023-01-09 19:28:54.347	3	firefox.exe	0
+2023-01-09 19:28:54.347	4	MozillaWindowClass	0
+2023-01-09 19:28:54.347	5	\DISPLAY1	0
+2023-01-09 19:28:55.900	2	League of Legends (TM) Client	0
+2023-01-09 19:28:55.900	3	League of Legends.exe	0
+2023-01-09 19:28:55.900	4	RiotWindowClass	0
+2023-01-09 19:28:55.900	5	\DISPLAY1	0
+2023-01-09 19:37:33.603	2	(37) What Can We Expect From Airbus In 2023? - YouTube — Mozilla Firefox	0
+2023-01-09 19:37:33.603	3	firefox.exe	0
+2023-01-09 19:37:33.603	4	MozillaWindowClass	0
+2023-01-09 19:37:33.603	5	\DISPLAY1	0
+2023-01-09 19:37:36.039	2	League of Legends (TM) Client	0
+2023-01-09 19:37:36.039	3	League of Legends.exe	0
+2023-01-09 19:37:36.039	4	RiotWindowClass	0
+2023-01-09 19:37:36.039	5	\DISPLAY1	0
+2023-01-09 19:39:25.856	2	(37) Did Boeing GIVE Airbus a FREE Airplane?! - YouTube — Mozilla Firefox	0
+2023-01-09 19:39:25.856	3	firefox.exe	0
+2023-01-09 19:39:25.856	4	MozillaWindowClass	0
+2023-01-09 19:39:25.856	5	\DISPLAY1	0
+2023-01-09 19:39:28.347	2	League of Legends (TM) Client	0
+2023-01-09 19:39:28.347	3	League of Legends.exe	0
+2023-01-09 19:39:28.347	4	RiotWindowClass	0
+2023-01-09 19:39:28.347	5	\DISPLAY1	0
+2023-01-09 19:41:17.564	2	(37) YouTube — Mozilla Firefox	0
+2023-01-09 19:41:17.564	3	firefox.exe	0
+2023-01-09 19:41:17.564	4	MozillaWindowClass	0
+2023-01-09 19:41:17.564	5	\DISPLAY1	0
+2023-01-09 19:41:18.706	2	League of Legends (TM) Client	0
+2023-01-09 19:41:18.706	3	League of Legends.exe	0
+2023-01-09 19:41:18.706	4	RiotWindowClass	0
+2023-01-09 19:41:18.706	5	\DISPLAY1	0
+2023-01-09 19:53:42.634	2	League of Legends	0
+2023-01-09 19:53:42.634	3	LeagueClientUx.exe	0
+2023-01-09 19:53:42.634	4	RCLIENT	0
+2023-01-09 19:53:42.634	5	\DISPLAY1	0
+2023-01-09 19:55:33.323	2	Kog'Maw ARAM Build - U.GG Kog'Maw Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 19:55:33.323	3	firefox.exe	0
+2023-01-09 19:55:33.323	4	MozillaWindowClass	0
+2023-01-09 19:55:33.323	5	\DISPLAY1	0
+2023-01-09 19:55:46.162	2	Chrome Legacy Window	0
+2023-01-09 19:55:46.162	3	LeagueClientUx.exe	0
+2023-01-09 19:55:46.162	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:55:46.162	5	\DISPLAY1	0
+2023-01-09 19:56:03.748	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 19:56:03.748	3	firefox.exe	0
+2023-01-09 19:56:03.748	4	MozillaWindowClass	0
+2023-01-09 19:56:03.748	5	\DISPLAY1	0
+2023-01-09 19:56:09.327	2	Chrome Legacy Window	0
+2023-01-09 19:56:09.327	3	LeagueClientUx.exe	0
+2023-01-09 19:56:09.327	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:56:09.327	5	\DISPLAY1	0
+2023-01-09 19:56:42.621	2	Sylas ARAM Build - U.GG Sylas Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 19:56:42.621	3	firefox.exe	0
+2023-01-09 19:56:42.621	4	MozillaWindowClass	0
+2023-01-09 19:56:42.621	5	\DISPLAY1	0
+2023-01-09 19:57:00.088	2	Chrome Legacy Window	0
+2023-01-09 19:57:00.088	3	LeagueClientUx.exe	0
+2023-01-09 19:57:00.088	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:57:00.088	5	\DISPLAY1	0
+2023-01-09 19:57:14.036	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 19:57:14.036	3	firefox.exe	0
+2023-01-09 19:57:14.036	4	MozillaWindowClass	0
+2023-01-09 19:57:14.036	5	\DISPLAY1	0
+2023-01-09 19:57:15.484	2	Chrome Legacy Window	0
+2023-01-09 19:57:15.484	3	LeagueClientUx.exe	0
+2023-01-09 19:57:15.484	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:57:15.484	5	\DISPLAY1	0
+2023-01-09 19:57:17.557	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 19:57:17.557	3	firefox.exe	0
+2023-01-09 19:57:17.557	4	MozillaWindowClass	0
+2023-01-09 19:57:17.557	5	\DISPLAY1	0
+2023-01-09 19:57:25.732	2	Chrome Legacy Window	0
+2023-01-09 19:57:25.732	3	LeagueClientUx.exe	0
+2023-01-09 19:57:25.732	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:57:25.732	5	\DISPLAY1	0
+2023-01-09 19:57:26.254	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 19:57:26.254	3	firefox.exe	0
+2023-01-09 19:57:26.254	4	MozillaWindowClass	0
+2023-01-09 19:57:26.254	5	\DISPLAY1	0
+2023-01-09 19:57:28.287	2	Chrome Legacy Window	0
+2023-01-09 19:57:28.287	3	LeagueClientUx.exe	0
+2023-01-09 19:57:28.287	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:57:28.287	5	\DISPLAY1	0
+2023-01-09 19:57:35.497	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 19:57:35.497	3	firefox.exe	0
+2023-01-09 19:57:35.497	4	MozillaWindowClass	0
+2023-01-09 19:57:35.497	5	\DISPLAY1	0
+2023-01-09 19:58:08.121	2	Chrome Legacy Window	0
+2023-01-09 19:58:08.121	3	LeagueClientUx.exe	0
+2023-01-09 19:58:08.121	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:58:08.121	5	\DISPLAY1	0
+2023-01-09 19:58:20.840	2	Kai'Sa ARAM Build - U.GG Kai'Sa Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 19:58:20.840	3	firefox.exe	0
+2023-01-09 19:58:20.840	4	MozillaWindowClass	0
+2023-01-09 19:58:20.840	5	\DISPLAY1	0
+2023-01-09 19:58:24.885	2	Chrome Legacy Window	0
+2023-01-09 19:58:24.885	3	LeagueClientUx.exe	0
+2023-01-09 19:58:24.885	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 19:58:24.885	5	\DISPLAY1	0
+2023-01-09 19:58:26.392	2	(37) Learn how to CARRY with Kai'Sa - Cookie Guide #1 - YouTube — Mozilla Firefox	0
+2023-01-09 19:58:26.392	3	firefox.exe	0
+2023-01-09 19:58:26.392	4	MozillaWindowClass	0
+2023-01-09 19:58:26.392	5	\DISPLAY1	0
+2023-01-09 19:59:14.413	2	League of Legends (TM) Client	0
+2023-01-09 19:59:14.413	3	League of Legends.exe	0
+2023-01-09 19:59:14.413	4	RiotWindowClass	0
+2023-01-09 19:59:14.413	5	\DISPLAY1	0
+2023-01-09 20:11:12.645	2	League of Legends	0
+2023-01-09 20:11:12.645	3	LeagueClientUx.exe	0
+2023-01-09 20:11:12.645	4	RCLIENT	0
+2023-01-09 20:11:12.645	5	\DISPLAY1	0
+2023-01-09 20:13:29.017	2	(37) Learn how to CARRY with Kai'Sa - Cookie Guide #1 - YouTube — Mozilla Firefox	0
+2023-01-09 20:13:29.017	3	firefox.exe	0
+2023-01-09 20:13:29.017	4	MozillaWindowClass	0
+2023-01-09 20:13:29.017	5	\DISPLAY1	0
+2023-01-09 20:13:32.571	2	Chrome Legacy Window	0
+2023-01-09 20:13:32.571	3	LeagueClientUx.exe	0
+2023-01-09 20:13:32.571	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 20:13:32.571	5	\DISPLAY1	0
+2023-01-09 20:14:24.181	2	(37) Learn how to CARRY with Kai'Sa - Cookie Guide #1 - YouTube — Mozilla Firefox	0
+2023-01-09 20:14:24.181	3	firefox.exe	0
+2023-01-09 20:14:24.181	4	MozillaWindowClass	0
+2023-01-09 20:14:24.181	5	\DISPLAY1	0
+2023-01-09 20:14:30.306	2	Chrome Legacy Window	0
+2023-01-09 20:14:30.306	3	LeagueClientUx.exe	0
+2023-01-09 20:14:30.306	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 20:14:30.306	5	\DISPLAY1	0
+2023-01-09 20:14:39.519	2	(37) Learn how to CARRY with Kai'Sa - Cookie Guide #1 - YouTube — Mozilla Firefox	0
+2023-01-09 20:14:39.519	3	firefox.exe	0
+2023-01-09 20:14:39.519	4	MozillaWindowClass	0
+2023-01-09 20:14:39.519	5	\DISPLAY1	0
+2023-01-09 20:14:48.105	2	Chrome Legacy Window	0
+2023-01-09 20:14:48.105	3	LeagueClientUx.exe	0
+2023-01-09 20:14:48.105	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 20:14:48.105	5	\DISPLAY1	0
+2023-01-09 20:15:07.046	2	Samira ARAM Build - U.GG Samira Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 20:15:07.046	3	firefox.exe	0
+2023-01-09 20:15:07.046	4	MozillaWindowClass	0
+2023-01-09 20:15:07.046	5	\DISPLAY1	0
+2023-01-09 20:15:42.647	2	League of Legends (TM) Client	0
+2023-01-09 20:15:42.647	3	League of Legends.exe	0
+2023-01-09 20:15:42.647	4	RiotWindowClass	0
+2023-01-09 20:15:42.647	5	\DISPLAY1	0
+2023-01-09 20:15:52.647	2	(37) Learn how to CARRY with Kai'Sa - Cookie Guide #1 - YouTube — Mozilla Firefox	0
+2023-01-09 20:15:52.647	3	firefox.exe	0
+2023-01-09 20:15:52.647	4	MozillaWindowClass	0
+2023-01-09 20:15:52.647	5	\DISPLAY1	0
+2023-01-09 20:16:18.218	2	League of Legends (TM) Client	0
+2023-01-09 20:16:18.218	3	League of Legends.exe	0
+2023-01-09 20:16:18.218	4	RiotWindowClass	0
+2023-01-09 20:16:18.218	5	\DISPLAY1	0
+2023-01-09 20:16:39.771	2	Running applications	0
+2023-01-09 20:16:39.771	3	explorer.exe	0
+2023-01-09 20:16:39.771	4	MSTaskListWClass	0
+2023-01-09 20:16:39.771	5	\DISPLAY1	0
+2023-01-09 20:16:40.861	2	League of Legends (TM) Client	0
+2023-01-09 20:16:40.861	3	League of Legends.exe	0
+2023-01-09 20:16:40.861	4	RiotWindowClass	0
+2023-01-09 20:16:40.861	5	\DISPLAY1	0
+2023-01-09 20:34:22.654	2	League of Legends	0
+2023-01-09 20:34:22.654	3	LeagueClientUx.exe	0
+2023-01-09 20:34:22.654	4	RCLIENT	0
+2023-01-09 20:34:22.654	5	\DISPLAY1	0
+2023-01-09 20:34:44.703	2	(37) Learn how to CARRY with Kai'Sa - Cookie Guide #1 - YouTube — Mozilla Firefox	0
+2023-01-09 20:34:44.703	3	firefox.exe	0
+2023-01-09 20:34:44.703	4	MozillaWindowClass	0
+2023-01-09 20:34:44.703	5	\DISPLAY1	0
+2023-01-09 20:34:47.503	2	Running applications	0
+2023-01-09 20:34:47.503	3	explorer.exe	0
+2023-01-09 20:34:47.503	4	MSTaskListWClass	0
+2023-01-09 20:34:47.503	5	\DISPLAY1	0
+2023-01-09 20:34:48.519	2	Chrome Legacy Window	0
+2023-01-09 20:34:48.519	3	Spotify.exe	0
+2023-01-09 20:34:48.519	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 20:34:48.519	5	\DISPLAY1	0
+2023-01-09 20:34:49.224	2	(37) Learn how to CARRY with Kai'Sa - Cookie Guide #1 - YouTube — Mozilla Firefox	0
+2023-01-09 20:34:49.224	3	firefox.exe	0
+2023-01-09 20:34:49.224	4	MozillaWindowClass	0
+2023-01-09 20:34:49.224	5	\DISPLAY1	0
+2023-01-09 20:39:34.256	2	Running applications	0
+2023-01-09 20:39:34.256	3	explorer.exe	0
+2023-01-09 20:39:34.256	4	MSTaskListWClass	0
+2023-01-09 20:39:34.256	5	\DISPLAY1	0
+2023-01-09 20:39:42.659	2	Search	0
+2023-01-09 20:39:42.659	3	SearchApp.exe	0
+2023-01-09 20:39:42.659	4	Windows.UI.Core.CoreWindow	0
+2023-01-09 20:39:42.659	5	\DISPLAY1	0
+2023-01-09 20:39:47.523	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 20:39:47.523	3	firefox.exe	0
+2023-01-09 20:39:47.523	4	MozillaWindowClass	0
+2023-01-09 20:39:47.523	5	\DISPLAY1	0
+2023-01-09 20:44:24.042	2	Running applications	0
+2023-01-09 20:44:24.042	3	explorer.exe	0
+2023-01-09 20:44:24.042	4	MSTaskListWClass	0
+2023-01-09 20:44:24.042	5	\DISPLAY1	0
+2023-01-09 20:44:29.233	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 20:44:29.233	3	firefox.exe	0
+2023-01-09 20:44:29.233	4	MozillaWindowClass	0
+2023-01-09 20:44:29.233	5	\DISPLAY1	0
+2023-01-09 20:46:51.636	2	Running applications	0
+2023-01-09 20:46:51.636	3	explorer.exe	0
+2023-01-09 20:46:51.636	4	MSTaskListWClass	0
+2023-01-09 20:46:51.636	5	\DISPLAY1	0
+2023-01-09 20:46:52.665	2	Friends - Discord	0
+2023-01-09 20:46:52.665	3	Discord.exe	0
+2023-01-09 20:46:52.665	4	Chrome_WidgetWin_1	0
+2023-01-09 20:46:52.665	5	\DISPLAY1	0
+2023-01-09 20:46:56.150	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 20:46:56.150	3	firefox.exe	0
+2023-01-09 20:46:56.150	4	MozillaWindowClass	0
+2023-01-09 20:46:56.150	5	\DISPLAY1	0
+2023-01-09 20:46:59.645	2	#announcements | ITS Service Desk - Discord	0
+2023-01-09 20:46:59.645	3	Discord.exe	0
+2023-01-09 20:46:59.645	4	Chrome_WidgetWin_1	0
+2023-01-09 20:46:59.645	5	\DISPLAY1	0
+2023-01-09 20:47:02.009	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 20:47:02.009	3	firefox.exe	0
+2023-01-09 20:47:02.009	4	MozillaWindowClass	0
+2023-01-09 20:47:02.009	5	\DISPLAY1	0
+2023-01-09 20:47:18.857	2	Running applications	0
+2023-01-09 20:47:18.857	3	explorer.exe	0
+2023-01-09 20:47:18.857	4	MSTaskListWClass	0
+2023-01-09 20:47:18.857	5	\DISPLAY1	0
+2023-01-09 20:47:22.667	2	League of Legends	0
+2023-01-09 20:47:22.667	3	LeagueClientUx.exe	0
+2023-01-09 20:47:22.667	4	RCLIENT	0
+2023-01-09 20:47:22.667	5	\DISPLAY1	0
+2023-01-09 20:47:27.316	2	(37) DOAENEL COACHING ME ON HOW TO PLAY HECARIM - YouTube — Mozilla Firefox	0
+2023-01-09 20:47:27.316	3	firefox.exe	0
+2023-01-09 20:47:27.316	4	MozillaWindowClass	0
+2023-01-09 20:47:27.316	5	\DISPLAY1	0
+2023-01-09 20:52:57.850	2	Running applications	0
+2023-01-09 20:52:57.850	3	explorer.exe	0
+2023-01-09 20:52:57.850	4	MSTaskListWClass	0
+2023-01-09 20:52:57.850	5	\DISPLAY1	0
+2023-01-09 20:52:59.339	2		0
+2023-01-09 20:52:59.339	3	cmd.exe	0
+2023-01-09 20:52:59.339	4	ConsoleWindowClass	0
+2023-01-09 20:52:59.339	5	\DISPLAY1	0

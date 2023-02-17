@@ -1,0 +1,457 @@
+MEASUREMENT_TIME	ID_INPUT	VALUE	PRIVATE_DATA
+2023-01-09 01:31:15.309	2	Microsoft Teams	0
+2023-01-09 01:31:15.309	3	Teams.exe	0
+2023-01-09 01:31:15.309	4	Chrome_WidgetWin_1	0
+2023-01-09 01:31:15.309	5	\DISPLAY1	0
+2023-01-09 01:31:26.810	2	Discord Updater	0
+2023-01-09 01:31:26.810	3	Discord.exe	0
+2023-01-09 01:31:26.810	4	Chrome_WidgetWin_1	0
+2023-01-09 01:31:26.810	5	\DISPLAY1	0
+2023-01-09 01:36:54.852	2	Type here to search	0
+2023-01-09 01:36:54.852	3	explorer.exe	0
+2023-01-09 01:36:54.852	4	Button	0
+2023-01-09 01:36:54.852	5	\DISPLAY1	0
+2023-01-09 01:37:09.510	2	SINGLE SIGN-ON — Mozilla Firefox	0
+2023-01-09 01:37:09.510	3	firefox.exe	0
+2023-01-09 01:37:09.510	4	MozillaWindowClass	0
+2023-01-09 01:37:09.510	5	\DISPLAY1	0
+2023-01-09 01:37:17.852	2	Chrome Legacy Window	0
+2023-01-09 01:37:17.852	3	RiotClientUx.exe	0
+2023-01-09 01:37:17.852	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 01:37:17.852	5	\DISPLAY1	0
+2023-01-09 01:37:28.073	2		0
+2023-01-09 01:37:28.073	3	firefox.exe	0
+2023-01-09 01:37:28.073	4	MozillaWindowClass	0
+2023-01-09 01:37:28.073	5	\DISPLAY1	0
+2023-01-09 01:38:09.716	2	Chrome Legacy Window	0
+2023-01-09 01:38:09.716	3	RiotClientUx.exe	0
+2023-01-09 01:38:09.716	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 01:38:09.716	5	\DISPLAY1	0
+2023-01-09 01:38:10.860	2	(34) The Lucky Guy|Comedy happened in “Lucky” Coffee Shop| Cantonese EngSub|Stephen Chow SammiCheng|行運一條龍 - YouTube — Mozilla Firefox	0
+2023-01-09 01:38:10.860	3	firefox.exe	0
+2023-01-09 01:38:10.860	4	MozillaWindowClass	0
+2023-01-09 01:38:10.860	5	\DISPLAY1	0
+2023-01-09 01:44:22.465	2	Riot Client Main	0
+2023-01-09 01:44:22.465	3	RiotClientUx.exe	0
+2023-01-09 01:44:22.465	4	RCLIENT	0
+2023-01-09 01:44:22.465	5	\DISPLAY1	0
+2023-01-09 01:44:23.375	2	Running applications	0
+2023-01-09 01:44:23.375	3	explorer.exe	0
+2023-01-09 01:44:23.375	4	MSTaskListWClass	0
+2023-01-09 01:44:23.375	5	\DISPLAY1	0
+2023-01-09 01:44:24.417	2		0
+2023-01-09 01:44:24.417	3	firefox.exe	0
+2023-01-09 01:44:24.417	4	MozillaWindowClass	0
+2023-01-09 01:44:24.417	5	\DISPLAY1	0
+2023-01-09 01:46:41.269	2	Chrome Legacy Window	0
+2023-01-09 01:46:41.269	3	RiotClientUx.exe	0
+2023-01-09 01:46:41.269	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 01:46:41.269	5	\DISPLAY1	0
+2023-01-09 01:46:44.138	2	Running applications	0
+2023-01-09 01:46:44.138	3	explorer.exe	0
+2023-01-09 01:46:44.138	4	MSTaskListWClass	0
+2023-01-09 01:46:44.138	5	\DISPLAY1	0
+2023-01-09 01:46:45.132	2	Friends - Discord	0
+2023-01-09 01:46:45.132	3	Discord.exe	0
+2023-01-09 01:46:45.132	4	Chrome_WidgetWin_1	0
+2023-01-09 01:46:45.132	5	\DISPLAY1	0
+2023-01-09 01:46:52.488	2	Chrome Legacy Window	0
+2023-01-09 01:46:52.488	3	LeagueClientUx.exe	0
+2023-01-09 01:46:52.488	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 01:46:52.488	5	\DISPLAY1	0
+2023-01-09 01:46:54.248	2	@khun - Discord	0
+2023-01-09 01:46:54.248	3	Discord.exe	0
+2023-01-09 01:46:54.248	4	Chrome_WidgetWin_1	0
+2023-01-09 01:46:54.248	5	\DISPLAY1	0
+2023-01-09 01:47:09.706	2	Chrome Legacy Window	0
+2023-01-09 01:47:09.706	3	LeagueClientUx.exe	0
+2023-01-09 01:47:09.706	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 01:47:09.706	5	\DISPLAY1	0
+2023-01-09 01:47:14.581	2		0
+2023-01-09 01:47:14.581	3	firefox.exe	0
+2023-01-09 01:47:14.581	4	MozillaWindowClass	0
+2023-01-09 01:47:14.581	5	\DISPLAY1	0
+2023-01-09 01:47:19.334	2	Running applications	0
+2023-01-09 01:47:19.334	3	explorer.exe	0
+2023-01-09 01:47:19.334	4	MSTaskListWClass	0
+2023-01-09 01:47:19.334	5	\DISPLAY1	0
+2023-01-09 01:47:20.383	2	@khun - Discord	0
+2023-01-09 01:47:20.383	3	Discord.exe	0
+2023-01-09 01:47:20.383	4	Chrome_WidgetWin_1	0
+2023-01-09 01:47:20.383	5	\DISPLAY1	0
+2023-01-09 01:48:13.400	2		0
+2023-01-09 01:48:13.400	3	firefox.exe	0
+2023-01-09 01:48:13.400	4	MozillaWindowClass	0
+2023-01-09 01:48:13.400	5	\DISPLAY1	0
+2023-01-09 01:49:58.700	2	Running applications	0
+2023-01-09 01:49:58.700	3	explorer.exe	0
+2023-01-09 01:49:58.700	4	MSTaskListWClass	0
+2023-01-09 01:49:58.700	5	\DISPLAY1	0
+2023-01-09 01:50:01.905	2		0
+2023-01-09 01:50:01.905	3	firefox.exe	0
+2023-01-09 01:50:01.905	4	MozillaWindowClass	0
+2023-01-09 01:50:01.905	5	\DISPLAY1	0
+2023-01-09 01:50:15.376	2	Running applications	0
+2023-01-09 01:50:15.376	3	explorer.exe	0
+2023-01-09 01:50:15.376	4	MSTaskListWClass	0
+2023-01-09 01:50:15.376	5	\DISPLAY1	0
+2023-01-09 01:50:16.260	2	@khun - Discord	0
+2023-01-09 01:50:16.260	3	Discord.exe	0
+2023-01-09 01:50:16.260	4	Chrome_WidgetWin_1	0
+2023-01-09 01:50:16.260	5	\DISPLAY1	0
+2023-01-09 01:50:17.633	2		0
+2023-01-09 01:50:17.633	3	firefox.exe	0
+2023-01-09 01:50:17.633	4	MozillaWindowClass	0
+2023-01-09 01:50:17.633	5	\DISPLAY1	0
+2023-01-09 01:50:25.230	2	Running applications	0
+2023-01-09 01:50:25.230	3	explorer.exe	0
+2023-01-09 01:50:25.230	4	MSTaskListWClass	0
+2023-01-09 01:50:25.230	5	\DISPLAY1	0
+2023-01-09 01:50:26.705	2	@khun - Discord	0
+2023-01-09 01:50:26.705	3	Discord.exe	0
+2023-01-09 01:50:26.705	4	Chrome_WidgetWin_1	0
+2023-01-09 01:50:26.705	5	\DISPLAY1	0
+2023-01-09 01:51:07.204	2	Student Staff: Shifts, Schedules, Timekeeping - ITS Service Desk Team Space (SDTEAM) - UCSD Collab — Mozilla Firefox Private Browsing	0
+2023-01-09 01:51:07.204	3	firefox.exe	0
+2023-01-09 01:51:07.204	4	MozillaWindowClass	0
+2023-01-09 01:51:07.204	5	\DISPLAY1	0
+2023-01-09 01:54:16.054	2	Running applications	0
+2023-01-09 01:54:16.054	3	explorer.exe	0
+2023-01-09 01:54:16.054	4	MSTaskListWClass	0
+2023-01-09 01:54:16.054	5	\DISPLAY1	0
+2023-01-09 01:54:18.616	2	Chrome Legacy Window	0
+2023-01-09 01:54:18.616	3	LeagueClientUx.exe	0
+2023-01-09 01:54:18.616	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 01:54:18.616	5	\DISPLAY1	0
+2023-01-09 01:54:20.089	2	COVID Live - Coronavirus Statistics - Worldometer — Mozilla Firefox Private Browsing	0
+2023-01-09 01:54:20.089	3	firefox.exe	0
+2023-01-09 01:54:20.089	4	MozillaWindowClass	0
+2023-01-09 01:54:20.089	5	\DISPLAY1	0
+2023-01-09 01:54:21.674	2	Search highlights icon opens search home window	0
+2023-01-09 01:54:21.674	3	explorer.exe	0
+2023-01-09 01:54:21.674	4	DynamicContent1	0
+2023-01-09 01:54:21.674	5	\DISPLAY1	0
+2023-01-09 01:54:22.490	2	Search	0
+2023-01-09 01:54:22.490	3	SearchApp.exe	0
+2023-01-09 01:54:22.490	4	Windows.UI.Core.CoreWindow	0
+2023-01-09 01:54:22.490	5	\DISPLAY1	0
+2023-01-09 01:54:30.887	2	Opening - Outlook	0
+2023-01-09 01:54:30.887	3	OUTLOOK.EXE	0
+2023-01-09 01:54:30.887	4	MsoSplash	0
+2023-01-09 01:54:30.887	5	\DISPLAY1	0
+2023-01-09 01:54:57.434	2	COVID Live - Coronavirus Statistics - Worldometer — Mozilla Firefox Private Browsing	0
+2023-01-09 01:54:57.434	3	firefox.exe	0
+2023-01-09 01:54:57.434	4	MozillaWindowClass	0
+2023-01-09 01:54:57.434	5	\DISPLAY1	0
+2023-01-09 01:59:15.689	2	Running applications	0
+2023-01-09 01:59:15.689	3	explorer.exe	0
+2023-01-09 01:59:15.689	4	MSTaskListWClass	0
+2023-01-09 01:59:15.689	5	\DISPLAY1	0
+2023-01-09 01:59:17.070	2		0
+2023-01-09 01:59:17.070	3	OUTLOOK.EXE	0
+2023-01-09 01:59:17.070	4	NetUIHWND	0
+2023-01-09 01:59:17.070	5	\DISPLAY1	0
+2023-01-09 01:59:24.414	2	When I Work :: Schedule, Track, Communicate — Mozilla Firefox	0
+2023-01-09 01:59:24.414	3	firefox.exe	0
+2023-01-09 01:59:24.414	4	MozillaWindowClass	0
+2023-01-09 01:59:24.414	5	\DISPLAY1	0
+2023-01-09 01:59:26.953	2	Running applications	0
+2023-01-09 01:59:26.953	3	explorer.exe	0
+2023-01-09 01:59:26.953	4	MSTaskListWClass	0
+2023-01-09 01:59:26.953	5	\DISPLAY1	0
+2023-01-09 01:59:29.641	2	covid isolation period - Google Search — Mozilla Firefox Private Browsing	0
+2023-01-09 01:59:29.641	3	firefox.exe	0
+2023-01-09 01:59:29.641	4	MozillaWindowClass	0
+2023-01-09 01:59:29.641	5	\DISPLAY1	0
+2023-01-09 01:59:36.142	2		0
+2023-01-09 01:59:36.142	3	OUTLOOK.EXE	0
+2023-01-09 01:59:36.142	4	RichEdit20WPT	0
+2023-01-09 01:59:36.142	5	\DISPLAY1	0
+2023-01-09 02:00:56.515	2	Huntington Business Systems, Inc. - www.hbscorp.com — Mozilla Firefox	0
+2023-01-09 02:00:56.515	3	firefox.exe	0
+2023-01-09 02:00:56.515	4	MozillaWindowClass	0
+2023-01-09 02:00:56.515	5	\DISPLAY1	0
+2023-01-09 02:01:12.503	2	Sick 1/8/23 - Message (HTML) 	0
+2023-01-09 02:01:12.503	3	OUTLOOK.EXE	0
+2023-01-09 02:01:12.503	4	rctrl_renwnd32	0
+2023-01-09 02:01:12.503	5	\DISPLAY1	0
+2023-01-09 02:01:13.697	2	When I Work :: Schedule, Track, Communicate — Mozilla Firefox	0
+2023-01-09 02:01:13.697	3	firefox.exe	0
+2023-01-09 02:01:13.697	4	MozillaWindowClass	0
+2023-01-09 02:01:13.697	5	\DISPLAY1	0
+2023-01-09 02:01:16.821	2	Running applications	0
+2023-01-09 02:01:16.821	3	explorer.exe	0
+2023-01-09 02:01:16.821	4	MSTaskListWClass	0
+2023-01-09 02:01:16.821	5	\DISPLAY1	0
+2023-01-09 02:01:22.504	2	Student Staff: Shifts, Schedules, Timekeeping - ITS Service Desk Team Space (SDTEAM) - UCSD Collab — Mozilla Firefox Private Browsing	0
+2023-01-09 02:01:22.504	3	firefox.exe	0
+2023-01-09 02:01:22.504	4	MozillaWindowClass	0
+2023-01-09 02:01:22.504	5	\DISPLAY1	0
+2023-01-09 02:01:47.326	2	Running applications	0
+2023-01-09 02:01:47.326	3	explorer.exe	0
+2023-01-09 02:01:47.326	4	MSTaskListWClass	0
+2023-01-09 02:01:47.326	5	\DISPLAY1	0
+2023-01-09 02:01:52.506	2	Student Staff: Shifts, Schedules, Timekeeping - ITS Service Desk Team Space (SDTEAM) - UCSD Collab — Mozilla Firefox Private Browsing	0
+2023-01-09 02:01:52.506	3	firefox.exe	0
+2023-01-09 02:01:52.506	4	MozillaWindowClass	0
+2023-01-09 02:01:52.506	5	\DISPLAY1	0
+2023-01-09 02:02:08.015	2	Running applications	0
+2023-01-09 02:02:08.015	3	explorer.exe	0
+2023-01-09 02:02:08.015	4	MSTaskListWClass	0
+2023-01-09 02:02:08.015	5	\DISPLAY1	0
+2023-01-09 02:02:12.506	2	Sick 1/8/23 - Message (HTML) 	0
+2023-01-09 02:02:12.506	3	OUTLOOK.EXE	0
+2023-01-09 02:02:12.506	4	rctrl_renwnd32	0
+2023-01-09 02:02:12.506	5	\DISPLAY1	0
+2023-01-09 02:02:52.979	2		0
+2023-01-09 02:02:52.979	3	firefox.exe	0
+2023-01-09 02:02:52.979	4	MozillaWindowClass	0
+2023-01-09 02:02:52.979	5	\DISPLAY1	0
+2023-01-09 02:02:54.154	2	Running applications	0
+2023-01-09 02:02:54.154	3	explorer.exe	0
+2023-01-09 02:02:54.154	4	MSTaskListWClass	0
+2023-01-09 02:02:54.154	5	\DISPLAY1	0
+2023-01-09 02:03:02.957	2	Student Staff: Shifts, Schedules, Timekeeping - ITS Service Desk Team Space (SDTEAM) - UCSD Collab — Mozilla Firefox Private Browsing	0
+2023-01-09 02:03:02.957	3	firefox.exe	0
+2023-01-09 02:03:02.957	4	MozillaWindowClass	0
+2023-01-09 02:03:02.957	5	\DISPLAY1	0
+2023-01-09 02:03:05.996	2	Running applications	0
+2023-01-09 02:03:05.996	3	explorer.exe	0
+2023-01-09 02:03:05.996	4	MSTaskListWClass	0
+2023-01-09 02:03:05.996	5	\DISPLAY1	0
+2023-01-09 02:03:07.468	2	Huntington Business Systems, Inc. - www.hbscorp.com — Mozilla Firefox	0
+2023-01-09 02:03:07.468	3	firefox.exe	0
+2023-01-09 02:03:07.468	4	MozillaWindowClass	0
+2023-01-09 02:03:07.468	5	\DISPLAY1	0
+2023-01-09 02:04:14.767	2	Running applications	0
+2023-01-09 02:04:14.767	3	explorer.exe	0
+2023-01-09 02:04:14.767	4	MSTaskListWClass	0
+2023-01-09 02:04:14.767	5	\DISPLAY1	0
+2023-01-09 02:04:18.641	2	Message	0
+2023-01-09 02:04:18.641	3	OUTLOOK.EXE	0
+2023-01-09 02:04:18.641	4	_WwG	0
+2023-01-09 02:04:18.641	5	\DISPLAY1	0
+2023-01-09 02:05:07.789	2		0
+2023-01-09 02:05:07.789	3	firefox.exe	0
+2023-01-09 02:05:07.789	4	MozillaWindowClass	0
+2023-01-09 02:05:07.789	5	\DISPLAY1	0
+2023-01-09 02:05:09.583	2	Running applications	0
+2023-01-09 02:05:09.583	3	explorer.exe	0
+2023-01-09 02:05:09.583	4	MSTaskListWClass	0
+2023-01-09 02:05:09.583	5	\DISPLAY1	0
+2023-01-09 02:05:12.514	2	Sick 1/8/23 - Message (HTML) 	0
+2023-01-09 02:05:12.514	3	OUTLOOK.EXE	0
+2023-01-09 02:05:12.514	4	rctrl_renwnd32	0
+2023-01-09 02:05:12.514	5	\DISPLAY1	0
+2023-01-09 02:06:48.122	2	Running applications	0
+2023-01-09 02:06:48.122	3	explorer.exe	0
+2023-01-09 02:06:48.122	4	MSTaskListWClass	0
+2023-01-09 02:06:48.122	5	\DISPLAY1	0
+2023-01-09 02:06:49.464	2	@khun - Discord	0
+2023-01-09 02:06:49.464	3	Discord.exe	0
+2023-01-09 02:06:49.464	4	Chrome_WidgetWin_1	0
+2023-01-09 02:06:49.464	5	\DISPLAY1	0
+2023-01-09 02:07:22.289	2		0
+2023-01-09 02:07:22.289	3	firefox.exe	0
+2023-01-09 02:07:22.289	4	MozillaWindowClass	0
+2023-01-09 02:07:22.289	5	\DISPLAY1	0
+2023-01-09 02:07:24.694	2	Running applications	0
+2023-01-09 02:07:24.694	3	explorer.exe	0
+2023-01-09 02:07:24.694	4	MSTaskListWClass	0
+2023-01-09 02:07:24.694	5	\DISPLAY1	0
+2023-01-09 02:07:32.519	2	#coverage-requests | ITS Service Desk - Discord	0
+2023-01-09 02:07:32.519	3	Discord.exe	0
+2023-01-09 02:07:32.519	4	Chrome_WidgetWin_1	0
+2023-01-09 02:07:32.519	5	\DISPLAY1	0
+2023-01-09 02:08:43.526	2		0
+2023-01-09 02:08:43.526	3	firefox.exe	0
+2023-01-09 02:08:43.526	4	MozillaWindowClass	0
+2023-01-09 02:08:43.526	5	\DISPLAY1	0
+2023-01-09 02:08:50.844	2	Running applications	0
+2023-01-09 02:08:50.844	3	explorer.exe	0
+2023-01-09 02:08:50.844	4	MSTaskListWClass	0
+2023-01-09 02:08:50.844	5	\DISPLAY1	0
+2023-01-09 02:08:52.523	2	League of Legends	0
+2023-01-09 02:08:52.523	3	LeagueClientUx.exe	0
+2023-01-09 02:08:52.523	4	RCLIENT	0
+2023-01-09 02:08:52.523	5	\DISPLAY1	0
+2023-01-09 02:08:54.991	2	Running applications	0
+2023-01-09 02:08:54.991	3	explorer.exe	0
+2023-01-09 02:08:54.991	4	MSTaskListWClass	0
+2023-01-09 02:08:54.991	5	\DISPLAY1	0
+2023-01-09 02:09:02.523	2	League of Legends	0
+2023-01-09 02:09:02.523	3	LeagueClientUx.exe	0
+2023-01-09 02:09:02.523	4	RCLIENT	0
+2023-01-09 02:09:02.523	5	\DISPLAY1	0
+2023-01-09 02:09:56.982	2		0
+2023-01-09 02:09:56.982	3	firefox.exe	0
+2023-01-09 02:09:56.982	4	MozillaWindowClass	0
+2023-01-09 02:09:56.982	5	\DISPLAY1	0
+2023-01-09 02:10:51.596	2	Chrome Legacy Window	0
+2023-01-09 02:10:51.596	3	LeagueClientUx.exe	0
+2023-01-09 02:10:51.596	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:10:51.596	5	\DISPLAY1	0
+2023-01-09 02:11:10.706	2		0
+2023-01-09 02:11:10.706	3	firefox.exe	0
+2023-01-09 02:11:10.706	4	MozillaWindowClass	0
+2023-01-09 02:11:10.706	5	\DISPLAY1	0
+2023-01-09 02:13:23.178	2	Chrome Legacy Window	0
+2023-01-09 02:13:23.178	3	LeagueClientUx.exe	0
+2023-01-09 02:13:23.178	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:13:23.178	5	\DISPLAY1	0
+2023-01-09 02:13:48.516	2		0
+2023-01-09 02:13:48.516	3	firefox.exe	0
+2023-01-09 02:13:48.516	4	MozillaWindowClass	0
+2023-01-09 02:13:48.516	5	\DISPLAY1	0
+2023-01-09 02:15:30.784	2	#techymemes4itsteens | ITS Service Desk - Discord	0
+2023-01-09 02:15:30.784	3	Discord.exe	0
+2023-01-09 02:15:30.784	4	Chrome_WidgetWin_1	0
+2023-01-09 02:15:30.784	5	\DISPLAY1	0
+2023-01-09 02:15:36.984	2	Running applications	0
+2023-01-09 02:15:36.984	3	explorer.exe	0
+2023-01-09 02:15:36.984	4	MSTaskListWClass	0
+2023-01-09 02:15:36.984	5	\DISPLAY1	0
+2023-01-09 02:15:39.459	2	Chrome Legacy Window	0
+2023-01-09 02:15:39.459	3	LeagueClientUx.exe	0
+2023-01-09 02:15:39.459	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:15:39.459	5	\DISPLAY1	0
+2023-01-09 02:15:54.602	2	Type here to search	0
+2023-01-09 02:15:54.602	3	explorer.exe	0
+2023-01-09 02:15:54.602	4	Button	0
+2023-01-09 02:15:54.602	5	\DISPLAY1	0
+2023-01-09 02:15:59.243	2	Aphelios ARAM Build - U.GG Aphelios Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 02:15:59.243	3	firefox.exe	0
+2023-01-09 02:15:59.243	4	MozillaWindowClass	0
+2023-01-09 02:15:59.243	5	\DISPLAY1	0
+2023-01-09 02:16:57.721	2	Running applications	0
+2023-01-09 02:16:57.721	3	explorer.exe	0
+2023-01-09 02:16:57.721	4	MSTaskListWClass	0
+2023-01-09 02:16:57.721	5	\DISPLAY1	0
+2023-01-09 02:16:59.122	2	Chrome Legacy Window	0
+2023-01-09 02:16:59.122	3	LeagueClientUx.exe	0
+2023-01-09 02:16:59.122	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:16:59.122	5	\DISPLAY1	0
+2023-01-09 02:16:59.709	2	Epic Games Launcher	0
+2023-01-09 02:16:59.709	3	EpicGamesLauncher.exe	0
+2023-01-09 02:16:59.709	4	UnrealWindow	0
+2023-01-09 02:16:59.709	5	\DISPLAY1	0
+2023-01-09 02:17:00.849	2	Epic Games Christmas 2022 FREE Games + Leaks! Tech ARP — Mozilla Firefox	0
+2023-01-09 02:17:00.849	3	firefox.exe	0
+2023-01-09 02:17:00.849	4	MozillaWindowClass	0
+2023-01-09 02:17:00.849	5	\DISPLAY1	0
+2023-01-09 02:17:05.668	2	Running applications	0
+2023-01-09 02:17:05.668	3	explorer.exe	0
+2023-01-09 02:17:05.668	4	MSTaskListWClass	0
+2023-01-09 02:17:05.668	5	\DISPLAY1	0
+2023-01-09 02:17:09.385	2	Chrome Legacy Window	0
+2023-01-09 02:17:09.385	3	LeagueClientUx.exe	0
+2023-01-09 02:17:09.385	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:17:09.385	5	\DISPLAY1	0
+2023-01-09 02:17:18.804	2	Epic Games Christmas 2022 FREE Games + Leaks! Tech ARP — Mozilla Firefox	0
+2023-01-09 02:17:18.804	3	firefox.exe	0
+2023-01-09 02:17:18.804	4	MozillaWindowClass	0
+2023-01-09 02:17:18.804	5	\DISPLAY1	0
+2023-01-09 02:17:24.228	2	Chrome Legacy Window	0
+2023-01-09 02:17:24.228	3	LeagueClientUx.exe	0
+2023-01-09 02:17:24.228	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:17:24.228	5	\DISPLAY1	0
+2023-01-09 02:17:50.898	2	Brand ARAM Build - U.GG Brand Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 02:17:50.898	3	firefox.exe	0
+2023-01-09 02:17:50.898	4	MozillaWindowClass	0
+2023-01-09 02:17:50.898	5	\DISPLAY1	0
+2023-01-09 02:17:52.345	2	Chrome Legacy Window	0
+2023-01-09 02:17:52.345	3	LeagueClientUx.exe	0
+2023-01-09 02:17:52.345	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:17:52.345	5	\DISPLAY1	0
+2023-01-09 02:18:08.987	2	Brand ARAM Build - U.GG Brand Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-09 02:18:08.987	3	firefox.exe	0
+2023-01-09 02:18:08.987	4	MozillaWindowClass	0
+2023-01-09 02:18:08.987	5	\DISPLAY1	0
+2023-01-09 02:18:09.623	2	Chrome Legacy Window	0
+2023-01-09 02:18:09.623	3	LeagueClientUx.exe	0
+2023-01-09 02:18:09.623	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:18:09.623	5	\DISPLAY1	0
+2023-01-09 02:18:12.748	2	Epic Games Launcher	0
+2023-01-09 02:18:12.748	3	EpicGamesLauncher.exe	0
+2023-01-09 02:18:12.748	4	UnrealWindow	0
+2023-01-09 02:18:12.748	5	\DISPLAY1	0
+2023-01-09 02:18:17.494	2	Epic Games — Mozilla Firefox	0
+2023-01-09 02:18:17.494	3	firefox.exe	0
+2023-01-09 02:18:17.494	4	MozillaWindowClass	0
+2023-01-09 02:18:17.494	5	\DISPLAY1	0
+2023-01-09 02:18:21.927	2	League of Legends (TM) Client	0
+2023-01-09 02:18:21.927	3	League of Legends.exe	0
+2023-01-09 02:18:21.927	4	RiotWindowClass	0
+2023-01-09 02:18:21.927	5	\DISPLAY1	0
+2023-01-09 02:18:29.195	2	Sign in - Google Accounts — Mozilla Firefox	0
+2023-01-09 02:18:29.195	3	firefox.exe	0
+2023-01-09 02:18:29.195	4	MozillaWindowClass	0
+2023-01-09 02:18:29.195	5	\DISPLAY1	0
+2023-01-09 02:18:38.578	2	Running applications	0
+2023-01-09 02:18:38.578	3	explorer.exe	0
+2023-01-09 02:18:38.578	4	MSTaskListWClass	0
+2023-01-09 02:18:38.578	5	\DISPLAY1	0
+2023-01-09 02:18:40.452	2	Epic Games Launcher	0
+2023-01-09 02:18:40.452	3	EpicGamesLauncher.exe	0
+2023-01-09 02:18:40.452	4	UnrealWindow	0
+2023-01-09 02:18:40.452	5	\DISPLAY1	0
+2023-01-09 02:18:41.011	2	League of Legends (TM) Client	0
+2023-01-09 02:18:41.011	3	League of Legends.exe	0
+2023-01-09 02:18:41.011	4	RiotWindowClass	0
+2023-01-09 02:18:41.011	5	\DISPLAY1	0
+2023-01-09 02:18:56.351	2	Chrome Legacy Window	0
+2023-01-09 02:18:56.351	3	EpicGamesLauncher.exe	0
+2023-01-09 02:18:56.351	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:18:56.351	5	\DISPLAY1	0
+2023-01-09 02:19:10.383	2	League of Legends (TM) Client	0
+2023-01-09 02:19:10.383	3	League of Legends.exe	0
+2023-01-09 02:19:10.383	4	RiotWindowClass	0
+2023-01-09 02:19:10.383	5	\DISPLAY1	0
+2023-01-09 02:19:21.586	2	Epic Games — Mozilla Firefox	0
+2023-01-09 02:19:21.586	3	firefox.exe	0
+2023-01-09 02:19:21.586	4	MozillaWindowClass	0
+2023-01-09 02:19:21.586	5	\DISPLAY1	0
+2023-01-09 02:19:28.015	2	League of Legends (TM) Client	0
+2023-01-09 02:19:28.015	3	League of Legends.exe	0
+2023-01-09 02:19:28.015	4	RiotWindowClass	0
+2023-01-09 02:19:28.015	5	\DISPLAY1	0
+2023-01-09 02:40:17.953	2	#coverage-requests | ITS Service Desk - Discord	0
+2023-01-09 02:40:17.953	3	Discord.exe	0
+2023-01-09 02:40:17.953	4	Chrome_WidgetWin_1	0
+2023-01-09 02:40:17.953	5	\DISPLAY1	0
+2023-01-09 02:40:21.016	2	(35) Nightly News Full Broadcast - Jan. 7 - YouTube — Mozilla Firefox	0
+2023-01-09 02:40:21.016	3	firefox.exe	0
+2023-01-09 02:40:21.016	4	MozillaWindowClass	0
+2023-01-09 02:40:21.016	5	\DISPLAY1	0
+2023-01-09 02:40:22.775	2	@khun - Discord	0
+2023-01-09 02:40:22.775	3	Discord.exe	0
+2023-01-09 02:40:22.775	4	Chrome_WidgetWin_1	0
+2023-01-09 02:40:22.775	5	\DISPLAY1	0
+2023-01-09 02:40:39.311	2	(35) Nightly News Full Broadcast - Jan. 7 - YouTube — Mozilla Firefox	0
+2023-01-09 02:40:39.311	3	firefox.exe	0
+2023-01-09 02:40:39.311	4	MozillaWindowClass	0
+2023-01-09 02:40:39.311	5	\DISPLAY1	0
+2023-01-09 02:51:05.510	2	Chrome Legacy Window	0
+2023-01-09 02:51:05.510	3	LeagueClientUx.exe	0
+2023-01-09 02:51:05.510	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:51:05.510	5	\DISPLAY1	0
+2023-01-09 02:53:02.622	2	(35) How Medical Debt Ballooned In America - YouTube — Mozilla Firefox	0
+2023-01-09 02:53:02.622	3	firefox.exe	0
+2023-01-09 02:53:02.622	4	MozillaWindowClass	0
+2023-01-09 02:53:02.622	5	\DISPLAY1	0
+2023-01-09 02:54:51.313	2	Chrome Legacy Window	0
+2023-01-09 02:54:51.313	3	LeagueClientUx.exe	0
+2023-01-09 02:54:51.313	4	Chrome_RenderWidgetHostHWND	0
+2023-01-09 02:54:51.313	5	\DISPLAY1	0
+2023-01-09 02:55:11.622	2	(35) How Medical Debt Ballooned In America - YouTube — Mozilla Firefox	0
+2023-01-09 02:55:11.622	3	firefox.exe	0
+2023-01-09 02:55:11.622	4	MozillaWindowClass	0
+2023-01-09 02:55:11.622	5	\DISPLAY1	0
+2023-01-09 03:16:47.501	2	Start	0
+2023-01-09 03:16:47.501	3	explorer.exe	0
+2023-01-09 03:16:47.501	4	Start	0
+2023-01-09 03:16:47.501	5	\DISPLAY1	0
+2023-01-09 03:16:48.107	2	Start	0
+2023-01-09 03:16:48.107	3	StartMenuExperienceHost.exe	0
+2023-01-09 03:16:48.107	4	Windows.UI.Core.CoreWindow	0
+2023-01-09 03:16:48.107	5	\DISPLAY1	0

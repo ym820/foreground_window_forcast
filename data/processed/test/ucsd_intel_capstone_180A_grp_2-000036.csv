@@ -1,0 +1,225 @@
+MEASUREMENT_TIME	ID_INPUT	VALUE	PRIVATE_DATA
+2023-01-21 22:43:05.981	2	Microsoft Teams	0
+2023-01-21 22:43:05.981	3	Teams.exe	0
+2023-01-21 22:43:05.981	4	Chrome_WidgetWin_1	0
+2023-01-21 22:43:05.981	5	\DISPLAY1	0
+2023-01-21 22:43:17.483	2	Discord Updater	0
+2023-01-21 22:43:17.483	3	Discord.exe	0
+2023-01-21 22:43:17.483	4	Chrome_WidgetWin_1	0
+2023-01-21 22:43:17.483	5	\DISPLAY1	0
+2023-01-21 22:54:56.419	2	Running applications	0
+2023-01-21 22:54:56.419	3	explorer.exe	0
+2023-01-21 22:54:56.419	4	MSTaskListWClass	0
+2023-01-21 22:54:56.419	5	\DISPLAY1	0
+2023-01-21 22:55:05.911	2	(62) Do You Remember The Champ So Bad You Got BANNED For Playing Her - YouTube — Mozilla Firefox	0
+2023-01-21 22:55:05.911	3	firefox.exe	0
+2023-01-21 22:55:05.911	4	MozillaWindowClass	0
+2023-01-21 22:55:05.911	5	\DISPLAY1	0
+2023-01-21 23:02:03.047	2	Type here to search	0
+2023-01-21 23:02:03.047	3	explorer.exe	0
+2023-01-21 23:02:03.047	4	Button	0
+2023-01-21 23:02:03.047	5	\DISPLAY1	0
+2023-01-21 23:02:05.768	2	Search	0
+2023-01-21 23:02:05.768	3	SearchApp.exe	0
+2023-01-21 23:02:05.768	4	Windows.UI.Core.CoreWindow	0
+2023-01-21 23:02:05.768	5	\DISPLAY1	0
+2023-01-21 23:02:15.928	2	Riot Client Main	0
+2023-01-21 23:02:15.928	3	RiotClientUx.exe	0
+2023-01-21 23:02:15.928	4	RCLIENT	0
+2023-01-21 23:02:15.928	5	\DISPLAY1	0
+2023-01-21 23:02:55.930	2		0
+2023-01-21 23:02:55.930	3	LeagueClient.exe	0
+2023-01-21 23:02:55.930	4	SplashScreenClassName	0
+2023-01-21 23:02:55.930	5	\DISPLAY1	0
+2023-01-21 23:03:04.746	2	Chrome Legacy Window	0
+2023-01-21 23:03:04.746	3	LeagueClientUx.exe	0
+2023-01-21 23:03:04.746	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:03:04.746	5	\DISPLAY1	0
+2023-01-21 23:04:24.182	2	(62) How General Motors Killed the First Modern Electric Car - YouTube — Mozilla Firefox	0
+2023-01-21 23:04:24.182	3	firefox.exe	0
+2023-01-21 23:04:24.182	4	MozillaWindowClass	0
+2023-01-21 23:04:24.182	5	\DISPLAY1	0
+2023-01-21 23:04:40.250	2	Chrome Legacy Window	0
+2023-01-21 23:04:40.250	3	LeagueClientUx.exe	0
+2023-01-21 23:04:40.250	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:04:40.250	5	\DISPLAY1	0
+2023-01-21 23:04:53.275	2	Kindred ARAM Build - U.GG Kindred Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-21 23:04:53.275	3	firefox.exe	0
+2023-01-21 23:04:53.275	4	MozillaWindowClass	0
+2023-01-21 23:04:53.275	5	\DISPLAY1	0
+2023-01-21 23:05:01.331	2	Chrome Legacy Window	0
+2023-01-21 23:05:01.331	3	LeagueClientUx.exe	0
+2023-01-21 23:05:01.331	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:05:01.331	5	\DISPLAY1	0
+2023-01-21 23:05:29.725	2	(62) How General Motors Killed the First Modern Electric Car - YouTube — Mozilla Firefox	0
+2023-01-21 23:05:29.725	3	firefox.exe	0
+2023-01-21 23:05:29.725	4	MozillaWindowClass	0
+2023-01-21 23:05:29.725	5	\DISPLAY1	0
+2023-01-21 23:05:48.481	2	League of Legends (TM) Client	0
+2023-01-21 23:05:48.481	3	League of Legends.exe	0
+2023-01-21 23:05:48.481	4	RiotWindowClass	0
+2023-01-21 23:05:48.481	5	\DISPLAY1	0
+2023-01-21 23:05:50.900	2	(62) How General Motors Killed the First Modern Electric Car - YouTube — Mozilla Firefox	0
+2023-01-21 23:05:50.900	3	firefox.exe	0
+2023-01-21 23:05:50.900	4	MozillaWindowClass	0
+2023-01-21 23:05:50.900	5	\DISPLAY1	0
+2023-01-21 23:06:01.203	2	League of Legends (TM) Client	0
+2023-01-21 23:06:01.203	3	League of Legends.exe	0
+2023-01-21 23:06:01.203	4	RiotWindowClass	0
+2023-01-21 23:06:01.203	5	\DISPLAY1	0
+2023-01-21 23:06:09.505	2	(62) How General Motors Killed the First Modern Electric Car - YouTube — Mozilla Firefox	0
+2023-01-21 23:06:09.505	3	firefox.exe	0
+2023-01-21 23:06:09.505	4	MozillaWindowClass	0
+2023-01-21 23:06:09.505	5	\DISPLAY1	0
+2023-01-21 23:06:11.874	2	League of Legends (TM) Client	0
+2023-01-21 23:06:11.874	3	League of Legends.exe	0
+2023-01-21 23:06:11.874	4	RiotWindowClass	0
+2023-01-21 23:06:11.874	5	\DISPLAY1	0
+2023-01-21 23:10:25.948	2	(62) How General Motors Killed the First Modern Electric Car - YouTube — Mozilla Firefox	0
+2023-01-21 23:10:25.948	3	firefox.exe	0
+2023-01-21 23:10:25.948	4	MozillaWindowClass	0
+2023-01-21 23:10:25.948	5	\DISPLAY1	0
+2023-01-21 23:10:31.773	2	League of Legends (TM) Client	0
+2023-01-21 23:10:31.773	3	League of Legends.exe	0
+2023-01-21 23:10:31.773	4	RiotWindowClass	0
+2023-01-21 23:10:31.773	5	\DISPLAY1	0
+2023-01-21 23:14:34.726	2	(62) How General Motors Killed the First Modern Electric Car - YouTube — Mozilla Firefox	0
+2023-01-21 23:14:34.726	3	firefox.exe	0
+2023-01-21 23:14:34.726	4	MozillaWindowClass	0
+2023-01-21 23:14:34.726	5	\DISPLAY1	0
+2023-01-21 23:14:39.067	2	Running applications	0
+2023-01-21 23:14:39.067	3	explorer.exe	0
+2023-01-21 23:14:39.067	4	MSTaskListWClass	0
+2023-01-21 23:14:39.067	5	\DISPLAY1	0
+2023-01-21 23:14:39.829	2	League of Legends (TM) Client	0
+2023-01-21 23:14:39.829	3	League of Legends.exe	0
+2023-01-21 23:14:39.829	4	RiotWindowClass	0
+2023-01-21 23:14:39.829	5	\DISPLAY1	0
+2023-01-21 23:28:05.988	2	League of Legends	0
+2023-01-21 23:28:05.988	3	LeagueClientUx.exe	0
+2023-01-21 23:28:05.988	4	RCLIENT	0
+2023-01-21 23:28:05.988	5	\DISPLAY1	0
+2023-01-21 23:28:45.989	2	(62) How General Motors Killed the First Modern Electric Car - YouTube — Mozilla Firefox	0
+2023-01-21 23:28:45.989	3	firefox.exe	0
+2023-01-21 23:28:45.989	4	MozillaWindowClass	0
+2023-01-21 23:28:45.989	5	\DISPLAY1	0
+2023-01-21 23:28:46.380	2	Chrome Legacy Window	0
+2023-01-21 23:28:46.380	3	LeagueClientUx.exe	0
+2023-01-21 23:28:46.380	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:28:46.380	5	\DISPLAY1	0
+2023-01-21 23:29:09.902	2	(62) How General Motors Killed the First Modern Electric Car - YouTube — Mozilla Firefox	0
+2023-01-21 23:29:09.902	3	firefox.exe	0
+2023-01-21 23:29:09.902	4	MozillaWindowClass	0
+2023-01-21 23:29:09.902	5	\DISPLAY1	0
+2023-01-21 23:29:13.152	2	Chrome Legacy Window	0
+2023-01-21 23:29:13.152	3	LeagueClientUx.exe	0
+2023-01-21 23:29:13.152	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:29:13.152	5	\DISPLAY1	0
+2023-01-21 23:30:04.102	2	"(1) Aram % adjustments are still everything but ""balancing"" : leagueoflegends — Mozilla Firefox"	0
+2023-01-21 23:30:04.102	3	firefox.exe	0
+2023-01-21 23:30:04.102	4	MozillaWindowClass	0
+2023-01-21 23:30:04.102	5	\DISPLAY1	0
+2023-01-21 23:30:08.345	2	Chrome Legacy Window	0
+2023-01-21 23:30:08.345	3	LeagueClientUx.exe	0
+2023-01-21 23:30:08.345	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:30:08.345	5	\DISPLAY1	0
+2023-01-21 23:30:20.733	2	Kindred ARAM Build - U.GG Kindred Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-21 23:30:20.733	3	firefox.exe	0
+2023-01-21 23:30:20.733	4	MozillaWindowClass	0
+2023-01-21 23:30:20.733	5	\DISPLAY1	0
+2023-01-21 23:30:24.980	2	Chrome Legacy Window	0
+2023-01-21 23:30:24.980	3	LeagueClientUx.exe	0
+2023-01-21 23:30:24.980	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:30:24.980	5	\DISPLAY1	0
+2023-01-21 23:30:32.045	2	Kindred ARAM Build - U.GG Kindred Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-21 23:30:32.045	3	firefox.exe	0
+2023-01-21 23:30:32.045	4	MozillaWindowClass	0
+2023-01-21 23:30:32.045	5	\DISPLAY1	0
+2023-01-21 23:31:05.996	2	Task Switching	0
+2023-01-21 23:31:05.996	3	explorer.exe	0
+2023-01-21 23:31:05.996	4	MultitaskingViewFrame	0
+2023-01-21 23:31:05.996	5	\DISPLAY1	0
+2023-01-21 23:31:15.078	2	"(1) Aram % adjustments are still everything but ""balancing"" : leagueoflegends — Mozilla Firefox"	0
+2023-01-21 23:31:15.078	3	firefox.exe	0
+2023-01-21 23:31:15.078	4	MozillaWindowClass	0
+2023-01-21 23:31:15.078	5	\DISPLAY1	0
+2023-01-21 23:31:25.150	2	League of Legends (TM) Client	0
+2023-01-21 23:31:25.150	3	League of Legends.exe	0
+2023-01-21 23:31:25.150	4	RiotWindowClass	0
+2023-01-21 23:31:25.150	5	\DISPLAY1	0
+2023-01-21 23:33:34.492	2	Chrome Legacy Window	0
+2023-01-21 23:33:34.492	3	LeagueClientUx.exe	0
+2023-01-21 23:33:34.492	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:33:34.492	5	\DISPLAY1	0
+2023-01-21 23:34:07.981	2	(62) Buy Your Tesla Model 3, Y Before It’s Too Late | Here's The Truth - YouTube — Mozilla Firefox	0
+2023-01-21 23:34:07.981	3	firefox.exe	0
+2023-01-21 23:34:07.981	4	MozillaWindowClass	0
+2023-01-21 23:34:07.981	5	\DISPLAY1	0
+2023-01-21 23:34:23.906	2	Chrome Legacy Window	0
+2023-01-21 23:34:23.906	3	LeagueClientUx.exe	0
+2023-01-21 23:34:23.906	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:34:23.906	5	\DISPLAY1	0
+2023-01-21 23:34:26.975	2	(62) Exil - YouTube — Mozilla Firefox	0
+2023-01-21 23:34:26.975	3	firefox.exe	0
+2023-01-21 23:34:26.975	4	MozillaWindowClass	0
+2023-01-21 23:34:26.975	5	\DISPLAY1	0
+2023-01-21 23:34:31.162	2	Chrome Legacy Window	0
+2023-01-21 23:34:31.162	3	LeagueClientUx.exe	0
+2023-01-21 23:34:31.162	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:34:31.162	5	\DISPLAY1	0
+2023-01-21 23:34:36.988	2	"(1) Aram % adjustments are still everything but ""balancing"" : leagueoflegends — Mozilla Firefox"	0
+2023-01-21 23:34:36.988	3	firefox.exe	0
+2023-01-21 23:34:36.988	4	MozillaWindowClass	0
+2023-01-21 23:34:36.988	5	\DISPLAY1	0
+2023-01-21 23:34:39.810	2	Chrome Legacy Window	0
+2023-01-21 23:34:39.810	3	LeagueClientUx.exe	0
+2023-01-21 23:34:39.810	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:34:39.810	5	\DISPLAY1	0
+2023-01-21 23:34:50.167	2	(62) Buy Your Tesla Model 3, Y Before It’s Too Late | Here's The Truth - YouTube — Mozilla Firefox	0
+2023-01-21 23:34:50.167	3	firefox.exe	0
+2023-01-21 23:34:50.167	4	MozillaWindowClass	0
+2023-01-21 23:34:50.167	5	\DISPLAY1	0
+2023-01-21 23:34:56.335	2	Chrome Legacy Window	0
+2023-01-21 23:34:56.335	3	LeagueClientUx.exe	0
+2023-01-21 23:34:56.335	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:34:56.335	5	\DISPLAY1	0
+2023-01-21 23:35:07.170	2	Kai'Sa Build with Highest Winrate - LoL Runes, Items, and Skill Order — Mozilla Firefox	0
+2023-01-21 23:35:07.170	3	firefox.exe	0
+2023-01-21 23:35:07.170	4	MozillaWindowClass	0
+2023-01-21 23:35:07.170	5	\DISPLAY1	0
+2023-01-21 23:35:14.053	2	Chrome Legacy Window	0
+2023-01-21 23:35:14.053	3	LeagueClientUx.exe	0
+2023-01-21 23:35:14.053	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:35:14.053	5	\DISPLAY1	0
+2023-01-21 23:35:35.628	2	Kai'Sa ARAM Build - U.GG Kai'Sa Runes + Item Guide for ARAM — Mozilla Firefox	0
+2023-01-21 23:35:35.628	3	firefox.exe	0
+2023-01-21 23:35:35.628	4	MozillaWindowClass	0
+2023-01-21 23:35:35.628	5	\DISPLAY1	0
+2023-01-21 23:36:58.706	2	League of Legends (TM) Client	0
+2023-01-21 23:36:58.706	3	League of Legends.exe	0
+2023-01-21 23:36:58.706	4	RiotWindowClass	0
+2023-01-21 23:36:58.706	5	\DISPLAY1	0
+2023-01-21 23:43:55.097	2	Chrome Legacy Window	0
+2023-01-21 23:43:55.097	3	LeagueClientUx.exe	0
+2023-01-21 23:43:55.097	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:43:55.097	5	\DISPLAY1	0
+2023-01-21 23:43:56.873	2	(62) Buy Your Tesla Model 3, Y Before It’s Too Late | Here's The Truth - YouTube — Mozilla Firefox	0
+2023-01-21 23:43:56.873	3	firefox.exe	0
+2023-01-21 23:43:56.873	4	MozillaWindowClass	0
+2023-01-21 23:43:56.873	5	\DISPLAY1	0
+2023-01-21 23:44:06.029	2	Chrome Legacy Window	0
+2023-01-21 23:44:06.029	3	LeagueClientUx.exe	0
+2023-01-21 23:44:06.029	4	Chrome_RenderWidgetHostHWND	0
+2023-01-21 23:44:06.029	5	\DISPLAY1	0
+2023-01-21 23:45:06.031	2	(62) Buy Your Tesla Model 3, Y Before It’s Too Late | Here's The Truth - YouTube — Mozilla Firefox	0
+2023-01-21 23:45:06.031	3	firefox.exe	0
+2023-01-21 23:45:06.031	4	MozillaWindowClass	0
+2023-01-21 23:45:06.031	5	\DISPLAY1	0
+2023-01-21 23:58:55.097	2	Running applications	0
+2023-01-21 23:58:55.097	3	explorer.exe	0
+2023-01-21 23:58:55.097	4	MSTaskListWClass	0
+2023-01-21 23:58:55.097	5	\DISPLAY1	0
+2023-01-21 23:58:56.058	2		0
+2023-01-21 23:58:56.058	3	cmd.exe	0
+2023-01-21 23:58:56.058	4	ConsoleWindowClass	0
+2023-01-21 23:58:56.058	5	\DISPLAY1	0

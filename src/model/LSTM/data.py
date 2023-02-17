@@ -2,10 +2,46 @@ import pandas as pd
 import os
 import numpy as np
 import datetime
+import sqlite3 as sql
+import csv
+from sqlite3 import Error
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder, MinMaxScaler
 
+def get_input_output_folder(dafault_path = True):
+    if default_path:
+        os.chdir("../../../data/raw/outputs/")
+        input_folder = os.fspath(os.getcwd())
+        os.chdir("../../processed/")
+        output_folder = os.fspath(os.getcwd())
+        os.chdir("../../")
+    return input_folder, output_folder
 
-def combine_dataset(raw_path, file_path):
+def export_db_as_csv(dir):
+    input_folder, output_folder = get_input_output_folder()
+    for db in os.listdir(input_folder):
+        new_name = db.strip(".db") + ".csv"
+        try:
+            input_file_path = os.path.join(input_folder, db)
+            conn=sql.connect(input_file_path)
+            cursor = conn.cursor()
+            cursor.execute("SELECT * FROM COUNTERS_STRING_TIME_DATA")
+            print("Exporting data into CSV............")
+            dirpath = os.path.join(output_folder, new_name)
+            with open(dirpath, "w") as csv_file:
+                csv_writer = csv.writer(csv_file, delimiter="\t")
+                csv_writer.writerow([i[0] for i in cursor.description])
+                csv_writer.writerows(cursor)
+            print("Data exported Successfully into {}".format(dirpath))
+
+        except Error as e:
+            print(e)
+
+        # Close database connection
+        finally:
+            conn.close()
+    return
+
+def combine_dataset(raw_path, file_path = "dataset.csv"):
     """
     Concatenate raw dataframes with <s> token indicating the start of the collection and save the series of executables into dataframe
 
@@ -16,11 +52,10 @@ def combine_dataset(raw_path, file_path):
         return pd.read_csv(file_path)
     datasets = []
     # start = pd.Series(['<s>'])
-    for i in range(1, 30):
-        if i == 28:
-            continue
-        file_path = f"{raw_path}/df{i}.csv"
-        df = pd.read_csv(file_path)
+    _, output_folder = get_input_output_folder()
+    for csv in os.listdir(output_folder):
+        curr_file_path = os.path.join(output_folder, csv)
+        df = pd.read_csv(curr_file_path)
         temp = df[df['ID_INPUT'] == 3][['MEASUREMENT_TIME', 'VALUE']].reset_index(drop=True)
         temp = temp.rename(columns={'MEASUREMENT_TIME': 'Start', 'VALUE': 'Value'})
         temp['Start'] = pd.to_datetime(temp['Start']).dt.tz_localize(tz='GMT+0').dt.tz_convert('America/Los_Angeles').dt.tz_localize(None)
