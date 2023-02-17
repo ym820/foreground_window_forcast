@@ -7,7 +7,7 @@ import csv
 from sqlite3 import Error
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder, MinMaxScaler
 
-def get_input_output_folder(dafault_path = True):
+def get_input_output_folder(default_path = True):
     if default_path:
         os.chdir("../../../data/raw/outputs/")
         input_folder = os.fspath(os.getcwd())
