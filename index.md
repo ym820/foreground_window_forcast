@@ -47,6 +47,37 @@ Human speech/text is encoded into the computer in many ways just like how there 
 
 
 # Results
+| MEASUREMENT_TIME        | ID_INPUT | VALUE                                     | PRIVATE_DATA |
+|-------------------------|----------|-------------------------------------------|-------------|
+| 2022-11-03 23:52:49.941 |    2     | C:\_xlsdk\run\windows\Release\64\esrv.exe |      0            |
+
+
+| MEASUREMENT_TIME        | ID_INPUT | VALUE               | PRIVATE_DATA |
+|-------------------------|----------|---------------------|--------------|
+| 2022-11-03 23:52:49.941 |    2     | esrv.exe            |      0       |
+| 2022-11-03 23:52:49.941 |    3     | VsDebugConsole.exe  |      0       |
+| 2022-11-03 23:52:51.912 |    2     | Missing String.     |      0       |
+| 2022-11-03 23:52:51.912 |    3     | explorer.exe        |      0       |
+| 2022-11-03 23:52:53.153 |    2     | Search              |      0       |
+
+Example of our raw data
+| MEASUREMENT_TIME        | ID_INPUT | VALUE               | PRIVATE_DATA |
+|-------------------------|----------|---------------------|--------------|
+| 2023-02-22 15:16:11.231 |    3     | Discord.exe         |      0       |
+| 2023-02-22 15:16:22.683 |    3     | explorer.exe        |      0       |
+| 2023-02-22 15:16:31.341 |    3     | firefox.exe         |      0       |
+| 2023-02-22 15:17:01.379 |    3     | Teams.exe           |      0       |
+| 2023-02-22 15:17:03.605 |    3     | firefox.exe         |      0       |
+| 2023-02-22 15:17:34.905 |    3     | explorer.exe        |      0       |
+| 2023-02-22 15:17:37.986 |    3     | Code.exe	0          |      0       |
+| 2023-02-22 15:17:56.994 |    3     | firefox.exe         |      0       |
+| 2023-02-22 15:17:58.600 |    3     | Code.exe            |      0       |
+| 2023-02-22 15:18:01.654 |    3     | firefox.exe         |      0       |
+| 2023-02-22 15:18:16.922 |    3     | CodeSetup.tmp       |      0       |
+| 2023-02-22 15:18:20.113 |    3     | firefox.exe         |      0       |
+| 2023-02-22 15:22:00.113 |    3     | explorer.exe        |      0       |
+| 2023-02-22 15:22:03.071 |    3     | Code.exe            |      0       |
+| 2023-02-22 15:24:27.911 |    3     | firefox.exe         |      0       |
 
 # Pitfall and Shortcoming
 
