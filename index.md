@@ -1,0 +1,2 @@
+# Foreground Window Forecast
+## Placeholder
