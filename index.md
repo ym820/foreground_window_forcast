@@ -1,2 +1,5 @@
 # Foreground Window Forecast
-## Placeholder
+## Introduction
+### Tester
+## Methodology
+## Result
