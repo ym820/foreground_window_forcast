@@ -35,6 +35,7 @@ Although the official documention on the API is very good, the lack of examples 
 <br>
 
 Human speech/text is encoded into the computer in many ways just like how there are 7139 officially known languages in the world. There are many standards in the world like the imperial measuring system (feet, pounds, miles, etc), widely used by the United States and the metric system, which is commonly used in the rest of the world. ANSI is a US standard on how to store texts inside of our computers developed by the American National Standards Institute (ANSI) and this standards only encompasses the English language. This is a problem because not everyone communicates in English, so a new standard called Unicode is adopted. Unicode is a world standard for storing texts and emoji that is compatible with all officially known languages.
+
 </details>
 3. Obstacle 3: Memory Allocation
 
@@ -83,6 +84,7 @@ Human speech/text is encoded into the computer in many ways just like how there 
 | 2023-02-22 15:22:00.113 |    3     | explorer.exe        |      0       |
 | 2023-02-22 15:22:03.071 |    3     | Code.exe            |      0       |
 | 2023-02-22 15:24:27.911 |    3     | firefox.exe         |      0       |
+
 </details>
 
 # Pitfall and Shortcoming
