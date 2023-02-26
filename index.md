@@ -3,8 +3,6 @@ layout: page
 title: "Foreground Window Forecast"
 permalink: /
 ---
-
-A Capstone project in partnership with the Intel DCA & Telemetry Team <br>
 By Alan Zhang, Mandy Lee, Mike Mao
 
 ---
