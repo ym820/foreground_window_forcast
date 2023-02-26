@@ -30,7 +30,7 @@ As Data Science students that are only familiar with Java and Python, we had to 
 
 Although the official documention on the API is very good, the lack of examples makes it confusing to use. When we tried to get the title of the foreground window the user is currently on, we located two functions: GetWindowTextA, GetWindowTextW. Since GetWindowTextA is the first result on Google, I used that function until I discovered that it is not capturing the text of a window that has Chinese characters. Upon further investigation, we discovered that the A stands for ANSI and returns an ANSI string and W stands for wide-character which returns a unicode string. It would not be easy to spot such a mistake at first glance because the API description for these two functions are almost identifical. The only difference being that the output variable is named LPWSTR for the GetWindowTextW function and LPSTR for the GetWindowTextA function.
 
-<details open>
+<details>
 <summary>More information about ANSI and Unicode</summary>
 <br>
 
@@ -47,6 +47,7 @@ Human speech/text is encoded into the computer in many ways just like how there 
 
 
 # Results
+
 | MEASUREMENT_TIME        | ID_INPUT | VALUE                                     | PRIVATE_DATA |
 |-------------------------|----------|-------------------------------------------|-------------|
 | 2022-11-03 23:52:49.941 |    2     | C:\_xlsdk\run\windows\Release\64\esrv.exe |      0            |
@@ -60,7 +61,11 @@ Human speech/text is encoded into the computer in many ways just like how there 
 | 2022-11-03 23:52:51.912 |    3     | explorer.exe        |      0       |
 | 2022-11-03 23:52:53.153 |    2     | Search              |      0       |
 
-Example of our raw data
+
+<details>
+<summary>Example of our raw data</summary>
+<br>
+
 | MEASUREMENT_TIME        | ID_INPUT | VALUE               | PRIVATE_DATA |
 |-------------------------|----------|---------------------|--------------|
 | 2023-02-22 15:16:11.231 |    3     | Discord.exe         |      0       |
@@ -78,6 +83,7 @@ Example of our raw data
 | 2023-02-22 15:22:00.113 |    3     | explorer.exe        |      0       |
 | 2023-02-22 15:22:03.071 |    3     | Code.exe            |      0       |
 | 2023-02-22 15:24:27.911 |    3     | firefox.exe         |      0       |
+</details>
 
 # Pitfall and Shortcoming
 
