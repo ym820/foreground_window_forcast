@@ -1,3 +1,7 @@
+locale: "en-us"
+title: "Foreground Window Forecast"
+description: "A capstone project in partnership with the Intel DCA & Telemetry team"
+layout: "page"
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
