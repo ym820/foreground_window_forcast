@@ -4,8 +4,7 @@ title: "Foreground Window Forecast"
 permalink: /
 ---
 
-# Foreground Window Forecast
-A Capstone project in partnership with the Intel DCA & Telemetry Team
+A Capstone project in partnership with the Intel DCA & Telemetry Team <br>
 By Alan Zhang, Mandy Lee, Mike Mao
 
 # Introduction
@@ -19,12 +18,9 @@ Long app launch time could be attributed to a variety of factors such as the per
 ## Model Building
 - Hidden Markov Model (HMM)
 - Long Short-Term Memory (LSTM)
----
-# Results and Impact
 
-    Metrics and statistics on the performance and usage of the project
-    Testimonials from users or stakeholders
-    Any awards or recognition received
+---
+# Results
 ---
 # Pitfall and Shortcoming
 ---
