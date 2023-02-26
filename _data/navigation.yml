@@ -1,6 +1,6 @@
--title: Home
-url: https://mikem820.github.io/foreground_window_forcast/
--title: About Us
-url: /about-us/
--title: Contact Us
-url: /contact/
+- title: Home
+  url: https://mikem820.github.io/foreground_window_forcast/
+# -title: About Us
+# url: /about-us/
+# -title: Contact Us
+# url: /contact/
