@@ -80,7 +80,7 @@ Human speech/text is encoded into the computer in many ways just like how there 
 
 
 ## Model Building
-- Hidden Markov Model (HMM)
+### Hidden Markov Model (HMM)
 
 Hidden Markov Model is commonly used to model sequential data, which makes this a particularly good choice to predict the next application that the user will open. To understand HMM, we must understand Bayes' Rule.
 
@@ -88,7 +88,7 @@ Hidden Markov Model is commonly used to model sequential data, which makes this 
 
 In plain English, this means that the probability of event A occuring given that event B occured is the probability of event A and B occuring together divided by the probability of event B happening. In our case, we simply need to count the number of times an application, such as Zoom, is used after the user was using Google Chrome. You can see a list of application used following the use of our commonly used application.
 
-<img src="assets\frequent_app_prob.png" class="center" width="100%" alt="A heatmap of the conditional probabilities" />
+<img src="assets\frequent_app_prob.png" class="center" width=1000 alt="A heatmap of the conditional probabilities" />
 
 To evaluate our Hidden Markov Model, we measured the accuracy based on whether the predicted application falls within the top N probability given an application. We selected this metric to give the model an acceptable margin of error within its predictions.
 
@@ -100,12 +100,13 @@ To evaluate our Hidden Markov Model, we measured the accuracy based on whether t
 
 If we want to model a user's day on the computer, we can simply add an emission matrix so that whenever the model is making a prediction about the next used application, it will decide whether the current application is likely to the last application of the session or it will be followed by another application.
 
-- Long Short-Term Memory (LSTM)
-<img src="assets\image002.png" class="center" width=750 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
+### Long Short-Term Memory (LSTM)
+<img src="assets\image002.png" class="center" width=1000 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
 To forecast hourly application usage, we narrowed our focus to the web browser Firefox and built an initial LSTM model. We selected Firefox because users typically spend a significant portion of their computer time browsing the web, whether for reading news, watching videos, or communicating with colleagues. By training our model to recognize usage patterns for one web browser, we can scale it to learn patterns across different applications. 
 
 We have decided to use Tensorflow's Keras package, a high-level neural network API for Python, to implement LSTMs as a layer in a neural network. In an LSTM network, the hidden state is updated at each time step by combining the values of the input, forget, and output gates, and the memory cells are updated accordingly. This process allows the LSTM to selectively store or forget information over a long period of time, making it well-suited for tasks such as speech recognition, natural language processing, and time-series prediction. Just like figue below, data such as process names and dates are imported and multiple hidden layers are updated to output the next name/duration of the processes. 
-</details>
+
+<img src="assets\many_to_one.jpg" class="center" width=800 alt="LSTM" />
 
 # Pitfall and Shortcoming
 
