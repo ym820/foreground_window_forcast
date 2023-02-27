@@ -6,6 +6,7 @@ permalink: /
 By Alan Zhang, Mandy Lee, Mike Mao
 
 <link rel="stylesheet" href="style.css">
+
 <iframe src="assets\experiment5.html" width=100% frameBorder=0></iframe>
 
 ---
@@ -42,9 +43,7 @@ Note: The before over-sampled the esrv.exe
 |  C:\_xlsdk\run\windows\Release\64\esrv.exe |  Running Applications   |
 
 ### Results
-
-<details close>
-<summary>You can find a snippet of our raw data here</summary>
+Here is a snippet of our raw data
 
 | MEASUREMENT_TIME        | ID_INPUT | VALUE               | PRIVATE_DATA |
 |-------------------------|----------|---------------------|--------------|
@@ -64,8 +63,6 @@ Note: The before over-sampled the esrv.exe
 | 2023-02-22 15:22:03.071 |    3     | Code.exe            |      0       |
 | 2023-02-22 15:24:27.911 |    3     | firefox.exe         |      0       |
 
-</details>
-<br>
 <details close>
 <summary> If you want to learn about the obstacles we faced, click here: </summary>
 
