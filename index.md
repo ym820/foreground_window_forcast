@@ -124,9 +124,13 @@ Input Data:
 - Is_Winter_Holiday: A binary number. 1 represents a winter holiday and -1 for every other date.
 - scaled current hour's duration
 
-Explanation of our Input Selection: Hour, minute, and date are selected because we want to study usage pattern at an hourly level and the time the application is opened can be used to find patterns in how long it was open for given the similiar conditions. Month is used to distinguish between the holiday season and school season since the data collection process started in mid-December and ended in February. Insufficient data is gather for the model to learn trends for every individual month. Day of the week, is_weekend, and is_winter_holiday are all features engineered from exisiting data. These variables separate the data into categories so that the computer can distinguish usage pattern for a productive day from an entertainment day. 
+Explanation of our Input Selection: 
 
-Performance Metric: Accuracy and the Mean Squared Error Loss. Accuracy is tuned with a margin of error in mind and the acceptable error range between 5 seconds to 60 seconds. This is to give the model a bit of leeway for when it predicts the amplitude correct but is off by a few seconds to a minute. This allows the model to adjust the prediction time without making much modification to the amplitude. MSE is chosen because the function is differentiable and easier for the model to find the optimal hyperparameters to converge. 
+Hour, minute, and date are selected because we want to study usage pattern at an hourly level and the time the application is opened can be used to find patterns in how long it was open for given the similiar conditions. Month is used to distinguish between the holiday season and school season since the data collection process started in mid-December and ended in February. Insufficient data is gather for the model to learn trends for every individual month. Day of the week, is_weekend, and is_winter_holiday are all features engineered from exisiting data. These variables separate the data into categories so that the computer can distinguish usage pattern for a productive day from an entertainment day. 
+
+Performance Metric: 
+
+Accuracy and the Mean Squared Error Loss. Accuracy is tuned with a margin of error in mind and the acceptable error range between 5 seconds to 60 seconds. This is to give the model a bit of leeway for when it predicts the amplitude correct but is off by a few seconds to a minute. This allows the model to adjust the prediction time without making much modification to the amplitude. MSE is chosen because the function is differentiable and easier for the model to find the optimal hyperparameters to converge. 
 
 <iframe src="assets\experiment5.html" width=1000 height=600 frameBorder=0></iframe>
 
