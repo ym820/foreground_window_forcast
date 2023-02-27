@@ -80,6 +80,12 @@ Human speech/text is encoded into the computer in many ways just like how there 
 
 
 ## Model Building
+
+<b>Task 1. Next-App Prediction: Hidden Markov Model<b>
+In task one, our goal is to predict the next application the user will use based on the previous usage data.
+<b>Task 2. App Duration Prediction: Long Short- Term Memory<b>
+We focused on using Firefox as the primary application for predicting the duration of usage during a specific hour.
+  
 ### Hidden Markov Model (HMM)
 
 Hidden Markov Model is commonly used to model sequential data, which makes this a particularly good choice to predict the next application that the user will open. To understand HMM, we must understand Bayes' Rule.
@@ -107,6 +113,8 @@ To forecast hourly application usage, we narrowed our focus to the web browser F
 We have decided to use Tensorflow's Keras package, a high-level neural network API for Python, to implement LSTMs as a layer in a neural network. In an LSTM network, the hidden state is updated at each time step by combining the values of the input, forget, and output gates, and the memory cells are updated accordingly. This process allows the LSTM to selectively store or forget information over a long period of time, making it well-suited for tasks such as speech recognition, natural language processing, and time-series prediction. Just like figue below, data such as process names and dates are imported and multiple hidden layers are updated to output the next name/duration of the processes. 
 
 <img src="assets\many_to_one.jpg" class="center" width=800 alt="LSTM" />
+
+
 
 # Pitfall and Shortcoming
 
