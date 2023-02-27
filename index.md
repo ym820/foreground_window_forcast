@@ -5,11 +5,9 @@ permalink: /
 ---
 By Alan Zhang, Mandy Lee, Mike Mao
 
-<link rel="stylesheet" href="style.css">
-
-
 <iframe src="assets\experiment5.html" width=100% frameBorder=0></iframe>
 
+<link rel="stylesheet" href="style.css">
 ---
 * TOC
 {:toc}
@@ -79,29 +77,21 @@ Human speech/text is encoded into the computer in many ways just like how there 
 3. Memory Allocation
 
 </details>
+
 <break>
+
 
 ## Model Building
 - Hidden Markov Model (HMM)
 - Long Short-Term Memory (LSTM)
 <img src="assets\image002.png" class="center" alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
 
-
-# Results
-
-| MEASUREMENT_TIME        | ID_INPUT | VALUE               | PRIVATE_DATA |
-|-------------------------|----------|---------------------|--------------|
-| 2022-11-03 23:52:49.941 |    2     | esrv.exe            |      0       |
-| 2022-11-03 23:52:49.941 |    3     | VsDebugConsole.exe  |      0       |
-| 2022-11-03 23:52:51.912 |    2     | Missing String.     |      0       |
-| 2022-11-03 23:52:51.912 |    3     | explorer.exe        |      0       |
-| 2022-11-03 23:52:53.153 |    2     | Search              |      0       |
-
 # Pitfall and Shortcoming
 
 # Conclusion
 
 # Mentors
+
 We want to give a shoutout to all of the mentors at the Intel DCA & Telemetry team for providing guidance throughout this whole project. Big thanks to Jamel for being such a passionate mentor and teaching us how to be a better, well rounded engineer on top of being a data scientist. Bijan for faciliitating the environment for learning and encourages us to push out of our comfort zones. Sruti for teaching us how to create our own HMM model. Oumaima for giving us endless suggestions on how to improve our model by playing around with our inputs. Praveen for teaching us how to automate our collection process. Teresa for being a great TA and making sure that we receive the feedback from the mentors in a timely manner.
 
 - Bijan Arbab
