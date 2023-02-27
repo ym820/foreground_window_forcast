@@ -88,7 +88,7 @@ Hidden Markov Model is commonly used to model sequential data, which makes this 
 
 In plain English, this means that the probability of event A occuring given that event B occured is the probability of event A and B occuring together divided by the probability of event B happening. In our case, we simply need to count the number of times an application, such as Zoom, is used after the user was using Google Chrome. You can see a list of application used following the use of our commonly used application.
 
-<img src="assets\frequent_app_prob.png" class="center" width=100% alt="A heatmap of the conditional probabilities" />
+<img src="assets\frequent_app_prob.png" class="center" width="100%" alt="A heatmap of the conditional probabilities" />
 
 To evaluate our Hidden Markov Model, we measured the accuracy based on whether the predicted application falls within the top N probability given an application. We selected this metric to give the model an acceptable margin of error within its predictions.
 
