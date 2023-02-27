@@ -29,14 +29,23 @@ As our program may encounter errors during deployment, we implemented defensive 
 2. Privacy Compliance
 To obtain the name of the foreground window application, we must locate the application's file path, which may contain Personal Identifiable Information (PII) such as a person's full legal name. Therefore, we removed any PII from the file path before storing the collected information. For example, users may name their system after their legal name, so we must avoid including the full file path.
 
-| MEASUREMENT_TIME        | ID_INPUT | VALUE                                     | PRIVATE_DATA |
-|-------------------------|----------|-------------------------------------------|-------------|
-| 2022-11-03 23:52:49.941 |    2     | C:\_xlsdk\run\windows\Release\64\esrv.exe |      0            |
+Here is an example of the data before we preprocessed it for storage and after.
+
+Note: The before over-sampled the esrv.exe 
+
+|                    Before                  |           After         |
+|--------------------------------------------|-------------------------|
+|  C:\_xlsdk\run\windows\Release\64\esrv.exe |  esrv.exe               |
+|  C:\_xlsdk\run\windows\Release\64\esrv.exe |  Missing String.        |
+|  C:\_xlsdk\run\windows\Release\64\esrv.exe |  Search                 |
+|  C:\_xlsdk\run\windows\Release\64\esrv.exe |  Calculator             |
+|  C:\_xlsdk\run\windows\Release\64\esrv.exe |  Running Applications   |
 
 ### Results
 
 <details close>
-<summary>You can find a snippet of our raw data here:</summary>
+<summary>You can find a snippet of our raw data here</summary>
+
 | MEASUREMENT_TIME        | ID_INPUT | VALUE               | PRIVATE_DATA |
 |-------------------------|----------|---------------------|--------------|
 | 2023-02-22 15:16:11.231 |    3     | Discord.exe         |      0       |
@@ -54,6 +63,7 @@ To obtain the name of the foreground window application, we must locate the appl
 | 2023-02-22 15:22:00.113 |    3     | explorer.exe        |      0       |
 | 2023-02-22 15:22:03.071 |    3     | Code.exe            |      0       |
 | 2023-02-22 15:24:27.911 |    3     | firefox.exe         |      0       |
+
 </details>
 <br>
 <details close>
