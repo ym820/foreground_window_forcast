@@ -129,6 +129,7 @@ Explanation of our Input Selection: Hour, minute, and date are selected because 
 Performance Metric: Accuracy and the Mean Squared Error Loss. Accuracy is tuned with a margin of error in mind and the acceptable error range between 5 seconds to 60 seconds. This is to give the model a bit of leeway for when it predicts the amplitude correct but is off by a few seconds to a minute. This allows the model to adjust the prediction time without making much modification to the amplitude. MSE is chosen because the function is differentiable and easier for the model to find the optimal hyperparameters to converge. 
 
 Results:
+
 | Metric              | Train Result | Test Result |
 |---------------------|--------------|-------------|
 | MSE Loss            | 0.0038       | 0.1384      |
