@@ -5,7 +5,7 @@ permalink: /
 ---
 By Alan Zhang, Mandy Lee, Mike Mao
 <link rel="stylesheet" href="style.css">
-<iframe src="assets\experiment5.html" height=800 width=600 frameBorder=0></iframe>
+<iframe src="assets\experiment5.html" width=800 height=600 frameBorder=0></iframe>
 ---
 * TOC
 {:toc}
@@ -13,7 +13,7 @@ By Alan Zhang, Mandy Lee, Mike Mao
 ---
 
 # Introduction
-<img src="assets\avg_launch_time.png" width=700 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
+<img src="assets\avg_launch_time.png" width=700 class="center" alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
 
 Long app launch times can be frustrating and hamper productivity, even on new computers. Chrome, for example. takes an average of 11.1 seconds to launch on a 0-1 year old device. To address this issue, our proposed solution is to pre-emptively launch applications based on user behavior/usage patterns. Our approach involves using machine learning models, such as Hidden Markov Model and Long Short-Term Memory, to predict which applications should be launched and when, based on system usage reports generated from users.
 
@@ -82,15 +82,25 @@ Human speech/text is encoded into the computer in many ways just like how there 
 ## Model Building
 - Hidden Markov Model (HMM)
 
-Hidden Markov Model is commonly used to model sequential data. 
+Hidden Markov Model is commonly used to model sequential data, which makes this a particularly good choice to predict the next application that the user will open. To understand HMM, we must understand Bayes' Rule.
 
+<img src="assets\BayesRule.png" class="center" alt="Bayes' Rule." />
+
+In plain English, this means that the probability of event A occuring given that event B occured is the probability of event A and B occuring together divided by the probability of event B happening. In our case, we simply need to count the number of times an application, such as Zoom, is used after the user was using Google Chrome. You can see a list of application used following the use of our commonly used application.
+
+<img src="assets\frequent_app_prob.png" class="center" alt="A heatmap of the conditional probabilities" />
+
+To model a user's day on the computer, we can simply add an emission matrix so that whenever the model is making a prediction about the next used application, it will decide whether the current application is likely to the last application of the session or it will be followed by another application.
 
 - Long Short-Term Memory (LSTM)
 <img src="assets\image002.png" class="center" width=700 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
-To predict the application usage by the hour, we narrowed our scope to focus on one application, Firefox. The reason we chose Firefox to build our initial LSTM model is because users spend most of their computer time on the web, whether that be browsing the news, watching videos, or communicating with colleagues. If we can train our model to pick up the usage trend of one web browser, we can scale it up to learn usage pattern across different applications.
+To forecast hourly application usage, we narrowed our focus to the web browser Firefox and built an initial LSTM model. We selected Firefox because users typically spend a significant portion of their computer time browsing the web, whether for reading news, watching videos, or communicating with colleagues. By training our model to recognize usage patterns for one web browser, we can scale it to learn patterns across different applications. 
 
+We have decided to use Tensorflow's Keras package, a high-level neural network API for Python, to implement LSTMs as a layer in a neural network. In an LSTM network, the hidden state is updated at each time step by combining the values of the input, forget, and output gates, and the memory cells are updated accordingly. This process allows the LSTM to selectively store or forget information over a long period of time, making it well-suited for tasks such as speech recognition, natural language processing, and time-series prediction. Just like figue below, data such as process names and dates are imported and multiple hidden layers are updated to output the next name/duration of the processes. 
+</details>
 
 # Pitfall and Shortcoming
+
 
 # Conclusion
 
@@ -110,4 +120,11 @@ We want to give a shoutout to all of the mentors at the Intel DCA & Telemetry te
 
 # Glossary
 
-Intel X Library Software Development Kit (XLSDK) is a proprietary development kit that is used to capture system usage report on the Windows Operating System. It is written in the programming language C and utilizes the Windows 32 Application Programming Interface (API) to communicate with the system kernel.
+Intel XLSDK
+: Intel X Library Software Development Kit (XLSDK) is a proprietary development kit that is used to capture system usage report on the Windows Operating System. It is written in the programming language C and utilizes the Windows 32 Application Programming Interface (API) to communicate with the system kernel.
+
+Long Short-Term Memory / LSTM
+: Long Short-Term Memory, commonly known as LSTM is a type of Recurrent Neural Network (RNN) architecture that is commonly used in machine learning for processing sequential data, such as speech, text, and time-series data.
+
+Application Programming Interface (API)
+: Application Programming Interface is a way to abstract away the implementation details of a program and allow users or programs to interact with each other in a high level. For example, you can think of an ATM as an API. You tell the ATM that you want to withdraw cash from your account, and the ATM will take care of the details behind such instruction. API is used by programmers to communicate with programs written by another developer.
