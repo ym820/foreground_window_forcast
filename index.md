@@ -4,10 +4,8 @@ title: "Foreground Window Forecast"
 permalink: /
 ---
 By Alan Zhang, Mandy Lee, Mike Mao
-
-<iframe src="assets\experiment5.html" width=100% frameBorder=0></iframe>
-
 <link rel="stylesheet" href="style.css">
+<iframe src="assets\experiment5.html" frameBorder=0></iframe>
 ---
 * TOC
 {:toc}
@@ -17,7 +15,7 @@ By Alan Zhang, Mandy Lee, Mike Mao
 # Introduction
 <img src="assets\avg_launch_time.png" class="center" height=800 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
 
-Long app launch times can be frustrating and hamper productivity, even on new computers. Chrome, for example. takes an average of 11.1 seconds to launch a 0-1 year old device. To address this issue, our proposed solution is to pre-emptively launch applications based on user behavior/usage patterns. Our approach involves using machine learning models, such as Hidden Markov Model and Long Short-Term Memory, to predict which applications should be launched and when, based on system usage reports generated from users.
+Long app launch times can be frustrating and hamper productivity, even on new computers. Chrome, for example. takes an average of 11.1 seconds to launch on a 0-1 year old device. To address this issue, our proposed solution is to pre-emptively launch applications based on user behavior/usage patterns. Our approach involves using machine learning models, such as Hidden Markov Model and Long Short-Term Memory, to predict which applications should be launched and when, based on system usage reports generated from users.
 
 # Methodology
 
