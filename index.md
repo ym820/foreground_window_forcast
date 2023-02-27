@@ -108,10 +108,35 @@ We have decided to use Tensorflow's Keras package, a high-level neural network A
 
 <img src="assets\many_to_one.jpg" class="center" width=800 alt="LSTM" />
 
+Input Data:
+- Hour - Time of day in 24 hour format
+- Month - Month in a year represented in numeric form 1-12
+- Minute - Minutes
+- Date - Day of the month
+- Weekday - Day of the Week (e.g. Monday, Tuesday) in One-Hot Encoded format
+- Is_Weekend - A binary number. 1 represents a weekend and -1 a week day
+- Is_Winter_Holiday: A binary number. 1 represents a winter holiday and -1 for every other date.
+- scaled current hour's duration
+
+Explanation of our Input Selection: Hour, minute, and date are selected because we want to study usage pattern at an hourly level and the time the application is opened can be used to find patterns in how long it was open for given the similiar conditions. Month is used to distinguish between the holiday season and school season since the data collection process started in mid-December and ended in February. Insufficient data is gather for the model to learn trends for every individual month. Day of the week, is_weekend, and is_winter_holiday are all features engineered from exisiting data. These variables separate the data into categories so that the computer can distinguish usage pattern for a productive day from an entertainment day. 
+
+Performance Metric: Accuracy and the Mean Squared Error Loss. Accuracy is tuned with a margin of error in mind and the acceptable error range between 5 seconds to 60 seconds. This is to give the model a bit of leeway for when it predicts the amplitude correct but is off by a few seconds to a minute. This allows the model to adjust the prediction time without making much modification to the amplitude. MSE is chosen because the function is differentiable and easier for the model to find the optimal hyperparameters to converge. 
+
+Results:
+| Metric              | Train Result | Test Result |
+|---------------------|--------------|-------------|
+| MSE Loss            | 0.0038       | 0.1384      |
+| Accuracy within 5s  | 84%          | 79%         |
+| Accuracy within 10s | 85%          | 80%         |
+| Accuracy within 10s | 86%          | 82%         |
+
 # Pitfall and Shortcoming
 
+We hypothesize that the high accuracy yieled in our Test result was the result of getting predictions of 0s correctly. That means it is getting a high accuracy without actually learning the ampltidue of the usage time. This means that it is slightly overfitting to our training data and does not do well with unseen data. To mitigate this issue, we can change our metric to give more penalty to guessing the amplitude wrong and less rewards for guessing the zeors correctly. This should counteract the imbalance in active usage class from the inactive use and instruct the model to focus on learning where the amplitude occurs more.
 
 # Conclusion
+
+The models we have built here establishes the fundamental building block for predicting the app launch time. With the Hidden Markov Model, we are able to model a sequence of application expected to be used during a session and we can fine tune the model further using LSTM to pick up patterns and trends based on the time of day the computer starts up. In the sequence of application generated, we can use our LSTM model to draw up each application's expected usage time and identify applications that satisfy the requirements for a predictive launch. If more time and resources are dedicated to this matter in the future, we can measure whether our predictive launches are useful or not and fine-tune the model. We can collect this additional data by going back to our collector and change our user_wait input library to be activated whenever the user clicks on another application and the mouse icon changes to waiting.  
 
 # Mentors
 
