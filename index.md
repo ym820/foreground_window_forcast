@@ -13,7 +13,7 @@ By Alan Zhang, Mandy Lee, Mike Mao
 ---
 
 # Introduction
-<img src="assets\avg_launch_time.png" class="center" height=800 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
+<img src="assets\avg_launch_time.png" class="center" width=700 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
 
 Long app launch times can be frustrating and hamper productivity, even on new computers. Chrome, for example. takes an average of 11.1 seconds to launch on a 0-1 year old device. To address this issue, our proposed solution is to pre-emptively launch applications based on user behavior/usage patterns. Our approach involves using machine learning models, such as Hidden Markov Model and Long Short-Term Memory, to predict which applications should be launched and when, based on system usage reports generated from users.
 
@@ -22,9 +22,11 @@ Long app launch times can be frustrating and hamper productivity, even on new co
 ## Data Collection Using Intel XLSDK
 We utilized Intel's X Library Software Development Kit to create a system usage data collector on our Windows 10 machine. The collector is launched automatically upon signing into the system and begins tracking all of the foreground applications. To ensure its reliability during real-world usage, we adhered to the following principles:
 1. Robustness and Resilience
+
 As our program may encounter errors during deployment, we implemented defensive coding practices to ensure that the collector can continue to run without requiring human intervention to restart the program. We verified the data type and range of variables before feeding them into a function and, if an error occurred, we logged the error type, the file that generated the error, the line number within the file, and the timestamp. This helped us identify faulty code when reviewing error logs. Along with rigorous testing, we were able to keep our collector running error-free for eight weeks.
 
 2. Privacy Compliance
+
 To obtain the name of the foreground window application, we must locate the application's file path, which may contain Personal Identifiable Information (PII) such as a person's full legal name. Therefore, we removed any PII from the file path before storing the collected information. For example, users may name their system after their legal name, so we must avoid including the full file path.
 
 ### Results
@@ -76,13 +78,17 @@ Human speech/text is encoded into the computer in many ways just like how there 
 
 </details>
 
-<break>
-
 
 ## Model Building
 - Hidden Markov Model (HMM)
+
+Hidden Markov Model is commonly used to model sequential data. 
+
+
 - Long Short-Term Memory (LSTM)
-<img src="assets\image002.png" class="center" alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
+<img src="assets\image002.png" class="center" width=700 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
+To predict the application usage by the hour, we narrowed our scope to focus on one application, Firefox. The reason we chose Firefox to build our initial LSTM model is because users spend most of their computer time on the web, whether that be browsing the news, watching videos, or communicating with colleagues. If we can train our model to pick up the usage trend of one web browser, we can scale it up to learn usage pattern across different applications.
+
 
 # Pitfall and Shortcoming
 
