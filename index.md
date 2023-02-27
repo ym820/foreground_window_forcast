@@ -80,6 +80,12 @@ Human speech/text is encoded into the computer in many ways just like how there 
 
 
 ## Model Building
+
+Task 1. Next-App Prediction: Hidden Markov Model<br> 
+In task one, our goal is to predict the next application the user will use based on the previous usage data.<br> 
+Task 2. App Duration Prediction: Long Short- Term Memory<br> 
+We focused on using Firefox as the primary application for predicting the duration of usage during a specific hour.<br> 
+  
 ### Hidden Markov Model (HMM)
 
 Hidden Markov Model is commonly used to model sequential data, which makes this a particularly good choice to predict the next application that the user will open. To understand HMM, we must understand Bayes' Rule.
