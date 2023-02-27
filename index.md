@@ -81,10 +81,10 @@ Human speech/text is encoded into the computer in many ways just like how there 
 
 ## Model Building
 
-<b>Task 1. Next-App Prediction: Hidden Markov Model<b>
-In task one, our goal is to predict the next application the user will use based on the previous usage data.
-<b>Task 2. App Duration Prediction: Long Short- Term Memory<b>
-We focused on using Firefox as the primary application for predicting the duration of usage during a specific hour.
+Task 1. Next-App Prediction: Hidden Markov Model<br> 
+In task one, our goal is to predict the next application the user will use based on the previous usage data.<br> 
+Task 2. App Duration Prediction: Long Short- Term Memory<br> 
+We focused on using Firefox as the primary application for predicting the duration of usage during a specific hour.<br> 
   
 ### Hidden Markov Model (HMM)
 
