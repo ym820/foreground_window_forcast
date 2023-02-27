@@ -7,6 +7,7 @@ By Alan Zhang, Mandy Lee, Mike Mao
 
 <link rel="stylesheet" href="style.css">
 
+
 <iframe src="assets\experiment5.html" width=100% frameBorder=0></iframe>
 
 ---
@@ -16,7 +17,7 @@ By Alan Zhang, Mandy Lee, Mike Mao
 ---
 
 # Introduction
-<img src="assets\avg_launch_time.png" class="center" height=600 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
+<img src="assets\avg_launch_time.png" class="center" height=800 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
 
 Long app launch times can be frustrating and hamper productivity, even on new computers. Chrome, for example. takes an average of 11.1 seconds to launch a 0-1 year old device. To address this issue, our proposed solution is to pre-emptively launch applications based on user behavior/usage patterns. Our approach involves using machine learning models, such as Hidden Markov Model and Long Short-Term Memory, to predict which applications should be launched and when, based on system usage reports generated from users.
 
@@ -30,18 +31,6 @@ As our program may encounter errors during deployment, we implemented defensive 
 2. Privacy Compliance
 To obtain the name of the foreground window application, we must locate the application's file path, which may contain Personal Identifiable Information (PII) such as a person's full legal name. Therefore, we removed any PII from the file path before storing the collected information. For example, users may name their system after their legal name, so we must avoid including the full file path.
 
-Here is an example of the data before we preprocessed it for storage and after.
-
-Note: The before over-sampled the esrv.exe 
-
-|                    Before                  |           After         |
-|--------------------------------------------|-------------------------|
-|  C:\_xlsdk\run\windows\Release\64\esrv.exe |  esrv.exe               |
-|  C:\_xlsdk\run\windows\Release\64\esrv.exe |  Missing String.        |
-|  C:\_xlsdk\run\windows\Release\64\esrv.exe |  Search                 |
-|  C:\_xlsdk\run\windows\Release\64\esrv.exe |  Calculator             |
-|  C:\_xlsdk\run\windows\Release\64\esrv.exe |  Running Applications   |
-
 ### Results
 Here is a snippet of our raw data
 
@@ -53,7 +42,7 @@ Here is a snippet of our raw data
 | 2023-02-22 15:17:01.379 |    3     | Teams.exe           |      0       |
 | 2023-02-22 15:17:03.605 |    3     | firefox.exe         |      0       |
 | 2023-02-22 15:17:34.905 |    3     | explorer.exe        |      0       |
-| 2023-02-22 15:17:37.986 |    3     | Code.exe	0          |      0       |
+| 2023-02-22 15:17:37.986 |    3     | Code.exe            |      0       |
 | 2023-02-22 15:17:56.994 |    3     | firefox.exe         |      0       |
 | 2023-02-22 15:17:58.600 |    3     | Code.exe            |      0       |
 | 2023-02-22 15:18:01.654 |    3     | firefox.exe         |      0       |
@@ -66,13 +55,18 @@ Here is a snippet of our raw data
 <details close>
 <summary> If you want to learn about the obstacles we faced, click here: </summary>
 
+
 1. Unfamiliar Environment
+
 
 As Data Science students that are only familiar with Java and Python, we had to quickly pick up the programming language C and adapt to the new coding environment. The first obstacle we faced was with the lack of instantanous feedback on our code. In Python Jupyter Notebooks, it is very easy to run a block of code and print out results to diagnose the issue. In Visual Studio, however, we have to trust our gut that the entire code block works and identify the problem through the debugging mode.
 
+
 2. Win32 API
 
+
 Although the official documention on the API is very good, the lack of examples makes it confusing to use. When we tried to get the title of the foreground window the user is currently on, we located two functions: GetWindowTextA, GetWindowTextW. Since GetWindowTextA is the first result on Google, I used that function until I discovered that it is not capturing the text of a window that has Chinese characters. Upon further investigation, we discovered that the A stands for ANSI and returns an ANSI string and W stands for wide-character which returns a unicode string. It would not be easy to spot such a mistake at first glance because the API description for these two functions are almost identifical. The only difference being that the output variable is named LPWSTR for the GetWindowTextW function and LPSTR for the GetWindowTextA function.
+
 
 <details>
 <summary>More information about ANSI and Unicode</summary>
@@ -81,8 +75,11 @@ Human speech/text is encoded into the computer in many ways just like how there 
 
 </details>
 
+
 3. Memory Allocation
+
 </details>
+<break>
 
 ## Model Building
 - Hidden Markov Model (HMM)
@@ -104,7 +101,18 @@ Human speech/text is encoded into the computer in many ways just like how there 
 
 # Conclusion
 
-# Contact Information and Mentors
+# Mentors
+We want to give a shoutout to all of the mentors at the Intel DCA & Telemetry team for providing guidance throughout this whole project. Big thanks to Jamel for being such a passionate mentor and teaching us how to be a better, well rounded engineer on top of being a data scientist. Bijan for faciliitating the environment for learning and encourages us to push out of our comfort zones. Sruti for teaching us how to create our own HMM model. Oumaima for giving us endless suggestions on how to improve our model by playing around with our inputs. Praveen for teaching us how to automate our collection process. Teresa for being a great TA and making sure that we receive the feedback from the mentors in a timely manner.
+
+- Bijan Arbab
+- Jamel Tayeb
+- Sruti Sahani
+- Oumaima Makhlouk
+- Teresa Rexin
+- Praveen Polasam
+- Chansik Im
+- Sudi Sabet
+- Gandhar Gokhale
 
 # Glossary
 
