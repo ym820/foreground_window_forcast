@@ -7,7 +7,7 @@ permalink: /
 ---
 By Alan Zhang, Mandy Lee, Mike Mao
 
-<iframe src="assets\experiment5.html" width=800 height=500 frameBorder=0 class="center"></iframe>
+<iframe src="assets\experiment5.html" width=800 height=500 frameBorder=0></iframe>
 
 ---
 * TOC
