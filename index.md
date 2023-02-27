@@ -6,7 +6,7 @@ permalink: /
 By Alan Zhang, Mandy Lee, Mike Mao
 
 <link rel="stylesheet" href="style.css">
-<iframe src="assets\experiment5.html" width=800 height=500 frameBorder=0></iframe>
+<iframe src="assets\experiment5.html" width=100% frameBorder=0></iframe>
 
 ---
 * TOC
@@ -15,19 +15,19 @@ By Alan Zhang, Mandy Lee, Mike Mao
 ---
 
 # Introduction
-<img src="assets\avg_launch_time.png" class="center" height=400 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
+<img src="assets\avg_launch_time.png" class="center" height=600 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
 
 Long app launch times can be frustrating and hamper productivity, even on new computers. Chrome, for example. takes an average of 11.1 seconds to launch a 0-1 year old device. To address this issue, our proposed solution is to pre-emptively launch applications based on user behavior/usage patterns. Our approach involves using machine learning models, such as Hidden Markov Model and Long Short-Term Memory, to predict which applications should be launched and when, based on system usage reports generated from users.
 
 # Methodology
 
 ## Data Collection Using Intel XLSDK
-We used Intel's X Library Software Development Kit to develop a collector that gathers system usage data from our Windows 10 machine. The collector is automatically launched whenever I sign into my system, meaning that it begins tracking all of the applications that I was using. To make sure that the collector remains online during real world usage, we followed the principles listed below:
-1. The code must be robust and resilient.
-Since our program could encouter any type of error during deployment, we had to make sure that the collector does not require human intervention to restart the program when these errors arise. This means that we need to have implement defensive coding practices. Before feeding any variables into a function, we ensure that the inputs matches the expected input data type and range. If an error does occur, we skip the current collection process and move on to the next while logging the type of error received, the file that genereted the error, line number inside the file, and the timestamp. This is to help us identify faulty code in our application when we review the error logs. Along with robust testing, we were able to keep our collector running throughout 8 weeks data collection process without any errors.
+We utilized Intel's X Library Software Development Kit to create a system usage data collector on our Windows 10 machine. The collector is launched automatically upon signing into the system and begins tracking all of the foreground applications. To ensure its reliability during real-world usage, we adhered to the following principles:
+1. Robustness and Resilience
+As our program may encounter errors during deployment, we implemented defensive coding practices to ensure that the collector can continue to run without requiring human intervention to restart the program. We verified the data type and range of variables before feeding them into a function and, if an error occurred, we logged the error type, the file that generated the error, the line number within the file, and the timestamp. This helped us identify faulty code when reviewing error logs. Along with rigorous testing, we were able to keep our collector running error-free for eight weeks.
 
-2. Information Collected must respect Privacy Laws
-To obtain the foreground window application name, we must locate where the application is located. The filepath of the application may include Personal Identifiable Information (PII) such as a person's full legal name. The example shown below may not include my full name, but users may name their system after their legal name. Thus, it is not advisable to keep the full file path and we must remove the excess information before we make them into storage. 
+2. Privacy Compliance
+To obtain the name of the foreground window application, we must locate the application's file path, which may contain Personal Identifiable Information (PII) such as a person's full legal name. Therefore, we removed any PII from the file path before storing the collected information. For example, users may name their system after their legal name, so we must avoid including the full file path.
 
 | MEASUREMENT_TIME        | ID_INPUT | VALUE                                     | PRIVATE_DATA |
 |-------------------------|----------|-------------------------------------------|-------------|
@@ -37,7 +37,6 @@ To obtain the foreground window application name, we must locate where the appli
 
 <details close>
 <summary>You can find a snippet of our raw data here:</summary>
-
 | MEASUREMENT_TIME        | ID_INPUT | VALUE               | PRIVATE_DATA |
 |-------------------------|----------|---------------------|--------------|
 | 2023-02-22 15:16:11.231 |    3     | Discord.exe         |      0       |
@@ -55,19 +54,16 @@ To obtain the foreground window application name, we must locate where the appli
 | 2023-02-22 15:22:00.113 |    3     | explorer.exe        |      0       |
 | 2023-02-22 15:22:03.071 |    3     | Code.exe            |      0       |
 | 2023-02-22 15:24:27.911 |    3     | firefox.exe         |      0       |
-
 </details>
-
+<br>
 <details close>
 <summary> If you want to learn about the obstacles we faced, click here: </summary>
 
-Intel X Library Software Development Kit (XLSDK) is a proprietary development kit that is used to capture system usage report on the Windows Operating System. It is written in the programming language C and utilizes the Windows 32 Application Programming Interface (API) to communicate with the system kernel.
-
-1. Obstacle 1: Unfamiliar Environment
+1. Unfamiliar Environment
 
 As Data Science students that are only familiar with Java and Python, we had to quickly pick up the programming language C and adapt to the new coding environment. The first obstacle we faced was with the lack of instantanous feedback on our code. In Python Jupyter Notebooks, it is very easy to run a block of code and print out results to diagnose the issue. In Visual Studio, however, we have to trust our gut that the entire code block works and identify the problem through the debugging mode.
 
-2. Obstacle 2: Win32 API
+2. Win32 API
 
 Although the official documention on the API is very good, the lack of examples makes it confusing to use. When we tried to get the title of the foreground window the user is currently on, we located two functions: GetWindowTextA, GetWindowTextW. Since GetWindowTextA is the first result on Google, I used that function until I discovered that it is not capturing the text of a window that has Chinese characters. Upon further investigation, we discovered that the A stands for ANSI and returns an ANSI string and W stands for wide-character which returns a unicode string. It would not be easy to spot such a mistake at first glance because the API description for these two functions are almost identifical. The only difference being that the output variable is named LPWSTR for the GetWindowTextW function and LPSTR for the GetWindowTextA function.
 
@@ -78,7 +74,7 @@ Human speech/text is encoded into the computer in many ways just like how there 
 
 </details>
 
-3. Obstacle 3: Memory Allocation
+3. Memory Allocation
 </details>
 
 ## Model Building
@@ -102,3 +98,7 @@ Human speech/text is encoded into the computer in many ways just like how there 
 # Conclusion
 
 # Contact Information and Mentors
+
+# Glossary
+
+Intel X Library Software Development Kit (XLSDK) is a proprietary development kit that is used to capture system usage report on the Windows Operating System. It is written in the programming language C and utilizes the Windows 32 Application Programming Interface (API) to communicate with the system kernel.
