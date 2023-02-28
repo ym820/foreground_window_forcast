@@ -115,14 +115,16 @@ We have decided to use Tensorflow's Keras package, a high-level neural network A
 <img src="assets\many_to_one.jpg" class="center" width=800 alt="LSTM" />
 
 Input Data:
-- Hour - Time of day in 24 hour format
-- Month - Month in a year represented in numeric form 1-12
-- Minute - Minutes
-- Date - Day of the month
-- Weekday - Day of the Week (e.g. Monday, Tuesday) in One-Hot Encoded format
-- Is_Weekend - A binary number. 1 represents a weekend and -1 a week day
-- Is_Winter_Holiday: A binary number. 1 represents a winter holiday and -1 for every other date.
-- scaled current hour's duration
+- Numerical feature: 
+  - Scaled app duration
+- Binary features: 
+  - Hour - Time of day in One-Hot Encoded format
+  - Month - Month in One-Hot Encoded format
+  - Minute - Minutes in One-Hot Encoded format
+  - Date - Day of the month in One-Hot Encoded format
+  - Weekday - Day of the Week (e.g. Monday, Tuesday) in One-Hot Encoded format
+  - Is_Weekend - A binary number. 1 represents a weekend and -1 a week day
+  - Is_Winter_Holiday: A binary number. 1 represents a winter holiday and -1 for every other date.
 
 Explanation of our Input Selection: 
 
