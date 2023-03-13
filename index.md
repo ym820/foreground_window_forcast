@@ -60,33 +60,29 @@ Here is a snippet of our raw data
 | 2023-02-22 15:22:03.071 |    3     | Code.exe            |      0       |
 | 2023-02-22 15:24:27.911 |    3     | firefox.exe         |      0       |
 
+<br>
 <details close>
 <summary> If you want to learn about the obstacles we faced, click here: </summary>
 
 
-1. Unfamiliar Environment
+1. <strong>Unfamiliar Environment</strong>
 
+      As the programming language C was not initially included in our Data Science curriculum, we had to quickly learn and adapt to this new coding environment within a tight 2-week deadline. One of the initial challenges we encountered was the lack of immediate feedback on our code. Unlike in Python Jupyter Notebooks, where we could easily run a block of code and print out results to diagnose any issues, in Visual Studio, we had to rely on our judgment that the entire code block was functioning correctly. Fortunately, when we asked our mentor for guidance, they were able to teach us how to use the debugging mode, which significantly improved our ability to identify and fix errors in our code.
 
-As Data Science students that are only familiar with Java and Python, we had to quickly pick up the programming language C and adapt to the new coding environment. The first obstacle we faced was with the lack of instantanous feedback on our code. In Python Jupyter Notebooks, it is very easy to run a block of code and print out results to diagnose the issue. In Visual Studio, however, we have to trust our gut that the entire code block works and identify the problem through the debugging mode.
+2. <strong>Oudated Documentation/Setting up the Environment</strong>
 
+      Everybody dreads setting up the coding environment for a new role. It's the least enjoyable part of the coding experience. For us, we had to install internal software using documentation that was written 6 years ago. Some of the changes that happened since then are not documented and not well tested. For regular software, we can just use an installer and open the application. This, however, requires us to follow specific instructions such as where to extract the folder and how to edit the configuration files. This was particularly frustrating because the engineers implemented a fix to the program without throughout testing and documentation. Our mentors were unable to help because they already had the environment set up and are not familiar with the propagated changes. This caused us a precious week to read through the document code to trace the error and get started on writing the code.
 
-2. Win32 API
+3. <strong>Win32 API</strong>
 
+      The official API documentation is helpful but lacks examples, making it challenging to use. When we tried to get the title of the foreground window the user is currently on, we located two functions: GetWindowTextA, and GetWindowTextW. Since GetWindowTextA is the first result on Google, I used that function until I discovered that it is not capturing the text of a window that has Chinese characters. Upon further investigation, we discovered that A stands for ANSI and return an ANSI string and W stands for wide-character which returns a Unicode string. It would not be easy to spot such a mistake at first glance because the API description for these two functions is almost identical. The only difference is that the output variable is named LPWSTR for the GetWindowTextW function and LPSTR for the GetWindowTextA function. These information are not readily available on forums such as StackExchange, making this task a lot harder.
 
-Although the official documention on the API is very good, the lack of examples makes it confusing to use. When we tried to get the title of the foreground window the user is currently on, we located two functions: GetWindowTextA, GetWindowTextW. Since GetWindowTextA is the first result on Google, I used that function until I discovered that it is not capturing the text of a window that has Chinese characters. Upon further investigation, we discovered that the A stands for ANSI and returns an ANSI string and W stands for wide-character which returns a unicode string. It would not be easy to spot such a mistake at first glance because the API description for these two functions are almost identifical. The only difference being that the output variable is named LPWSTR for the GetWindowTextW function and LPSTR for the GetWindowTextA function.
+3. <strong>Memory Allocation</strong>
 
-
-<details>
-<summary>More information about ANSI and Unicode</summary>
-
-Human speech/text is encoded into the computer in many ways just like how there are 7139 officially known languages in the world. There are many standards in the world like the imperial measuring system (feet, pounds, miles, etc), widely used by the United States and the metric system, which is commonly used in the rest of the world. ANSI is a US standard on how to store texts inside of our computers developed by the American National Standards Institute (ANSI) and this standards only encompasses the English language. This is a problem because not everyone communicates in English, so a new standard called Unicode is adopted. Unicode is a world standard for storing texts and emoji that is compatible with all officially known languages.
 
 </details>
 
-
-3. Memory Allocation
-
-</details>
+<br>
 
 
 ## Model Building
@@ -174,8 +170,6 @@ We want to give a shoutout to all of the mentors at the Intel DCA & Telemetry te
 - Teresa Rexin
 - Praveen Polasam
 - Chansik Im
-- Sudi Sabet
-- Gandhar Gokhale
 
 # Glossary
 
