@@ -82,12 +82,9 @@ Here is a snippet of the 8 week of raw data
 <br>
 </details>
 <br>
+
 ## Model Building
-To get a good sense of how the user interact with their computer, we chose the Hidden Markov Model and Long Short Term Memory model to help us learn patterns from the data.
-Task 1. Next-App Prediction: Hidden Markov Model<br> 
-In task one, our goal is to predict the next application the user will use based on the previous usage data.<br> 
-Task 2. App Duration Prediction: Long Short- Term Memory<br> 
-We focused on using Firefox as the primary application for predicting the duration of usage during a specific hour.<br> 
+To gain insights into how users interact with their computers, we utilized the Hidden Markov Model and Long-Short Term Memory model to identify patterns from the data. The Hidden Markov Model is based on Bayes' Theorem and can predict the next application a user will use based on their previous application. Assuming conditional independence, we can employ Naive Bayes' Theorem to map out the sequence of applications that a user is likely to use on a given day.
   
 ### Hidden Markov Model (HMM)
 
@@ -95,11 +92,13 @@ Hidden Markov Model is commonly used to model sequential data, which makes this 
 
 <img src="assets\BayesRule.png" class="center" alt="Bayes' Rule." />
 
-In plain English, this means that the probability of event A occuring given that event B occured is the probability of event A and B occuring together divided by the probability of event B happening. In our case, we simply need to count the number of times an application, such as Zoom, is used after the user was using Google Chrome. You can see a list of application used following the use of our commonly used application.
+In simple terms, this means that the likelihood of event A happening after event B has occurred is the probability of both events A and B happening together, divided by the probability of event B happening on its own. In our scenario, we just need to tally up the number of times an application (e.g., Zoom) is used after Google Chrome has been used. This can help us generate a list of applications that are commonly used following the use of a specific application. Below are the application that are most likely to follow our ten most used application overall.
 
 <img src="assets\frequent_app_prob.png" class="center" width=1000 alt="A heatmap of the conditional probabilities" />
 
-To evaluate our Hidden Markov Model, we measured the accuracy based on whether the predicted application falls within the top N probability given an application. We selected this metric to give the model an acceptable margin of error within its predictions.
+Overall, the model seems to be picking up some trends such as the tendency to switch to Google Chrome after using Discord, Talkdesk, Zoom, and Microsoft Teams, which aligns with my work-related tasks as these applications are commonly used in my work environment. It is also identified that when I have League of Legends open, I will most likely switch over to Firefox, which is consistent with my leisure activities.
+
+Anecdotally, the model appears to be accurately capturing my usage patterns. Now, lets evaluate evaluate the model's performance using statistics and metrics. We chose accuracy as it is the most appropriate statistic for a classifiaction task. To measure accuracy, we assessed whether the predicted application falls within the top N, where N is a number, applications predicted based on the previous software used. We allow for an acceptable margin of error, so the model's predictions are not penalized too harshly. This helps ensure that the model produces useful recommendations.
 
 | Top N  | Accuracy |
 |--------|----------|
@@ -107,7 +106,7 @@ To evaluate our Hidden Markov Model, we measured the accuracy based on whether t
 | 2      | 65%      |
 | 3      | 75%      |
 
-If we want to model a user's day on the computer, we can simply add an emission matrix so that whenever the model is making a prediction about the next used application, it will decide whether the current application is likely to the last application of the session or it will be followed by another application.
+To model a user's sequence of applications on a given day, we can apply naive Bayes' theorem and chain the predictions to continue predicting the next application until we reach a stop token. For this approach to work, we must assume that the events are independent from each other. This means that the probability of the next application is only predicted based on the previous application and not on the sequence of applications that precede it. To determine the final sequence of applications used, we find the sequence of applications that has the highest product of the conditional probabilities in a process called maximum likelihood estimation. 
 
 ### Long Short-Term Memory (LSTM)
 <img src="assets\image002.png" class="center" width=1000 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
