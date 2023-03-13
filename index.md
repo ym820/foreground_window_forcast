@@ -5,7 +5,7 @@ permalink: /
 ---
 By Alan Zhang, Mandy Lee, Mike Mao
 <link rel="stylesheet" href="style.css">
-<iframe src="assets\experiment5.html" width=1000 height=600 frameBorder=0></iframe>
+<iframe src="assets\experiment5.html" width="100vw" height=600 overflow=auto frameBorder=0></iframe>
 ---
 * TOC
 {:toc}
@@ -15,19 +15,29 @@ By Alan Zhang, Mandy Lee, Mike Mao
 # Introduction
 <img src="assets\avg_launch_time.png" width=700 class="center" alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
 
-Long app launch times can be frustrating and hamper productivity, even on new computers. Chrome, for example. takes an average of 11.1 seconds to launch on a 0-1 year old device. To address this issue, our proposed solution is to pre-emptively launch applications based on user behavior/usage patterns. Our approach involves using machine learning models, such as Hidden Markov Model and Long Short-Term Memory, to predict which applications should be launched and when, based on system usage reports generated from users.
+According to a research conducted by Intel, a 0-1 year old computer takes an average of 11 seconds to launch Google Chrome. Our hypothesis is that this data is gathered from across the globe and the minimum PC specification is much lower in markets outside of the U.S. This increased wait time creates a subpar computing experience and hampers productivity.  Fortunately, we believe that data science can help. Our proposed solution involves launching applications before the user needs them, which can eliminate the waiting time. To achieve this, we developed software that that collects usage data when the user logs on. This data is then processed and stored in a database. We used eight weeks of data we have collected, we trained two models: a Hidden Markov Model and a Long-Short Term Memory Model. These models are ideal for modeling sequential data and help us understand how a user interacts with their machine. The Hidden Markov Model predicts the sequence of applications used, while the LSTM model identifies which application is a potential candidate for pre-launching based on its predicted hourly usage. More information about our implementation details can be found below.
 
 # Methodology
 
-## Data Collection Using Intel XLSDK
-We utilized Intel's X Library Software Development Kit to create a system usage data collector on our Windows 10 machine. The collector is launched automatically upon signing into the system and begins tracking all of the foreground applications. To ensure its reliability during real-world usage, we adhered to the following principles:
-1. Robustness and Resilience
+## Data Collection
+We used Intel's X Library Software Development Kit to develop a system usage data collector on our Windows 10 device. Upon signing into the system, the collector automatically launches and begins tracking all foreground applications. To ensure its reliability in real-world scenarios, we followed these principles:
+<br>
 
-As our program may encounter errors during deployment, we implemented defensive coding practices to ensure that the collector can continue to run without requiring human intervention to restart the program. We verified the data type and range of variables before feeding them into a function and, if an error occurred, we logged the error type, the file that generated the error, the line number within the file, and the timestamp. This helped us identify faulty code when reviewing error logs. Along with rigorous testing, we were able to keep our collector running error-free for eight weeks.
+1. <strong>Robustness and Resilience</strong>
 
-2. Privacy Compliance
+      To ensure that our program continues to run without requiring human intervention in the event of errors during deployment, we have implemented defensive coding practices. We have verified the data type and range of variables before feeding them into functions. If an error occurs, we log the error type, the file that generated the error, the line number within the file, and the timestamp. This enables us to identify faulty code while reviewing error logs. Through this approach and rigorous testing, we were able to keep our collector running without errors for eight weeks.
 
-To obtain the name of the foreground window application, we must locate the application's file path, which may contain Personal Identifiable Information (PII) such as a person's full legal name. Therefore, we removed any PII from the file path before storing the collected information. For example, users may name their system after their legal name, so we must avoid including the full file path.
+2. <strong>Privacy Compliance</strong>
+
+      To obtain the name of the foreground window application, we must locate the application's file path, which may contain Personal Identifiable Information (PII) such as a person's full legal name. To prevent the collection of PII, we have implemented a process to remove any PII from the file path before storing the collected information. For example, if a user has named their system after their legal name, we exclude the full file path to prevent the collection of PII.
+
+3. <strong>Efficiency</strong>
+
+      We have optimized the code to reduce the impact on system resources, such as CPU and memory usage, by minimizing unnecessary processing and data transfer. This is crucial as we want the application to run continuously in the background while the computer is on. To achieve this, we only allocate the minimum necessary memory to arrays and expand them as needed, ensuring efficient use of system resources.
+
+4. <strong>Compatibility</strong>
+
+      We have designed the data collector to be compatible with a wide range of languages by changing our collected strings from ANSI to UNICODE to capture foreign characters. This enables us to accurately capture and store data in different languages, ensuring compatibility with various software applications and operating systems.
 
 ### Results
 Here is a snippet of our raw data
