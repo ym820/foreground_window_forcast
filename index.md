@@ -144,7 +144,7 @@ Performance Metric:
 
 Accuracy and the Mean Squared Error Loss. Accuracy is tuned with a margin of error in mind and the acceptable error range between 5 seconds to 60 seconds. This is to give the model a bit of leeway for when it predicts the amplitude correct but is off by a few seconds to a minute. This allows the model to adjust the prediction time without making much modification to the amplitude. MSE is chosen because the function is differentiable and easier for the model to find the optimal hyperparameters to converge. 
 
-<iframe src="assets\experiment5.html" width=1000 height=600 frameBorder=0></iframe>
+<iframe src="assets\experiment5.html" min-width = "600" width="100%" height=600 overflow=auto></iframe>
 
 Results:
 
