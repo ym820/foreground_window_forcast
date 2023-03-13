@@ -4,13 +4,13 @@
     margin-right: auto;
 }
 
-.toc {
+.toc_style {
     position: fixed;
-    top: 100px; /* adjust this value to your liking */
+    top: 10%; /* adjust this value to your liking */
     right: 0;
-    width: 250px;
-    background-color: #f7f7f7;
-    border: 1px solid #ddd;
+    width: 8%;
+    background-color: #000;
+    border: None;
     padding: 10px;
   }
   

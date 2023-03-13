@@ -8,7 +8,8 @@ By Alan Zhang, Mandy Lee, Mike Mao
 <link rel="stylesheet" href="style.css">
 <iframe src="assets\experiment5.html" min-width = "600" width="100%" height=600 overflow=auto frameBorder=0></iframe>
 ---
-<div class="toc">
+<div class="toc_style">
+<br>
 {:toc}
 </div>
 ---
@@ -41,7 +42,7 @@ We used Intel's X Library Software Development Kit to develop a system usage dat
       We have designed the data collector to be compatible with a wide range of languages by changing our collected strings from ANSI to UNICODE to capture foreign characters. This enables us to accurately capture and store data in different languages, ensuring compatibility with various software applications and operating systems.
 
 ### Results
-Here is a snippet of our raw data
+Here is a snippet of the 8 week of raw data
 
 | MEASUREMENT_TIME        | ID_INPUT | VALUE               | PRIVATE_DATA |
 |-------------------------|----------|---------------------|--------------|
