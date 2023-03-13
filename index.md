@@ -8,9 +8,7 @@ By Alan Zhang, Mandy Lee, Mike Mao
 <link rel="stylesheet" href="style.css">
 <iframe src="assets\experiment5.html" min-width = "600" width="100%" height=600 overflow=auto frameBorder=0></iframe>
 ---
-<!-- <div class="toc_style"> -->
 {:toc}
-<!-- </div> -->
 ---
 
 # Introduction
@@ -157,7 +155,7 @@ The models we have built here establishes the fundamental building block for pre
 
 # Mentors
 
-We want to give a shoutout to all of the mentors at the Intel DCA & Telemetry team for providing guidance throughout this whole project. Big thanks to Jamel for being such a passionate mentor and teaching us how to be a better, well rounded engineer on top of being a data scientist. Bijan for faciliitating the environment for learning and encourages us to push out of our comfort zones. Sruti for teaching us how to create our own HMM model. Oumaima for giving us endless suggestions on how to improve our model by playing around with our inputs. Praveen for teaching us how to automate our collection process. Teresa for being a great TA and making sure that we receive the feedback from the mentors in a timely manner.
+We would like to express our gratitude to all the mentors at the Intel DCA & Telemetry team who provided invaluable guidance and support throughout this project. None of this would be possible without them. Special thanks to Jamel for his passion and mentorship, teaching us not only how to be better data scientists but also well-rounded engineers. Bijan for creating an environment that encourages us to step out of our comfort zones and continuously learn. Sruti for sharing her expertise and teaching us how to create our own HMM model. Oumaima for providing endless suggestions on how to improve our model by experimenting with different inputs. Praveen for teaching us how to automate our data collection process. Lastly, we would like to thank Teresa for her dedication and ensuring that we received timely feedback from the mentors. Their guidance has been instrumental in our growth and development as data scientists.
 
 - Bijan Arbab
 - Jamel Tayeb
@@ -166,14 +164,3 @@ We want to give a shoutout to all of the mentors at the Intel DCA & Telemetry te
 - Teresa Rexin
 - Praveen Polasam
 - Chansik Im
-
-# Glossary
-
-Intel XLSDK
-: Intel X Library Software Development Kit (XLSDK) is a proprietary development kit that is used to capture system usage report on the Windows Operating System. It is written in the programming language C and utilizes the Windows 32 Application Programming Interface (API) to communicate with the system kernel.
-
-Long Short-Term Memory / LSTM
-: Long Short-Term Memory, commonly known as LSTM is a type of Recurrent Neural Network (RNN) architecture that is commonly used in machine learning for processing sequential data, such as speech, text, and time-series data.
-
-Application Programming Interface (API)
-: Application Programming Interface is a way to abstract away the implementation details of a program and allow users or programs to interact with each other in a high level. For example, you can think of an ATM as an API. You tell the ATM that you want to withdraw cash from your account, and the ATM will take care of the details behind such instruction. API is used by programmers to communicate with programs written by another developer.
