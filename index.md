@@ -5,7 +5,7 @@ permalink: /
 ---
 By Alan Zhang, Mandy Lee, Mike Mao
 <link rel="stylesheet" href="style.css">
-<iframe src="assets\experiment5.html" width="100vw" height=600 overflow=auto frameBorder=0></iframe>
+<iframe src="assets\experiment5.html" min-width = "600" width="100%" height=600 overflow=auto frameBorder=0></iframe>
 ---
 * TOC
 {:toc}
