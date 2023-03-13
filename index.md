@@ -7,7 +7,7 @@ By Alan Zhang, Mandy Lee, Mike Mao
 <link rel="stylesheet" href="style.css">
 <iframe src="assets\experiment5.html" min-width = "600" width="100%" height=600 overflow=auto frameBorder=0></iframe>
 ---
-{% include toc %}
+{:toc}
 ---
 
 # Introduction
@@ -78,7 +78,7 @@ Here is a snippet of our raw data
       The official API documentation is helpful but lacks examples, making it challenging to use. When we tried to get the title of the foreground window the user is currently on, we located two functions: GetWindowTextA, and GetWindowTextW. Since GetWindowTextA is the first result on Google, I used that function until I discovered that it is not capturing the text of a window that has Chinese characters. Upon further investigation, we discovered that A stands for ANSI and return an ANSI string and W stands for wide-character which returns a Unicode string. It would not be easy to spot such a mistake at first glance because the API description for these two functions is almost identical. The only difference is that the output variable is named LPWSTR for the GetWindowTextW function and LPSTR for the GetWindowTextA function. These information are not readily available on forums such as StackExchange, making this task a lot harder.
 <br>
 </details>
-
+<br>
 ## Model Building
 
 Task 1. Next-App Prediction: Hidden Markov Model<br> 
