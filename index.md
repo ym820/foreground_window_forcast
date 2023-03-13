@@ -8,10 +8,9 @@ By Alan Zhang, Mandy Lee, Mike Mao
 <link rel="stylesheet" href="style.css">
 <iframe src="assets\experiment5.html" min-width = "600" width="100%" height=600 overflow=auto frameBorder=0></iframe>
 ---
-<div class="toc_style">
-<br>
+<!-- <div class="toc_style"> -->
 {:toc}
-</div>
+<!-- </div> -->
 ---
 
 # Introduction
@@ -84,7 +83,7 @@ Here is a snippet of the 8 week of raw data
 </details>
 <br>
 ## Model Building
-
+To get a good sense of how the user interact with their computer, we chose the Hidden Markov Model and Long Short Term Memory model to help us learn patterns from the data.
 Task 1. Next-App Prediction: Hidden Markov Model<br> 
 In task one, our goal is to predict the next application the user will use based on the previous usage data.<br> 
 Task 2. App Duration Prediction: Long Short- Term Memory<br> 
