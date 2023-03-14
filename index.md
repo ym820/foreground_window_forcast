@@ -10,14 +10,8 @@ toc_data:
 By Alan Zhang, Mandy Lee, Yikai (Mike) Mao
 <link rel="stylesheet" href="style.css">
 <iframe src="assets\experiment5.html" min-width = "600" width="100%" height=600 overflow=auto frameBorder=0></iframe>
----
-<div class="nav">
-{: .no_toc .text-delta }
-
 1. TOC
 {:toc}
-</div>
----
 
 <!-- <div class="nav">
 1. toc

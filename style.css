@@ -4,15 +4,15 @@
     margin-right: auto;
 }
 
-.toc_style {
+#toc {
     position: fixed;
     top: 10%; /* adjust this value to your liking */
     right: 0;
     width: 8%;
-    background-color: #000;
+    background-color: #fff;
     border: None;
     padding: 10px;
-  }
+}
 
 .nav {
     position: fixed;
