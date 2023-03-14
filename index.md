@@ -9,20 +9,15 @@ toc_data:
 ---
 By Alan Zhang, Mandy Lee, Yikai (Mike) Mao
 <link rel="stylesheet" href="style.css">
+<script src="index.js"></script>
 <iframe src="assets\experiment5.html" min-width = "600" width="100%" height=600 overflow=auto frameBorder=0></iframe>
 1. TOC
 {:toc}
 
-<!-- <div class="nav">
-1. toc
-{:toc}
-  <ul>
-    {% for item in page.toc_data.items %}
-      <li><a href="#{{ item.anchor }}">{{ item.text }}</a></li>
-    {% endfor %}
-  </ul>
-<li><a href="#section1">Test 1</a></li>
-</div> -->
+<div class="nav">
+  <h2>On this page</h2>
+  <ul id="toc-list"></ul>
+</div>
 
 # Introduction
 <img src="assets\avg_launch_time.png" width=700 class="center" alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
