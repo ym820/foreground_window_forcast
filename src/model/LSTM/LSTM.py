@@ -44,7 +44,7 @@ class LSTM_1:
         print('======== PROCESS DATASET ========')
         self.df = clean_dataset(file_path)
         self.df = self.df[self.df['Value'] == self.args['exe_name']].reset_index()
-        self.X_train, self.y_train, self.X_test, self.y_test, self.scaler, self.start, self.end = get_dataset(self.df, self.args['lookback'], self.args['shuffle'])
+        self.X_train, self.y_train, self.X_test, self.y_test, self.scaler, self.start, self.end = get_dataset(self.df, self.args)
         print('Finished data processing')
 
         self.train_model()

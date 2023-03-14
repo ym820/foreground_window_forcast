@@ -9,6 +9,8 @@ parser.add_argument('-exe', '--exe_name', default='firefox.exe', type=str,
 parser.add_argument('-lb', '--lookback', default=5, type=int,
                     help='Lookback window (hyper-parameter) for dataset processing')  
 # Model Related
+parser.add_argument('-ts', '--test_size', default=0.2, type=int,
+                    help='Test set size (percentage of entire dataset)')
 parser.add_argument('-e', '--epochs', default=100, type=int,
                     help='Number of epochs')
 parser.add_argument('-lr', '--learning_rate', default=0.001, type=float,
@@ -17,8 +19,8 @@ parser.add_argument('-l', '--loss', default='mse', type=str,
                     help='Loss function')
 parser.add_argument('-ex', '--experiment', default=1, type=int,
                     help='Experiment no.')
-parser.add_argument('-s', '--shuffle', default=False, type=bool,
-                    help='Whether to shuffle for train test split')
+parser.add_argument('-r', '--random', default=False, type=bool,
+                    help='Whether to choose the start index for test set randomly')
 
 args = vars(parser.parse_args())
 

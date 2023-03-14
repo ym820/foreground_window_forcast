@@ -91,7 +91,6 @@ def clean_dataset(file_path):
     return pd.concat([clean_row(row) for _, row in df.iterrows()], ignore_index=True)
   
 def transformation(column, max_value):
-#   max_value = column.max()
   sin_values = [np.sin((2*np.pi*x)/max_value) for x in list(column)]
   cos_values = [np.cos((2*np.pi*x)/max_value) for x in list(column)]
   return sin_values, cos_values
@@ -109,7 +108,7 @@ def process(temp):
 
     return data
 
-def get_dataset(df, n_steps, shuffle=False):
+def get_dataset(df, args):
     temp = df.copy()
     temp['minute'] = temp['Start'].apply(lambda x: x.minute)
     temp = temp.groupby(pd.Grouper(key='Start', freq='H')).agg({
@@ -125,15 +124,15 @@ def get_dataset(df, n_steps, shuffle=False):
     data = process(temp)
     
     X, y = [], []
-    for i in range(len(data)-n_steps):
+    for i in range(len(data)-args['lookback']):
         # gather input and output parts of the pattern
-        seq_x, seq_y = data[i:i+n_steps, :], data[i+n_steps, 0:1]
+        seq_x, seq_y = data[i:i+args['lookback'], :], data[i+args['lookback'], 0:1]
         X.append(seq_x)
         y.append(seq_y)
     
     X, y = np.array(X), np.array(y)
-    test_size = int(X.shape[0] * 0.2)
-    if shuffle:
+    test_size = int(X.shape[0] * args['test_size'])
+    if args['random']:
         start = np.random.randint(0, X.shape[0]-test_size)
         end = start + test_size
     else:
