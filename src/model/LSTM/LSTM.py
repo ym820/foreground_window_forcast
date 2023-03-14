@@ -4,20 +4,11 @@ import json
 import numpy as np
 from data import clean_dataset, get_dataset
 from tensorflow import keras
-from keras.layers import LSTM, Dense, Dropout, TimeDistributed
+from keras.layers import LSTM, Dense, Bidirectional
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import plotly.io as pio
 
-
-# args = {
-#     'exe_name': 'firefox.exe',
-#     'lookback': 5,
-#     'epochs': 100,
-#     'learning_rate': 0.001,
-#     'loss': 'mse',
-#     'experiment': 1
-# }
 
 class LSTM_1:
     def __init__(self, args) -> None:
