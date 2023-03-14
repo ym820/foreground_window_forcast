@@ -108,13 +108,13 @@ To model a user's sequence of applications on a given day, we can apply naive Ba
 
 ### Long Short-Term Memory (LSTM)
 <img src="assets\image002.png" class="center" width=1000 alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
-To forecast hourly application usage, we narrowed our focus to the web browser Firefox and built an initial LSTM model. We selected Firefox because users typically spend a significant portion of their computer time browsing the web, whether for reading news, watching videos, or communicating with colleagues. By training our model to recognize usage patterns for one web browser, we can scale it to learn patterns across different applications. 
+Now that we have a sequence of applications, it is important to determine which of these applications is significant. We will measure importance using two metrics: predicted hourly usage and frequency of usage. To forecast hourly application usage, we narrowed our focus to the web browser Firefox and built an initial LSTM model. We selected Firefox because users typically spend a significant portion of their computer time browsing the web, whether for reading news, watching videos, or communicating with colleagues. By training our model to recognize usage patterns for one web browser, we can scale it to learn patterns across different applications. 
 
-We have decided to use Tensorflow's Keras package, a high-level neural network API for Python, to implement LSTMs as a layer in a neural network. In an LSTM network, the hidden state is updated at each time step by combining the values of the input, forget, and output gates, and the memory cells are updated accordingly. This process allows the LSTM to selectively store or forget information over a long period of time, making it well-suited for tasks such as speech recognition, natural language processing, and time-series prediction. Just like figue below, data such as process names and dates are imported and multiple hidden layers are updated to output the next name/duration of the processes. 
+We have decided to use Tensorflow's Keras package, a high-level neural network API for Python, to implement LSTMs as a layer in a neural network. In an LSTM network, the hidden state is updated at each time step by combining the values of the input, forget, and output gates, and the memory cells are updated accordingly. This process allows the LSTM to selectively store or forget information over a long period of time, making it well-suited for tasks such as speech recognition, natural language processing, and time-series prediction. Just like the figure below, data such as process names and dates are imported and multiple hidden layers are updated to output the next name/duration of the processes. 
 
 <img src="assets\many_to_one.jpg" class="center" width=800 alt="LSTM" />
 
-Input Data:
+<strong>Input Data:</strong>
 - Numerical feature: 
   - Scaled app duration
 - Binary features: 
@@ -126,11 +126,11 @@ Input Data:
   - Is_Weekend - A binary number. 1 represents a weekend and -1 a week day
   - Is_Winter_Holiday: A binary number. 1 represents a winter holiday and -1 for every other date.
 
-Explanation of our Input Selection: 
+<strong>Explanation of our Input Selection:</strong>
 
 Hour, minute, and date are selected because we want to study usage pattern at an hourly level and the time the application is opened can be used to find patterns in how long it was open for given the similiar conditions. Month is used to distinguish between the holiday season and school season since the data collection process started in mid-December and ended in February. Insufficient data is gather for the model to learn trends for every individual month. Day of the week, is_weekend, and is_winter_holiday are all features engineered from exisiting data. These variables separate the data into categories so that the computer can distinguish usage pattern for a productive day from an entertainment day. 
 
-Performance Metric: 
+<strong>Performance Metric:</strong>
 
 Accuracy and the Mean Squared Error Loss. Accuracy is tuned with a margin of error in mind and the acceptable error range between 5 seconds to 60 seconds. This is to give the model a bit of leeway for when it predicts the amplitude correct but is off by a few seconds to a minute. This allows the model to adjust the prediction time without making much modification to the amplitude. MSE is chosen because the function is differentiable and easier for the model to find the optimal hyperparameters to converge. 
 
