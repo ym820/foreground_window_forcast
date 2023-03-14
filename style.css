@@ -12,6 +12,7 @@
     width: 10%;
     background-color: #fff;
     overflow-y: auto;
+    font-size: 7px;
 }
 .nav ul {
     list-style: none;
@@ -23,11 +24,6 @@
     /* border-bottom: 1px solid #ccc; */
 }
 .nav li:hover {
-    background-color: #2db64d;
-}
-
-#toc-list {
-    font-size: 11px;
-
+    color: #185abc;
 }
   
