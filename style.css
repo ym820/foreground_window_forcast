@@ -4,22 +4,12 @@
     margin-right: auto;
 }
 
-#toc {
-    position: fixed;
-    top: 10%; /* adjust this value to your liking */
-    right: 0;
-    width: 8%;
-    background-color: #fff;
-    border: None;
-    padding: 10px;
-}
-
 .nav {
     position: fixed;
     top: 10%;
     right: 0;
     height: 100%;
-    width: 8%;
+    width: 10%;
     background-color: #fff;
     overflow-y: auto;
 }
@@ -29,10 +19,15 @@
     padding: 0;
 }
 .nav li {
-    padding: 10px;
-    border-bottom: 1px solid #ccc;
+    padding: 0px;
+    /* border-bottom: 1px solid #ccc; */
 }
 .nav li:hover {
-    background-color: #ccc;
+    background-color: #2db64d;
+}
+
+#toc-list {
+    font-size: 11px;
+
 }
   
