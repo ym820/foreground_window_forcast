@@ -1,5 +1,9 @@
 // Get all the headings in the document
-const headings = document.getElementByClass("page-content").querySelectorAll('h1, h2, h3');
+const headings = (
+    document
+    .getElementsByClassName("page-content")
+    .querySelectorAll('h1, h2, h3')
+);
 
 // Initialize variables to keep track of the current level and the parent element
 var level = 0;
