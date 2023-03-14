@@ -3,38 +3,44 @@ import math
 import random
 import os
 
-def clean_data(raw_path, file_path):
+def clean_data():
     """
     Concatenate raw dataframes with <s> token indicating the start of the collection and save the series of executables into dataframe
 
     Parameters:
     raw_path (str): path of raw dataframes
     """
-    if os.path.isfile(file_path):
-        return pd.read_csv(file_path)
+    raw_path = '../../../data/raw/dataset'
+    out_path = '../../../data/processed/hmm_data.csv'
     exes = []
     start = pd.Series(['<s>'])
-    for i in range(1, 30):
-        if i == 28:
-            continue
-        file_path = f"{raw_path}/df{i}.csv"
-        df = pd.read_csv(file_path)
-        df = df[df["ID_INPUT"] == 3]
-        exes.append(pd.concat([start, df.VALUE]))
-    output_exe = pd.concat(exes).reset_index(drop=True)
-    output_exe.to_csv(file_path, index=False)
-    return output_exe
+    directory = os.fsencode(raw_path)
 
-def get_dataset(exe_path):
+    for file in os.listdir(directory):
+        filename = os.fsdecode(file)
+        if filename.endswith(".csv"): 
+            df = pd.read_csv(f'{raw_path}/{filename}', delimiter='\t')
+            df = df[df["ID_INPUT"] == 3][['MEASUREMENT_TIME', 'VALUE']]
+            if df.shape[0] > 0:
+                start = pd.DataFrame({'MEASUREMENT_TIME': [df.iloc[0,0]], 'VALUE': ['<s>']})
+                exes.append(pd.concat([start, df]))
+    combined = pd.concat(exes).reset_index(drop=True)
+    combined['MEASUREMENT_TIME'] = pd.to_datetime(combined['MEASUREMENT_TIME'])
+    combined = combined.sort_values(by='MEASUREMENT_TIME', ascending=True).reset_index(drop=True)
+    combined.to_csv(out_path, index=False)
+    return combined
+
+def get_dataset():
     """
     Get X and y for model
 
     Parameters:
     exe_path (str): path of executable dataframe
     """
-    exe = pd.read_csv(exe_path)['0']
-    y = exe[1:].copy().reset_index(drop=True)
-    X = exe[:-1].copy().reset_index(drop=True)
+    df = clean_data()
+    df = df['VALUE']
+    y = df[1:].copy().reset_index(drop=True)
+    X = df[:-1].copy().reset_index(drop=True)
     return X, y
 
 def train_test_split(X, y, test_size=0.2):

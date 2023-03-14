@@ -17,13 +17,15 @@ parser.add_argument('-l', '--loss', default='mse', type=str,
                     help='Loss function')
 parser.add_argument('-ex', '--experiment', default=1, type=int,
                     help='Experiment no.')
+parser.add_argument('-s', '--shuffle', default=False, type=bool,
+                    help='Whether to shuffle for train test split')
 
 args = vars(parser.parse_args())
 
 def main(args):
     model = LSTM_1(args)
     model.train()
-    model.evaluate()
+    # model.evaluate()
 
 if __name__ == "__main__":
     main(args)

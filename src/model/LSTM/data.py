@@ -7,19 +7,11 @@ import csv
 from sqlite3 import Error
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder, MinMaxScaler
 
-def get_input_output_folder(default_path = True):
-    if default_path:
-        os.chdir("../../../data/raw/outputs/")
-        input_folder = os.fspath(os.getcwd())
-        os.chdir("../../processed/")
-        output_folder = os.fspath(os.getcwd())
-        os.chdir("../../")
-    return input_folder, output_folder
-
-def export_dbs_as_csv(dir):
-    input_folder, output_folder = get_input_output_folder()
+def export_dbs_as_csv():
+    input_folder = '../../../data/raw/database'
+    output_folder = '../../../data/raw/dataset'
     for db in os.listdir(input_folder):
-        new_name = db.split("-")[1].strip("0.db") + ".csv"
+        new_name = db.strip(".db") + ".csv"
         try:
             input_file_path = os.path.join(input_folder, db)
             conn=sql.connect(input_file_path)
@@ -41,33 +33,30 @@ def export_dbs_as_csv(dir):
             conn.close()
     return
 
-def combine_dataset(raw_path, file_path = "dataset.csv"):
+def combine_dataset(raw_path):
     """
     Concatenate raw dataframes with <s> token indicating the start of the collection and save the series of executables into dataframe
 
     Parameters:
     raw_path (str): path of raw dataframes
     """
-    if os.path.isfile(file_path):
-        return pd.read_csv(file_path)
     datasets = []
-    # start = pd.Series(['<s>'])
-    _, output_folder = get_input_output_folder()
-    for csv in os.listdir(output_folder):
-        if ".csv" not in csv:
-            continue
-        curr_file_path = os.path.join(output_folder, csv)
-        df = pd.read_csv(curr_file_path)
-        temp = df[df['ID_INPUT'] == 3][['MEASUREMENT_TIME', 'VALUE']].reset_index(drop=True)
-        temp = temp.rename(columns={'MEASUREMENT_TIME': 'Start', 'VALUE': 'Value'})
-        temp['Start'] = pd.to_datetime(temp['Start']).dt.tz_localize(tz='GMT+0').dt.tz_convert('America/Los_Angeles').dt.tz_localize(None)
-        temp['End'] = temp['Start'].shift(-1)
-        temp['Duration'] = (temp['Start'].shift(-1) - temp['Start'])
-        temp = temp.drop(len(temp)-1)
-        datasets.append(temp)
-    output_dataset = pd.concat(datasets).reset_index(drop=True)
-    # print(output_dataset['Duration'].dtype)
-    output_dataset.to_csv(file_path, index=False)
+    directory = os.fsencode(raw_path)
+
+    for file in os.listdir(directory):
+        filename = os.fsdecode(file)
+        if filename.endswith(".csv"):
+            df = pd.read_csv(f'{raw_path}/{filename}', delimiter='\t')
+            if df.shape[0] > 0:
+                temp = df[df['ID_INPUT'] == 3][['MEASUREMENT_TIME', 'VALUE']].reset_index(drop=True)
+                temp = temp.rename(columns={'MEASUREMENT_TIME': 'Start', 'VALUE': 'Value'})
+                temp['Start'] = pd.to_datetime(temp['Start']).dt.tz_localize(tz='GMT+0').dt.tz_convert('America/Los_Angeles').dt.tz_localize(None)
+                temp['End'] = temp['Start'].shift(-1)
+                temp['Duration'] = (temp['Start'].shift(-1) - temp['Start'])
+                temp = temp.drop(len(temp)-1)
+                datasets.append(temp)
+    output_dataset = pd.concat(datasets).sort_values(by='Start').reset_index(drop=True)
+    output_dataset.to_csv('../../../data/processed/lstm_data_local.csv', index=False)
     return output_dataset
 
 def row_helper(row):
@@ -100,25 +89,58 @@ def clean_dataset(file_path):
     df['sec_to_next_hr'] = df['Start'].apply(lambda x: ((x+delta).replace(microsecond=0, second=0, minute=0) - x).seconds)
 
     return pd.concat([clean_row(row) for _, row in df.iterrows()], ignore_index=True)
+  
+def transformation(column, max_value):
+#   max_value = column.max()
+  sin_values = [np.sin((2*np.pi*x)/max_value) for x in list(column)]
+  cos_values = [np.cos((2*np.pi*x)/max_value) for x in list(column)]
+  return sin_values, cos_values
 
-def get_dataset(df, lookback):
-    # temp = df.groupby(pd.Grouper(key='Start', freq='H')).sum().reset_index()
-    df['weekday'] = df['Start'].apply(lambda x: x.dayofweek)#.astype('category')
-    df['hour'] = df['Start'].apply(lambda x: x.hour)#.astype('category')
-    df['minute'] = df['Start'].apply(lambda x: x.minute)
-    df['date'] = df['Start'].apply(lambda x: x.day)
-    df['month'] = df['Start'].apply(lambda x: x.month)
-    df = df.drop(columns='Start')
-#     df = pd.get_dummies(df).values
-    df = df.values
+def process(temp):
+    temp['dayofweek'] = temp['Start'].apply(lambda x: x.dayofweek).astype('category')
+    temp['dayofmonth'] = temp['Start'].apply(lambda x: x.day).astype('category')
+    temp['dayofyear'] = temp['Start'].apply(lambda x: x.dayofyear).astype('category')
+    temp['hour'] = temp['Start'].apply(lambda x: x.hour).astype('category')
+    temp['month'] = temp['Start'].apply(lambda x: x.month).astype('category')
+    temp['is_weekend'] = temp['Start'].apply(lambda x: 1 if x == 5 or x == 6 else -1)
+    temp['is_winter_holiday'] = temp['Start'].apply(lambda x: 1 if x > datetime.datetime(2022, 12, 12) or x < datetime.datetime(2023, 1, 8) else -1)
+    temp = temp.drop(columns='Start')
+    data = pd.get_dummies(temp, columns=['dayofweek', 'dayofmonth', 'dayofyear', 'hour','minute','month']).values
+
+    return data
+
+def get_dataset(df, n_steps, shuffle=False):
+    temp = df.copy()
+    temp['minute'] = temp['Start'].apply(lambda x: x.minute)
+    temp = temp.groupby(pd.Grouper(key='Start', freq='H')).agg({
+            'Time_diff_sec': 'sum',
+            'minute': 'min'
+        }).reset_index().fillna(0)
+    temp = temp[(temp['Start'] < '2022-12-23') | (temp['Start'] > '2023-01-08')]
+
+    scaler = MinMaxScaler()
+    scaler.fit(temp[['Time_diff_sec']])
+    temp[['Time_diff_sec']] = scaler.transform(temp[['Time_diff_sec']])
+
+    data = process(temp)
     
     X, y = [], []
-    for i in range(len(df)-lookback-1):
+    for i in range(len(data)-n_steps):
         # gather input and output parts of the pattern
-        seq_x, seq_y = df[i:i+lookback, 1:], df[i+lookback-1, 0:1]
+        seq_x, seq_y = data[i:i+n_steps, :], data[i+n_steps, 0:1]
         X.append(seq_x)
         y.append(seq_y)
-    scaler = MinMaxScaler()
-    scaler.fit(y)
-    y = scaler.transform(y)
-    return np.array(X), np.array(y), scaler
+    
+    X, y = np.array(X), np.array(y)
+    test_size = int(X.shape[0] * 0.2)
+    if shuffle:
+        start = np.random.randint(0, X.shape[0]-test_size)
+        end = start + test_size
+    else:
+        start = X.shape[0] - test_size
+        end = X.shape[0]
+    test_ind = np.zeros(X.shape[0], dtype=bool)
+    test_ind[start:end] = True
+    X_train, X_test = X[~test_ind, :, :], X[test_ind, :, :]
+    y_train, y_test = y[~test_ind], y[test_ind]
+    return X_train, y_train, X_test, y_test, scaler, start, end
