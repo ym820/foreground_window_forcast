@@ -13,4 +13,26 @@
     border: None;
     padding: 10px;
   }
+
+.nav {
+    position: fixed;
+    top: 10%;
+    right: 0;
+    height: 100%;
+    width: 8%;
+    background-color: #f2f2f2;
+    overflow-y: auto;
+}
+.nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.nav li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.nav li:hover {
+    background-color: #ccc;
+}
   
