@@ -4,7 +4,7 @@ title: "Foreground Window Forecast"
 permalink: /
 toc: true
 ---
-By Alan Zhang, Mandy Lee, Yikai(Mike) Mao
+By Alan Zhang, Mandy Lee, Yikai (Mike) Mao
 <link rel="stylesheet" href="style.css">
 <iframe src="assets\experiment5.html" min-width = "600" width="100%" height=600 overflow=auto frameBorder=0></iframe>
 ---
@@ -145,13 +145,17 @@ Results:
 | Accuracy within 10s | 85%          | 80%         |
 | Accuracy within 10s | 86%          | 82%         |
 
-# Pitfall and Shortcoming
+We hypothesize that the high accuracy yielded in our test results was due to the model correctly predicting 0s. This suggests that the model achieved a high accuracy without learning the amplitude of usage time, indicating slight overfitting to our training data and potential poor performance on unseen data.
 
-We hypothesize that the high accuracy yieled in our Test result was the result of getting predictions of 0s correctly. That means it is getting a high accuracy without actually learning the ampltidue of the usage time. This means that it is slightly overfitting to our training data and does not do well with unseen data. To mitigate this issue, we can change our metric to give more penalty to guessing the amplitude wrong and less rewards for guessing the zeors correctly. This should counteract the imbalance in active usage class from the inactive use and instruct the model to focus on learning where the amplitude occurs more.
+To address this issue, we could adjusting our evaluation metric to penalize incorrect amplitude predictions more severely while reducing rewards for correctly predicting 0s. This approach aims to address the class imbalance between active and inactive usage and encourage the model to focus on learning the amplitude of usage time more accurately.
 
 # Conclusion
 
-The models we have built here establishes the fundamental building block for predicting the app launch time. With the Hidden Markov Model, we are able to model a sequence of application expected to be used during a session and we can fine tune the model further using LSTM to pick up patterns and trends based on the time of day the computer starts up. In the sequence of application generated, we can use our LSTM model to draw up each application's expected usage time and identify applications that satisfy the requirements for a predictive launch. If more time and resources are dedicated to this matter in the future, we can measure whether our predictive launches are useful or not and fine-tune the model. We can collect this additional data by going back to our collector and change our user_wait input library to be activated whenever the user clicks on another application and the mouse icon changes to waiting.  
+We have developed software and models that serve as fundamental building blocks for constructing more complex and accurate models to identify suitable applications for pre-launch. By developing our own collector, we have gained insights into responsible data collection and good practices for acquiring and storing data. Our collector is memory-efficient and can run 24/7 without human intervention. If you wish to collect your own data and run it against our model, you can clone our GitHub repository and add the script to your Task Scheduler. Detailed instructions are available in the repository.
+
+Although our HMM model does not achieve the highest accuracy, it indicates that the model is generalizing well rather than simply memorizing and overfitting to the training data. Our LSTM model requires further work, and we suggest exploring modifications such as changing the metric to one more suitable for a regression-like classification task, as the current metric can be misleading. Moreover, the high accuracy of the model mostly results from correctly predicting zeros rather than timing and amplitude values. We can alter our test set to include only amplitudes or rebalance the amplitude and zero points to more effectively evaluate the model on an unseen dataset.
+
+We encourage those interested in the project to build upon what we have developed by following our GitHub repository. All instructions are available in the ReadMe.md file.
 
 # Mentors
 
