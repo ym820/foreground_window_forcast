@@ -15,7 +15,6 @@ By Alan Zhang, Mandy Lee, Yikai (Mike) Mao
 {:toc}
 
 <div class="nav">
-  <h2>On this page</h2>
   <ul id="toc-list"></ul>
 </div>
 
