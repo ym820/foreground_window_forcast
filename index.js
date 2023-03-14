@@ -28,16 +28,17 @@ headings.forEach(function(heading) {
     
     // Add the link to the list item
     listItem.appendChild(link);
-    
+    console.log(level, parentListItem.tagName.charAt(1), parentListItem.tagName.charAt(1))
     // Determine the nesting level of the list item and add it to the proper parent list item
     if (level > parentListItem.tagName.charAt(1)) {
       // If the level of the heading is greater than the level of the parent list item, create a new sublist
       var sublist = document.createElement('ul');
       parentListItem.lastChild.appendChild(sublist);
+      console.log("Get a nested list")
       parentListItem = sublist;
     } else if (level < parentListItem.tagName.charAt(1)) {
       // If the level of the heading is less than the level of the parent list item, move back up to the appropriate level
-      while (level < parentListItem.tagName.charAt(1)) {
+      git while (level < parentListItem.tagName.charAt(1)) {
         parentListItem = parentListItem.parentElement.parentElement;
       }
     }
