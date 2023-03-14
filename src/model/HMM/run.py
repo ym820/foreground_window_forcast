@@ -26,7 +26,8 @@ def main(args):
     with open(f'{dir_path}/config.json', 'w') as file:
         json.dump(args, file)
 
-    X, y = get_dataset()
+    raw_path = '../../../data/raw/dataset'
+    X, y = get_dataset(raw_path)
     X_train, y_train, X_test, y_test = train_test_split(X, y, args['test_size'])
 
     model = HMM()

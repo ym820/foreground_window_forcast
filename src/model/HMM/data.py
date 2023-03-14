@@ -3,15 +3,16 @@ import math
 import random
 import os
 
-def clean_data():
+def clean_data(raw_path):
     """
     Concatenate raw dataframes with <s> token indicating the start of the collection and save the series of executables into dataframe
 
     Parameters:
     raw_path (str): path of raw dataframes
     """
-    raw_path = '../../../data/raw/dataset'
-    out_path = '../../../data/processed/hmm_data.csv'
+    out_path = raw_path.replace('raw/dataset', 'processed/hmm_data.csv')
+    if os.path.exists(out_path):
+        return pd.read_csv(out_path)
     exes = []
     start = pd.Series(['<s>'])
     directory = os.fsencode(raw_path)
@@ -30,14 +31,14 @@ def clean_data():
     combined.to_csv(out_path, index=False)
     return combined
 
-def get_dataset():
+def get_dataset(raw_path):
     """
     Get X and y for model
 
     Parameters:
-    exe_path (str): path of executable dataframe
+    raw_path (str): path of raw dataframes
     """
-    df = clean_data()
+    df = clean_data(raw_path)
     df = df['VALUE']
     y = df[1:].copy().reset_index(drop=True)
     X = df[:-1].copy().reset_index(drop=True)
