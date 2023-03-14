@@ -3,6 +3,9 @@ layout: page
 title: "Foreground Window Forecast"
 permalink: /
 toc: true
+toc_data:
+  start_level: 2
+  end_level: 3
 ---
 By Alan Zhang, Mandy Lee, Yikai (Mike) Mao
 <link rel="stylesheet" href="style.css">
@@ -11,7 +14,7 @@ By Alan Zhang, Mandy Lee, Yikai (Mike) Mao
 {:toc}
 ---
 
-<div class="nav">
+<!-- <div class="nav">
 1. toc
 {:toc}
   <ul>
@@ -20,7 +23,7 @@ By Alan Zhang, Mandy Lee, Yikai (Mike) Mao
     {% endfor %}
   </ul>
 <li><a href="#section1">Test 1</a></li>
-</div>
+</div> -->
 
 # Introduction
 <img src="assets\avg_launch_time.png" width=700 class="center" alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />
