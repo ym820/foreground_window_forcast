@@ -37,10 +37,10 @@ headings.forEach(function(heading) {
       console.log("Get a nested list")
       parentListItem = sublist;
     } else if (level < parentListItem.tagName.charAt(1)) {
-      // If the level of the heading is less than the level of the parent list item, move back up to the appropriate level
-      git while (level < parentListItem.tagName.charAt(1)) {
-        parentListItem = parentListItem.parentElement.parentElement;
-      }
+        // If the level of the heading is less than the level of the parent list item, move back up to the appropriate level
+        while (level < parentListItem.tagName.charAt(1)) {
+            parentListItem = parentListItem.parentElement.parentElement;
+        }
     }
     
     // Add the list item to the parent list item
