@@ -1,6 +1,6 @@
 # Intel-capstone: Improving App Launch Time with Deep Learning
 Authors: Yikai(Mike) Mao, Alan Zhang, Mandy Lee \
-Mentors: Intel: Jamel Tayeb, Bijan Arbab; UCSD: Teresa Rexin \
+Mentors: Intel: Jamel Tayeb, Bijan Arbab, Oumaima Makhlouk, Sruti Sahani; UCSD: Teresa Rexin \
 Website: https://mikem820.github.io/foreground_window_forcast/
 
 ## Abstract
