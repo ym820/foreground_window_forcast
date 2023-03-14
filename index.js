@@ -1,7 +1,7 @@
 // Get all the headings in the document
 const headings = (
     document
-    .getElementsByClassName("page-content")
+    .getElementsByClassName("page-content")[0]
     .querySelectorAll('h1, h2, h3')
 );
 
