@@ -34,18 +34,11 @@ class LSTM_1:
 
         self.model = keras.Sequential()
         self.model.add(LSTM(32, return_sequences=True, input_shape=(self.args['lookback'], feature_shape)))
-        # self.model.add(Dropout(0.2))
-
-        # self.model.add(LSTM(32, return_sequences=True))
-        # self.model.add(Dropout(0.2))
 
         self.model.add(LSTM(16, return_sequences=True))
-        # self.model.add(Dropout(0.2))
 
         self.model.add(LSTM(16))
-        # self.model.add(Dropout(0.2))
 
-        # self.model.add(TimeDistributed(Dense(1)))
         self.model.add(Dense(32))
         self.model.add(Dense(16))
         self.model.add(Dense(1, activation='sigmoid'))
@@ -60,7 +53,6 @@ class LSTM_1:
         print('======== PROCESS DATASET ========')
         self.df = clean_dataset(file_path)
         self.df = self.df[self.df['Value'] == self.args['exe_name']].reset_index()
-        # self.input_df = self.df.groupby(pd.Grouper(key='Start', freq='H')).sum().reset_index()
         self.X_train, self.y_train, self.X_test, self.y_test, self.scaler, self.start, self.end = get_dataset(self.df, self.args['lookback'], self.args['shuffle'])
         print('Finished data processing')
 
@@ -82,12 +74,10 @@ class LSTM_1:
         print(f'Finished. Everything is saved at {self.dir_path}')
 
     def get_accuracy(self, pred, target, bound=10):
-        # print(np.sum(np.abs(pred - target) < bound))
         return np.mean(np.abs(pred - target) < bound)
 
     def get_nonzero_accuracy(self, pred, target, bound=10):
         ind = np.where(target!=0)[0]
-        # print(np.sum(np.abs(pred[ind] - target[ind]) < bound))
         return np.mean(np.abs(pred[ind] - target[ind]) < bound)
     
     def evaluate(self):
@@ -133,7 +123,6 @@ Non-zero Test Accuracy (abs diff within 60s): {nonzero_test_acc_60}""".format(**
                 yaxis={'title':'Loss'}
             )
             fig = go.Figure([go.Scatter(x=list(range(self.args['epochs'])), y=loss, mode='lines',name = 'Training Loss')], layout=layout)
-            # fig.show()
             pio.write_html(fig, f'{self.dir_path}/loss.html')
             pio.write_image(fig, f'{self.dir_path}/loss.png', width=1200, height=500)
             print('Loss plot saved')
@@ -158,7 +147,6 @@ Non-zero Test Accuracy (abs diff within 60s): {nonzero_test_acc_60}""".format(**
             fig.update_xaxes(
             rangebreaks=[dict(values=pd.date_range('2022-12-23', '2023-01-08'))] # hide dates with no values
         )
-            # fig.show()
             pio.write_html(fig, f'{self.dir_path}/prediction.html')
             pio.write_image(fig, f'{self.dir_path}/prediction.png', width=1200, height=500)
             print('Prediction plot saved')
