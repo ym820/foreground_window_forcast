@@ -1,51 +1,50 @@
-// Get all the headings in the document
-const headings = (
-    document
-    .getElementsByClassName("page-content")[0]
-    .querySelectorAll('h1, h2, h3')
-);
+// Get all the headings in the body
+const body = document.getElementsByClassName("page-content")[0];
+const headings = body.querySelectorAll('h1, h2, h3');
+// Create a new unordered list to hold the table of contents
+var tocList = document.createElement('ul');
 
-// Initialize variables to keep track of the current level and the parent element
-var level = 0;
-var lastLi = toc;
+// Keep track of the most recent parent list item so that you can nest list items properly
+var parentListItem = tocList;
 
-// Loop through all the headings and create a table of contents
-for (let i = 0; i < headings.length; i++) {
-    // Get the current heading level (e.g. 1 for <h1>, 2 for <h2>, etc.)
-    var currentLevel = parseInt(headings[i].tagName.slice(1));
 
-    // If the current level is higher than the previous level, create a new nested list
-    if (currentLevel > level) {
-        var newUl = document.createElement('ul');
-        var newLi = document.createElement('li');
-        newLi.appendChild(document.createTextNode(headings[i].textContent));
-        newUl.appendChild(newLi);
-        lastLi.appendChild(newUl);
-        lastLi = newLi;
-        level++;
+// Loop through each heading element and create a table of contents entry for it
+headings.forEach(function(heading) {
+    // Skip over any headings that have the 'notoc' class
+    if (heading.classList.contains('notoc')) {
+      return;
     }
-
-    // If the current level is lower than the previous level, move back up the list
-    else if (currentLevel < level) {
-        var diff = level - currentLevel;
-        for (var j = 0; j < diff; j++) {
-          lastLi = lastLi.parentNode.parentNode;
-        }
-        var newLi = document.createElement('li');
-        newLi.appendChild(document.createTextNode(headings[i].textContent));
-        lastLi.appendChild(newLi);
-        lastLi = newLi;
-        level--;
+    
+    // Get the level of the heading (i.e. whether it is an h1, h2, h3, etc.)
+    var level = parseInt(heading.tagName.charAt(1));
+    
+    // Create a new list item for the heading
+    var listItem = document.createElement('li');
+    
+    // Create a link to the heading element
+    var link = document.createElement('a');
+    link.href = '#' + heading.id;
+    link.innerText = heading.innerText;
+    
+    // Add the link to the list item
+    listItem.appendChild(link);
+    
+    // Determine the nesting level of the list item and add it to the proper parent list item
+    if (level > parentListItem.tagName.charAt(1)) {
+      // If the level of the heading is greater than the level of the parent list item, create a new sublist
+      var sublist = document.createElement('ul');
+      parentListItem.lastChild.appendChild(sublist);
+      parentListItem = sublist;
+    } else if (level < parentListItem.tagName.charAt(1)) {
+      // If the level of the heading is less than the level of the parent list item, move back up to the appropriate level
+      while (level < parentListItem.tagName.charAt(1)) {
+        parentListItem = parentListItem.parentElement.parentElement;
+      }
     }
-
-    // If the current level is the same as the previous level, add a new list item
-    else {
-        var newLi = document.createElement('li');
-        newLi.appendChild(document.createTextNode(headings[i].textContent));
-        lastLi.parentNode.appendChild(newLi);
-        lastLi = newLi;
-    }
-
-    // Add the list item to the table of contents
-    document.getElementById('toc-list').appendChild(li);
-}
+    
+    // Add the list item to the parent list item
+    parentListItem.appendChild(listItem);
+  });
+  
+// Add the table of contents to the appropriate container on the page
+document.getElementById('table-of-contents').appendChild(tocList);

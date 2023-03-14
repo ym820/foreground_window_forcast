@@ -16,7 +16,8 @@ By Alan Zhang, Mandy Lee, Yikai (Mike) Mao
 
 <div class="nav">
   On this page<br>
-  <ul id="toc-list"></ul>
+  <div id="table-of-contents"></div>
+  <!-- <ul id="toc-list"></ul> -->
 </div>
 
 # Introduction
