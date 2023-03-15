@@ -21,7 +21,7 @@ You may pull the docker image from `mikem820/intel_capstone:latest` and then clo
   ```
 
 ## Run "test" code
-You can use the below command to run the "test" code with a sample of our collected dataset. You **must** pass two arguments. The first is `test` or `all`, indicating whether to run test code or not. The second argument is to choose the task as it will be explained in later sections. 
+You can use the below command to run the "test" code with a sample of our collected dataset. You **must** pass two arguments. The first is `test` or `all`, indicating whether to run test code or not. The second argument is to choose the model (must be either `hmm` or `lstm`) which corresond to the task we will explain in the later section. 
 ```
 python3 run.py test hmm/lstm
 ```
@@ -29,7 +29,7 @@ You can also run the full pipeline with the entire dataset by the following comm
 ```
 python3 run.py all hmm/lstm
 ```
-If you want to try different sets of hyperparameters, we explained our tasks and specific instructions to run the scripts in the following section.
+If you want to explore different sets of hyperparameters, we explained our tasks and specific instructions to run the scripts in the following section.
 
 ## Task 1: Next-App Prediction with Hidden Markov Model (HMM)
 In this task, our goal is to predict the next application the user will use based on the previous usage data.
