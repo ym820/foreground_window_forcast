@@ -1,12 +1,13 @@
 // Get all the headings in the body
 const body = document.getElementsByClassName("page-content")[0];
 const headings = body.querySelectorAll('h1, h2, h3');
+console.log(headings)
 // Create a new unordered list to hold the table of contents
 var tocList = document.createElement('ul');
 
 // Keep track of the previous level of heading to determine nesting
-let prevLevel = 0;
-let currLevel = 0;
+let prevLevel = 1;
+let currLevel = 1;
 let prevListItem = tocList;
 
 // Loop through each heading element and create a table of contents entry for it
