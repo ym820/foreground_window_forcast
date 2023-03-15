@@ -41,5 +41,8 @@
         color: #185abc;
         transition: 0.1s
     }
+    #table-of-contents {
+        font-size: calc(11px + 4 * ((100vw - 320px) / 960))
+    }
 }
   
