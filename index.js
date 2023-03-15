@@ -14,7 +14,7 @@ headings.forEach(function(heading) {
     link.textContent = heading.textContent;
     // Add the link to the list item
     listItem.appendChild(link);
-    tocList.appendChild(link)
+    tocList.appendChild(listItem)
 });
   
 // Add the table of contents to the appropriate container on the page
