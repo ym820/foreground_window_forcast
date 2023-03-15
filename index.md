@@ -141,7 +141,7 @@ We chose those one-hot-encoded features in order to study usage pattern at an ho
 
 <strong>Performance Metric:</strong>
 
-Our model uses Mean Squared Error as the loss function for training. For a regression problem, MSE allows model to update its parameters through back-propagation due to its differentiability. In addition, we included another human-interpretable measurement, accuracy, to better understand our model's performance. This accuracy is based on whether the prediction and the target are within an arbitrary margin of error (we chose three thresholds, 5, 10, and 60 seconds). This is to give the model a bit of leeway for when it predicts the amplitude correct but is off by a few seconds to a minute.
+Our model uses Mean Squared Error as the loss function for training. For a regression problem, MSE allows the model to update its parameters through back-propagation due to its differentiability. In addition, we included another human-interpretable measurement, accuracy, to better understand our model's performance. This accuracy is based on whether the prediction and the target are within an arbitrary margin of error (we chose three thresholds, 5, 10, and 60 seconds). This is to give the model a bit of leeway for when it predicts the amplitude correctly but is off by a few seconds to a minute.
 
 <iframe src="assets\final.html" min-width = "600" width="100%" height=600 overflow=auto></iframe>
 
@@ -156,7 +156,7 @@ Results:
 
 When we compare the graph of the model's performance to the table of results, we can see that the model does not perform well on the testing set. The graph shows that the model fails to capture most of the spikes, which is in contrast to the high test accuracy reported in the table. This discrepancy may be due to the fact that the model is correctly predicting many 0s, which suggests that the accuracy metric may not be a good evaluation tool.
 
-To address this issue, we could adjusting our evaluation metric to penalize incorrect amplitude predictions more severely while reducing rewards for correctly predicting 0s. This approach aims to address the class imbalance between active and inactive usage and encourage the model to focus on learning the amplitude of usage time more accurately.
+To address this issue, we could adjust our evaluation metric to penalize incorrect amplitude predictions more severely while reducing rewards for correctly predicting 0s. This approach aims to address the class imbalance between active and inactive usage and encourage the model to focus on learning the amplitude of usage time more accurately.
 
 Moreover, the graph suggests that the model is able to effectively learn from the training set, but struggles to forecast future patterns. We hypothesize that the poor performance on unseen data is due to the insufficient dataset, as there are features in the testing set, such as day of the year and month, which are not present in the training set and thus make the model difficult to generalize.
 
