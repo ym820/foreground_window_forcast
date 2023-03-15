@@ -4,48 +4,49 @@ const headings = body.querySelectorAll('h1, h2, h3');
 // Create a new unordered list to hold the table of contents
 var tocList = document.createElement('ul');
 
-// Keep track of the most recent parent list item so that you can nest list items properly
-var parentListItem = tocList;
-
+// Keep track of the previous level of heading to determine nesting
+let prevLevel = 0;
+let currLevel = 0;
+let prevListItem = tocList;
 
 // Loop through each heading element and create a table of contents entry for it
 headings.forEach(function(heading) {
-    // Skip over any headings that have the 'notoc' class
-    if (heading.classList.contains('notoc')) {
-      return;
-    }
-    
-    // Get the level of the heading (i.e. whether it is an h1, h2, h3, etc.)
-    var level = parseInt(heading.tagName.charAt(1));
-    
+    currLevel = parseInt(heading.tagName[1]);
+
     // Create a new list item for the heading
-    var listItem = document.createElement('li');
-    
-    // Create a link to the heading element
-    var link = document.createElement('a');
-    link.href = '#' + heading.id;
-    link.innerText = heading.innerText;
-    
+    const listItem = document.createElement('li');
+
+    // Create a link to the heading
+    const link = document.createElement('a');
+    link.setAttribute('href', `#${heading.id}`);
+    link.textContent = heading.textContent;
+
     // Add the link to the list item
     listItem.appendChild(link);
-    console.log(level, parentListItem.tagName.charAt(1), parentListItem.tagName.charAt(1))
-    // Determine the nesting level of the list item and add it to the proper parent list item
-    if (level > parentListItem.tagName.charAt(1)) {
-      // If the level of the heading is greater than the level of the parent list item, create a new sublist
-      var sublist = document.createElement('ul');
-      parentListItem.lastChild.appendChild(sublist);
-      console.log("Get a nested list")
-      parentListItem = sublist;
-    } else if (level < parentListItem.tagName.charAt(1)) {
-        // If the level of the heading is less than the level of the parent list item, move back up to the appropriate level
-        while (level < parentListItem.tagName.charAt(1)) {
-            parentListItem = parentListItem.parentElement.parentElement;
+
+    // Determine the nesting level based on the difference between the current and previous heading level
+    const levelDiff = currLevel - prevLevel;
+    if (levelDiff > 0) {
+        // If the current level is deeper than the previous level, create a new nested list
+        const nestedList = document.createElement('ul');
+        listItem.appendChild(nestedList);
+        prevListItem = nestedList;
+    } else if (levelDiff < 0) {
+        // If the current level is shallower than the previous level, go up the tree to the appropriate parent list
+        let i = 0;
+        while (i > levelDiff) {
+            prevListItem = prevListItem.parentNode.parentNode;
+            i--;
         }
     }
-    
-    // Add the list item to the parent list item
-    parentListItem.appendChild(listItem);
-  });
+
+    // Add the list item to the appropriate list
+    prevListItem.appendChild(listItem);
+
+    // Update the previous level and list item for the next iteration
+    prevLevel = currLevel;
+    prevListItem = listItem;
+});
   
 // Add the table of contents to the appropriate container on the page
 document.getElementById('table-of-contents').appendChild(tocList);
