@@ -4,7 +4,7 @@
     margin-right: auto;
 }
 
-@media (max_width: 900px) {
+@media (max_width: 1080px) {
     .nav {
         display: none;
     }
