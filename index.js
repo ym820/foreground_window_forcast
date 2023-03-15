@@ -26,7 +26,7 @@ headings.forEach(function(heading) {
 
     // Determine the nesting level based on the difference between the current and previous heading level
     const levelDiff = currLevel - prevLevel;
-    console.log(curr_level, prev_level, levelDiff)
+    console.log(currLevel, prevLevel, levelDiff)
     if (levelDiff > 0) {
         // If the current level is deeper than the previous level, create a new nested list
         const nestedList = document.createElement('ul');
