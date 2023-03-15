@@ -4,8 +4,9 @@
 .DS_Store
 
 # # exclude everything
-# outputs/*
+outputs/*
 data/raw
 
 # # exception to the rule
-# !outputs/.gitkeep 
+!outputs/example_HMM_output
+!outputs/example_LSTM_output
