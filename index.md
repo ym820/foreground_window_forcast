@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Foreground Window Forecast"
+title: "Improving App Launch Time with Deep Learning"
 permalink: /
 toc: true
 toc_data:
