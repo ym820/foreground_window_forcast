@@ -1,5 +1,5 @@
 # Intel Capstone: Improving App Launch Time with Deep Learning
-Authors: Yikai (Mike) Mao, Alan Zhang, Mandy Lee \
+Authors: Yikai(Mike) Mao, Alan Zhang, Mandy Lee \
 Website: https://mikem820.github.io/foreground_window_forcast/
 
 ## Abstract
