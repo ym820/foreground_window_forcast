@@ -21,7 +21,7 @@ args = vars(parser.parse_args())
 
 def main(args):
     experiment = args['experiment']
-    dir_path = f'../../../outputs/HMM_{experiment}'
+    dir_path = f'../../../outputs/HMM_expt_{experiment}'
     if not os.path.exists(dir_path):
         os.mkdir(dir_path)
 
