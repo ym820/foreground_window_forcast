@@ -128,12 +128,12 @@ We have decided to use Tensorflow's Keras package, a high-level neural network A
   - Is_Weekend - 1 represents a weekend and -1 a week day
   - Is_Winter_Holiday - 1 represents a winter holiday and -1 for every other date.
 - One-hot-encoded features:
-  - Minute of the Hour - a 1x60 vector
-  - Hour of the Day - a 1x24 vector
-  - Day of the Week - a 1x7 vector
-  - Day of the Month - a 1x31 vector
-  - Day of the Year - a 1x366 vector
-  - Month of the Year - a 1x12 vector
+  - Minute of the Hour - a $1\times60$ vector
+  - Hour of the Day - a $1\times24$ vector
+  - Day of the Week - a $1\times7$ vector
+  - Day of the Month - a $1\times31$ vector
+  - Day of the Year - a $1\times366$ vector
+  - Month of the Year - a $1\times12$ vector
 
 <strong>Explanation of our Input Selection:</strong>
 
