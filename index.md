@@ -128,12 +128,12 @@ We have decided to use Tensorflow's Keras package, a high-level neural network A
   - Is_Weekend - 1 represents a weekend and -1 a week day
   - Is_Winter_Holiday - 1 represents a winter holiday and -1 for every other date.
 - One-hot-encoded features:
-  - Minute of the Hour - 1x60 vector
-  - Hour of the Day - 1x24 vector
-  - Day of the Week - 1x7 vector
-  - Day of the Month - 1x31 vector
-  - Day of the Year - 1x366 vector
-  - Month of the Year - 1x12 vector
+  - Minute of the Hour - a 1x60 vector
+  - Hour of the Day - a 1x24 vector
+  - Day of the Week - a 1x7 vector
+  - Day of the Month - a 1x31 vector
+  - Day of the Year - a 1x366 vector
+  - Month of the Year - a 1x12 vector
 
 <strong>Explanation of our Input Selection:</strong>
 
@@ -162,11 +162,11 @@ Moreover, the graph suggests that the model is able to effectively learn from th
 
 # Conclusion
 
-We have developed software and models that serve as fundamental building blocks for constructing more complex and accurate models to identify suitable applications for pre-launch. By developing our own collector, we have gained insights into responsible data collection and good practices for acquiring and storing data. Our collector is memory-efficient and can run 24/7 without human intervention. If you wish to collect your own data and run it against our model, you can clone our GitHub repository and add the script to your Task Scheduler. Detailed instructions are available in the repository.
+We have developed software and models that serve as fundamental building blocks for constructing more complex and accurate models to identify suitable applications for pre-launch. By developing our own collector, we have gained insights into responsible data collection and good practices for acquiring and storing data. Our collector is memory-efficient and can run 24/7 without human intervention. If you wish to collect your own data and run it against our model, you can clone our [GitHub repository](https://github.com/MikeM820/foreground_window_forcast.git) and add the script to your Task Scheduler. Detailed instructions are available in the repository.
 
 Although our HMM model does not achieve the highest accuracy, it indicates that the model is generalizing well rather than simply memorizing and overfitting to the training data. Our LSTM model requires further work, and we suggest exploring modifications such as changing the metrics to one more suitable for this regression task, as the current accuracy measurement can be misleading. Moreover, the high accuracy of the model mostly results from correctly predicting zeros rather than timing and amplitude values. We can alter our test set to include only amplitudes or rebalance the amplitude and zero points to more effectively evaluate the model on an unseen dataset. Last but not least, we hope to collect additional data for the dataset to capture more consistent usage patterns.
 
-We encourage those interested in the project to build upon what we have developed by following our GitHub repository. All instructions are available in the ReadMe.md file.
+We encourage those interested in the project to build upon what we have developed by following our GitHub repository. All instructions are available in the README.md file.
 
 # Mentors
 
