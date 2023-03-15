@@ -20,6 +20,17 @@ You may pull the docker image from `mikem820/intel_capstone:latest` and then clo
   pip3 install -r requirements.txt
   ```
 
+## Run "test" code
+You can use the below command to run the "test" code with a sample of our collected dataset. You **must** pass two arguments. The first is `test` or `all`, indicating whether to run test code or not. The second argument is to choose the task as it will be explained in later sections. 
+```
+python3 run.py test hmm/lstm
+```
+You can also run the full pipeline with the entire dataset by the following command, with the default hyperparameters we implemented.
+```
+python3 run.py all hmm/lstm
+```
+If you want to try different sets of hyperparameters, we explained our tasks and specific instructions to run the scripts in the following section.
+
 ## Task 1: Next-App Prediction with Hidden Markov Model (HMM)
 In this task, our goal is to predict the next application the user will use based on the previous usage data.
 ### Run
@@ -36,7 +47,7 @@ python3 run.py
 | -ex  --experiment 	        | 1           | The experiment number
 
 ### Notes
-After running, there will be a folder created at `outputs` and named as "HMM_`experiment`". Then, the parameters, transition matrix, model accuracy, and visualization will be stored in the folder.
+After running, there will be a folder created at `outputs` and named as "HMM_expt_`experiment`". Then, the parameters, transition matrix, model accuracy, and visualization will be stored in the folder.
 
 ## Task 2: App Duration Prediction with Long Short-Term Memory (LSTM)
 As for the primary objective for our project, we aim to forecast the amount of time (in seconds) an individual will spend on a specific application within a specific hour. 
@@ -59,4 +70,4 @@ python3 run.py
 | -r  --random	        | False           | Whether to choose the start index for test set randomly
 
 ### Notes
-After running, there will be a folder created at `outputs` and named as "LSTM_`experiment`". Then, the parameters, trained model, Keras training history, loss plot, and prediction plot will be stored in the folder.
+After running, there will be a folder created at `outputs` and named as "LSTM_expt_`experiment`". Then, the parameters, trained model, Keras training history, loss plot, and prediction plot will be stored in the folder.
