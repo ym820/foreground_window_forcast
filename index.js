@@ -8,10 +8,12 @@ var tocList = document.createElement('ul');
 // Keep track of the previous level of heading to determine nesting
 let prevLevel = 1;
 let currLevel = 1;
-let prevListItem = tocList;
+// let prevListItem = tocList;
+let currentList = null;
 
 // Loop through each heading element and create a table of contents entry for it
 headings.forEach(function(heading) {
+    // Get the current heading level
     currLevel = parseInt(heading.tagName[1]);
     console.log(heading.tagName, heading.tagName[1])
     // Create a new list item for the heading
@@ -25,7 +27,8 @@ headings.forEach(function(heading) {
     // Determine the nesting level based on the difference between the current and previous heading level
     const levelDiff = currLevel - prevLevel;
     console.log(currLevel, prevLevel, levelDiff)
-    if (levelDiff > 0) {
+    // if (levelDiff > 0) {
+    if (currLevel > prevLevel) {
         // If the current level is deeper than the previous level, create a new nested list
         const nestedList = document.createElement('ul');
         console.log("creating nested list");
@@ -35,9 +38,8 @@ headings.forEach(function(heading) {
         // If the current level is shallower than the previous level, go up the tree to the appropriate parent list
         let i = 0;
         console.log("going up the tree");
-        while (i > levelDiff) {
+        for (let u = headingLevel; u < levelDiff; u++) {
             prevListItem = prevListItem.parentNode;
-            i--;
         }
     }
     // Add the link to the list item
