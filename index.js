@@ -22,9 +22,6 @@ headings.forEach(function(heading) {
     link.setAttribute('href', `#${heading.id}`);
     link.textContent = heading.textContent;
 
-    // Add the link to the list item
-    // listItem.appendChild(link);
-
     // Determine the nesting level based on the difference between the current and previous heading level
     const levelDiff = currLevel - prevLevel;
     console.log(currLevel, prevLevel, levelDiff)
@@ -51,7 +48,6 @@ headings.forEach(function(heading) {
 
     // Update the previous level and list item for the next iteration
     prevLevel = currLevel;
-    prevListItem = listItem;
 });
   
 // Add the table of contents to the appropriate container on the page
