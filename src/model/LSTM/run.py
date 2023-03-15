@@ -3,6 +3,8 @@ from LSTM import LSTM_1
 
 parser = argparse.ArgumentParser()
 
+parser.add_argument('-td', '--test_data', default=False, type=bool,
+                    help='Whether use test data')
 # File related
 parser.add_argument('-exe', '--exe_name', default='firefox.exe', type=str,
                     help='The executable name to predict')

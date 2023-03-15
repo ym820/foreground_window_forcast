@@ -56,7 +56,7 @@ def combine_dataset(raw_path):
                 temp = temp.drop(len(temp)-1)
                 datasets.append(temp)
     output_dataset = pd.concat(datasets).sort_values(by='Start').reset_index(drop=True)
-    output_dataset.to_csv('../../../data/processed/lstm_data_local.csv', index=False)
+    output_dataset.to_csv('../../../data/all/lstm_data_local.csv', index=False)
     return output_dataset
 
 def row_helper(row):

@@ -8,6 +8,8 @@ import json
 parser = argparse.ArgumentParser()
  
 # Model Related
+parser.add_argument('-td', '--test_data', default=False, type=bool,
+                    help='Whether use test data')
 parser.add_argument('-ts', '--test_size', default=0.2, type=int,
                     help='Test set size (percentage of entire dataset)')
 parser.add_argument('-t', '--top', default=1, type=int,
@@ -27,7 +29,7 @@ def main(args):
         json.dump(args, file)
 
     raw_path = '../../../data/raw/dataset'
-    X, y = get_dataset(raw_path)
+    X, y = get_dataset(raw_path, args['test_data'])
     X_train, y_train, X_test, y_test = train_test_split(X, y, args['test_size'])
 
     model = HMM()

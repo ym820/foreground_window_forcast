@@ -14,7 +14,7 @@ class LSTM_1:
     def __init__(self, args) -> None:
         self.args = args
         experiment = args['experiment']
-        self.dir_path = f'../../../outputs/LSTM_{experiment}'
+        self.dir_path = f'../../../outputs/LSTM_expt_{experiment}'
         if not os.path.exists(self.dir_path):
             os.mkdir(self.dir_path)
         with open(f'{self.dir_path}/config.json', 'w') as file:
@@ -40,7 +40,10 @@ class LSTM_1:
         self.history = self.model.fit(self.X_train, self.y_train, epochs=self.args['epochs'], verbose=2)
 
     def train(self):
-        file_path = "../../../data/processed/lstm_data_local.csv"
+        if self.args['test_data']:
+            file_path = "../../../data/test/lstm_data_local.csv"
+        else:
+            file_path = "../../../data/all/lstm_data_local.csv"
         print('======== PROCESS DATASET ========')
         self.df = clean_dataset(file_path)
         self.df = self.df[self.df['Value'] == self.args['exe_name']].reset_index()

@@ -3,14 +3,17 @@ import math
 import random
 import os
 
-def clean_data(raw_path):
+def clean_data(raw_path, test_data):
     """
     Concatenate raw dataframes with <s> token indicating the start of the collection and save the series of executables into dataframe
 
     Parameters:
     raw_path (str): path of raw dataframes
     """
-    out_path = raw_path.replace('raw/dataset', 'processed/hmm_data.csv')
+    if test_data:
+        out_path = raw_path.replace('raw/dataset', 'test/hmm_data.csv')
+    else:
+        out_path = raw_path.replace('raw/dataset', 'all/hmm_data.csv')
     if os.path.exists(out_path):
         return pd.read_csv(out_path)
     exes = []
@@ -31,14 +34,14 @@ def clean_data(raw_path):
     combined.to_csv(out_path, index=False)
     return combined
 
-def get_dataset(raw_path):
+def get_dataset(raw_path, test_data):
     """
     Get X and y for model
 
     Parameters:
     raw_path (str): path of raw dataframes
     """
-    df = clean_data(raw_path)
+    df = clean_data(raw_path, test_data)
     df = df['VALUE']
     y = df[1:].copy().reset_index(drop=True)
     X = df[:-1].copy().reset_index(drop=True)
