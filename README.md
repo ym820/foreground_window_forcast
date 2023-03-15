@@ -1,10 +1,9 @@
-# Intel-capstone: Foreground Window Forcast with Deep Learning
-Authors: Yikai (Mike) Mao, Alan Zhang, Mandy Lee \
-Mentors: Intel: Jamel Tayeb, Bijan Arbab, Oumaima Makhlouk, Sruti Sahani; UCSD: Teresa Rexin \
+# Intel Capstone: Improving App Launch Time with Deep Learning
+Authors: Yikai(Mike) Mao, Alan Zhang, Mandy Lee \
 Website: https://mikem820.github.io/foreground_window_forcast/
 
 ## Abstract
-Technology that advances the frontier of computing receives more attention than innovation in hardware optimization. Nevertheless, optimizing existing hardware is critical in minimizing global electronic waste by extending the lifespan of computers and making a modern computing experience accessible to more people. In this paper, we present a proposal to use neural networks to analyze system usage reports and determine the applications that are most important to the user. The network can be utilized to feed into a program that pre-emptively launches applications in the background, reducing wait time and enhancing the user experience. We will showcase the data that we previously gathered using the Intel XLSDK package, which we will use to train a Hidden Markov Model (HMM) and a Long Short-Term Memory (LSTM). 
+Application launch time is a crucial element of the user experience. Long wait times can cause frustration and prompt users to upgrade to more powerful machines, resulting in increased electronic waste (e-waste) at landfills. Improving app launch time is vital in reducing e-waste by extending the average lifespan of computers. While software has become more resource efficient, it is still challenging to prevent large programs from being bloated and slow to run. In this paper, we propose utilizing neural networks to analyze system usage reports and pre-launch applications in the background before the user needs them. This approach can be universally applied to all computers, making it more economically viable than asking all developers to optimize their applications. We developed our data collection software to minimize resource usage and to identify applications that the system can pre-launch using Hidden Markov Model (HMM) and Long Short-Term Memory (LSTM) models.
 
 ## Prerequisites
 
@@ -71,3 +70,13 @@ python3 run.py
 
 ### Notes
 After running, there will be a folder created at `outputs` and named as "LSTM_expt_`experiment`". Then, the parameters, trained model, Keras training history, loss plot, and prediction plot will be stored in the folder.
+
+## Mentors
+We would like to express our gratitude to all the mentors at the Intel DCA & Telemetry team who provided invaluable guidance and support throughout this project. Special thanks to
+- Bijan Arbab (Intel)
+- Jamel Tayeb (Intel)
+- Sruti Sahani (Intel)
+- Oumaima Makhlouk (Intel)
+- Teresa Rexin (UCSD)
+- Praveen Polasam (Intel)
+- Chansik Im (Intel)
