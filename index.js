@@ -7,10 +7,13 @@ var tocList = document.createElement('ul');
 
 // Loop through each heading element and create a table of contents entry for it
 headings.forEach(function(heading) {
+    const listItem = document.createElement('li');
     // Create a link to the heading
     const link = document.createElement('a');
     link.setAttribute('href', `#${heading.id}`);
     link.textContent = heading.textContent;
+    // Add the link to the list item
+    listItem.appendChild(link);
     tocList.appendChild(link)
 });
   
