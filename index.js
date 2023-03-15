@@ -23,7 +23,7 @@ headings.forEach(function(heading) {
     link.textContent = heading.textContent;
 
     // Add the link to the list item
-    listItem.appendChild(link);
+    // listItem.appendChild(link);
 
     // Determine the nesting level based on the difference between the current and previous heading level
     const levelDiff = currLevel - prevLevel;
@@ -43,9 +43,11 @@ headings.forEach(function(heading) {
             i--;
         }
     }
+    // Add the link to the list item
+    // listItem.appendChild(link);
 
     // Add the list item to the appropriate list
-    prevListItem.appendChild(listItem);
+    prevListItem.appendChild(link);
 
     // Update the previous level and list item for the next iteration
     prevLevel = currLevel;
