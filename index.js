@@ -39,7 +39,7 @@ headings.forEach(function(heading) {
         let i = 0;
         console.log("going up the tree");
         while (i > levelDiff) {
-            prevListItem = prevListItem.parentNode.parentNode;
+            prevListItem = prevListItem.parentNode;
             i--;
         }
     }
