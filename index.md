@@ -14,11 +14,10 @@ By Alan Zhang, Mandy Lee, Yikai (Mike) Mao
 1. TOC
 {:toc}
 
-<div class="nav">
-  On this page<br>
+<!-- <div class="nav"> -->
   <div id="table-of-contents"></div>
   <!-- <ul id="toc-list"></ul> -->
-</div>
+<!-- </div> -->
 
 # Introduction
 <img src="assets\avg_launch_time.png" width=700 class="center" alt="Image of the average launch time of Google Chrome and Windows Explorer across machines of varying ages." />

@@ -12,7 +12,6 @@
     width: 10%;
     background-color: #fff;
     overflow-y: auto;
-    font-size: 9px;
 }
 .nav ul {
     list-style: none;
@@ -23,7 +22,17 @@
     padding: 0px;
     /* border-bottom: 1px solid #ccc; */
 }
-.nav li:hover {
+.nav li a {
+    color: #000;
+    transition: 0.1s
+}
+
+.nav li a:hover {
     color: #185abc;
+    transition: 0.1s
+}
+
+#table-of-contents {
+    font-size: 12px;
 }
   
