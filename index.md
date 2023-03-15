@@ -26,7 +26,7 @@ According to a research conducted by Intel, a 0-1 year old computer takes an ave
 # Methodology
 
 ## Data Collection
-We used Intel's X Library Software Development Kit to develop a system usage data collector on our Windows 10 device. Upon signing into the system, the collector automatically launches and begins tracking all foreground applications. To ensure its reliability in real-world scenarios, we followed these principles:
+We used Intel's X Library Software Development Kit (XLSDK) to develop a system usage data collector on our Windows 10 device. Upon signing into the system, the collector automatically launches and begins tracking all foreground applications. To ensure its reliability in real-world scenarios, we followed these principles:
 <br>
 
 1. <strong>Robustness and Resilience</strong>
@@ -125,21 +125,23 @@ We have decided to use Tensorflow's Keras package, a high-level neural network A
 - Numerical feature: 
   - Scaled app duration
 - Binary features: 
-  - Hour - Time of day in One-Hot Encoded format
-  - Month - Month in One-Hot Encoded format
-  - Minute - Minutes in One-Hot Encoded format
-  - Date - Day of the month in One-Hot Encoded format
-  - Weekday - Day of the Week (e.g. Monday, Tuesday) in One-Hot Encoded format
-  - Is_Weekend - A binary number. 1 represents a weekend and -1 a week day
-  - Is_Winter_Holiday: A binary number. 1 represents a winter holiday and -1 for every other date.
+  - Is_Weekend - 1 represents a weekend and -1 a week day
+  - Is_Winter_Holiday - 1 represents a winter holiday and -1 for every other date.
+- One-hot-encoded features:
+  - Minute of the Hour - 1x60 vector
+  - Hour of the Day - 1x24 vector
+  - Day of the Week - 1x7 vector
+  - Day of the Month - 1x31 vector
+  - Day of the Year - 1x366 vector
+  - Month of the Year - 1x12 vector
 
 <strong>Explanation of our Input Selection:</strong>
 
-Hour, minute, and date are selected because we want to study usage pattern at an hourly level and the time the application is opened can be used to find patterns in how long it was open for given the similiar conditions. Month is used to distinguish between the holiday season and school season since the data collection process started in mid-December and ended in February. Insufficient data is gather for the model to learn trends for every individual month. Day of the week, is_weekend, and is_winter_holiday are all features engineered from exisiting data. These variables separate the data into categories so that the computer can distinguish usage pattern for a productive day from an entertainment day. 
+We chose those one-hot-encoded features in order to study usage pattern at an hourly level and the time the application is opened can be used to find patterns in how long it was open for given the similiar conditions. In addtion, is_weekend, and is_winter_holiday are selected to distinguish between the holiday season and school season since the data collection process started in mid-December and ended in February. These variables separate the data into categories so that the computer can distinguish usage pattern for a productive day from an entertainment day. We also think information in the previous hour period might be a useful indicator for the prediction in the next hour so we included a Min-Max scaled duration as another feature.
 
 <strong>Performance Metric:</strong>
 
-Accuracy and the Mean Squared Error Loss. Accuracy is tuned with a margin of error in mind and the acceptable error range between 5 seconds to 60 seconds. This is to give the model a bit of leeway for when it predicts the amplitude correct but is off by a few seconds to a minute. This allows the model to adjust the prediction time without making much modification to the amplitude. MSE is chosen because the function is differentiable and easier for the model to find the optimal hyperparameters to converge. 
+Our model uses Mean Squared Error as the loss function for training. For a regression problem, MSE allows model to update its parameters through back-propagation due to its differentiability. In addition, we included another human-interpretable measurement, accuracy, to better understand our model's performance. This accuracy is based on whether the prediction and the target are within an arbitrary margin of error (we chose three thresholds, 5, 10, and 60 seconds). This is to give the model a bit of leeway for when it predicts the amplitude correct but is off by a few seconds to a minute.
 
 <iframe src="assets\final.html" min-width = "600" width="100%" height=600 overflow=auto></iframe>
 
@@ -152,15 +154,17 @@ Results:
 | Accuracy within 10s | 85%          | 80%         |
 | Accuracy within 10s | 86%          | 82%         |
 
-We hypothesize that the high accuracy yielded in our test results was due to the model correctly predicting 0s. This suggests that the model achieved a high accuracy without learning the amplitude of usage time, indicating slight overfitting to our training data and potential poor performance on unseen data.
+When we compare the graph of the model's performance to the table of results, we can see that the model does not perform well on the testing set. The graph shows that the model fails to capture most of the spikes, which is in contrast to the high test accuracy reported in the table. This discrepancy may be due to the fact that the model is correctly predicting many 0s, which suggests that the accuracy metric may not be a good evaluation tool.
 
 To address this issue, we could adjusting our evaluation metric to penalize incorrect amplitude predictions more severely while reducing rewards for correctly predicting 0s. This approach aims to address the class imbalance between active and inactive usage and encourage the model to focus on learning the amplitude of usage time more accurately.
+
+Moreover, the graph suggests that the model is able to effectively learn from the training set, but struggles to forecast future patterns. We hypothesize that the poor performance on unseen data is due to the insufficient dataset, as there are features in the testing set, such as day of the year and month, which are not present in the training set and thus make the model difficult to generalize.
 
 # Conclusion
 
 We have developed software and models that serve as fundamental building blocks for constructing more complex and accurate models to identify suitable applications for pre-launch. By developing our own collector, we have gained insights into responsible data collection and good practices for acquiring and storing data. Our collector is memory-efficient and can run 24/7 without human intervention. If you wish to collect your own data and run it against our model, you can clone our GitHub repository and add the script to your Task Scheduler. Detailed instructions are available in the repository.
 
-Although our HMM model does not achieve the highest accuracy, it indicates that the model is generalizing well rather than simply memorizing and overfitting to the training data. Our LSTM model requires further work, and we suggest exploring modifications such as changing the metric to one more suitable for a regression-like classification task, as the current metric can be misleading. Moreover, the high accuracy of the model mostly results from correctly predicting zeros rather than timing and amplitude values. We can alter our test set to include only amplitudes or rebalance the amplitude and zero points to more effectively evaluate the model on an unseen dataset.
+Although our HMM model does not achieve the highest accuracy, it indicates that the model is generalizing well rather than simply memorizing and overfitting to the training data. Our LSTM model requires further work, and we suggest exploring modifications such as changing the metrics to one more suitable for this regression task, as the current accuracy measurement can be misleading. Moreover, the high accuracy of the model mostly results from correctly predicting zeros rather than timing and amplitude values. We can alter our test set to include only amplitudes or rebalance the amplitude and zero points to more effectively evaluate the model on an unseen dataset. Last but not least, we hope to collect additional data for the dataset to capture more consistent usage patterns.
 
 We encourage those interested in the project to build upon what we have developed by following our GitHub repository. All instructions are available in the ReadMe.md file.
 
