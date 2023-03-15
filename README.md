@@ -1,6 +1,5 @@
 # Intel Capstone: Improving App Launch Time with Deep Learning
 Authors: Yikai (Mike) Mao, Alan Zhang, Mandy Lee \
-Mentors: Intel: Jamel Tayeb, Bijan Arbab, Oumaima Makhlouk, Sruti Sahani; UCSD: Teresa Rexin \
 Website: https://mikem820.github.io/foreground_window_forcast/
 
 ## Abstract
@@ -71,3 +70,13 @@ python3 run.py
 
 ### Notes
 After running, there will be a folder created at `outputs` and named as "LSTM_expt_`experiment`". Then, the parameters, trained model, Keras training history, loss plot, and prediction plot will be stored in the folder.
+
+## Mentors
+We would like to express our gratitude to all the mentors at the Intel DCA & Telemetry team who provided invaluable guidance and support throughout this project. Special thanks to
+- Bijan Arbab (Intel)
+- Jamel Tayeb (Intel)
+- Sruti Sahani (Intel)
+- Oumaima Makhlouk (Intel)
+- Teresa Rexin (UCSD)
+- Praveen Polasam (Intel)
+- Chansik Im (Intel)
