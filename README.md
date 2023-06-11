@@ -1,6 +1,6 @@
 # Intel Capstone: Improving App Launch Time with Deep Learning
 Authors: Yikai(Mike) Mao, Alan Zhang, Mandy Lee \
-Website: https://mikem820.github.io/foreground_window_forcast/
+Website: https://ym820.github.io/foreground_window_forcast/
 
 ## Abstract
 Application launch time is a crucial element of the user experience. Long wait times can cause frustration and prompt users to upgrade to more powerful machines, resulting in increased electronic waste (e-waste) at landfills. Improving app launch time is vital in reducing e-waste by extending the average lifespan of computers. While software has become more resource efficient, it is still challenging to prevent large programs from being bloated and slow to run. In this paper, we propose utilizing neural networks to analyze system usage reports and pre-launch applications in the background before the user needs them. This approach can be universally applied to all computers, making it more economically viable than asking all developers to optimize their applications. We developed our data collection software to minimize resource usage and to identify applications that the system can pre-launch using Hidden Markov Model (HMM) and Long Short-Term Memory (LSTM) models.
